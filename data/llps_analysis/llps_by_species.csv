@@ -1,0 +1,7 @@
+species,species_short,n_total,n_high_llps,pct_high_llps,neurons
+Caenorhabditis elegans,Worm,295,37,12.54237288135593,302.0
+Drosophila melanogaster,Fly,349,52,14.899713467048711,135000.0
+Xenopus tropicalis,Frog,137,21,15.328467153284672,4000000.0
+Danio rerio,Fish,235,25,10.638297872340425,10000000.0
+Mus musculus,Mouse,968,152,15.702479338842975,71000000.0
+Homo sapiens,Human,1687,268,15.886188500296383,86000000000.0

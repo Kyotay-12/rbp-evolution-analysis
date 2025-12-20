@@ -1,0 +1,5 @@
+protein_type,metric,spearman_rho,p_value,n,significant
+RBP,genome_mb,1.0,0.0,6,Yes
+RBP,neurons,0.942857142857143,0.004804664723032055,6,Yes
+Control,genome_mb,1.0,0.0,6,Yes
+Control,neurons,0.942857142857143,0.004804664723032055,6,Yes
