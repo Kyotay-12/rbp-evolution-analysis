@@ -1,0 +1,1758 @@
+ENSXETG00000000026	ddx25	\N	-	DEAD-box helicase 25 	DEAD
+ENSXETG00000000037	hnrnpl	\N	-	heterogeneous nuclear ribonucleoprotein L 	RRM_5
+ENSXETG00000000070	rad54l2	\N	-	Xenopus tropicalis RAD54 like 2 (rad54l2)%2C mRNA. 	ResIII
+ENSXETG00000000072	rbm15b	\N	-	RNA binding motif protein 15B 	RRM_1
+ENSXETG00000000079	hemk1	\N	-	HemK methyltransferase family member 1 	MTS
+ENSXETG00000000087	parp3	\N	-	poly(ADP-ribose) polymerase family member 3 	PARP
+ENSXETG00000000109	rps12	\N	-	ribosomal protein S12 	Ribosomal_L7Ae
+ENSXETG00000000132	rpl28	\N	-	Xenopus tropicalis ribosomal protein L28 (rpl28)%2C mRNA. 	Ribosomal_L28e
+ENSXETG00000000229	luc7l2	\N	-	Xenopus tropicalis LUC7-like 2 pre-mRNA splicing factor (luc7l2)%2C transcript variant 1%2C mRNA. 	LUC7
+ENSXETG00000000231	rbfox2	\N	-	Xenopus tropicalis RNA binding fox-1 homolog 2 (rbfox2)%2C mRNA. 	Fox-1_C
+ENSXETG00000000237	zeb2	\N	-	zinc finger E-box binding homeobox 2 	zf-C2H2
+ENSXETG00000000261	sept3	\N	-	septin 3 	MMR_HSR1
+ENSXETG00000000290	srp14	\N	-	Xenopus tropicalis signal recognition particle 14kDa (srp14)%2C mRNA. 	SRP14
+ENSXETG00000000298	gemin2	\N	-	Xenopus tropicalis gem nuclear organelle associated protein 2 (gemin2)%2C mRNA. 	SIP1
+ENSXETG00000000311	ddx59	\N	-	DEAD-box helicase 59 	DEAD
+ENSXETG00000000318	-	\N	-	-	L51_S25_CI-B8
+ENSXETG00000000334	g3bp2	\N	-	G3BP stress granule assembly factor 2 	NTF2
+ENSXETG00000000349	chd9	\N	-	chromodomain helicase DNA binding protein 9 	BRK
+ENSXETG00000000359	eif1b	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 1B (eif1b)%2C mRNA. 	SUI1
+ENSXETG00000000367	dhx29	\N	-	DEAH-box helicase 29 	HA2
+ENSXETG00000000372	cnot6l	\N	-	Xenopus tropicalis CCR4-NOT transcription complex subunit 6-like (cnot6l)%2C mRNA. 	Exo_endo_phos
+ENSXETG00000000373	mrpl1	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L1 (mrpl1)%2C mRNA. 	Ribosomal_L1
+ENSXETG00000000408	-	\N	-	-	Exo_endo_phos
+ENSXETG00000000421	smpd2	\N	-	Xenopus tropicalis sphingomyelin phosphodiesterase 2 (smpd2)%2C mRNA. 	Exo_endo_phos
+ENSXETG00000000446	tent4b	\N	-	terminal nucleotidyltransferase 4B 	PAP_assoc
+ENSXETG00000000465	smarcal1	\N	-	Xenopus tropicalis SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a-like 1 (smarcal1)%2C mRNA. 	ResIII
+ENSXETG00000000518	tent2	\N	-	Xenopus tropicalis terminal nucleotidyltransferase 2 (tent2)%2C mRNA. 	PAP_assoc
+ENSXETG00000000566	klhdc3	\N	-	kelch domain containing 3 	RRP36
+ENSXETG00000000592	rcl1	\N	-	RNA terminal phosphate cyclase-like 1 	RTC
+ENSXETG00000000619	xrn1	\N	-	5'-3' exoribonuclease 1 	XRN_N
+ENSXETG00000000654	cebpz	\N	-	CCAAT enhancer binding protein zeta 	CBF
+ENSXETG00000000688	pinx1	\N	-	Xenopus tropicalis PIN2 (TERF1) interacting telomerase inhibitor 1 (pinx1)%2C mRNA. 	G-patch
+ENSXETG00000000701	cnot7	\N	-	CCR4-NOT transcription complex subunit 7 	CAF1
+ENSXETG00000000703	brix1	\N	-	Xenopus tropicalis BRX1%2C biogenesis of ribosomes (brix1)%2C mRNA. 	Brix
+ENSXETG00000000706	dnajc21	\N	-	DnaJ heat shock protein family (Hsp40) member C21 	zf-C2H2_jaz
+ENSXETG00000000753	sec16a	\N	-	SEC16 homolog A%2C endoplasmic reticulum export factor 	Exo_endo_phos
+ENSXETG00000000786	dusp12	\N	-	Xenopus tropicalis dual specificity phosphatase 12 (dusp12)%2C mRNA. 	Init_tRNA_PT
+ENSXETG00000000799	coq3	\N	-	coenzyme Q3 methyltransferase 	Methyltransf_31
+ENSXETG00000000809	rpl14	\N	-	Xenopus tropicalis ribosomal protein L14 (rpl14)%2C mRNA. 	Ribosomal_L14e
+ENSXETG00000000838	tsn	\N	-	Xenopus tropicalis myeloid/lymphoid or mixed-lineage leukemia%3B translocated to%2C 4 (mllt4)%2C mRNA. 	Translin
+ENSXETG00000000839	nifk	\N	-	nucleolar protein interacting with the FHA domain of MKI67 	RRM_1
+ENSXETG00000000845	sall3	\N	-	spalt-like transcription factor 3 	zf-C2H2
+ENSXETG00000000887	rraga	\N	-	Xenopus tropicalis Ras-related GTP binding A (rraga)%2C mRNA. 	MMR_HSR1
+ENSXETG00000000899	dcp1b	\N	-	decapping mRNA 1B 	DCP1
+ENSXETG00000000910	arl8a	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 8A (arl8a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000000974	nuak2	\N	-	Xenopus tropicalis NUAK family%2C SNF1-like kinase%2C 2 (nuak2)%2C mRNA. 	RIO1
+ENSXETG00000001108	polr2j	\N	-	polymerase (RNA) II (DNA directed) polypeptide J%2C 13.3kDa 	RNA_pol_L_2
+ENSXETG00000001142	polr3k	\N	-	polymerase (RNA) III (DNA directed) polypeptide K%2C 12.3 kDa 	RNA_POL_M_15KD
+ENSXETG00000001178	rpl11	\N	-	ribosomal protein L11 	Ribosomal_L5
+ENSXETG00000001182	eef1a1	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 1 alpha 1 (eef1a1)%2C mRNA. 	GTP_EFTU
+ENSXETG00000001202	dhx37	\N	-	DEAH-box helicase 37 	HA2
+ENSXETG00000001209	rps7	\N	-	Xenopus tropicalis ribosomal protein S7 (rps7)%2C mRNA. 	Ribosomal_S7e
+ENSXETG00000001212	rnaseh1	\N	-	Xenopus tropicalis uncharacterized protein mgc146443 (MGC146443)%2C mRNA. 	RNase_H
+ENSXETG00000001243	snrnp200	\N	-	small nuclear ribonucleoprotein%2C U5 200kDa subunit 	DEAD
+ENSXETG00000001257	purb	\N	-	purine-rich element binding protein B 	PurA
+ENSXETG00000001312	mrps35	\N	-	mitochondrial ribosomal protein S35 	MRP-S28
+ENSXETG00000001331	znf804a	\N	-	zinc finger protein 804A 	zf-C2H2_jaz
+ENSXETG00000001335	nup35	\N	-	nucleoporin 35kDa 	Nup35_RRM
+ENSXETG00000001340	exosc2	\N	-	Xenopus tropicalis exosome component 2 (exosc2)%2C mRNA. 	ECR1_N
+ENSXETG00000001344	fubp3	\N	-	Xenopus tropicalis far upstream element binding protein 3 (fubp3)%2C mRNA. 	KH_1
+ENSXETG00000001399	mrps16	\N	-	mitochondrial ribosomal protein S16 	Ribosomal_S16
+ENSXETG00000001434	mdm2	\N	-	Xenopus tropicalis MDM2 proto-oncogene (mdm2)%2C transcript variant 1%2C mRNA. 	zf-RanBP
+ENSXETG00000001447	thumpd3	\N	-	THUMP domain containing 3 	UPF0020
+ENSXETG00000001461	rpl32	\N	-	Xenopus tropicalis ribosomal protein L32 (rpl32)%2C mRNA. 	Ribosomal_L32e
+ENSXETG00000001526	smarca1	\N	-	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 1 	ResIII
+ENSXETG00000001593	adad1	\N	-	adenosine deaminase domain containing 1 	A_deamin
+ENSXETG00000001621	fam83b	\N	-	family with sequence similarity 83 member B 	FAM83
+ENSXETG00000001638	ehd1	\N	-	Xenopus tropicalis EH domain containing 1 (ehd1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000001661	arl2	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 2 (arl2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000001699	rab44	\N	-	RAB44%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000001701	srsf3	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 3 (srsf3)%2C mRNA. 	RRM_1
+ENSXETG00000001712	pprc1	\N	-	peroxisome proliferator-activated receptor gamma%2C coactivator-related 1 	RRM_1
+ENSXETG00000001732	nsun2	\N	-	Xenopus tropicalis NOP2/Sun RNA methyltransferase family member 2 (nsun2)%2C mRNA. 	Methyltr_RsmB-F
+ENSXETG00000001747	mettl17	\N	-	methyltransferase like 17 	Rsm22
+ENSXETG00000001748	parp2	\N	-	poly(ADP-ribose) polymerase 2 	PARP
+ENSXETG00000001751	tep1	\N	-	telomerase associated protein 1 	TROVE
+ENSXETG00000001777	hnrnpm	\N	-	heterogeneous nuclear ribonucleoprotein M 	RRM_1
+ENSXETG00000001783	stau1	\N	-	Xenopus tropicalis staufen double-stranded RNA binding protein 1 (stau1)%2C transcript variant 2%2C mRNA. 	dsrm
+ENSXETG00000001784	cse1l	\N	-	Xenopus tropicalis CSE1 chromosome segregation 1-like (cse1l)%2C mRNA. 	IBN_N
+ENSXETG00000001806	hnrnpa3	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein A3 (hnrnpa3)%2C mRNA. 	RRM_1
+ENSXETG00000001819	exosc8	\N	-	Xenopus tropicalis exosome component 8 (exosc8)%2C mRNA. 	RNase_PH
+ENSXETG00000001829	eif4b	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4B (eif4b)%2C mRNA. 	RRM_1
+ENSXETG00000001831	helq	\N	-	helicase%2C POLQ like 	DEAD
+ENSXETG00000001845	mrpl3	\N	-	mitochondrial ribosomal protein L3 	Ribosomal_L3
+ENSXETG00000001852	mrpl32	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L32 (mrpl32)%2C mRNA. 	Ribosomal_L32p
+ENSXETG00000001910	znf646	\N	-	zinc finger protein 646 	zf-C2H2
+ENSXETG00000001911	znf668	\N	-	zinc finger protein 668 	zf-C2H2
+ENSXETG00000001921	setd1a	\N	-	SET domain containing 1A 	RRM_1
+ENSXETG00000001933	xnf7	\N	-	Xenopus tropicalis Nuclear factor 7 (xnf7)%2C mRNA. 	Tudor-knot
+ENSXETG00000001943	kat8	\N	-	Xenopus tropicalis K(lysine) acetyltransferase 8 (kat8)%2C mRNA. 	Tudor-knot
+ENSXETG00000001949	krcc1	\N	-	Xenopus tropicalis lysine-rich coiled-coil 1 (krcc1)%2C mRNA. 	zf-met
+ENSXETG00000001951	fus	\N	-	Xenopus tropicalis FUS RNA binding protein (fus)%2C mRNA. 	zf-RanBP
+ENSXETG00000001952	polr1a	\N	-	polymerase (RNA) I polypeptide A 	RNA_pol_Rpb1_5
+ENSXETG00000001959	-	\N	-	-	MMR_HSR1
+ENSXETG00000001968	-	\N	-	-	MMR_HSR1
+ENSXETG00000001980	znf408	\N	-	zinc finger protein 408 	zf-C2H2
+ENSXETG00000001997	lsm14b	\N	-	LSM family member 14B 	LSM14
+ENSXETG00000002001	mtg2	\N	-	Xenopus tropicalis mitochondrial ribosome-associated GTPase 2 (mtg2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002012	rps21	\N	-	ribosomal protein S21 	Ribosomal_S21e
+ENSXETG00000002021	-	\N	-	-	RVT_1
+ENSXETG00000002028	ulk1	\N	-	unc-51 like autophagy activating kinase 1 	RIO1
+ENSXETG00000002029	rbm15	\N	-	RNA binding motif protein 15 	RRM_1
+ENSXETG00000002030	pus1	\N	-	pseudouridylate synthase 1 	PseudoU_synth_1
+ENSXETG00000002041	ep400	\N	-	E1A binding protein p400 	ResIII
+ENSXETG00000002042	rnf113a	\N	-	Xenopus tropicalis ring finger protein 113A (rnf113a)%2C mRNA. 	zf-CCCH
+ENSXETG00000002043	noc4l	\N	-	nucleolar complex associated 4 homolog 	CBF
+ENSXETG00000002066	eefsec	\N	-	eukaryotic elongation factor%2C selenocysteine-tRNA-specific 	GTP_EFTU
+ENSXETG00000002072	cherp	\N	-	Xenopus tropicalis calcium homeostasis endoplasmic reticulum protein (cherp)%2C mRNA. 	Surp
+ENSXETG00000002101	prdm5	\N	-	PR domain  5 	zf-C2H2
+ENSXETG00000002123	dhx15	\N	-	DEAH-box helicase 15 	HA2
+ENSXETG00000002153	nol6	\N	-	nucleolar protein 6 	Nrap
+ENSXETG00000002161	gnl2	\N	-	Xenopus tropicalis guanine nucleotide binding protein-like 2 (nucleolar) (gnl2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002173	snrpd2	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein D2 polypeptide (snrpd2)%2C mRNA. 	LSM
+ENSXETG00000002195	-	\N	-	up-regulator of cell proliferation-like 	MMR_HSR1
+ENSXETG00000002201	rab15	\N	-	Xenopus tropicalis RAB15%2C member RAS oncogene family (rab15)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002204	eif2ak4	\N	-	eukaryotic translation initiation factor 2 alpha kinase 4 	tRNA-synt_His
+ENSXETG00000002208	papolg	\N	-	Xenopus tropicalis poly(A) polymerase gamma (papolg)%2C mRNA. 	PAP_RNA-bind
+ENSXETG00000002211	srsf5	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 5 (srsf5)%2C mRNA. 	RRM_1
+ENSXETG00000002224	xpo1	\N	-	exportin 1 	CRM1_C
+ENSXETG00000002225	ptbp3	\N	-	Xenopus tropicalis polypyrimidine tract binding protein 3 (ptbp3)%2C mRNA. 	RRM_5
+ENSXETG00000002264	qtrt1	\N	-	queuine tRNA-ribosyltransferase 1 	TGT
+ENSXETG00000002279	zbtb14	\N	-	zinc finger and BTB domain containing 14 	zf-C2H2
+ENSXETG00000002296	nkiras2	\N	-	NFKB inhibitor interacting Ras like 2 	MMR_HSR1
+ENSXETG00000002298	znf385c	\N	-	zinc finger protein 385C 	zf-met
+ENSXETG00000002302	dhx58	\N	-	DEXH-box helicase 58 	ResIII
+ENSXETG00000002305	rab5a	\N	-	Xenopus tropicalis RAB5A%2C member RAS oncogene family (rab5a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002320	lars	\N	-	Xenopus tropicalis leucyl-tRNA synthetase (lars)%2C mRNA. 	tRNA-synt_1
+ENSXETG00000002322	rbm27	\N	-	RNA binding motif protein 27 	PWI
+ENSXETG00000002339	znf423	\N	-	zinc finger protein 423 	zf-C2H2
+ENSXETG00000002359	lsm14a	\N	-	Xenopus tropicalis LSM14A mRNA processing body assembly factor (lsm14a)%2C mRNA. 	LSM14
+ENSXETG00000002398	-	\N	-	-	Exo_endo_phos
+ENSXETG00000002407	ascc3	\N	-	activating signal cointegrator 1 complex subunit 3 	DEAD
+ENSXETG00000002498	ddx39b	\N	-	DEAD-box helicase 39B 	DEAD
+ENSXETG00000002509	gpank1	\N	-	Xenopus tropicalis G-patch domain and ankyrin repeats 1 (gpank1)%2C mRNA. 	G-patch
+ENSXETG00000002524	wars	\N	-	Xenopus tropicalis tryptophanyl-tRNA synthetase (wars)%2C mRNA. 	tRNA-synt_1b
+ENSXETG00000002540	arl1	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 1 (arl1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002572	upf3a	\N	-	UPF3A%2C regulator of nonsense mediated mRNA decay 	Smg4_UPF3
+ENSXETG00000002583	mrps9	\N	-	mitochondrial ribosomal protein S9 	Ribosomal_S9
+ENSXETG00000002585	snrpa	\N	-	small nuclear ribonucleoprotein polypeptide A 	RRM_1
+ENSXETG00000002639	-	\N	-	-	PARP
+ENSXETG00000002654	lig4	\N	-	Xenopus tropicalis ligase IV%2C DNA%2C ATP-dependent (lig4)%2C mRNA. 	RNA_ligase
+ENSXETG00000002656	mtpap	\N	-	mitochondrial poly(A) polymerase 	PAP_assoc
+ENSXETG00000002665	hars2	\N	-	histidyl-tRNA synthetase 2 	tRNA-synt_His
+ENSXETG00000002690	-	\N	-	-	zf-C2H2
+ENSXETG00000002717	-	\N	-	-	zf-C2H2
+ENSXETG00000002724	eprs	\N	-	glutamyl-prolyl-tRNA synthetase 	tRNA-synt_1c
+ENSXETG00000002726	iars2	\N	-	isoleucyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1
+ENSXETG00000002760	srbd1	\N	-	S1 RNA binding domain 1 	S1
+ENSXETG00000002778	-	\N	-	-	MA3
+ENSXETG00000002782	nop53	\N	-	NOP53 ribosome biogenesis factor 	Nop53
+ENSXETG00000002783	ehd2	\N	-	Xenopus tropicalis EH domain containing 2 (ehd2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000002805	qtrt2	\N	-	queuine tRNA-ribosyltransferase accessory subunit 2 	TGT
+ENSXETG00000002820	fam98a	\N	-	Xenopus tropicalis family with sequence similarity 98%2C member A (fam98a)%2C mRNA. 	DUF2465
+ENSXETG00000002832	calr3	\N	-	calreticulin 3 	Calreticulin
+ENSXETG00000002842	alkbh6	\N	-	Xenopus tropicalis alkB homolog 6 (alkbh6)%2C mRNA. 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000002877	prmt1	\N	-	protein arginine methyltransferase 1 	MTS
+ENSXETG00000002878	polr2l.2	\N	-	Xenopus tropicalis polymerase (RNA) II (DNA directed) polypeptide L%2C 7.6kDa%2C gene 2 (polr2l.2)%2C mRNA. 	RNA_pol_N
+ENSXETG00000002888	supt5h	\N	-	Xenopus tropicalis SPT5 homolog%2C DSIF elongation factor subunit (supt5h)%2C mRNA. 	KOW
+ENSXETG00000002899	zfp36	\N	-	Xenopus tropicalis ZFP36 ring finger protein (zfp36)%2C mRNA. 	zf-CCCH
+ENSXETG00000002904	chd5	\N	-	chromodomain helicase DNA binding protein 5 	ResIII
+ENSXETG00000002914	rpl22	\N	-	Xenopus tropicalis ribosomal protein L22 (rpl22)%2C mRNA. 	Ribosomal_L22e
+ENSXETG00000002934	farsb	\N	-	Xenopus tropicalis phenylalanyl-tRNA synthetase subunit beta (farsb)%2C mRNA. 	B3_4
+ENSXETG00000002941	eif3c	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 3 subunit C (eif3c)%2C mRNA. 	eIF-3c_N
+ENSXETG00000002942	rps15a	\N	-	ribosomal protein S15a 	Ribosomal_S8
+ENSXETG00000002955	polr2d	\N	-	polymerase (RNA) II (DNA directed) polypeptide D 	RNA_pol_Rpb4
+ENSXETG00000002996	tyw3	\N	-	Xenopus tropicalis tRNA-yW synthesizing protein 3 homolog (tyw3)%2C mRNA. 	TYW3
+ENSXETG00000003036	vars2	\N	-	valyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1
+ENSXETG00000003046	fancm	\N	-	FA complementation group M 	ResIII
+ENSXETG00000003134	enpp2	\N	-	Xenopus tropicalis ectonucleotide pyrophosphatase/phosphodiesterase 2 (enpp2)%2C mRNA. 	Endonuclease_NS
+ENSXETG00000003155	thoc1	\N	-	THO complex 1 protein 	efThoc1
+ENSXETG00000003166	cnot3	\N	-	Xenopus tropicalis CCR4-NOT transcription complex subunit 3 (cnot3)%2C mRNA. 	Not3
+ENSXETG00000003167	asxl2	\N	-	ASXL transcriptional regulator 2 	HARE-HTH
+ENSXETG00000003169	-	\N	-	-	RIO1
+ENSXETG00000003245	ddx42	\N	-	DEAD-box helicase 42 	DEAD
+ENSXETG00000003270	mrps18a	\N	-	mitochondrial ribosomal protein S18A 	Ribosomal_S18
+ENSXETG00000003281	cirbp	\N	-	cold inducible RNA binding protein 	RRM_1
+ENSXETG00000003291	polr2e	\N	-	Xenopus tropicalis polymerase (RNA) II (DNA directed) polypeptide E%2C 25kDa (polr2e)%2C mRNA. 	RNA_pol_Rpb5_N
+ENSXETG00000003371	lsm12	\N	-	LSM12 homolog 	AD
+ENSXETG00000003394	eftud2	\N	-	Xenopus tropicalis elongation factor Tu GTP binding domain containing 2 (eftud2)%2C mRNA. 	GTP_EFTU
+ENSXETG00000003398	kras	\N	-	Xenopus tropicalis Kirsten rat sarcoma viral oncogene homolog (kras)%2C mRNA. 	GTP_EFTU
+ENSXETG00000003401	pih1d1	\N	-	PIH1 domain containing 1 	PIH1
+ENSXETG00000003419	rpp38	\N	-	ribonuclease P/MRP 38kDa subunit 	Ribosomal_L7Ae
+ENSXETG00000003420	pex1	\N	-	peroxisomal biogenesis factor 1 	RNA_helicase
+ENSXETG00000003430	rrp12	\N	-	ribosomal RNA processing 12 homolog 	NUC173
+ENSXETG00000003434	exosc1	\N	-	Xenopus tropicalis exosome component 1 (exosc1)%2C mRNA. 	EXOSC1
+ENSXETG00000003451	lsg1	\N	-	large 60S subunit nuclear export GTPase 1 	MMR_HSR1
+ENSXETG00000003469	tp53rk	\N	-	TP53 regulating kinase 	RIO1
+ENSXETG00000003481	rbmx	\N	-	RNA binding motif protein X-linked 	RBM1CTR
+ENSXETG00000003491	ipo13	\N	-	importin 13 	Xpo1
+ENSXETG00000003518	nol10	\N	-	nucleolar protein 10 	NUC153
+ENSXETG00000003534	toe1	\N	-	Xenopus tropicalis target of EGR1%2C exonuclease (toe1)%2C mRNA. 	CAF1
+ENSXETG00000003550	snrpb2	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein polypeptide B (snrpb2)%2C mRNA. 	RRM_1
+ENSXETG00000003569	kars	\N	-	lysyl-tRNA synthetase 	tRNA-synt_2
+ENSXETG00000003571	adat1	\N	-	Xenopus tropicalis adenosine deaminase%2C tRNA-specific 1 (adat1)%2C mRNA. 	A_deamin
+ENSXETG00000003602	eif3e	\N	-	eukaryotic translation initiation factor 3 subunit E 	eIF3_N
+ENSXETG00000003628	rhot2	\N	-	Xenopus tropicalis ras homolog family member T2 (rhot2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000003659	-	\N	-	-	Exo_endo_phos
+ENSXETG00000003704	dazap1	\N	-	Xenopus tropicalis DAZ associated protein 1 (dazap1)%2C mRNA. 	RRM_1
+ENSXETG00000003706	rps15	\N	-	Xenopus tropicalis ribosomal protein S15 (rps15)%2C mRNA. 	Ribosomal_S19
+ENSXETG00000003717	gadd45b	\N	-	growth arrest and DNA damage inducible beta 	Ribosomal_L7Ae
+ENSXETG00000003719	cwf19l1	\N	-	CWF19 like cell cycle control factor 1 	CwfJ_C_1
+ENSXETG00000003726	hbs1l	\N	-	Xenopus tropicalis HBS1 like translational GTPase (hbs1l)%2C mRNA. 	GTP_EFTU
+ENSXETG00000003759	sidt2	\N	-	SID1 transmembrane family member 2 	SID-1_RNA_chan
+ENSXETG00000003760	setd1b	\N	-	Xenopus tropicalis SET domain containing 1B (setd1b)%2C mRNA. 	RRM_1
+ENSXETG00000003767	bud13	\N	-	BUD13 homolog 	Bud13
+ENSXETG00000003782	nat10	\N	-	Xenopus tropicalis N-acetyltransferase 10 (GCN5-related) (nat10)%2C mRNA. 	tRNA_bind_2
+ENSXETG00000003784	tfip11	\N	-	tuftelin interacting protein 11 	G-patch
+ENSXETG00000003833	hnrnpa0	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein A0 (hnrnpa0)%2C mRNA. 	RRM_1
+ENSXETG00000003836	hnrnpab	\N	-	heterogeneous nuclear ribonucleoprotein A/B 	RRM_1
+ENSXETG00000003837	pura	\N	-	purine-rich element binding protein A 	PurA
+ENSXETG00000003838	matr3	\N	-	Xenopus tropicalis matrin 3 (matr3)%2C mRNA. 	RRM_5
+ENSXETG00000003848	adar	\N	-	adenosine deaminase%2C RNA-specific 	A_deamin
+ENSXETG00000003868	nkiras1	\N	-	NFKB inhibitor interacting Ras-like 1 	MMR_HSR1
+ENSXETG00000003870	rpl15	\N	-	ribosomal protein L15 	Ribosomal_L15e
+ENSXETG00000003876	slbp	\N	-	Xenopus tropicalis stem-loop binding protein (slbp)%2C mRNA. 	SLBP_RNA_bind
+ENSXETG00000003912	rpl27a	\N	-	Xenopus tropicalis ribosomal protein L27a (rpl27a)%2C mRNA. 	Ribosomal_L27A
+ENSXETG00000003920	srpra	\N	-	SRP receptor subunit alpha 	SRP54
+ENSXETG00000003925	thrap3	\N	-	Xenopus tropicalis thyroid hormone receptor associated protein 3 (thrap3)%2C mRNA. 	THRAP3_BCLAF1
+ENSXETG00000003944	rpl12	\N	-	Xenopus tropicalis ribosomal protein L12 (rpl12)%2C mRNA. 	Ribosomal_L11_N
+ENSXETG00000003957	exd3	\N	-	exonuclease 3'-5' domain containing 3 	Xpo1
+ENSXETG00000003968	mrpl41	\N	-	mitochondrial ribosomal protein L41 	MRP-L27
+ENSXETG00000003973	trub2	\N	-	Xenopus tropicalis TruB pseudouridine (psi) synthase family member 2 (trub2)%2C mRNA. 	TruB_N
+ENSXETG00000003985	caprin1	\N	-	Xenopus tropicalis cell cycle associated protein 1 (caprin1)%2C mRNA. 	Caprin-1_C
+ENSXETG00000004022	drg2	\N	-	Xenopus tropicalis developmentally regulated GTP binding protein 2 (drg2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000004037	mettl14	\N	-	Xenopus tropicalis methyltransferase like 14 (mettl14)%2C mRNA. 	MT-A70
+ENSXETG00000004092	dcaf13	\N	-	DDB1 and CUL4 associated factor 13 	eIF2A
+ENSXETG00000004125	gtpbp6	\N	-	GTP binding protein 6 (putative) 	MMR_HSR1
+ENSXETG00000004169	aff4	\N	-	AF4/FMR2 family member 4 	AF-4
+ENSXETG00000004190	patz1	\N	-	POZ/BTB and AT hook containing zinc finger 1 	zf-C2H2
+ENSXETG00000004191	drg1	\N	-	developmentally regulated GTP binding protein 1 	MMR_HSR1
+ENSXETG00000004194	eif4enif1	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4E nuclear import factor 1 (eif4enif1)%2C mRNA. 	EIF4E-T
+ENSXETG00000004213	dhx30	\N	-	DEAH-box helicase 30 	HA2
+ENSXETG00000004281	mettl15	\N	-	Xenopus tropicalis methyltransferase like 15 (mettl15)%2C mRNA. 	Methyltr_RsmB-F
+ENSXETG00000004289	rab12	\N	-	RAB12%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000004296	endou	\N	-	endonuclease%2C poly(U) specific 	XendoU
+ENSXETG00000004304	rpl6	\N	-	ribosomal protein L6 	Ribosomal_L6e_N
+ENSXETG00000004364	ago1	\N	-	argonaute 1%2C RISC catalytic component 	Piwi
+ENSXETG00000004369	rad54l	\N	-	RAD54 like 	ResIII
+ENSXETG00000004449	rab23	\N	-	RAB23%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000004451	khdrbs2	\N	-	Xenopus tropicalis KH domain containing%2C RNA binding%2C signal transduction associated 2 (khdrbs2)%2C mRNA. 	KH_1
+ENSXETG00000004456	u2af1	\N	-	U2 small nuclear RNA auxiliary factor 1 	zf-CCCH
+ENSXETG00000004471	snrpe	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein polypeptide E (snrpe)%2C mRNA. 	LSM
+ENSXETG00000004472	mcts1	\N	-	Xenopus tropicalis malignant T-cell amplified sequence 1 (mcts1)%2C mRNA. 	PUA
+ENSXETG00000004489	-	\N	-	putative transmembrane protein TA-2 	Sua5_yciO_yrdC
+ENSXETG00000004501	trmt6	\N	-	Xenopus tropicalis tRNA methyltransferase 6 (trmt6)%2C mRNA. 	Gcd10p
+ENSXETG00000004510	gzf1	\N	-	Xenopus tropicalis GDNF inducible zinc finger protein 1 (gzf1)%2C mRNA. 	zf-C2H2
+ENSXETG00000004519	rps27a	\N	-	ribosomal protein S27a 	Ribosomal_S27
+ENSXETG00000004526	-	\N	-	-	PARP
+ENSXETG00000004530	rif1	\N	-	replication timing regulatory factor 1 	Rif1_N
+ENSXETG00000004539	trmt1l	\N	-	tRNA methyltransferase 1 like 	TRM
+ENSXETG00000004556	rab18	\N	-	Xenopus tropicalis RAB18%2C member RAS oncogene family (rab18)%2C mRNA. 	MMR_HSR1
+ENSXETG00000004597	tsen34	\N	-	tRNA splicing endonuclease subunit 34 	tRNA_int_endo
+ENSXETG00000004598	grwd1	\N	-	glutamate-rich WD repeat containing 1 	eIF2A
+ENSXETG00000004641	cpsf4l	\N	-	Xenopus tropicalis cleavage and polyadenylation specific factor 4-like (cpsf4l)%2C mRNA. 	zf-CCCH
+ENSXETG00000004668	exosc4	\N	-	exosome component 4 	RNase_PH
+ENSXETG00000004670	mvp	\N	-	major vault protein 	Vault
+ENSXETG00000004674	eef1d	\N	-	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein) 	EF1_GNE
+ENSXETG00000004681	srfbp1	\N	-	serum response factor binding protein 1 	BUD22
+ENSXETG00000004745	spout1	\N	-	Xenopus tropicalis SPOUT domain containing methyltransferase 1 (spout1)%2C mRNA. 	Methyltrn_RNA_3
+ENSXETG00000004746	p3h1	\N	-	prolyl 3-hydroxylase 1 	hmm_2OG-FeII_Oxy
+ENSXETG00000004762	rnaseh2a	\N	-	Xenopus tropicalis ribonuclease H2 subunit A (rnaseh2a)%2C mRNA. 	RNase_HII
+ENSXETG00000004771	tnpo2	\N	-	transportin 2 	IBN_N
+ENSXETG00000004816	mrps25	\N	-	mitochondrial ribosomal protein S25 	L51_S25_CI-B8
+ENSXETG00000004853	mrps33	\N	-	mitochondrial ribosomal protein S33 	MRP-S33
+ENSXETG00000004912	-	\N	-	Xenopus tropicalis uncharacterized LOC100144954 (LOC100144954)%2C mRNA. 	SMN
+ENSXETG00000004937	zc3h3	\N	-	Xenopus tropicalis zinc finger CCCH-type containing 3 (zc3h3)%2C mRNA. 	zf-CCCH
+ENSXETG00000004994	lrrfip2	\N	-	leucine rich repeat (in FLII) interacting protein 2 	LRRFIP
+ENSXETG00000005009	rpl7a	\N	-	Xenopus tropicalis ribosomal protein L7a (rpl7a)%2C mRNA. 	Ribosomal_L7Ae
+ENSXETG00000005018	surf6	\N	-	Xenopus tropicalis surfeit 6 (surf6)%2C mRNA. 	SURF6
+ENSXETG00000005076	gfm2	\N	-	G elongation factor%2C mitochondrial 2 	GTP_EFTU
+ENSXETG00000005077	nsa2	\N	-	Xenopus tropicalis NSA2%2C ribosome biogenesis homolog (nsa2)%2C mRNA. 	Ribosomal_S8e
+ENSXETG00000005082	ankrd31	\N	-	ankyrin repeat domain 31 	zf-CCHC
+ENSXETG00000005083	hint2	\N	-	histidine triad nucleotide binding protein 2 	DcpS_C
+ENSXETG00000005117	bicc1	\N	-	BicC family RNA binding protein 1 	KH_1
+ENSXETG00000005189	phax	\N	-	phosphorylated adaptor for RNA export 	RNA_GG_bind
+ENSXETG00000005205	parp6	\N	-	Xenopus tropicalis poly(ADP-ribose) polymerase family member 6 (parp6)%2C mRNA. 	PARP
+ENSXETG00000005212	arl8b	\N	-	ADP ribosylation factor like GTPase 8B 	MMR_HSR1
+ENSXETG00000005246	khdrbs1	\N	-	KH domain containing%2C RNA binding%2C signal transduction associated 1 	KH_1
+ENSXETG00000005257	mrps15	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S15 (mrps15)%2C mRNA. 	Ribosomal_S15
+ENSXETG00000005260	prpf38b	\N	-	pre-mRNA processing factor 38B 	PRP38
+ENSXETG00000005283	fam83h	\N	-	family with sequence similarity 83 member H 	FAM83
+ENSXETG00000005326	mrps12	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S12 (mrps12)%2C mRNA. 	Ribosom_S12_S23
+ENSXETG00000005329	polr2b	\N	-	polymerase (RNA) II (DNA directed) polypeptide B%2C 140kDa 	RNA_pol_Rpb2_6
+ENSXETG00000005332	sars2	\N	-	seryl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2b
+ENSXETG00000005348	noa1	\N	-	nitric oxide associated 1 	MMR_HSR1
+ENSXETG00000005384	rngtt	\N	-	Xenopus tropicalis RNA guanylyltransferase and 5'-phosphatase (rngtt)%2C mRNA. 	mRNA_cap_enzyme
+ENSXETG00000005385	srsf12	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 12 (srsf12)%2C mRNA. 	RRM_1
+ENSXETG00000005391	alyref	\N	-	Xenopus tropicalis Aly/REF export factor (alyref)%2C mRNA. 	RRM_1
+ENSXETG00000005409	mbnl3	\N	-	muscleblind-like splicing regulator 3 	zf-CCCH
+ENSXETG00000005435	ddx28	\N	-	DEAD-box helicase 28 	DEAD
+ENSXETG00000005436	dus2	\N	-	dihydrouridine synthase 2 	Dus
+ENSXETG00000005479	ints5	\N	-	integrator complex subunit 5 	INTS5_C
+ENSXETG00000005505	MRAS	\N	M-RAs|R-RAS3|RRAS3	muscle RAS oncogene homolog 	GTP_EFTU
+ENSXETG00000005529	marf1	\N	Limkain-b1|kiaa0430|lkap	meiosis regulator and mRNA stability factor 1 	RRM_1
+ENSXETG00000005539	thumpd1	\N	-	THUMP domain containing 1 	THUMP
+ENSXETG00000005540	gspt1	\N	-	G1 to S phase transition 1 	GTP_EFTU
+ENSXETG00000005578	alkbh7	\N	-	alkB homolog 7 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000005590	-	\N	-	-	zf-CCHC
+ENSXETG00000005622	kiaa1456l	\N	-	kiaa1456 like 	Methyltransf_31
+ENSXETG00000005640	tut1	\N	-	terminal uridylyl transferase 1%2C U6 snRNA-specific 	RRM_1
+ENSXETG00000005648	tgs1	\N	-	trimethylguanosine synthase 1 	Methyltransf_15
+ENSXETG00000005652	rps20	\N	-	Xenopus tropicalis RNA binding motif protein 6 (rbm6)%2C mRNA. 	Ribosomal_S10
+ENSXETG00000005721	polr3b	\N	-	polymerase (RNA) III (DNA directed) polypeptide B 	RNA_pol_Rpb2_6
+ENSXETG00000005747	pld6	\N	-	Xenopus tropicalis phospholipase D family member 6 (pld6)%2C mRNA. 	FAM83
+ENSXETG00000005769	alkbh5	\N	-	alkB homolog 5%2C RNA demethylase 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000005791	denr	\N	-	Xenopus tropicalis density-regulated protein (denr)%2C mRNA. 	SUI1
+ENSXETG00000005816	fto	\N	-	Xenopus tropicalis fat mass and obesity associated (fto)%2C mRNA. 	FTO_NTD
+ENSXETG00000005825	ddx55	\N	-	Xenopus tropicalis DEAD-box helicase 55 (ddx55)%2C mRNA. 	DEAD
+ENSXETG00000005830	eif2b1	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 2B subunit alpha (eif2b1)%2C mRNA. 	IF-2B
+ENSXETG00000005847	rbm11	\N	-	RNA binding motif protein 11 	RRM_1
+ENSXETG00000005922	hbp1	\N	-	Xenopus tropicalis HMG-box transcription factor 1 (hbp1)%2C mRNA. 	AXH
+ENSXETG00000005925	dus4l	\N	-	dihydrouridine synthase 4-like 	Dus
+ENSXETG00000005944	rab7b	\N	-	Xenopus tropicalis RAB7B%2C member RAS oncogene family (rab7b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000006015	hnrnpul2	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein U-like 2 (hnrnpul2)%2C mRNA. 	SAP
+ENSXETG00000006022	polr2g	\N	-	Xenopus tropicalis polymerase (RNA) II (DNA directed) polypeptide G (polr2g)%2C mRNA. 	S1
+ENSXETG00000006029	lrrc47	\N	-	Xenopus tropicalis leucine rich repeat containing 47 (lrrc47)%2C mRNA. 	B3_4
+ENSXETG00000006040	hras	\N	-	Xenopus tropicalis Harvey rat sarcoma viral oncogene homolog (hras)%2C mRNA. 	MMR_HSR1
+ENSXETG00000006075	pnpt1	\N	-	Xenopus tropicalis polyribonucleotide nucleotidyltransferase 1 (pnpt1)%2C mRNA. 	RNase_PH
+ENSXETG00000006087	znf326	\N	-	Xenopus tropicalis zinc finger protein 326 (znf326)%2C mRNA. 	AKAP95
+ENSXETG00000006149	ascc1	\N	-	Xenopus tropicalis activating signal cointegrator 1 complex subunit 1 (ascc1)%2C mRNA. 	AKAP7_NLS
+ENSXETG00000006154	p4ha1	\N	-	prolyl 4-hydroxylase%2C alpha polypeptide 1 	hmm_2OG-FeII_Oxy
+ENSXETG00000006162	zbtb47	\N	-	zinc finger and BTB domain containing 47 	zf-C2H2
+ENSXETG00000006225	eif2s3	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 2 subunit gamma (eif2s3)%2C mRNA. 	eIF2_C
+ENSXETG00000006254	setx	\N	-	senataxin 	SEN1_N
+ENSXETG00000006258	ddx31	\N	-	DEAD-box helicase 31 	DEAD
+ENSXETG00000006263	gfi1b	\N	-	growth factor independent 1B transcription repressor 	zf-C2H2
+ENSXETG00000006317	tardbp	\N	-	Xenopus tropicalis TAR DNA binding protein (tardbp)%2C transcript variant 1%2C mRNA. 	RRM_1
+ENSXETG00000006318	exosc10	\N	-	exosome component 10 	DNA_pol_A_exo1
+ENSXETG00000006320	dgcr8	\N	-	DGCR8 microprocessor complex subunit 	dsrm
+ENSXETG00000006323	trmt2a	\N	-	tRNA methyltransferase 2 homolog A 	tRNA_U5-meth_tr
+ENSXETG00000006327	tnrc6b	\N	-	trinucleotide repeat containing 6B 	Ago_hook
+ENSXETG00000006332	zc3h7b	\N	-	zinc finger CCCH-type containing 7B 	zf-CCCH
+ENSXETG00000006346	polr2f	\N	-	Xenopus tropicalis polymerase (RNA) II subunit F (polr2f)%2C mRNA. 	RNA_pol_Rpb6
+ENSXETG00000006391	eef2.1	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 2%2C gene 1 (eef2.1)%2C mRNA. 	GTP_EFTU
+ENSXETG00000006396	dapk3	\N	-	Xenopus tropicalis death-associated protein kinase 3 (dapk3)%2C mRNA. 	RIO1
+ENSXETG00000006404	sept11	\N	-	Xenopus tropicalis septin 11 (sept11)%2C mRNA. 	MMR_HSR1
+ENSXETG00000006411	piwil4	\N	-	piwi-like RNA-mediated gene silencing 4 	Piwi
+ENSXETG00000006490	znf350	\N	-	zinc finger protein 350 	zf-C2H2
+ENSXETG00000006505	zfpm2	\N	-	zinc finger protein%2C FOG family member 2 	zf-C2H2
+ENSXETG00000006533	polr1e	\N	-	polymerase (RNA) I polypeptide E 	RNA_pol_I_A49
+ENSXETG00000006539	thoc7	\N	-	THO complex 7 	THOC7
+ENSXETG00000006542	zcchc7	\N	-	zinc finger%2C CCHC domain containing 7 	zf-CCHC
+ENSXETG00000006545	polrmt	\N	-	polymerase (RNA) mitochondrial (DNA directed) 	RNA_pol
+ENSXETG00000006575	znf420	\N	-	Xenopus tropicalis zinc finger protein 420 (znf420)%2C mRNA. 	zf-C2H2
+ENSXETG00000006584	gle1	\N	-	GLE1%2C RNA export mediator 	GLE1
+ENSXETG00000006611	a1cf	\N	-	APOBEC1 complementation factor 	RRM_1
+ENSXETG00000006633	znf706	\N	-	Xenopus tropicalis zinc finger protein 706 (znf706)%2C mRNA. 	zf-met
+ENSXETG00000006635	pabpc1	\N	-	Xenopus tropicalis poly(A) binding protein%2C cytoplasmic 1 (pabpc1)%2C mRNA. 	RRM_1
+ENSXETG00000006639	rab11a	\N	-	Xenopus tropicalis RAB11A%2C member RAS oncogene family (rab11a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000006648	parp16	\N	-	poly(ADP-ribose) polymerase family member 16 	PARP
+ENSXETG00000006675	smpd3	\N	-	sphingomyelin phosphodiesterase 3 	Exo_endo_phos
+ENSXETG00000006715	cpsf7	\N	-	Xenopus tropicalis cleavage and polyadenylation specific factor 7 (cpsf7)%2C mRNA. 	RRM_1
+ENSXETG00000006731	nhp2	\N	-	Xenopus tropicalis NHP2 ribonucleoprotein (nhp2)%2C mRNA. 	Ribosomal_L7Ae
+ENSXETG00000006795	yaf2	\N	-	Xenopus tropicalis YY1 associated factor 2 (yaf2)%2C mRNA. 	zf-RanBP
+ENSXETG00000006796	zcrb1	\N	-	Xenopus tropicalis zinc finger CCHC-type and RNA binding motif containing 1 (zcrb1)%2C mRNA. 	RRM_1
+ENSXETG00000006809	pus7l	\N	-	Xenopus tropicalis pseudouridylate synthase 7-like (pus7l)%2C mRNA. 	TruD
+ENSXETG00000006819	-	\N	-	-	zf-CCHC
+ENSXETG00000006892	aco2	\N	-	aconitase 2 	Aconitase
+ENSXETG00000006893	phf5a	\N	-	PHD finger protein 5A 	PHF5
+ENSXETG00000006894	gtpbp1	\N	-	Xenopus tropicalis GTP binding protein 1 (gtpbp1)%2C mRNA. 	GTP_EFTU
+ENSXETG00000006900	ddx17	\N	-	Xenopus tropicalis DEAD-box helicase 17 (ddx17)%2C mRNA. 	DEAD
+ENSXETG00000006901	mov10	\N	-	Mov10 RISC complex RNA helicase 	ResIII
+ENSXETG00000006914	rpl3	\N	-	Xenopus tropicalis ribosomal protein L3 (rpl3)%2C mRNA. 	Ribosomal_L3
+ENSXETG00000006939	ftsj3	\N	-	FtsJ RNA methyltransferase homolog 3 	FtsJ
+ENSXETG00000006987	p4ha2	\N	-	Xenopus tropicalis prolyl 4-hydroxylase%2C alpha polypeptide 2 (p4ha2)%2C mRNA. 	hmm_2OG-FeII_Oxy
+ENSXETG00000007043	mblac2	\N	-	metallo-beta-lactamase domain containing 2 	Lactamase_B
+ENSXETG00000007076	cwc15	\N	-	Xenopus tropicalis CWC15 spliceosome-associated protein (cwc15)%2C mRNA. 	Cwf_Cwc_15
+ENSXETG00000007088	clp1	\N	-	Xenopus tropicalis cleavage and polyadenylation factor I subunit 1 (clp1)%2C mRNA. 	Clp1
+ENSXETG00000007094	fastkd3	\N	-	Xenopus tropicalis FAST kinase domains 3 (fastkd3)%2C mRNA. 	RAP
+ENSXETG00000007102	hnrnpr	\N	-	heterogeneous nuclear ribonucleoprotein R 	RRM_1
+ENSXETG00000007137	tdrd15	\N	-	tudor domain containing 15 	TUDOR
+ENSXETG00000007184	rpusd1	\N	-	RNA pseudouridine synthase domain containing 1 	PseudoU_synth_2
+ENSXETG00000007196	trpt1	\N	-	tRNA phosphotransferase 1 	PTS_2-RNA
+ENSXETG00000007200	haghl	\N	-	Xenopus tropicalis hydroxyacylglutathione hydrolase like (haghl)%2C mRNA. 	Lactamase_B
+ENSXETG00000007202	hagh	\N	-	hydroxyacylglutathione hydrolase 	Lactamase_B
+ENSXETG00000007217	tbl3	\N	-	transducin (beta)-like 3 	Utp13
+ENSXETG00000007218	trmt112	\N	-	Xenopus tropicalis tRNA methyltransferase subunit 11-2 (trmt112)%2C mRNA. 	Trm112p
+ENSXETG00000007220	rps2	\N	-	Xenopus tropicalis ribosomal protein S2 (rps2)%2C mRNA. 	Ribosomal_S5
+ENSXETG00000007221	rpl3l	\N	-	Xenopus tropicalis ribosomal protein L3 like (rpl3l)%2C mRNA. 	Ribosomal_L3
+ENSXETG00000007230	znf346	\N	-	zinc finger protein 346 	zf-met
+ENSXETG00000007251	zmat3	\N	-	Xenopus tropicalis zinc finger matrin-type 3 (zmat3)%2C mRNA. 	zf-met
+ENSXETG00000007258	mfn1	\N	-	mitofusin 1 	MMR_HSR1
+ENSXETG00000007283	larp4	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 4 (larp4)%2C mRNA. 	La
+ENSXETG00000007300	-	\N	-	-	Methyltransf_31
+ENSXETG00000007303	rbm5	\N	-	Xenopus tropicalis RNA binding motif protein 5 (rbm5)%2C mRNA. 	G-patch
+ENSXETG00000007351	scaf4	\N	-	SR-related CTD associated factor 4 	RRM_1
+ENSXETG00000007352	hunk	\N	-	Xenopus tropicalis hormonally up-regulated Neu-associated kinase (hunk)%2C mRNA. 	RIO1
+ENSXETG00000007376	rsl24d1	\N	-	ribosomal L24 domain containing 1 	Ribosomal_L24e
+ENSXETG00000007396	igf2bp3	\N	-	Xenopus tropicalis insulin like growth factor 2 mRNA binding protein 3 (igf2bp3)%2C mRNA. 	KH_1
+ENSXETG00000007397	tra2a	\N	-	Xenopus tropicalis transformer 2 alpha homolog (tra2a)%2C mRNA. 	RRM_1
+ENSXETG00000007400	stk31	\N	-	serine/threonine kinase 31 	TUDOR
+ENSXETG00000007434	rbm39	\N	-	Xenopus tropicalis RNA binding motif protein 39 (rbm39)%2C mRNA. 	RRM_1
+ENSXETG00000007436	gtpbp10	\N	-	Xenopus tropicalis GTP-binding protein 10 (putative) (gtpbp10)%2C mRNA. 	MMR_HSR1
+ENSXETG00000007438	nkrf	\N	-	NFKB repressing factor 	G-patch
+ENSXETG00000007440	upf3b	\N	-	UPF3B%2C regulator of nonsense mediated mRNA decay 	Smg4_UPF3
+ENSXETG00000007465	utp14a	\N	-	Xenopus tropicalis UTP14A%2C small subunit processome component (utp14a)%2C mRNA. 	Utp14
+ENSXETG00000007511	tra2b	\N	-	Xenopus tropicalis transformer 2 beta homolog (tra2b)%2C mRNA. 	RRM_1
+ENSXETG00000007514	ipo8	\N	-	importin 8 	IBN_N
+ENSXETG00000007516	caprin2	\N	-	caprin family member 2 	Caprin-1_C
+ENSXETG00000007539	znf622	\N	-	Xenopus tropicalis zinc finger protein 622 (znf622)%2C mRNA. 	zf-C2H2_jaz
+ENSXETG00000007584	baz2b	\N	-	bromodomain adjacent to zinc finger domain 2B 	MBD
+ENSXETG00000007588	aen	\N	-	apoptosis enhancing nuclease 	RNase_T
+ENSXETG00000007590	strbp	\N	-	Xenopus tropicalis spermatid perinuclear RNA binding protein (strbp)%2C mRNA. 	DZF
+ENSXETG00000007593	mrps11	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S11 (mrps11)%2C mRNA. 	Ribosomal_S11
+ENSXETG00000007594	mrpl46	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L46 (mrpl46)%2C mRNA. 	MRP-L46
+ENSXETG00000007667	exosc6	\N	-	Xenopus tropicalis exosome component 6 (exosc6)%2C mRNA. 	RNase_PH
+ENSXETG00000007668	aars	\N	-	alanyl-tRNA synthetase 	tRNA-synt_2c
+ENSXETG00000007700	gnl3l	\N	-	guanine nucleotide binding protein-like 3 (nucleolar)-like 	MMR_HSR1
+ENSXETG00000007727	gpkow	\N	-	G-patch domain and KOW motifs 	KOW
+ENSXETG00000007760	rap2b	\N	-	RAP2B%2C member of RAS oncogene family 	MMR_HSR1
+ENSXETG00000007768	dhx36	\N	-	DEAH-box helicase 36 	HA2
+ENSXETG00000007796	mettl27	\N	-	Xenopus tropicalis methyltransferase like 27 (mettl27)%2C mRNA. 	Methyltransf_31
+ENSXETG00000007797	zcchc8	\N	-	Xenopus tropicalis zinc finger CCHC-type containing 8 (zcchc8)%2C mRNA. 	zf-CCHC
+ENSXETG00000007837	morf4l1	\N	-	Xenopus tropicalis mortality factor 4 like 1 (morf4l1)%2C mRNA. 	Tudor-knot
+ENSXETG00000007840	eif3j	\N	-	eukaryotic translation initiation factor 3 subunit J 	eIF3_subunit
+ENSXETG00000007847	blm	\N	-	Bloom syndrome RecQ like helicase 	DEAD
+ENSXETG00000007852	tfb1m	\N	-	Xenopus tropicalis transcription factor B1%2C mitochondrial (tfb1m)%2C mRNA. 	RrnaAD
+ENSXETG00000007856	mettl2b	\N	-	methyltransferase like 2B 	Methyltransf_31
+ENSXETG00000007885	cdc5l	\N	-	cell division cycle 5 like 	Myb_Cef
+ENSXETG00000007902	thg1l	\N	-	tRNA-histidine guanylyltransferase 1-like 	Thg1
+ENSXETG00000007936	farsa	\N	-	Xenopus tropicalis phenylalanyl-tRNA synthetase subunit alpha (farsa)%2C mRNA. 	tRNA-synt_2d
+ENSXETG00000007937	calr	\N	-	Xenopus tropicalis calreticulin (calr)%2C mRNA. 	Calreticulin
+ENSXETG00000007974	ipo9	\N	-	Xenopus tropicalis importin 9 (ipo9)%2C mRNA. 	IBN_N
+ENSXETG00000008007	apobec2	\N	-	Xenopus tropicalis apolipoprotein B mRNA editing enzyme%2C catalytic polypeptide-like 2 (apobec2)%2C mRNA. 	APOBEC_N
+ENSXETG00000008009	sars	\N	-	seryl-tRNA synthetase 	tRNA-synt_2b
+ENSXETG00000008052	rpl24	\N	-	ribosomal protein L24 	Ribosomal_L24e
+ENSXETG00000008055	rab3b	\N	-	Xenopus tropicalis RAB3B%2C member RAS oncogene family (rab3b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000008060	prpf38a	\N	-	Xenopus tropicalis pre-mRNA processing factor 38A (prpf38a)%2C mRNA. 	PRP38
+ENSXETG00000008061	tut4	\N	-	terminal uridylyl transferase 4 	PAP_assoc
+ENSXETG00000008072	magoh	\N	-	mago homolog%2C exon junction complex subunit 	Mago_nashi
+ENSXETG00000008078	ndufaf5	\N	-	NADH:ubiquinone oxidoreductase complex assembly factor 5 	Methyltransf_31
+ENSXETG00000008079	esf1	\N	-	Xenopus tropicalis ESF1 nucleolar pre-rRNA processing protein homolog (esf1)%2C mRNA. 	NUC153
+ENSXETG00000008103	mrpl15	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L15 (mrpl15)%2C mRNA. 	Ribosomal_L27A
+ENSXETG00000008132	ankrd17	\N	-	ankyrin repeat domain 17 	KH_1
+ENSXETG00000008138	nop9	\N	-	Xenopus tropicalis NOP9 nucleolar protein (nop9)%2C mRNA. 	PUF
+ENSXETG00000008153	eri1	\N	-	exoribonuclease 1 	RNase_T
+ENSXETG00000008155	tnks2	\N	-	tankyrase%2C TRF1-interacting ankyrin-related ADP-ribose polymerase 2 	PARP
+ENSXETG00000008158	bms1	\N	-	BMS1%2C ribosome biogenesis factor 	AARP2CN
+ENSXETG00000008172	wt1	\N	-	Wilms tumor 1 	WT1
+ENSXETG00000008210	cars2	\N	-	cysteinyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1e
+ENSXETG00000008240	akap7	\N	-	A-kinase anchoring protein 7 	AKAP7_NLS
+ENSXETG00000008244	enpp3	\N	-	ectonucleotide pyrophosphatase/phosphodiesterase 3 	Endonuclease_NS
+ENSXETG00000008251	mrps22	\N	-	mitochondrial ribosomal protein S22 	MRP-S22
+ENSXETG00000008263	cpsf3	\N	-	Xenopus tropicalis cleavage and polyadenylation specific factor 3 (cpsf3)%2C mRNA. 	CPSF73-100_C
+ENSXETG00000008278	hint1	\N	-	Xenopus tropicalis histidine triad nucleotide binding protein 1 (hint1)%2C mRNA. 	DcpS_C
+ENSXETG00000008403	npm1	\N	-	Xenopus tropicalis nucleophosmin (nucleolar phosphoprotein B23%2C numatrin) (npm1)%2C mRNA. 	Nucleoplasmin
+ENSXETG00000008408	canx	\N	-	calnexin 	Calreticulin
+ENSXETG00000008409	cnot8	\N	-	CCR4-NOT transcription complex subunit 8 	CAF1
+ENSXETG00000008413	larp1	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 1 (larp1)%2C mRNA. 	La
+ENSXETG00000008422	sf3b2	\N	-	splicing factor 3b subunit 2 	DUF382
+ENSXETG00000008432	guf1	\N	-	GUF1 homolog%2C GTPase 	GTP_EFTU
+ENSXETG00000008434	sf1	\N	-	Xenopus tropicalis splicing factor 1 (sf1)%2C mRNA. 	KH_1
+ENSXETG00000008500	ola1	\N	-	Xenopus tropicalis Obg-like ATPase 1 (ola1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000008512	snrpg	\N	-	small nuclear ribonucleoprotein polypeptide G 	LSM
+ENSXETG00000008514	tia1	\N	-	Xenopus tropicalis TIA1 cytotoxic granule-associated RNA binding protein (tia1)%2C mRNA. 	RRM_1
+ENSXETG00000008528	nxt2	\N	-	Xenopus tropicalis nuclear transport factor 2-like export factor 2 (nxt2)%2C mRNA. 	NTF2
+ENSXETG00000008562	-	\N	-	-	Exo_endo_phos
+ENSXETG00000008600	DPYD	\N	DPD	dihydropyrimidine dehydrogenase 	Dus
+ENSXETG00000008642	rpf1	\N	-	ribosome production factor 1 homolog 	Brix
+ENSXETG00000008653	pde12	\N	-	phosphodiesterase 12 	Exo_endo_phos
+ENSXETG00000008654	arf4	\N	-	ADP ribosylation factor 4 	MMR_HSR1
+ENSXETG00000008665	dnase1l3	\N	-	deoxyribonuclease I-like 3 	Exo_endo_phos
+ENSXETG00000008680	elavl4	\N	-	Xenopus tropicalis ELAV like neuron-specific RNA binding protein 4 (elavl4)%2C mRNA. 	RRM_1
+ENSXETG00000008696	carhsp1	\N	-	calcium regulated heat stable protein 1 	CSD
+ENSXETG00000008725	arl14	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 14 (arl14)%2C mRNA. 	MMR_HSR1
+ENSXETG00000008752	elavl1	\N	-	Xenopus tropicalis ELAV like RNA binding protein 1 (elavl1)%2C mRNA. 	RRM_1
+ENSXETG00000008755	safb	\N	-	Xenopus tropicalis scaffold attachment factor B (safb)%2C mRNA. 	RRM_1
+ENSXETG00000008783	secisbp2l	\N	-	SECIS binding protein 2-like 	Ribosomal_L7Ae
+ENSXETG00000008795	znf804b	\N	-	zinc finger protein 804B 	zf-C2H2_jaz
+ENSXETG00000008801	znf628	\N	-	zinc finger protein 628 	zf-C2H2
+ENSXETG00000008820	ddb1	\N	-	damage-specific DNA binding protein 1 	CPSF_A
+ENSXETG00000008836	ddx21	\N	-	DEAD-box helicase 21 	GUCT
+ENSXETG00000008843	gpatch8	\N	-	G-patch domain containing 8 	G-patch
+ENSXETG00000008844	ccar1	\N	-	cell division cycle and apoptosis regulator 1 	S1-like
+ENSXETG00000008852	supv3l1	\N	-	Suv3 like RNA helicase 	SUV3_C
+ENSXETG00000008903	pum2	\N	-	pumilio RNA binding family member 2 	PUF
+ENSXETG00000008921	parp12	\N	-	poly(ADP-ribose) polymerase family member 12 	PARP
+ENSXETG00000008923	-	\N	FLJ22693|PARP-12|ZC3H1|ZC3HDC1	-	PARP
+ENSXETG00000008936	setdb1	\N	-	SET domain bifurcated 1 	MBD
+ENSXETG00000008954	srsf1	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 1 (srsf1)%2C mRNA. 	RRM_1
+ENSXETG00000009004	lsm1	\N	-	Xenopus tropicalis LSM1 homolog%2C mRNA degradation associated (lsm1)%2C mRNA. 	LSM
+ENSXETG00000009013	heatr1	\N	-	HEAT repeat containing 1 	U3snoRNP10
+ENSXETG00000009023	gemin6	\N	-	gem nuclear organelle associated protein 6 	Gemin6
+ENSXETG00000009025	pkr2	\N	-	double-stranded RNA activated protein kinase 2 	dsrm
+ENSXETG00000009030	rps9	\N	-	ribosomal protein S9 	S4
+ENSXETG00000009044	celf1	\N	-	Xenopus tropicalis CUGBP Elav-like family member 1 (celf1)%2C mRNA. 	RRM_1
+ENSXETG00000009122	dnaaf2	\N	-	Xenopus tropicalis dynein%2C axonemal%2C assembly factor 2 (dnaaf2)%2C mRNA. 	PIH1
+ENSXETG00000009151	sept12	\N	-	septin 12 	MMR_HSR1
+ENSXETG00000009154	rpl22l1	\N	-	ribosomal protein L22 like 1 	Ribosomal_L22e
+ENSXETG00000009173	dhx33	\N	-	DEAH-box helicase 33 	HA2
+ENSXETG00000009184	aco1	\N	-	Xenopus tropicalis aconitase 1 (aco1)%2C mRNA. 	Aconitase
+ENSXETG00000009189	znf593	\N	-	Xenopus tropicalis zinc finger protein 593 (znf593)%2C mRNA. 	zf-C2H2_jaz
+ENSXETG00000009200	ddx58	\N	-	DEXD/H-box helicase 58 	RIG-I_C-RD
+ENSXETG00000009227	khdrbs3	\N	-	KH domain containing%2C RNA binding%2C signal transduction associated 3 	KH_1
+ENSXETG00000009271	rbm28	\N	-	RNA binding motif protein 28 	RRM_1
+ENSXETG00000009274	zfp36l2	\N	-	Xenopus tropicalis ZFP36 ring finger protein-like 2 (zfp36l2)%2C mRNA. 	zf-CCCH
+ENSXETG00000009296	lrpprc	\N	-	Xenopus tropicalis leucine rich pentatricopeptide repeat containing (lrpprc)%2C mRNA. 	PPR
+ENSXETG00000009316	eif4e	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4E (eif4e)%2C mRNA. 	IF4E
+ENSXETG00000009350	sfswap	\N	-	splicing factor SWAP 	DRY_EERY
+ENSXETG00000009351	qars	\N	-	glutaminyl-tRNA synthetase 	tRNA-synt_1c
+ENSXETG00000009355	smarca4	\N	-	Xenopus tropicalis SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 4 (smarca4)%2C mRNA. 	BRK
+ENSXETG00000009357	carm1	\N	-	coactivator associated arginine methyltransferase 1 	MTS
+ENSXETG00000009387	elavl2	\N	-	ELAV like neuron-specific RNA binding protein 2 	RRM_1
+ENSXETG00000009396	rps3a	\N	-	Xenopus tropicalis ribosomal protein S3A (rps3a)%2C mRNA. 	Ribosomal_S3Ae
+ENSXETG00000009434	pan2	\N	-	poly(A) specific ribonuclease subunit PAN2 	RNase_T
+ENSXETG00000009447	nufip2	\N	-	nuclear FMR1 interacting protein 2 	NUFIP2
+ENSXETG00000009458	rps26	\N	-	Xenopus tropicalis ribosomal protein S26 (rps26)%2C mRNA. 	Ribosomal_S26e
+ENSXETG00000009462	as3mt.1	\N	-	arsenite methyltransferase%2C gene 1 	Methyltransf_31
+ENSXETG00000009476	zc3h10	\N	-	Xenopus tropicalis zinc finger CCCH-type containing 10 (zc3h10)%2C mRNA. 	zf-CCCH
+ENSXETG00000009482	pdcd11	\N	-	programmed cell death 11 	S1
+ENSXETG00000009483	eif4g3	\N	-	eukaryotic translation initiation factor 4 gamma%2C 3 	MIF4G
+ENSXETG00000009511	wdr61	\N	-	Xenopus tropicalis WD repeat domain 61 (wdr61)%2C mRNA. 	eIF2A
+ENSXETG00000009517	ncl	\N	-	nucleolin 	RRM_1
+ENSXETG00000009545	ebna1bp2	\N	-	EBNA1 binding protein 2 	Ebp2
+ENSXETG00000009598	sap18	\N	-	Xenopus tropicalis Sin3A associated protein 18kDa (sap18)%2C mRNA. 	SAP18
+ENSXETG00000009623	rbmx2	\N	-	RNA binding motif protein X-linked 2 	RRM_1
+ENSXETG00000009641	trmt12	\N	-	tRNA methyltransferase 12 homolog 	Met_10
+ENSXETG00000009642	cstf2	\N	-	Xenopus tropicalis cleavage stimulation factor%2C 3' pre-RNA%2C subunit 2 (cstf2)%2C mRNA. 	RRM_1
+ENSXETG00000009650	trmt2b	\N	-	tRNA methyltransferase 2 homolog B 	tRNA_U5-meth_tr
+ENSXETG00000009653	tsfm	\N	-	Ts translation elongation factor%2C mitochondrial 	EF_TS
+ENSXETG00000009660	-	\N	-	poly(U)-specific endoribonuclease-D 	XendoU
+ENSXETG00000009664	ago4	\N	-	argonaute 4%2C RISC catalytic component 	Piwi
+ENSXETG00000009682	sfpq	\N	-	Xenopus tropicalis splicing factor proline and glutamine rich (sfpq)%2C mRNA. 	RRM_1
+ENSXETG00000009698	crnkl1	\N	-	Xenopus tropicalis crooked neck pre-mRNA splicing factor 1 (crnkl1)%2C mRNA. 	HAT
+ENSXETG00000009747	dapk2	\N	-	Xenopus tropicalis death-associated protein kinase 2 (dapk2)%2C mRNA. 	RIO1
+ENSXETG00000009758	-	\N	-	-	Exo_endo_phos
+ENSXETG00000009774	ireb2	\N	-	iron responsive element binding protein 2 	Aconitase
+ENSXETG00000009802	rpl21	\N	-	Xenopus tropicalis ribosomal protein L21 (rpl21)%2C mRNA. 	Ribosomal_L21e
+ENSXETG00000009807	ddx23	\N	-	DEAD-box helicase 23 	DEAD
+ENSXETG00000009861	-	\N	-	-	MMR_HSR1
+ENSXETG00000009868	tars	\N	-	Xenopus tropicalis threonyl-tRNA synthetase (tars)%2C mRNA. 	tRNA-synt_2b
+ENSXETG00000009880	gemin7	\N	-	gem nuclear organelle associated protein 7 	Gemin7
+ENSXETG00000009891	ptcd1	\N	-	pentatricopeptide repeat domain 1 	PPR
+ENSXETG00000009892	cpsf4	\N	-	cleavage and polyadenylation specific factor 4 	zf-CCCH
+ENSXETG00000009895	urb1	\N	-	Xenopus tropicalis URB1 ribosome biogenesis 1 homolog (S. cerevisiae) (urb1)%2C mRNA. 	Npa1
+ENSXETG00000009899	synj1	\N	-	synaptojanin 1 	DUF1866
+ENSXETG00000009913	polq	\N	-	polymerase (DNA directed)%2C theta 	DEAD
+ENSXETG00000009920	wdr3	\N	-	Xenopus tropicalis WD repeat domain 3 (wdr3)%2C mRNA. 	Utp12
+ENSXETG00000009939	prmt6	\N	-	protein arginine methyltransferase 6 	MTS
+ENSXETG00000009952	zbtb41	\N	-	Xenopus tropicalis zinc finger and BTB domain containing 41 (zbtb41)%2C mRNA. 	zf-C2H2
+ENSXETG00000009964	cmtr1	\N	-	cap methyltransferase 1 	FtsJ
+ENSXETG00000009980	ptrh1	\N	-	peptidyl-tRNA hydrolase 1 homolog 	Pept_tRNA_hydro
+ENSXETG00000010001	znf687	\N	-	Xenopus tropicalis zinc finger protein 687 (znf687)%2C mRNA. 	zf-C2H2
+ENSXETG00000010014	nolc1	\N	-	Xenopus tropicalis nucleolar and coiled-body phosphoprotein 1 (nolc1)%2C mRNA. 	SRP40_C
+ENSXETG00000010061	ddx6	\N	-	Xenopus tropicalis DEAD-box helicase 6 (ddx6)%2C mRNA. 	DEAD
+ENSXETG00000010088	mrps17	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S17 (mrps17)%2C mRNA. 	Ribosomal_S17
+ENSXETG00000010093	sbds	\N	-	Xenopus tropicalis SBDS ribosome assembly guanine nucleotide exchange factor (sbds)%2C mRNA. 	SBDS_C
+ENSXETG00000010094	tyw1	\N	-	tRNA-yW synthesizing protein 1 homolog 	Wyosine_form
+ENSXETG00000010098	eef1b2	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 1 beta 2 (eef1b2)%2C mRNA. 	EF1_GNE
+ENSXETG00000010130	-	\N	-	-	RIO1
+ENSXETG00000010135	ddx49	\N	-	Xenopus tropicalis DEAD-box helicase 49 (ddx49)%2C mRNA. 	DEAD
+ENSXETG00000010161	parp14.3	\N	-	poly (ADP-ribose) polymerase family%2C member 14%2C gene 3 	PARP
+ENSXETG00000010171	tdrd7	\N	-	tudor domain containing 7 	TUDOR
+ENSXETG00000010172	fdxacb1	\N	-	ferredoxin-fold anticodon binding domain containing 1 	FDX-ACB
+ENSXETG00000010179	ncbp1	\N	-	nuclear cap binding protein subunit 1 	MIF4G_like_2
+ENSXETG00000010194	pih1d2	\N	-	Xenopus tropicalis PIH1 domain containing 2 (pih1d2)%2C mRNA. 	PIH1
+ENSXETG00000010205	srp72	\N	-	signal recognition particle 72kDa 	SRP72
+ENSXETG00000010234	tial1	\N	-	TIA1 cytotoxic granule-associated RNA binding protein-like 1 	RRM_1
+ENSXETG00000010244	nova1	\N	-	Xenopus tropicalis neuro-oncological ventral antigen 1 (nova1)%2C mRNA. 	KH_1
+ENSXETG00000010289	cpsf2	\N	-	Xenopus tropicalis cleavage and polyadenylation specific factor 2 (cpsf2)%2C mRNA. 	Beta-Casp
+ENSXETG00000010314	ddx24	\N	-	DEAD-box helicase 24 	DEAD
+ENSXETG00000010319	slx4	\N	-	SLX4 structure-specific endonuclease subunit 	zf-met
+ENSXETG00000010326	xpo6	\N	-	exportin 6 	Xpo1
+ENSXETG00000010331	capn15	\N	-	Xenopus tropicalis calpain 15 (capn15)%2C mRNA. 	zf-RanBP
+ENSXETG00000010332	nsun5	\N	-	NOP2/Sun RNA methyltransferase family member 5 	Methyltr_RsmB-F
+ENSXETG00000010337	ern2	\N	-	endoplasmic reticulum to nucleus signaling 2 	Ribonuc_2-5A
+ENSXETG00000010370	-	\N	-	-	Exo_endo_phos
+ENSXETG00000010405	ddx46	\N	-	DEAD-box helicase 46 	DEAD
+ENSXETG00000010408	sar1b	\N	-	Xenopus tropicalis secretion associated%2C Ras related GTPase 1B (sar1b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000010413	tpd52	\N	-	Xenopus tropicalis tumor protein D52 (tpd52)%2C mRNA. 	MRP-S35
+ENSXETG00000010438	eef1aknmt	\N	-	Xenopus tropicalis methyltransferase like 13 (mettl13)%2C mRNA. 	Methyltransf_31
+ENSXETG00000010455	nars2	\N	-	asparaginyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2
+ENSXETG00000010491	pcbp2	\N	-	poly(rC) binding protein 2 	KH_1
+ENSXETG00000010494	znf830	\N	-	Xenopus tropicalis zinc finger protein 830 (znf830)%2C mRNA. 	zf-C2H2_jaz
+ENSXETG00000010512	-	\N	-	-	zf-C2H2
+ENSXETG00000010533	piwil2	\N	-	Xenopus tropicalis piwi-like RNA-mediated gene silencing 2 (piwil2)%2C mRNA. 	Piwi
+ENSXETG00000010534	polr3d	\N	-	Xenopus tropicalis polymerase (RNA) III (DNA directed) polypeptide D%2C 44kDa (polr3d)%2C mRNA. 	RNA_pol_Rpc4
+ENSXETG00000010542	npm2	\N	-	Xenopus tropicalis nucleophosmin/nucleoplasmin 2 (npm2)%2C mRNA. 	Nucleoplasmin
+ENSXETG00000010544	xpo7	\N	-	exportin 7 	IBN_N
+ENSXETG00000010594	cnot4	\N	-	Xenopus tropicalis CCR4-NOT transcription complex subunit 4 (cnot4)%2C mRNA. 	RRM_1
+ENSXETG00000010622	edc3	\N	-	enhancer of mRNA decapping 3 	FDF
+ENSXETG00000010649	trip4	\N	-	Xenopus tropicalis thyroid hormone receptor interactor 4 (trip4)%2C mRNA. 	ASCH
+ENSXETG00000010656	rps17	\N	-	ribosomal protein S17 	Ribosomal_S17e
+ENSXETG00000010712	g3bp1	\N	-	Xenopus tropicalis GTPase activating protein (SH3 domain) binding protein 1 (g3bp1)%2C mRNA. 	NTF2
+ENSXETG00000010721	ints2	\N	-	Xenopus tropicalis integrator complex subunit 2 (ints2)%2C mRNA. 	INTS2
+ENSXETG00000010729	rps3	\N	-	Xenopus tropicalis ribosomal protein S3 (rps3)%2C mRNA. 	Ribosomal_S3_C
+ENSXETG00000010737	ptrh2	\N	-	Xenopus tropicalis peptidyl-tRNA hydrolase 2 (ptrh2)%2C mRNA. 	PTH2
+ENSXETG00000010811	rpl29	\N	-	ribosomal protein L29 	Ribosomal_L29e
+ENSXETG00000010813	poc1a	\N	-	POC1 centriolar protein A 	eIF2A
+ENSXETG00000010840	sltm	\N	-	SAFB-like%2C transcription modulator 	RRM_1
+ENSXETG00000010878	rpl10	\N	-	Xenopus tropicalis ribosomal protein L10 (rpl10)%2C mRNA. 	Ribosomal_L16
+ENSXETG00000010882	polr1c	\N	-	RNA polymerase I and III subunit C 	RNA_pol_A_bac
+ENSXETG00000010883	xpo5	\N	-	exportin 5 	Xpo1
+ENSXETG00000010888	gtpbp2	\N	-	GTP binding protein 2 	GTP_EFTU
+ENSXETG00000010915	arl4c	\N	-	ADP ribosylation factor like GTPase 4C 	MMR_HSR1
+ENSXETG00000010916	prpf31	\N	-	Xenopus tropicalis pre-mRNA processing factor 31 (prpf31)%2C mRNA. 	Nop
+ENSXETG00000010931	nelfe	\N	-	Xenopus tropicalis negative elongation factor complex member E (nelfe)%2C mRNA. 	RRM_1
+ENSXETG00000010932	skiv2l	\N	-	Ski2 like RNA helicase 	rRNA_proc-arch
+ENSXETG00000010939	dhx40	\N	-	DEAH-box helicase 40 	HA2
+ENSXETG00000010944	ppie	\N	-	peptidylprolyl isomerase E (cyclophilin E) 	RRM_1
+ENSXETG00000010946	pabpc4	\N	-	poly(A) binding protein cytoplasmic 4 	RRM_1
+ENSXETG00000010952	trit1	\N	-	Xenopus tropicalis tRNA isopentenyltransferase 1 (trit1)%2C mRNA. 	IPPT
+ENSXETG00000010993	mrtfb	\N	-	Xenopus tropicalis myocardin related transcription factor B (mrtfb)%2C mRNA. 	SAP
+ENSXETG00000010994	parn	\N	-	poly(A)-specific ribonuclease 	CAF1
+ENSXETG00000011004	wdr36	\N	-	Xenopus tropicalis WD repeat domain 36 (wdr36)%2C mRNA. 	Utp21
+ENSXETG00000011035	myocd	\N	-	myocardin 	SAP
+ENSXETG00000011038	sf3b4	\N	-	Xenopus tropicalis splicing factor 3b subunit 4 (sf3b4)%2C mRNA. 	RRM_1
+ENSXETG00000011053	polr3gl	\N	-	polymerase (RNA) III (DNA directed) polypeptide G (32kD)-like 	RNA_pol_3_Rpc31
+ENSXETG00000011062	luc7l3	\N	-	LUC7-like 3 pre-mRNA splicing factor 	LUC7
+ENSXETG00000011086	alkbh1	\N	-	alkB homolog 1%2C histone H2A dioxygenase 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000011118	mrpl20	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L20 (mrpl20)%2C mRNA. 	Ribosomal_L20
+ENSXETG00000011145	pusl1	\N	-	pseudouridine synthase like 1 	PseudoU_synth_1
+ENSXETG00000011174	arf3	\N	-	ADP ribosylation factor 3 	MMR_HSR1
+ENSXETG00000011221	eif2s1	\N	-	eukaryotic translation initiation factor 2 subunit alpha 	EIF_2_alpha
+ENSXETG00000011229	parp11	\N	-	poly(ADP-ribose) polymerase family member 11 	PARP
+ENSXETG00000011258	pabpn1l	\N	-	Xenopus tropicalis poly(A) binding protein%2C nuclear 1-like (cytoplasmic) (pabpn1l)%2C mRNA. 	RRM_1
+ENSXETG00000011268	rbm38	\N	-	Xenopus tropicalis RNA binding motif protein 38 (rbm38)%2C mRNA. 	RRM_1
+ENSXETG00000011290	rbpms	\N	-	RNA binding protein with multiple splicing 	RRM_1
+ENSXETG00000011342	arl4a	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 4A (arl4a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000011370	rab35	\N	-	Xenopus tropicalis similar to RAB35%2C member RAS oncogene family (rab35)%2C mRNA. 	MMR_HSR1
+ENSXETG00000011374	srrm2	\N	-	Xenopus tropicalis serine/arginine repetitive matrix 2 (srrm2)%2C mRNA. 	cwf21
+ENSXETG00000011385	cnot2	\N	-	CCR4-NOT transcription complex subunit 2 	NOT2_3_5
+ENSXETG00000011386	hnrnpu	\N	-	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A) 	SAP
+ENSXETG00000011402	STN1	\N	FLJ22559|OBFC1|bA541N10.2	STN1%2C CST complex subunit 	tRNA_anti-codon
+ENSXETG00000011415	ripk1	\N	-	receptor interacting serine/threonine kinase 1 	RIO1
+ENSXETG00000011429	sart1	\N	-	SART1%2C U4/U6.U5 tri-snRNP-associated protein 1 	SART-1
+ENSXETG00000011431	eif1ad	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 1A domain containing (eif1ad)%2C mRNA. 	eIF-1a
+ENSXETG00000011465	zc3h12a	\N	-	zinc finger CCCH-type containing 12A 	RNase_Zc3h12a
+ENSXETG00000011483	pcbp1	\N	-	poly(rC) binding protein 1 	KH_1
+ENSXETG00000011501	rpp25l	\N	-	ribonuclease P/MRP 25kDa subunit-like 	Alba
+ENSXETG00000011509	utp11	\N	-	UTP11%2C small subunit processome component 	Utp11
+ENSXETG00000011515	nop2	\N	-	NOP2 nucleolar protein 	Methyltr_RsmB-F
+ENSXETG00000011523	rtcb	\N	-	Xenopus tropicalis RNA 2'%2C3'-cyclic phosphate and 5'-OH ligase (rtcb)%2C mRNA. 	RtcB
+ENSXETG00000011525	-	\N	-	-	Exo_endo_phos
+ENSXETG00000011534	lsm3	\N	-	Xenopus tropicalis LSM3 homolog%2C U6 small nuclear RNA and mRNA degradation associated (lsm3)%2C mRNA. 	LSM
+ENSXETG00000011541	p3h3	\N	-	prolyl 3-hydroxylase 3 	hmm_2OG-FeII_Oxy
+ENSXETG00000011562	luc7l	\N	-	Xenopus tropicalis LUC7-like (luc7l)%2C mRNA. 	LUC7
+ENSXETG00000011564	mrpl28	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L28 (mrpl28)%2C mRNA. 	Ribosomal_L28
+ENSXETG00000011592	fam172a	\N	-	Xenopus tropicalis family with sequence similarity 172 member A (fam172a)%2C mRNA. 	Arb2
+ENSXETG00000011622	raver1	\N	-	ribonucleoprotein%2C PTB-binding 1 	RRM_1
+ENSXETG00000011651	ilf3	\N	-	interleukin enhancer binding factor 3 	DZF
+ENSXETG00000011655	zeb1	\N	-	Xenopus tropicalis zinc finger E-box binding homeobox 1 (zeb1)%2C mRNA. 	zf-C2H2
+ENSXETG00000011677	rasl11b	\N	-	Xenopus tropicalis RAS like family 11 member B (rasl11b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000011679	fip1l1	\N	-	Xenopus tropicalis factor interacting with PAPOLA and CPSF1 (fip1l1)%2C mRNA. 	Fip1
+ENSXETG00000011700	trmt11	\N	-	tRNA methyltransferase 11 homolog 	UPF0020
+ENSXETG00000011707	pum3	\N	-	pumilio RNA binding family member 3 	CPL
+ENSXETG00000011722	hnrnpk	\N	-	heterogeneous nuclear ribonucleoprotein K 	KH_1
+ENSXETG00000011767	ddx43	\N	-	Xenopus tropicalis DEAD-box helicase 43 (ddx43)%2C mRNA. 	DEAD
+ENSXETG00000011794	pan3	\N	-	Xenopus tropicalis poly(A) specific ribonuclease subunit PAN3 (pan3)%2C mRNA. 	zf-CCCH
+ENSXETG00000011814	tf	\N	-	transferrin 	MMR_HSR1
+ENSXETG00000011826	stau2	\N	-	staufen double-stranded RNA binding protein 2 	dsrm
+ENSXETG00000011846	bysl	\N	-	Xenopus tropicalis bystin like (bysl)%2C mRNA. 	Bystin
+ENSXETG00000011858	cmss1	\N	-	Xenopus tropicalis cms1 ribosomal small subunit homolog (cmss1)%2C mRNA. 	CMS1
+ENSXETG00000011876	etf1	\N	-	Xenopus tropicalis eukaryotic translation termination factor 1 (etf1)%2C mRNA. 	eRF1_2
+ENSXETG00000011938	prpf19	\N	-	Xenopus tropicalis pre-mRNA processing factor 19 (prpf19)%2C mRNA. 	Prp19
+ENSXETG00000011968	arid4a	\N	-	AT-rich interaction domain 4A 	Tudor-knot
+ENSXETG00000011993	srp19	\N	-	signal recognition particle 19kDa 	SRP19
+ENSXETG00000012054	prpf6	\N	-	Xenopus tropicalis pre-mRNA processing factor 6 (prpf6)%2C mRNA. 	PRP1_N
+ENSXETG00000012109	aar2	\N	-	Xenopus tropicalis AAR2 splicing factor homolog (aar2)%2C mRNA. 	AAR2
+ENSXETG00000012132	trmt10a	\N	-	tRNA methyltransferase 10A 	tRNA_m1G_MT
+ENSXETG00000012144	fam83d	\N	-	family with sequence similarity 83 member D 	FAM83
+ENSXETG00000012145	dhx35	\N	-	DEAH-box helicase 35 	HA2
+ENSXETG00000012164	hdlbp	\N	-	Xenopus tropicalis high density lipoprotein binding protein (vigilin) (hdlbp)%2C mRNA. 	KH_1
+ENSXETG00000012166	sept2	\N	-	Xenopus tropicalis septin 2 (sept2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000012170	hnrnpa2b1	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein A2/B1 (hnrnpa2b1)%2C transcript variant 1%2C mRNA. 	RRM_1
+ENSXETG00000012176	dhx34	\N	-	Xenopus tropicalis DEAH-box helicase 34 (dhx34)%2C mRNA. 	HA2
+ENSXETG00000012190	cpeb3	\N	-	Xenopus tropicalis cytoplasmic polyadenylation element binding protein 3 (cpeb3)%2C mRNA. 	RRM_1
+ENSXETG00000012210	wdhd1	\N	-	WD repeat and HMG-box DNA binding protein 1 	eIF2A
+ENSXETG00000012216	msi1	\N	-	musashi RNA binding protein 1 	RRM_1
+ENSXETG00000012228	coq5	\N	-	coenzyme Q5%2C methyltransferase 	Methyltransf_31
+ENSXETG00000012252	dnm1l	\N	-	dynamin 1-like 	MMR_HSR1
+ENSXETG00000012260	tiparp	\N	-	Xenopus tropicalis TCDD inducible poly(ADP-ribose) polymerase (tiparp)%2C mRNA. 	PARP
+ENSXETG00000012261	sept9	\N	-	septin 9 	MMR_HSR1
+ENSXETG00000012271	yars2	\N	-	tyrosyl-tRNA synthetase 2 	tRNA-synt_1b
+ENSXETG00000012290	srp54	\N	-	signal recognition particle 54kDa 	SRP54
+ENSXETG00000012292	-	\N	-	up-regulator of cell proliferation-like 	MMR_HSR1
+ENSXETG00000012296	celf3	\N	-	CUGBP%2C Elav-like family member 3 	RRM_1
+ENSXETG00000012324	lin28a	\N	-	Xenopus tropicalis lin-28 homolog A (lin28a)%2C transcript variant 2%2C mRNA. 	CSD
+ENSXETG00000012326	sall4	\N	-	Xenopus tropicalis spalt-like transcription factor 4 (sall4)%2C mRNA. 	zf-C2H2
+ENSXETG00000012344	dis3	\N	-	Xenopus tropicalis DIS3 homolog%2C exosome endoribonuclease and 3'-5' exoribonuclease (dis3)%2C mRNA. 	RNB
+ENSXETG00000012371	SRSF11	\N	NET2|SFRS11|p54	serine and arginine rich splicing factor 11 	RRM_1
+ENSXETG00000012374	rpl10a	\N	-	Xenopus tropicalis ribosomal protein L10a (rpl10a)%2C mRNA. 	Ribosomal_L1
+ENSXETG00000012392	gadd45a	\N	-	Xenopus tropicalis growth arrest and DNA damage inducible alpha (gadd45a)%2C mRNA. 	Ribosomal_L7Ae
+ENSXETG00000012394	serbp1	\N	-	Xenopus tropicalis SERPINE1 mRNA binding protein 1 (serbp1)%2C transcript variant 1%2C mRNA. 	HABP4_PAI-RBP1
+ENSXETG00000012433	ears2	\N	-	Xenopus tropicalis glutamyl-tRNA synthetase 2%2C mitochondrial (ears2)%2C mRNA. 	tRNA-synt_1c
+ENSXETG00000012465	polr2a	\N	-	polymerase (RNA) II (DNA directed) polypeptide A%2C 220kDa 	RNA_pol_Rpb1_1
+ENSXETG00000012469	puf60	\N	-	Xenopus tropicalis poly(U) binding splicing factor 60KDa (puf60)%2C mRNA. 	RRM_1
+ENSXETG00000012470	frg1	\N	-	Xenopus tropicalis FSHD region gene 1 (frg1)%2C mRNA. 	FRG1
+ENSXETG00000012505	mrpl58	\N	-	mitochondrial ribosomal protein L58 	RF-1
+ENSXETG00000012506	znf91	\N	-	zinc finger protein 91 	zf-C2H2
+ENSXETG00000012510	mrps7	\N	-	mitochondrial ribosomal protein S7 	Ribosomal_S7
+ENSXETG00000012515	dhx9	\N	-	DEAH-box helicase 9 	dsrm
+ENSXETG00000012528	smg7	\N	-	Xenopus tropicalis SMG7 nonsense mediated mRNA decay factor (smg7)%2C mRNA. 	EST1_DNA_bind
+ENSXETG00000012532	tsen54	\N	-	Xenopus tropicalis tRNA splicing endonuclease subunit 54 (tsen54)%2C mRNA. 	tRNA_int_end_N2
+ENSXETG00000012544	mettl6	\N	-	methyltransferase like 6 	Methyltransf_31
+ENSXETG00000012559	mrm2	\N	-	mitochondrial rRNA methyltransferase 2 	FtsJ
+ENSXETG00000012569	hnrnpd	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein D (hnrnpd)%2C mRNA. 	RRM_1
+ENSXETG00000012572	piwil3	\N	-	piwi-like RNA-mediated gene silencing 3 	Piwi
+ENSXETG00000012578	unk	\N	-	unkempt family zinc finger 	zf-CCCH
+ENSXETG00000012579	polg2	\N	-	polymerase (DNA directed)%2C gamma 2%2C accessory subunit 	HGTP_anticodon
+ENSXETG00000012580	ddx5	\N	-	Xenopus tropicalis DEAD-box helicase 5 (ddx5)%2C mRNA. 	DEAD
+ENSXETG00000012596	elac2	\N	-	Xenopus tropicalis elaC ribonuclease Z 2 (elac2)%2C mRNA. 	Lactamase_B_4
+ENSXETG00000012644	tarbp2	\N	-	TAR (HIV-1) RNA binding protein 2 	dsrm
+ENSXETG00000012648	rexo2	\N	-	RNA exonuclease 2 	RNase_T
+ENSXETG00000012654	rbm7	\N	-	Xenopus tropicalis RNA binding motif protein 7 (rbm7)%2C mRNA. 	RRM_1
+ENSXETG00000012658	pcbp3	\N	-	Xenopus tropicalis poly(rC) binding protein 3 (pcbp3)%2C mRNA. 	KH_1
+ENSXETG00000012704	mex3a	\N	-	mex-3 RNA binding family member A 	KH_1
+ENSXETG00000012711	ppargc1b	\N	-	peroxisome proliferator-activated receptor gamma%2C coactivator 1 beta 	RRM_1
+ENSXETG00000012766	eif5	\N	-	eukaryotic translation initiation factor 5 	eIF-5_eIF-2B
+ENSXETG00000012767	mark3	\N	-	microtubule affinity regulating kinase 3 	RIO1
+ENSXETG00000012802	rbm47	\N	-	Xenopus tropicalis RNA binding motif protein 47 (rbm47)%2C mRNA. 	RRM_1
+ENSXETG00000012806	mettl18	\N	-	Xenopus tropicalis methyltransferase like 18 (mettl18)%2C mRNA. 	MTS
+ENSXETG00000012845	p3h2	\N	-	prolyl 3-hydroxylase 2 	hmm_2OG-FeII_Oxy
+ENSXETG00000012856	rpl9	\N	-	ribosomal protein L9 	Ribosomal_L6
+ENSXETG00000012897	dph6	\N	-	diphthamine biosynthesis 6 	Ribonuc_L-PSP
+ENSXETG00000012901	aqr	\N	-	aquarius intron-binding spliceosomal factor 	ResIII
+ENSXETG00000012904	pum1	\N	-	pumilio RNA binding family member 1 	PUF
+ENSXETG00000012917	zcchc17	\N	-	Xenopus tropicalis zinc finger CCHC-type containing 17 (zcchc17)%2C mRNA. 	S1
+ENSXETG00000012928	dnase1	\N	-	deoxyribonuclease I 	Exo_endo_phos
+ENSXETG00000012963	ssu72	\N	-	Xenopus tropicalis SSU72 homolog%2C RNA polymerase II CTD phosphatase (ssu72)%2C mRNA. 	Ssu72
+ENSXETG00000012965	ncbp3	\N	-	nuclear cap binding subunit 3 	NCBP3
+ENSXETG00000012991	chd3	\N	-	chromodomain helicase DNA binding protein 3 	ResIII
+ENSXETG00000013036	akap8	\N	-	Xenopus tropicalis A-kinase anchoring protein 8 (akap8)%2C mRNA. 	AKAP95
+ENSXETG00000013044	sugp1	\N	-	Xenopus tropicalis SURP and G-patch domain containing 1 (sugp1)%2C mRNA. 	Surp
+ENSXETG00000013049	mfn2	\N	-	mitofusin 2 	MMR_HSR1
+ENSXETG00000013066	gtpbp3	\N	-	GTP binding protein 3%2C mitochondrial 	MMR_HSR1
+ENSXETG00000013112	sept7	\N	-	septin 7 	MMR_HSR1
+ENSXETG00000013123	ccdc12	\N	-	coiled-coil domain containing 12 	cwf18
+ENSXETG00000013132	scaf8	\N	-	SR-related CTD associated factor 8 	RRM_1
+ENSXETG00000013137	fubp1	\N	-	Xenopus tropicalis far upstream element binding protein 1 (fubp1)%2C mRNA. 	KH_1
+ENSXETG00000013176	ifih1	\N	-	interferon induced%2C with helicase C domain 1 	RIG-I_C-RD
+ENSXETG00000013194	riok2	\N	-	Xenopus tropicalis RIO kinase 2 (riok2)%2C mRNA. 	RIO1
+ENSXETG00000013204	trmt13	\N	-	Xenopus tropicalis tRNA methyltransferase 13 homolog (S. cerevisiae) (trmt13)%2C mRNA. 	TRM13
+ENSXETG00000013261	eif2b2	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 2B subunit beta (eif2b2)%2C mRNA. 	IF-2B
+ENSXETG00000013293	lin28b	\N	-	lin-28 homolog B 	CSD
+ENSXETG00000013336	zc3h15	\N	-	Xenopus tropicalis zinc finger CCCH-type containing 15 (zc3h15)%2C mRNA. 	zf-CCCH
+ENSXETG00000013339	sf3b1	\N	-	splicing factor 3b subunit 1 	SF3b1
+ENSXETG00000013345	rab9a	\N	-	Xenopus tropicalis RAB9A%2C member RAS oncogene family (rab9a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000013349	gemin8	\N	-	Xenopus tropicalis gem nuclear organelle associated protein 8 (gemin8)%2C mRNA. 	GEMIN8
+ENSXETG00000013412	poldip3	\N	-	Xenopus tropicalis polymerase (DNA-directed)%2C delta interacting protein 3 (poldip3)%2C mRNA. 	RRM_1
+ENSXETG00000013414	rrp7a	\N	-	ribosomal RNA processing 7 homolog A 	RRP7
+ENSXETG00000013436	ybx1	\N	-	Xenopus tropicalis Y-box binding protein 1 (ybx1)%2C mRNA. 	CSD
+ENSXETG00000013443	twistnb	\N	-	TWIST neighbor 	SHS2_Rpb7-N
+ENSXETG00000013464	rimkla	\N	-	ribosomal modification protein rimK-like family member A 	RimK
+ENSXETG00000013477	taf15	\N	-	TATA-box binding protein associated factor 15 	RRM_1
+ENSXETG00000013524	recql	\N	-	RecQ like helicase 	DEAD
+ENSXETG00000013525	zmat4	\N	-	zinc finger matrin-type 4 	zf-met
+ENSXETG00000013538	rpa1	\N	-	Xenopus tropicalis replication protein A1 (rpa1)%2C mRNA. 	tRNA_anti-codon
+ENSXETG00000013568	ddx20	\N	-	DEAD-box helicase 20 	DEAD
+ENSXETG00000013593	mbd3	\N	-	Xenopus tropicalis methyl-CpG binding domain protein 3 (mbd3)%2C mRNA. 	MBD
+ENSXETG00000013596	rps8	\N	-	Xenopus tropicalis ribosomal protein S8 (rps8)%2C mRNA. 	Ribosomal_S8e
+ENSXETG00000013602	upf1	\N	-	UPF1 regulator of nonsense transcripts homolog 	UPF1_Zn_bind
+ENSXETG00000013633	rab30	\N	-	Xenopus tropicalis RAB30%2C member RAS oncogene family (rab30)%2C mRNA. 	MMR_HSR1
+ENSXETG00000013644	aarsd1	\N	-	Xenopus tropicalis alanyl-tRNA synthetase domain containing 1 (aarsd1)%2C mRNA. 	tRNA_SAD
+ENSXETG00000013647	rpl27	\N	-	Xenopus tropicalis ribosomal protein L27 (rpl27)%2C mRNA. 	Ribosomal_L27e
+ENSXETG00000013672	dhx8	\N	-	DEAH-box helicase 8 	HA2
+ENSXETG00000013674	eif4g2	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4 gamma%2C 2 (eif4g2)%2C mRNA. 	MIF4G
+ENSXETG00000013683	rrp1b	\N	-	ribosomal RNA processing 1B 	Nop52
+ENSXETG00000013688	mbd2	\N	-	methyl-CpG binding domain protein 2 	MBD
+ENSXETG00000013720	eif4a3	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4A3 (eif4a3)%2C mRNA. 	DEAD
+ENSXETG00000013744	znf319	\N	-	zinc finger protein 319 	zf-C2H2
+ENSXETG00000013749	polr1b	\N	-	polymerase (RNA) I polypeptide B 	RNA_pol_Rpb2_6
+ENSXETG00000013762	zc3h6	\N	-	Xenopus tropicalis zinc finger CCCH type containing 6 (zc3h6)%2C mRNA. 	zf-CCCH
+ENSXETG00000013784	polr2c	\N	-	polymerase (RNA) II (DNA directed) polypeptide C%2C 33kDa 	RNA_pol_A_bac
+ENSXETG00000013795	usb1	\N	-	U6 snRNA biogenesis phosphodiesterase 1 	HVSL
+ENSXETG00000013836	sept10	\N	-	Xenopus tropicalis septin 10 (sept10)%2C mRNA. 	MMR_HSR1
+ENSXETG00000013850	grsf1	\N	-	Xenopus tropicalis G-rich RNA sequence binding factor 1 (grsf1)%2C mRNA. 	RRM_1
+ENSXETG00000013875	inpp5d	\N	-	inositol polyphosphate-5-phosphatase D 	Exo_endo_phos
+ENSXETG00000013882	-	\N	-	-	zf-C2H2
+ENSXETG00000013916	arf5	\N	-	Xenopus tropicalis ADP ribosylation factor 5 (arf5)%2C mRNA. 	MMR_HSR1
+ENSXETG00000013949	papola	\N	-	Xenopus tropicalis poly(A) polymerase alpha (papola)%2C mRNA. 	PAP_RNA-bind
+ENSXETG00000014011	rab1a	\N	-	Xenopus tropicalis RAB1A%2C member RAS oncogene family (rab1a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000014017	mrpl23	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L23 (mrpl23)%2C mRNA. 	Ribosomal_L23
+ENSXETG00000014099	cwc22	\N	-	CWC22 homolog%2C spliceosome-associated protein 	MA3
+ENSXETG00000014108	gstcd	\N	-	glutathione S-transferase%2C C-terminal domain containing 	Methyltransf_31
+ENSXETG00000014115	son	\N	-	SON DNA binding protein 	G-patch
+ENSXETG00000014144	rpl13a	\N	-	Xenopus tropicalis ribosomal protein L13a (rpl13a)%2C mRNA. 	Ribosomal_L13
+ENSXETG00000014146	rps11	\N	-	ribosomal protein S11 	Ribosomal_S17
+ENSXETG00000014162	ntmt1	\N	-	Xenopus tropicalis N-terminal Xaa-Pro-Lys N-methyltransferase 1 (ntmt1)%2C mRNA. 	Methyltransf_31
+ENSXETG00000014167	patl2	\N	-	protein associated with topoisomerase II homolog 2 	PAT1
+ENSXETG00000014184	atxn1	\N	-	ataxin 1 	AXH
+ENSXETG00000014186	prmt3	\N	-	protein arginine methyltransferase 3 	Methyltransf_31
+ENSXETG00000014197	nup153	\N	-	nucleoporin 153kDa 	zf-RanBP
+ENSXETG00000014212	ftsj1	\N	-	FtsJ RNA methyltransferase homolog 1 	FtsJ
+ENSXETG00000014242	mecp2	\N	-	Xenopus tropicalis methyl-CpG binding protein 2 (mecp2)%2C mRNA. 	MBD
+ENSXETG00000014250	arf1	\N	-	Xenopus tropicalis ADP ribosylation factor 1 (arf1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000014257	mgc75872	\N	-	uncharacterized protein mgc75872 	MMR_HSR1
+ENSXETG00000014290	ilf2	\N	-	interleukin enhancer binding factor 2 	DZF
+ENSXETG00000014292	ints3	\N	-	integrator complex subunit 3 	Ints3
+ENSXETG00000014293	eif2b5	\N	-	eukaryotic translation initiation factor 2B subunit epsilon 	W2
+ENSXETG00000014329	-	\N	-	-	RNA_pol_Rpb1_5
+ENSXETG00000014344	celf5	\N	-	Xenopus tropicalis CUGBP Elav-like family member 5 (celf5)%2C mRNA. 	RRM_1
+ENSXETG00000014357	angel2	\N	-	angel homolog 2 	Exo_endo_phos
+ENSXETG00000014380	srsf4	\N	-	serine/arginine-rich splicing factor 4 	RRM_1
+ENSXETG00000014411	lars2	\N	-	leucyl-tRNA synthetase 2 	tRNA-synt_1
+ENSXETG00000014420	yrdc	\N	-	Xenopus tropicalis yrdC N6-threonylcarbamoyltransferase domain containing (yrdc)%2C mRNA. 	Sua5_yciO_yrdC
+ENSXETG00000014435	inpp5b	\N	-	inositol polyphosphate-5-phosphatase B 	Exo_endo_phos
+ENSXETG00000014455	trmt5	\N	-	tRNA methyltransferase 5 	Met_10
+ENSXETG00000014458	ddx10	\N	-	DEAD-box helicase 10 	DEAD
+ENSXETG00000014472	npm3	\N	-	Xenopus tropicalis nucleophosmin/nucleoplasmin 3 (npm3)%2C mRNA. 	Nucleoplasmin
+ENSXETG00000014487	alkbh8	\N	-	Xenopus tropicalis alkB homolog 8%2C tRNA methyltransferase (alkbh8)%2C mRNA. 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000014539	ccdc59	\N	-	Xenopus tropicalis coiled-coil domain containing 59 (ccdc59)%2C mRNA. 	rRNA_processing
+ENSXETG00000014552	NANOS2	\N	NOS2|ZC2HC12B	nanos C2HC-type zinc finger 2 	zf-nanos
+ENSXETG00000014562	ngdn	\N	-	Xenopus tropicalis neuroguidin (ngdn)%2C mRNA. 	Sas10_Utp3
+ENSXETG00000014586	enox1	\N	-	ecto-NOX disulfide-thiol exchanger 1 	RRM_1
+ENSXETG00000014597	pabpn1	\N	-	Xenopus tropicalis poly(A) binding protein%2C nuclear 1 (pabpn1)%2C mRNA. 	RRM_1
+ENSXETG00000014621	ipo4	\N	-	importin 4 	IBN_N
+ENSXETG00000014637	zc3h13	\N	-	zinc finger CCCH-type containing 13 	zf-CCCH
+ENSXETG00000014694	rbm12b	\N	-	RNA binding motif protein 12B 	RRM_1
+ENSXETG00000014696	rbm12b	\N	-	Xenopus tropicalis RNA binding motif protein 12B (rbm12b)%2C mRNA. 	RRM_1
+ENSXETG00000014707	rnmt	\N	-	RNA (guanine-7-) methyltransferase 	Pox_MCEL
+ENSXETG00000014711	nop14	\N	-	NOP14 nucleolar protein 	Nop14
+ENSXETG00000014717	kpnb1	\N	-	karyopherin (importin) beta 1 	IBN_N
+ENSXETG00000014771	mrpl44	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L44 (mrpl44)%2C mRNA. 	dsrm
+ENSXETG00000014778	nufip1	\N	-	Xenopus tropicalis nuclear fragile X mental retardation protein interacting protein 1 (nufip1)%2C mRNA. 	NUFIP1
+ENSXETG00000014797	mterf2	\N	-	mitochondrial transcription termination factor 2 	mTERF
+ENSXETG00000014823	ipo11	\N	-	Xenopus tropicalis importin 11 (ipo11)%2C mRNA. 	IBN_N
+ENSXETG00000014826	tdp2	\N	-	tyrosyl-DNA phosphodiesterase 2 	Exo_endo_phos
+ENSXETG00000014830	dimt1	\N	-	Xenopus tropicalis DIM1 dimethyladenosine transferase 1 homolog (dimt1)%2C mRNA. 	RrnaAD
+ENSXETG00000014835	ercc6l2	\N	-	excision repair cross-complementation group 6 like 2 	ResIII
+ENSXETG00000014840	znf367	\N	-	zinc finger protein 367 	zf-C2H2
+ENSXETG00000014841	habp4	\N	-	hyaluronan binding protein 4 	HABP4_PAI-RBP1
+ENSXETG00000014911	clgn	\N	-	calmegin 	Calreticulin
+ENSXETG00000014931	pnkd	\N	-	Xenopus tropicalis PNKD%2C MBL domain containing (pnkd)%2C mRNA. 	Lactamase_B
+ENSXETG00000014935	ralb	\N	-	v-ral simian leukemia viral oncogene homolog B 	GTP_EFTU
+ENSXETG00000014962	nop56	\N	-	NOP56 ribonucleoprotein 	Nop
+ENSXETG00000014990	atxn2l	\N	-	ataxin 2-like 	SM-ATX
+ENSXETG00000014992	eif4e2	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4E family member 2 (eif4e2)%2C mRNA. 	IF4E
+ENSXETG00000014997	nfx1	\N	-	nuclear transcription factor%2C X-box binding 1 	R3H
+ENSXETG00000015007	rbm45	\N	-	RNA binding motif protein 45 	RRM_1
+ENSXETG00000015009	tnpo3	\N	-	transportin 3 	Xpo1
+ENSXETG00000015059	znf385b	\N	-	zinc finger protein 385B 	zf-met
+ENSXETG00000015125	-	\N	-	-	zf-C2H2
+ENSXETG00000015129	rps10	\N	-	Xenopus tropicalis ribosomal protein S10 (rps10)%2C mRNA. 	S10_plectin
+ENSXETG00000015206	mrpl43	\N	-	mitochondrial ribosomal protein L43 	L51_S25_CI-B8
+ENSXETG00000015225	arl3	\N	-	ADP ribosylation factor like GTPase 3 	MMR_HSR1
+ENSXETG00000015280	snupn	\N	-	Xenopus tropicalis snurportin 1 (snupn)%2C mRNA. 	Snurportin1
+ENSXETG00000015299	smarca2	\N	-	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 2 	BRK
+ENSXETG00000015319	scaper	\N	-	S-phase cyclin A-associated protein in the ER 	zf-met
+ENSXETG00000015395	helz	\N	-	helicase with zinc finger 	zf-CCCH
+ENSXETG00000015415	SMNDC1	\N	SMNR|SPF30|TDRD16C	survival motor neuron domain containing 1 	SMN
+ENSXETG00000015435	rreb1	\N	-	ras responsive element binding protein 1 	zf-C2H2
+ENSXETG00000015439	-	\N	-	-	RRM_1
+ENSXETG00000015468	rpl37a	\N	-	Xenopus tropicalis ribosomal protein L37a (rpl37a)%2C mRNA. 	Ribosomal_L37ae
+ENSXETG00000015477	ddx3x	\N	-	DEAD-box helicase 3 X-linked 	DEAD
+ENSXETG00000015483	rpl8	\N	-	Xenopus tropicalis ribosomal protein L8 (rpl8)%2C mRNA. 	Ribosomal_L2_C
+ENSXETG00000015491	rasef	\N	-	RAS and EF-hand domain containing 	MMR_HSR1
+ENSXETG00000015501	-	\N	-	-	MMR_HSR1
+ENSXETG00000015507	rpl32	\N	-	ribosomal protein L32 	Ribosomal_L32e
+ENSXETG00000015515	-	\N	-	-	MMR_HSR1
+ENSXETG00000015598	zfr	\N	-	zinc finger RNA binding protein 	DZF
+ENSXETG00000015624	tert	\N	-	telomerase reverse transcriptase 	Telomerase_RBD
+ENSXETG00000015633	naa38	\N	-	Xenopus tropicalis N(alpha)-acetyltransferase 38%2C NatC auxiliary subunit (naa38)%2C mRNA. 	LSM
+ENSXETG00000015662	dcp1a	\N	-	decapping mRNA 1A 	DCP1
+ENSXETG00000015666	setdb2	\N	-	Xenopus tropicalis SET domain bifurcated 2 (setdb2)%2C mRNA. 	MBD
+ENSXETG00000015673	arl11	\N	-	ADP ribosylation factor like GTPase 11 	MMR_HSR1
+ENSXETG00000015701	EFL1	\N	EFTUD1|FAM42A|FLJ13119|HsT19294|RIA1	elongation factor like GTPase 1 	GTP_EFTU
+ENSXETG00000015705	qki	\N	-	Xenopus tropicalis QKI%2C KH domain containing%2C RNA binding (qki)%2C mRNA. 	KH_1
+ENSXETG00000015708	nrde2	\N	-	Xenopus tropicalis NRDE-2%2C necessary for RNA interference%2C domain containing (nrde2)%2C mRNA. 	NRDE-2
+ENSXETG00000015712	rabl2b	\N	-	Xenopus tropicalis RAB%2C member of RAS oncogene family like 2B (rabl2b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000015794	ehd4	\N	-	Xenopus tropicalis EH domain containing 4 (ehd4)%2C mRNA. 	MMR_HSR1
+ENSXETG00000015815	rps14	\N	-	Xenopus tropicalis ribosomal protein S14 (rps14)%2C mRNA. 	Ribosomal_S11
+ENSXETG00000015865	dis3l	\N	-	Xenopus tropicalis DIS3 like exosome 3'-5' exoribonuclease (dis3l)%2C mRNA. 	RNB
+ENSXETG00000015884	cmtr2	\N	-	cap methyltransferase 2 	FtsJ
+ENSXETG00000015898	rpl4	\N	-	Xenopus tropicalis ribosomal protein L4 (rpl4)%2C mRNA. 	Ribosomal_L4
+ENSXETG00000015900	cnot1	\N	-	CCR4-NOT transcription complex subunit 1 	Not1
+ENSXETG00000015908	eif4e3	\N	-	eukaryotic translation initiation factor 4E family member 3 	IF4E
+ENSXETG00000015914	rybp	\N	-	Xenopus tropicalis RING1 and YY1 binding protein (rybp)%2C mRNA. 	zf-RanBP
+ENSXETG00000015953	lactb2	\N	-	lactamase beta 2 	Lactamase_B
+ENSXETG00000015973	rpusd2	\N	-	RNA pseudouridylate synthase domain containing 2 	PseudoU_synth_2
+ENSXETG00000015984	nol12	\N	-	nucleolar protein 12 	Nop25
+ENSXETG00000015985	-	\N	-	Xenopus tropicalis uncharacterized loc100216173 (LOC100216173)%2C mRNA. 	Methyltransf_31
+ENSXETG00000016006	ranbp2	\N	-	RAN binding protein 2 	zf-RanBP
+ENSXETG00000016041	zbtb49	\N	-	zinc finger and BTB domain containing 49 	zf-C2H2
+ENSXETG00000016062	znf184	\N	-	Xenopus tropicalis zinc finger protein 184 (znf184)%2C mRNA. 	zf-C2H2
+ENSXETG00000016084	bnc1	\N	-	basonuclin 1 	zf-met
+ENSXETG00000016091	e4f1	\N	-	Xenopus tropicalis E4F transcription factor 1 (e4f1)%2C mRNA. 	zf-C2H2
+ENSXETG00000016114	dnd1	\N	-	Xenopus tropicalis DND microRNA-mediated repression inhibitor 1 (dnd1)%2C mRNA. 	DND1_DSRM
+ENSXETG00000016115	hars	\N	-	histidyl-tRNA synthetase 	tRNA-synt_His
+ENSXETG00000016118	zmat2	\N	-	zinc finger matrin-type 2 	zf-C2H2_jaz
+ENSXETG00000016140	mrps23	\N	-	mitochondrial ribosomal protein S23 	MRP-S23
+ENSXETG00000016144	sf3a1	\N	-	splicing factor 3a subunit 1 	Surp
+ENSXETG00000016154	inpp5j	\N	-	inositol polyphosphate-5-phosphatase J 	Exo_endo_phos
+ENSXETG00000016162	hnrnpc	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein C (C1/C2) (hnrnpc)%2C mRNA. 	RRM_1
+ENSXETG00000016176	rab7a	\N	-	Xenopus tropicalis RAB7A%2C member RAS oncogene family (rab7a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000016195	thoc2	\N	-	THO complex 2 	Tho2
+ENSXETG00000016204	rbms1	\N	-	RNA binding motif%2C single stranded interacting protein 1 	RRM_1
+ENSXETG00000016219	rnaset2	\N	-	Xenopus tropicalis ribonuclease T2 (rnaset2)%2C mRNA. 	Ribonuclease_T2
+ENSXETG00000016224	tarbp1	\N	-	TAR (HIV-1) RNA binding protein 1 	SpoU_methylase
+ENSXETG00000016239	ybx3	\N	-	Xenopus tropicalis Y-box binding protein 3 (ybx3)%2C mRNA. 	CSD
+ENSXETG00000016255	tdrd6	\N	-	tudor domain containing 6 	TUDOR
+ENSXETG00000016266	trim69.1	\N	-	tripartite motif-containing 69%2C gene 1 	Tudor-knot
+ENSXETG00000016308	gtpbp8	\N	-	GTP-binding protein 8 (putative) 	MMR_HSR1
+ENSXETG00000016327	mrrf	\N	-	Xenopus tropicalis mitochondrial ribosome recycling factor (mrrf)%2C mRNA. 	RRF
+ENSXETG00000016328	rbm18	\N	-	RNA binding motif protein 18 	RRM_1
+ENSXETG00000016401	cad	\N	-	carbamoyl-phosphate synthetase 2%2C aspartate transcarbamylase%2C and dihydroorotase 	RimK
+ENSXETG00000016410	ddx54	\N	-	DEAD-box helicase 54 	DEAD
+ENSXETG00000016416	rasl10a	\N	-	Xenopus tropicalis RAS like family 10 member A (rasl10a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000016495	mak16	\N	-	Xenopus tropicalis MAK16 homolog (mak16)%2C mRNA. 	Ribosomal_L28e
+ENSXETG00000016497	mphosph10	\N	-	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein) 	Mpp10
+ENSXETG00000016499	-	\N	-	nucleoplasmin ATPase-like 	Nucleoplasmin
+ENSXETG00000016505	endou	\N	-	Xenopus tropicalis endonuclease%2C polyU-specific (endou)%2C mRNA. 	XendoU
+ENSXETG00000016536	slu7	\N	-	SLU7 homolog%2C splicing factor 	Slu7
+ENSXETG00000016541	mapk9	\N	-	mitogen-activated protein kinase 9 	RIO1
+ENSXETG00000016582	recql4	\N	-	Xenopus tropicalis RecQ helicase-like 4 (recql4)%2C mRNA. 	DEAD
+ENSXETG00000016617	zc3h7a	\N	-	Xenopus tropicalis zinc finger CCCH-type containing 7A (zc3h7a)%2C mRNA. 	zf-CCCH
+ENSXETG00000016659	eri2	\N	-	ERI1 exoribonuclease family member 2 	RNase_T
+ENSXETG00000016701	drosha	\N	-	drosha ribonuclease type III 	Ribonucleas_3_3
+ENSXETG00000016735	rexo5	\N	-	RNA exonuclease 5 	RRM_1
+ENSXETG00000016741	elavl3	\N	-	ELAV like neuron-specific RNA binding protein 3 	RRM_1
+ENSXETG00000016758	mgc147600	\N	-	Xenopus tropicalis RAS and EF-hand domain containing (rasef)%2C mRNA. 	MMR_HSR1
+ENSXETG00000016781	-	\N	-	Xenopus tropicalis zinc finger protein 84 (LOC496795)%2C mRNA. 	zf-C2H2
+ENSXETG00000016795	imp4	\N	-	IMP4%2C U3 small nucleolar ribonucleoprotein 	Brix
+ENSXETG00000016812	tnpo1	\N	-	transportin 1 	IBN_N
+ENSXETG00000016821	utp15	\N	-	Xenopus tropicalis UTP15%2C small subunit processome component (utp15)%2C mRNA. 	UTP15_C
+ENSXETG00000016826	mccc1	\N	-	Xenopus tropicalis methylcrotonoyl-CoA carboxylase 1 (mccc1)%2C mRNA. 	RimK
+ENSXETG00000016843	rpl35	\N	-	Xenopus tropicalis ribosomal protein L35 (rpl35)%2C mRNA. 	Ribosomal_L29
+ENSXETG00000016882	larp4b	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 4B (larp4b)%2C mRNA. 	La
+ENSXETG00000016899	noct	\N	-	Xenopus tropicalis nocturnin (noct)%2C mRNA. 	Exo_endo_phos
+ENSXETG00000016903	khnyn	\N	-	KH and NYN domain containing 	RNase_Zc3h12a
+ENSXETG00000016909	trmt9b	\N	-	tRNA methyltransferase 9B (putative) 	Methyltransf_8
+ENSXETG00000016920	rab33b	\N	-	RAB33B%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000016987	zfp36l1	\N	-	Xenopus tropicalis ZFP36 ring finger protein-like 1 (zfp36l1)%2C mRNA. 	zf-CCCH
+ENSXETG00000016993	-	\N	-	amphinase-4-like 	RnaseA
+ENSXETG00000017077	aggf1	\N	-	angiogenic factor with G-patch and FHA domains 1 	G-patch
+ENSXETG00000017151	zfhx4	\N	-	zinc finger homeobox 4 	zf-C2H2
+ENSXETG00000017153	r3hdm2	\N	-	Xenopus tropicalis R3H domain containing 2 (r3hdm2)%2C mRNA. 	R3H
+ENSXETG00000017175	-	\N	-	-	zf-C2H2
+ENSXETG00000017176	sall2	\N	-	spalt-like transcription factor 2 	zf-C2H2
+ENSXETG00000017182	mettl3	\N	-	Xenopus tropicalis methyltransferase like 3 (mettl3)%2C mRNA. 	MT-A70
+ENSXETG00000017184	rab2b	\N	-	Xenopus tropicalis rab2b%2C member RAS oncogene family (rab2b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000017194	CHD8	\N	DUPLIN|HELSNF1|KIAA1564	chromodomain helicase DNA binding protein 8 	BRK
+ENSXETG00000017224	trove2	\N	-	TROVE domain family member 2 	TROVE
+ENSXETG00000017229	pelp1	\N	-	proline%2C glutamate and leucine rich protein 1 	RIX1
+ENSXETG00000017231	ddx27	\N	-	DEAD-box helicase 27 	DEAD
+ENSXETG00000017234	-	\N	-	-	Ribosomal_S4
+ENSXETG00000017282	EEF1AKMT4	\N	-	EEF1A lysine methyltransferase 4 	Methyltransf_31
+ENSXETG00000017287	eif4g1	\N	-	eukaryotic translation initiation factor 4 gamma%2C 1 	MIF4G
+ENSXETG00000017291	polr2h	\N	-	Xenopus tropicalis polymerase (RNA) II subunit H (polr2h)%2C mRNA. 	RNA_pol_Rpb8
+ENSXETG00000017313	srl	\N	-	sarcalumenin 	MMR_HSR1
+ENSXETG00000017441	apobec4	\N	-	apolipoprotein B mRNA editing enzyme%2C catalytic polypeptide-like 4 (putative) 	APOBEC_N
+ENSXETG00000017444	-	\N	-	-	Exo_endo_phos
+ENSXETG00000017446	tsen15	\N	-	Xenopus tropicalis tRNA splicing endonuclease subunit 15 (tsen15)%2C mRNA. 	Sen15
+ENSXETG00000017500	pcmt1	\N	-	Xenopus tropicalis protein-L-isoaspartate (D-aspartate) O-methyltransferase (pcmt1)%2C mRNA. 	Methyltransf_31
+ENSXETG00000017552	tut7	\N	-	terminal uridylyl transferase 7 	PAP_assoc
+ENSXETG00000017566	smarca5	\N	-	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 5 	ResIII
+ENSXETG00000017571	dapk1	\N	-	Xenopus tropicalis death associated protein kinase 1 (dapk1)%2C mRNA. 	RIO1
+ENSXETG00000017598	pop4	\N	-	Xenopus tropicalis POP4 homolog%2C ribonuclease P/MRP subunit (pop4)%2C mRNA. 	UPF0086
+ENSXETG00000017599	rbm42	\N	-	RNA binding motif protein 42 	RRM_1
+ENSXETG00000017617	rpp40	\N	-	ribonuclease P/MRP 40kDa subunit 	Ribonuc_P_40
+ENSXETG00000017645	sart3	\N	-	squamous cell carcinoma antigen recognized by T cells 3 	RRM_1
+ENSXETG00000017668	rbm19	\N	-	RNA binding motif protein 19 	RRM_1
+ENSXETG00000017706	parp8	\N	-	poly(ADP-ribose) polymerase family member 8 	PARP
+ENSXETG00000017716	mrps30	\N	-	mitochondrial ribosomal protein S30 	PDCD9
+ENSXETG00000017729	ralyl	\N	-	Xenopus tropicalis RALY RNA binding protein like (ralyl)%2C mRNA. 	RRM_1
+ENSXETG00000017744	42Sp50	\N	-	Xenopus tropicalis Elongation factor 1-alpha (42Sp50)%2C mRNA. 	GTP_EFTU
+ENSXETG00000017748	-	\N	-	Xenopus tropicalis uncharacterized loc100135138 (LOC100135138)%2C mRNA. 	Ribosomal_60s
+ENSXETG00000017769	TICRR	\N	-	TOPBP1 interacting checkpoint and replication regulator 	RVT_1
+ENSXETG00000017794	zc3h12b	\N	-	zinc finger CCCH-type containing 12B 	RNase_Zc3h12a
+ENSXETG00000017810	rbm26	\N	-	RNA binding motif protein 26 	RRM_1
+ENSXETG00000017825	ddx1	\N	-	Xenopus tropicalis DEAD/H-box helicase 1 (ddx1)%2C mRNA. 	DEAD
+ENSXETG00000017830	fbl	\N	-	Xenopus tropicalis fibrillarin (fbl)%2C mRNA. 	Fibrillarin
+ENSXETG00000017853	nip7	\N	-	Xenopus tropicalis NIP7%2C nucleolar pre-rRNA processing protein (nip7)%2C mRNA. 	UPF0113
+ENSXETG00000017874	nob1	\N	-	Xenopus tropicalis NIN1 (RPN12) binding protein 1 homolog (nob1)%2C mRNA. 	NOB1_Zn_bind
+ENSXETG00000017895	exd1	\N	-	exonuclease 3'-5' domain containing 1 	DNA_pol_A_exo1
+ENSXETG00000017917	dcps	\N	-	decapping enzyme%2C scavenger 	DcpS_C
+ENSXETG00000017921	zbtb44	\N	-	zinc finger and BTB domain containing 44 	zf-C2H2
+ENSXETG00000017930	exd2	\N	-	Xenopus tropicalis exonuclease 3'-5' domain containing 2 (exd2)%2C mRNA. 	DNA_pol_A_exo1
+ENSXETG00000017937	srsf5a	\N	-	serine/arginine-rich splicing factor 5 alpha 	RRM_1
+ENSXETG00000017946	-	\N	-	-	Suf
+ENSXETG00000017960	ythdc1	\N	-	Xenopus tropicalis YTH domain containing 1 (ythdc1)%2C mRNA. 	YTH
+ENSXETG00000018002	pwp2	\N	-	PWP2%2C  small subunit processome component 	Utp12
+ENSXETG00000018031	-	\N	-	uncharacterized loc100145507 	TPP1
+ENSXETG00000018036	bnc2	\N	-	basonuclin 2 	zf-C2H2
+ENSXETG00000018061	fam98b	\N	-	family with sequence similarity 98 member B 	DUF2465
+ENSXETG00000018065	adarb2	\N	-	adenosine deaminase%2C RNA-specific%2C B2 (inactive) 	A_deamin
+ENSXETG00000018075	syncrip	\N	-	synaptotagmin binding cytoplasmic RNA interacting protein 	RRM_1
+ENSXETG00000018097	gtpbp4	\N	-	GTP binding protein 4 	NOGCT
+ENSXETG00000018101	polr3a	\N	-	Xenopus tropicalis polymerase (RNA) III (DNA directed) polypeptide A%2C 155kDa (polr3a)%2C mRNA. 	RNA_pol_Rpb1_1
+ENSXETG00000018123	rbm17	\N	-	Xenopus tropicalis RNA binding motif protein 17 (rbm17)%2C mRNA. 	G-patch
+ENSXETG00000018125	fbh1	\N	-	F-box DNA helicase 1 	UvrD-helicase
+ENSXETG00000018133	rab9b	\N	-	Xenopus tropicalis RAB9B%2C member RAS oncogene family (rab9b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000018137	rps24	\N	-	ribosomal protein S24 	Ribosomal_S24e
+ENSXETG00000018150	rpl36a	\N	-	Xenopus tropicalis ribosomal protein L36a (rpl36a)%2C mRNA. 	Ribosomal_L44
+ENSXETG00000018183	rab33a	\N	-	Xenopus tropicalis RAB33A%2C member RAS oncogene family (rab33a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000018187	mars2	\N	-	methionyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1g
+ENSXETG00000018189	smn2	\N	-	Xenopus tropicalis survival of motor neuron 2%2C centromeric (smn2)%2C mRNA. 	SMN
+ENSXETG00000018198	mrpl19	\N	-	mitochondrial ribosomal protein L19 	Ribosomal_L19
+ENSXETG00000018204	sf3b6	\N	-	Xenopus tropicalis splicing factor 3b subunit 6 (sf3b6)%2C mRNA. 	RRM_1
+ENSXETG00000018230	eif4h	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4H (eif4h)%2C mRNA. 	RRM_1
+ENSXETG00000018276	gpatch1	\N	-	G-patch domain containing 1 	G-patch
+ENSXETG00000018299	purg	\N	-	purine-rich element binding protein G 	PurA
+ENSXETG00000018302	wrn	\N	-	Werner syndrome%2C RecQ helicase-like 	DNA_pol_A_exo1
+ENSXETG00000018321	hnrnph1	\N	-	heterogeneous nuclear ribonucleoprotein H1 	RRM_1
+ENSXETG00000018337	ankhd1	\N	-	ankyrin repeat and KH domain containing 1 	KH_1
+ENSXETG00000018368	pelo	\N	-	pelota homolog 	eRF1_2
+ENSXETG00000018372	zcchc24	\N	-	zinc finger%2C CCHC domain containing 24 	zf-CCHC_2
+ENSXETG00000018412	myef2	\N	-	Xenopus tropicalis myelin expression factor 2 (myef2)%2C mRNA. 	RRM_1
+ENSXETG00000018417	sall1	\N	-	Xenopus tropicalis spalt-like transcription factor 1 (sall1)%2C mRNA. 	zf-C2H2
+ENSXETG00000018474	gars	\N	-	Xenopus tropicalis glycyl-tRNA synthetase (gars)%2C mRNA. 	HGTP_anticodon
+ENSXETG00000018483	cwf19l2	\N	-	Xenopus tropicalis CWF19 like cell cycle control factor 2 (cwf19l2)%2C mRNA. 	CwfJ_C_1
+ENSXETG00000018494	thumpd2	\N	-	Xenopus tropicalis THUMP domain containing 2 (thumpd2)%2C mRNA. 	UPF0020
+ENSXETG00000018514	mrpl24	\N	-	mitochondrial ribosomal protein L24 	KOW
+ENSXETG00000018541	mtrf1l	\N	-	mitochondrial translational release factor 1 like 	RF-1
+ENSXETG00000018544	gpatch11	\N	-	Xenopus tropicalis G-patch domain containing 11 (gpatch11)%2C mRNA. 	G-patch
+ENSXETG00000018600	mrpl40	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L40 (mrpl40)%2C mRNA. 	MRP-L28
+ENSXETG00000018605	sept2-a	\N	sept2	Xenopus tropicalis septin-2A (sept2-a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000018640	-	\N	-	-	tRNA-synt_2b
+ENSXETG00000018641	znf652	\N	-	zinc finger protein 652 	zf-C2H2
+ENSXETG00000018654	prpf3	\N	-	pre-mRNA processing factor 3 	PRP3
+ENSXETG00000018685	tent5a	\N	-	terminal nucleotidyltransferase 5A 	NTP_transf_7
+ENSXETG00000018692	adarb1	\N	-	Xenopus tropicalis adenosine deaminase%2C RNA-specific%2C B1 (adarb1)%2C mRNA. 	A_deamin
+ENSXETG00000018752	exosc5	\N	-	exosome component 5 	RNase_PH
+ENSXETG00000018772	nuak1	\N	-	NUAK family kinase 1 	RIO1
+ENSXETG00000018809	rps16	\N	-	Xenopus tropicalis ribosomal protein S16 (rps16)%2C mRNA. 	Ribosomal_S9
+ENSXETG00000018877	trim69.2	\N	-	Xenopus tropicalis tripartite motif containing 69 (trim69.2)%2C mRNA. 	Tudor-knot
+ENSXETG00000018894	mettl5	\N	-	Xenopus tropicalis methyltransferase like 5 (mettl5)%2C mRNA. 	MTS
+ENSXETG00000018896	wbp4	\N	-	Xenopus tropicalis WW domain binding protein 4 (wbp4)%2C mRNA. 	zf-U1
+ENSXETG00000018904	mtrf1	\N	-	mitochondrial translational release factor 1 	RF-1
+ENSXETG00000018921	isy1	\N	-	ISY1 splicing factor homolog 	Isy1
+ENSXETG00000018926	ptbp2	\N	-	polypyrimidine tract binding protein 2 	RRM_5
+ENSXETG00000018929	fastkd1	\N	-	Xenopus tropicalis FAST kinase domains 1 (fastkd1)%2C mRNA. 	RAP
+ENSXETG00000018961	-	\N	-	-	ResIII
+ENSXETG00000018967	mrps24	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S24 (mrps24)%2C mRNA. 	MRP-S24
+ENSXETG00000019000	ddx56	\N	-	Xenopus tropicalis DEAD-box helicase 56 (ddx56)%2C mRNA. 	DEAD
+ENSXETG00000019024	rplp2	\N	-	ribosomal protein lateral stalk subunit P2 	Ribosomal_60s
+ENSXETG00000019073	clasrp	\N	-	CLK4-associating serine/arginine rich protein 	DRY_EERY
+ENSXETG00000019101	nova2	\N	-	Xenopus tropicalis neuro-oncological ventral antigen 2 (nova2)%2C mRNA. 	KH_1
+ENSXETG00000019128	u2af2	\N	-	U2 small nuclear RNA auxiliary factor 2 	RRM_1
+ENSXETG00000019214	smarcad1	\N	-	SWI/SNF-related%2C matrix-associated actin-dependent regulator of chromatin%2C subfamily a%2C containing DEAD/H box 1 	ResIII
+ENSXETG00000019257	rab34	\N	-	Xenopus tropicalis RAB34%2C member RAS oncogene family (rab34)%2C mRNA. 	MMR_HSR1
+ENSXETG00000019265	supt6h	\N	-	SPT6 homolog%2C histone chaperone 	S1
+ENSXETG00000019330	r3hdm1	\N	-	R3H domain containing 1 	R3H
+ENSXETG00000019336	ZRANB3	\N	DKFZP434B1727	zinc finger RANBP2-type containing 3 	ResIII
+ENSXETG00000019357	FAM98A	\N	DKFZP564F0522	family with sequence similarity 98 member A 	DUF2465
+ENSXETG00000019377	eif5b	\N	-	eukaryotic translation initiation factor 5B 	GTP_EFTU
+ENSXETG00000019379	-	\N	-	-	zf-CCHC
+ENSXETG00000019384	ncbp2	\N	-	Xenopus tropicalis nuclear cap binding protein subunit 2 (ncbp2)%2C mRNA. 	RRM_1
+ENSXETG00000019390	eif4a2	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4A2 (eif4a2)%2C mRNA. 	DEAD
+ENSXETG00000019399	cluh	\N	-	clustered mitochondria (cluA/CLU1) homolog 	eIF3_p135
+ENSXETG00000019403	mrpl22	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L22 (mrpl22)%2C mRNA. 	Ribosomal_L22
+ENSXETG00000019441	fxr1	\N	-	FMR1 autosomal homolog 1 	FXMRP1_C_core
+ENSXETG00000019442	nxf1	\N	-	Xenopus tropicalis nuclear RNA export factor 1 (nxf1)%2C mRNA. 	Tap-RNA_bind
+ENSXETG00000019470	tnrc6c	\N	-	trinucleotide repeat containing 6C 	Ago_hook
+ENSXETG00000019507	eif2s2	\N	-	eukaryotic translation initiation factor 2 subunit beta 	eIF-5_eIF-2B
+ENSXETG00000019514	raly	\N	-	RALY heterogeneous nuclear ribonucleoprotein 	RRM_1
+ENSXETG00000019567	eef1a2	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 1 alpha 2 (eef1a2)%2C mRNA. 	GTP_EFTU
+ENSXETG00000019588	wdr5	\N	-	Xenopus tropicalis WD repeat domain 5 (wdr5)%2C mRNA. 	eIF2A
+ENSXETG00000019623	endov	\N	-	endonuclease V 	Endonuclease_5
+ENSXETG00000019630	aff2	\N	-	AF4/FMR2 family member 2 	AF-4
+ENSXETG00000019631	eif4e1b	\N	-	eukaryotic translation initiation factor 4E family member 1B 	IF4E
+ENSXETG00000019633	eral1	\N	-	Era-like 12S mitochondrial rRNA chaperone 1 	MMR_HSR1
+ENSXETG00000019647	fmr1	\N	-	Xenopus tropicalis fragile X mental retardation 1 (fmr1)%2C mRNA. 	FXMRP1_C_core
+ENSXETG00000019654	dus1l	\N	-	dihydrouridine synthase 1-like 	Dus
+ENSXETG00000019705	slc25a10	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L12 (mrpl12)%2C mRNA. 	Ribosomal_L12
+ENSXETG00000019749	htatsf1	\N	-	Xenopus tropicalis HIV-1 Tat specific factor 1 (htatsf1)%2C mRNA. 	RRM_1
+ENSXETG00000019762	ints6l	\N	-	integrator complex subunit 6 like 	INT_SG_DDX_CT_C
+ENSXETG00000019779	bcl6	\N	-	B cell CLL/lymphoma 6 	zf-C2H2
+ENSXETG00000019789	fam83c	\N	-	Xenopus tropicalis family with sequence similarity 83 member C (fam83c)%2C mRNA. 	FAM83
+ENSXETG00000019802	rars2	\N	-	arginyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1d
+ENSXETG00000019835	rpl13	\N	-	ribosomal protein L13 	Ribosomal_L13e
+ENSXETG00000019862	aimp1	\N	-	Xenopus tropicalis aminoacyl tRNA synthetase complex-interacting multifunctional protein 1 (aimp1)%2C mRNA. 	tRNA_bind
+ENSXETG00000019909	tdrkh	\N	-	tudor and KH domain containing 	TUDOR
+ENSXETG00000019934	SRRM4	\N	KIAA1853|nSR100	serine/arginine repetitive matrix 4 	SRRM_C
+ENSXETG00000019951	-	\N	-	-	Exo_endo_phos
+ENSXETG00000019955	aff1	\N	-	AF4/FMR2 family member 1 	AF-4
+ENSXETG00000019978	mrpl21	\N	-	mitochondrial ribosomal protein L21 	Ribosomal_L21p
+ENSXETG00000019993	mrpl37	\N	-	mitochondrial ribosomal protein L37 	PDCD9
+ENSXETG00000020006	-	\N	-	-	Exo_endo_phos
+ENSXETG00000020014	dars2	\N	-	aspartyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2
+ENSXETG00000020017	nudt21	\N	-	Xenopus tropicalis nudix hydrolase 21 (nudt21)%2C mRNA. 	NUDIX_2
+ENSXETG00000020030	rc3h1	\N	-	ring finger and CCCH-type domains 1 	zf-CCCH
+ENSXETG00000020045	mrps14	\N	-	mitochondrial ribosomal protein S14 	Ribosomal_S14
+ENSXETG00000020057	utp6	\N	-	UTP6 small subunit processome component 	U3_assoc_6
+ENSXETG00000020093	eif2a	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 2A (eif2a)%2C mRNA. 	eIF2A
+ENSXETG00000020123	eif4a1	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4A1 (eif4a1)%2C mRNA. 	DEAD
+ENSXETG00000020144	exosc7	\N	-	Xenopus tropicalis exosome component 7 (exosc7)%2C mRNA. 	RNase_PH
+ENSXETG00000020157	nsun3	\N	-	NOP2/Sun RNA methyltransferase family member 3 	Methyltr_RsmB-F
+ENSXETG00000020165	mkrn2	\N	-	makorin ring finger protein 2 	zf-CCCH
+ENSXETG00000020236	rbfox3	\N	-	RNA binding fox-1 homolog 3 	Fox-1_C
+ENSXETG00000020308	rpl17	\N	-	Xenopus tropicalis ribosomal protein L17 (rpl17)%2C mRNA. 	Ribosomal_L22
+ENSXETG00000020313	tarsl2	\N	-	Xenopus tropicalis threonyl-tRNA synthetase-like 2 (tarsl2)%2C mRNA. 	tRNA-synt_2b
+ENSXETG00000020324	cpeb2	\N	-	cytoplasmic polyadenylation element binding protein 2 	RRM_1
+ENSXETG00000020340	larp6	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 6 (larp6)%2C mRNA. 	La
+ENSXETG00000020355	rps5	\N	-	Xenopus tropicalis ribosomal protein S5 (rps5)%2C mRNA. 	Ribosomal_S7
+ENSXETG00000020394	rps18	\N	-	ribosomal protein S18 	Ribosomal_S13
+ENSXETG00000020397	gpatch4	\N	-	Xenopus tropicalis G-patch domain containing 4 (gpatch4)%2C mRNA. 	G-patch
+ENSXETG00000020404	rab25	\N	-	Xenopus tropicalis RAB25%2C member RAS oncogene family (rab25)%2C mRNA. 	MMR_HSR1
+ENSXETG00000020406	raver2	\N	-	Xenopus tropicalis ribonucleoprotein%2C PTB binding 2 (raver2)%2C mRNA. 	RRM_1
+ENSXETG00000020435	rbm22	\N	-	Xenopus tropicalis RNA binding motif protein 22 (rbm22)%2C mRNA. 	RRM_1
+ENSXETG00000020436	riok1	\N	-	RIO kinase 1 	RIO1
+ENSXETG00000020447	snrnp48	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein%2C U11/U12 48KDa subunit (snrnp48)%2C mRNA. 	zf-U11-48K
+ENSXETG00000020468	ppargc1a	\N	-	PPARG coactivator 1 alpha 	RRM_1
+ENSXETG00000020482	-	\N	-	-	Ribosomal_L34e
+ENSXETG00000020486	celf4	\N	-	CUGBP%2C Elav-like family member 4 	RRM_1
+ENSXETG00000020530	zbtb6	\N	-	Xenopus tropicalis zinc finger and BTB domain containing 6 (zbtb6)%2C mRNA. 	zf-C2H2
+ENSXETG00000020535	c11orf68	\N	-	chromosome 11 open reading frame 68 	DUF1917
+ENSXETG00000020547	asxl3	\N	-	ASXL transcriptional regulator 3 	HARE-HTH
+ENSXETG00000020574	mrpl11	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L11 (mrpl11)%2C mRNA. 	Ribosomal_L11_N
+ENSXETG00000020586	kat5	\N	-	K(lysine) acetyltransferase 5 	Tudor-knot
+ENSXETG00000020587	ovol1	\N	-	ovo like zinc finger 1 	zf-C2H2
+ENSXETG00000020593	eif3b	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 3 subunit B (eif3b)%2C mRNA. 	eIF2A
+ENSXETG00000020607	ddx39a	\N	-	Xenopus tropicalis DEAD-box helicase 39A (ddx39a)%2C mRNA. 	DEAD
+ENSXETG00000020622	rab39a	\N	-	RAB39A%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000020636	ythdf2	\N	-	YTH N(6)-methyladenosine RNA binding protein 2 	YTH
+ENSXETG00000020683	tent5b	\N	-	Xenopus tropicalis terminal nucleotidyltransferase 5B (tent5b)%2C mRNA. 	NTP_transf_7
+ENSXETG00000020699	mrps31	\N	-	mitochondrial ribosomal protein S31 	MRP-S31
+ENSXETG00000020719	ints6	\N	-	integrator complex subunit 6 	INT_SG_DDX_CT_C
+ENSXETG00000020720	rnaseh2b	\N	-	Xenopus tropicalis ribonuclease H2 subunit B (rnaseh2b)%2C mRNA. 	RNase_H2-Ydr279
+ENSXETG00000020729	rab13	\N	-	RAB13%2C member RAS oncogene family 	GTP_EFTU
+ENSXETG00000020781	utp23	\N	-	Xenopus tropicalis UTP23%2C small subunit processome component (utp23)%2C mRNA. 	Fcf1
+ENSXETG00000020819	ddx18	\N	-	DEAD-box helicase 18 	DEAD
+ENSXETG00000020828	mrto4	\N	-	Xenopus tropicalis MRT4 homolog%2C ribosome maturation factor (mrto4)%2C mRNA. 	Ribosomal_L10
+ENSXETG00000020868	nono	\N	-	Xenopus tropicalis non-POU domain containing%2C octamer binding (nono)%2C mRNA. 	RRM_1
+ENSXETG00000020903	iars	\N	-	isoleucyl-tRNA synthetase 	tRNA-synt_1
+ENSXETG00000020912	atxn2	\N	-	ataxin 2 	SM-ATX
+ENSXETG00000020913	nol8	\N	-	nucleolar protein 8 	RRM_1
+ENSXETG00000020959	eif2b4	\N	-	eukaryotic translation initiation factor 2B subunit delta 	IF-2B
+ENSXETG00000020975	noc3l	\N	-	NOC3-like DNA replication regulator 	CBF
+ENSXETG00000020983	-	\N	-	-	PARP
+ENSXETG00000021000	exog	\N	-	endo/exonuclease (5'-3')%2C endonuclease G-like 	Endonuclease_NS
+ENSXETG00000021094	nsun7	\N	-	NOP2/Sun RNA methyltransferase family member 7 	Methyltr_RsmB-F
+ENSXETG00000021095	rpl34	\N	-	ribosomal protein L34 	Ribosomal_L34e
+ENSXETG00000021118	exosc9	\N	-	Xenopus tropicalis exosome component 9 (exosc9)%2C mRNA. 	RNase_PH
+ENSXETG00000021176	ptrhd1	\N	-	Xenopus tropicalis peptidyl-tRNA hydrolase domain containing 1 (ptrhd1)%2C mRNA. 	PTH2
+ENSXETG00000021194	gpatch2	\N	-	G-patch domain containing 2 	G-patch
+ENSXETG00000021263	-	\N	-	Xenopus tropicalis uncharacterized LOC100145274 (LOC100145274)%2C mRNA. 	zf-U11-48K
+ENSXETG00000021272	znf385a	\N	-	zinc finger protein 385A 	zf-met
+ENSXETG00000021277	hnrnpa1	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein A1 (hnrnpa1)%2C mRNA. 	RRM_1
+ENSXETG00000021294	zbtb24	\N	-	zinc finger and BTB domain containing 24 	zf-C2H2
+ENSXETG00000021335	rpf2	\N	-	Xenopus tropicalis ribosome production factor 2 homolog (rpf2)%2C mRNA. 	Brix
+ENSXETG00000021385	ppil4	\N	-	Xenopus tropicalis peptidylprolyl isomerase like 4 (ppil4)%2C mRNA. 	RRM_1
+ENSXETG00000021399	cstf3	\N	-	cleavage stimulation factor%2C 3' pre-RNA%2C subunit 3 	Suf
+ENSXETG00000021409	sf3b5	\N	-	splicing factor 3b subunit 5 	SF3b10
+ENSXETG00000021441	dap3	\N	-	death associated protein 3 	DAP3
+ENSXETG00000021445	chd6	\N	-	chromodomain helicase DNA binding protein 6 	ResIII
+ENSXETG00000021448	csde1	\N	-	Xenopus tropicalis cold shock domain containing E1 (csde1)%2C mRNA. 	CSD
+ENSXETG00000021449	nras	\N	-	neuroblastoma RAS viral (v-ras) oncogene homolog 	GTP_EFTU
+ENSXETG00000021460	srek1	\N	-	splicing regulatory glutamic acid/lysine-rich protein 1 	RRM_1
+ENSXETG00000021508	eef2.2	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 2%2C gene 2 (eef2.2)%2C mRNA. 	GTP_EFTU
+ENSXETG00000021514	dcp2	\N	-	Xenopus tropicalis decapping mRNA 2 (dcp2)%2C mRNA. 	DCP2
+ENSXETG00000021517	ythdc2	\N	-	YTH domain containing 2 	YTH
+ENSXETG00000021579	sbno2	\N	-	strawberry notch homolog 2 	ResIII
+ENSXETG00000021599	unkl	\N	-	Xenopus tropicalis unkempt family like zinc finger (unkl)%2C mRNA. 	zf-CCCH
+ENSXETG00000021611	nom1	\N	-	nucleolar protein with MIF4G domain 1 	MA3
+ENSXETG00000021630	snrpf	\N	-	small nuclear ribonucleoprotein polypeptide F 	LSM
+ENSXETG00000021642	sun1	\N	-	Sad1 and UNC84 domain containing 1 	MRP
+ENSXETG00000021655	mbnl1	\N	-	muscleblind like splicing regulator 1 	zf-CCCH
+ENSXETG00000021659	ythdf3	\N	-	Xenopus tropicalis YTH N6-methyladenosine RNA binding protein 3 (ythdf3)%2C mRNA. 	YTH
+ENSXETG00000021661	ptbp1	\N	-	polypyrimidine tract binding protein 1 	RRM_5
+ENSXETG00000021667	rpl18a	\N	-	ribosomal protein L18a 	Ribosomal_L18A
+ENSXETG00000021668	xpot	\N	-	exportin%2C tRNA 	Xpo1
+ENSXETG00000021692	arl5a	\N	-	ADP ribosylation factor like GTPase 5A 	MMR_HSR1
+ENSXETG00000021745	-	\N	-	-	RRM_1
+ENSXETG00000021754	zbtb34	\N	-	zinc finger and BTB domain containing 34 	zf-C2H2
+ENSXETG00000021782	baz2a	\N	-	bromodomain adjacent to zinc finger domain 2A 	MBD
+ENSXETG00000021785	rpp30	\N	-	ribonuclease P/MRP 30kDa subunit 	RNase_P_p30
+ENSXETG00000021787	rbms2	\N	-	RNA binding motif single stranded interacting protein 2 	RRM_1
+ENSXETG00000021829	lsm8	\N	-	LSM8 homolog%2C U6 small nuclear RNA associated 	LSM
+ENSXETG00000021850	pym1	\N	-	Xenopus tropicalis PYM homolog 1%2C exon junction complex associated factor (pym1)%2C mRNA. 	Mago-bind
+ENSXETG00000021857	rbm25	\N	-	Xenopus tropicalis RNA binding motif protein 25 (rbm25)%2C mRNA. 	PWI
+ENSXETG00000021862	khsrp	\N	-	KH-type splicing regulatory protein 	KH_1
+ENSXETG00000021865	poc1b	\N	-	Xenopus tropicalis POC1 centriolar protein B (poc1b)%2C mRNA. 	eIF2A
+ENSXETG00000021867	mri1	\N	-	Xenopus tropicalis methylthioribose-1-phosphate isomerase 1 (mri1)%2C mRNA. 	IF-2B
+ENSXETG00000021868	cars	\N	-	cysteinyl-tRNA synthetase 	tRNA-synt_1e
+ENSXETG00000021874	nanos3	\N	-	nanos homolog 3 	zf-nanos
+ENSXETG00000021887	larp6-like.1	\N	-	Xenopus tropicalis acheron (larp6-like.1)%2C mRNA. 	La
+ENSXETG00000021890	rab11b.2	\N	-	Xenopus tropicalis RAB11B%2C member RAS oncogene family%2C gene 2 (rab11b.2)%2C mRNA. 	MMR_HSR1
+ENSXETG00000021905	rps28p9	\N	-	Xenopus tropicalis ribosomal protein S28 pseudogene 9 (rps28p9)%2C mRNA. 	Ribosomal_S28e
+ENSXETG00000021938	cxxc1	\N	-	CXXC finger protein 1 	MBD
+ENSXETG00000021992	celf2	\N	-	Xenopus tropicalis CUGBP%2C Elav-like family member 2 (celf2)%2C mRNA. 	RRM_1
+ENSXETG00000022003	-	\N	-	-	ResIII
+ENSXETG00000022018	rpl14	\N	-	ribosomal protein L14 	Ribosomal_L14e
+ENSXETG00000022026	apex2	\N	-	apurinic/apyrimidinic endodeoxyribonuclease 2 	Exo_endo_phos
+ENSXETG00000022055	ppan	\N	-	Xenopus tropicalis peter pan homolog (ppan)%2C mRNA. 	Brix
+ENSXETG00000022060	mrpl4	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L4 (mrpl4)%2C mRNA. 	Ribosomal_L4
+ENSXETG00000022070	ehd3	\N	-	Xenopus tropicalis EH domain containing 3 (ehd3)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022073	nop58	\N	-	Xenopus tropicalis NOP58 ribonucleoprotein (nop58)%2C mRNA. 	Nop
+ENSXETG00000022124	arl10b	\N	-	Xenopus tropicalis ADP-ribosylation factor-like 10B (arl10b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022133	u2surp	\N	-	Xenopus tropicalis U2 snRNP associated SURP domain containing (u2surp)%2C mRNA. 	Surp
+ENSXETG00000022149	mtg1	\N	-	Xenopus tropicalis mitochondrial ribosome-associated GTPase 1 (mtg1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022166	lsm7	\N	-	LSM7 homolog%2C U6 small nuclear RNA and mRNA degradation associated 	LSM
+ENSXETG00000022230	alkbh3	\N	-	alkB homolog 3%2C alpha-ketoglutarate-dependent dioxygenase 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000022250	znf800	\N	-	Xenopus tropicalis zinc finger protein 800 (znf800)%2C mRNA. 	zf-C2H2
+ENSXETG00000022259	prpf8	\N	-	pre-mRNA processing factor 8 	PROCN
+ENSXETG00000022273	mov10l1	\N	-	Mov10 like RISC complex RNA helicase 1 	S1-like
+ENSXETG00000022300	alkbh2	\N	-	alkB homolog 2%2C alpha-ketoglutarate-dependent dioxygenase 	hmm_2OG-FeII_Oxy_2
+ENSXETG00000022316	thoc3	\N	-	THO complex 3 	eIF2A
+ENSXETG00000022329	mrps2	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S2 (mrps2)%2C mRNA. 	Ribosomal_S2
+ENSXETG00000022337	arl10	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 10 (arl10)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022342	nop16	\N	-	Xenopus tropicalis NOP16 nucleolar protein (nop16)%2C mRNA. 	Nop16
+ENSXETG00000022343	arl3l2	\N	-	Xenopus tropicalis ADP-ribosylation factor-like 3%2C like 2 (arl3l2)%2C transcript variant 1%2C mRNA. 	MMR_HSR1
+ENSXETG00000022359	ddx51	\N	-	DEAD-box helicase 51 	DEAD
+ENSXETG00000022367	mex3c	\N	-	mex-3 RNA binding family member C 	KH_1
+ENSXETG00000022387	ess2	\N	-	ess-2 splicing factor homolog 	Es2
+ENSXETG00000022412	-	\N	-	-	RRM_1
+ENSXETG00000022419	hic2	\N	-	hypermethylated in cancer 2 	zf-C2H2
+ENSXETG00000022440	mrps5	\N	-	mitochondrial ribosomal protein S5 	Ribosomal_S5
+ENSXETG00000022451	mrm3	\N	-	Xenopus tropicalis mitochondrial rRNA methyltransferase 3 (mrm3)%2C mRNA. 	SpoU_methylase
+ENSXETG00000022503	slc4a1ap	\N	-	to solute carrier family 4 member 1 adaptor protein 	dsrm
+ENSXETG00000022512	larp1b	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 1B (larp1b)%2C mRNA. 	La
+ENSXETG00000022517	rerg	\N	-	Xenopus tropicalis RAS like estrogen regulated growth inhibitor (rerg)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022554	dhx32	\N	-	DEAH-box helicase 32 (putative) 	HA2
+ENSXETG00000022574	ercc6l	\N	-	excision repair cross-complementation group 6 like 	ResIII
+ENSXETG00000022604	eef1a1o	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 1 alpha 1%2C oocyte form (eef1a1o)%2C mRNA. 	GTP_EFTU
+ENSXETG00000022610	parp1	\N	-	poly(ADP-ribose) polymerase 1 	PARP
+ENSXETG00000022612	mrpl51	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L51 (mrpl51)%2C mRNA. 	MRP-L51
+ENSXETG00000022623	rbm23	\N	-	RNA binding motif protein 23 	RRM_1
+ENSXETG00000022637	-	\N	-	-	Tap-RNA_bind
+ENSXETG00000022667	fam83g	\N	-	family with sequence similarity 83 member G 	FAM83
+ENSXETG00000022685	-	\N	-	-	Ribosomal_S25
+ENSXETG00000022762	nsun6	\N	-	Xenopus tropicalis NOP2/Sun RNA methyltransferase family member 6 (nsun6)%2C mRNA. 	Methyltr_RsmB-F
+ENSXETG00000022765	arl5b	\N	-	Xenopus tropicalis ADP ribosylation factor like GTPase 5B (arl5b)%2C mRNA. 	MMR_HSR1
+ENSXETG00000022795	bzw2	\N	-	basic leucine zipper and W2 domains 2 	W2
+ENSXETG00000022797	syf2	\N	-	Xenopus tropicalis SYF2 pre-mRNA splicing factor (syf2)%2C mRNA. 	SYF2
+ENSXETG00000022831	pabpc1l	\N	-	poly(A) binding protein%2C cytoplasmic 1-like 	RRM_1
+ENSXETG00000022881	inpp5k	\N	-	Xenopus tropicalis inositol polyphosphate-5-phosphatase K (inpp5k)%2C mRNA. 	Exo_endo_phos
+ENSXETG00000022919	snrnp70	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein%2C U1 70kDa subunit (snrnp70)%2C mRNA. 	U1snRNP70_N
+ENSXETG00000022923	sf3a3	\N	-	Xenopus tropicalis splicing factor 3a subunit 3 (sf3a3)%2C mRNA. 	SF3a60_bindingd
+ENSXETG00000022963	mrtfa	\N	-	Xenopus tropicalis myocardin related transcription factor A (mrtfa)%2C mRNA. 	SAP
+ENSXETG00000022969	fhit	\N	-	Xenopus tropicalis fragile histidine triad (fhit)%2C mRNA. 	DcpS_C
+ENSXETG00000022972	tdrd10	\N	-	tudor domain containing 10 	RRM_1
+ENSXETG00000022984	ddx47	\N	-	DEAD-box helicase 47 	DEAD
+ENSXETG00000023006	gfi1	\N	-	growth factor independent 1 transcription repressor 	zf-C2H2
+ENSXETG00000023026	hnrnpdl	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein D like (hnrnpdl)%2C mRNA. 	RRM_1
+ENSXETG00000023043	snd1	\N	-	staphylococcal nuclease and tudor domain containing protein 1 	SNase
+ENSXETG00000023069	tdrd9	\N	-	Xenopus tropicalis tudor domain containing 9 (tdrd9)%2C mRNA. 	TUDOR
+ENSXETG00000023077	-	\N	-	-	Utp11
+ENSXETG00000023096	rexo4	\N	-	REX4 homolog%2C 3'-5' exonuclease 	RNase_T
+ENSXETG00000023100	rps6	\N	-	Xenopus tropicalis ribosomal protein S6 (rps6)%2C mRNA. 	Ribosomal_S6e
+ENSXETG00000023114	SPEN	\N	KIAA0929|MINT|RBM15C|SHARP	spen family transcriptional repressor 	RRM_1
+ENSXETG00000023159	-	\N	-	-	Exo_endo_phos
+ENSXETG00000023191	fam83a	\N	-	Xenopus tropicalis family with sequence similarity 83 member A (fam83a)%2C mRNA. 	FAM83
+ENSXETG00000023199	mrpl48	\N	-	mitochondrial ribosomal protein L48 	Ribosomal_S10
+ENSXETG00000023200	rab6a	\N	-	RAB6A%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000023202	uba52	\N	-	Xenopus tropicalis ubiquitin A-52 residue ribosomal protein fusion product 1 (uba52)%2C mRNA. 	Ribosomal_L40e
+ENSXETG00000023207	pus7	\N	-	Xenopus tropicalis pseudouridylate synthase 7 (pus7)%2C mRNA. 	TruD
+ENSXETG00000023254	zfp36l2.2	\N	-	Xenopus tropicalis zinc finger protein 36%2C C3H type-like 2%2C gene 2 (zfp36l2.2)%2C mRNA. 	zf-CCCH
+ENSXETG00000023255	zfp36l2.1	\N	-	Xenopus tropicalis zinc finger protein 36%2C C3H type-like 2%2C gene 1 (zfp36l2.1)%2C mRNA. 	zf-CCCH
+ENSXETG00000023304	trmu	\N	-	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase 	tRNA_Me_trans
+ENSXETG00000023315	dicer1	\N	-	Xenopus tropicalis dicer 1%2C ribonuclease III (dicer1)%2C mRNA. 	Ribonuclease_3
+ENSXETG00000023331	urb2	\N	-	URB2 ribosome biogenesis 2 homolog 	Urb2
+ENSXETG00000023348	-	\N	-	-	MMR_HSR1
+ENSXETG00000023399	parp14.2	\N	-	poly (ADP-ribose) polymerase family%2C member 14%2C gene 2 	PARP
+ENSXETG00000023400	-	\N	-	-	PARP
+ENSXETG00000023401	-	\N	-	-	PARP
+ENSXETG00000023447	dhx38	\N	-	DEAH-box helicase 38 	HA2
+ENSXETG00000023486	mrpl14	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L14 (mrpl14)%2C mRNA. 	Ribosomal_L14
+ENSXETG00000023496	ipo5	\N	-	Xenopus tropicalis importin 5 (ipo5)%2C mRNA. 	IBN_N
+ENSXETG00000023501	xrn2	\N	-	5'-3' exoribonuclease 2 	XRN_N
+ENSXETG00000023522	-	\N	-	-	RIO1
+ENSXETG00000023546	rpusd3	\N	-	RNA pseudouridine synthase D3 	PseudoU_synth_2
+ENSXETG00000023567	hnrnph3	\N	-	Xenopus tropicalis heterogeneous nuclear ribonucleoprotein H3 (hnrnph3)%2C mRNA. 	RRM_1
+ENSXETG00000023597	-	\N	-	-	zf-C2H2
+ENSXETG00000023608	inpp5a.1	\N	-	inositol polyphosphate-5-phosphatase A 	Exo_endo_phos
+ENSXETG00000023629	zranb1	\N	-	Xenopus tropicalis zinc finger RANBP2-type containing 1 (zranb1)%2C mRNA. 	zf-RanBP
+ENSXETG00000023643	znf484	\N	-	Xenopus tropicalis zinc finger protein 470 (znf470)%2C mRNA. 	zf-C2H2
+ENSXETG00000023672	camk1	\N	-	Xenopus tropicalis calcium/calmodulin-dependent protein kinase I (camk1)%2C mRNA. 	RIO1
+ENSXETG00000023678	eif2d	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 2D (eif2d)%2C mRNA. 	SUI1
+ENSXETG00000023683	lsm6	\N	-	Xenopus tropicalis LSM6 homolog%2C U6 small nuclear RNA and mRNA degradation associated (lsm6)%2C mRNA. 	LSM
+ENSXETG00000023711	rpl19	\N	-	Xenopus tropicalis ribosomal protein L19 (rpl19)%2C mRNA. 	Ribosomal_L19e
+ENSXETG00000023713	arl5c	\N	-	ADP ribosylation factor like GTPase 5C 	MMR_HSR1
+ENSXETG00000023714	-	\N	-	-	RNB
+ENSXETG00000023719	rpl23	\N	-	ribosomal protein L23 	Ribosomal_L14
+ENSXETG00000023721	rbm34	\N	-	RNA binding motif protein 34 	RRM_1
+ENSXETG00000023722	cwc25	\N	-	Xenopus tropicalis CWC25 spliceosome-associated protein homolog (cwc25)%2C mRNA. 	CWC25
+ENSXETG00000023754	rplp1	\N	-	Xenopus tropicalis ribosomal protein%2C large%2C P1 (rplp1)%2C mRNA. 	Ribosomal_60s
+ENSXETG00000023755	ago2	\N	-	Xenopus tropicalis argonaute 2%2C RISC catalytic component (ago2)%2C mRNA. 	Piwi
+ENSXETG00000023797	tsr1	\N	-	TSR1%2C ribosome maturation factor 	AARP2CN
+ENSXETG00000023799	SMG6	\N	C17orf31|EST1A|KIAA0732|SMG-6	SMG6%2C nonsense mediated mRNA decay factor 	EST1_DNA_bind
+ENSXETG00000023803	hic1	\N	-	hypermethylated in cancer 1 	zf-C2H2
+ENSXETG00000023828	trub1	\N	-	TruB pseudouridine (psi) synthase family member 1 	TruB_N
+ENSXETG00000023859	-	\N	-	-	zf-RanBP
+ENSXETG00000023866	tbrg4	\N	-	transforming growth factor beta regulator 4 	RAP
+ENSXETG00000023893	mrpl18	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L18 (mrpl18)%2C mRNA. 	Ribosomal_L18p
+ENSXETG00000023905	aicda	\N	-	activation-induced cytidine deaminase 	APOBEC_N
+ENSXETG00000023917	emg1	\N	-	EMG1 N1-specific pseudouridine methyltransferase 	EMG1
+ENSXETG00000023937	-	\N	-	-	Exo_endo_phos
+ENSXETG00000023988	zfpm1	\N	-	zinc finger protein%2C FOG family member 1 	zf-met
+ENSXETG00000024006	snai2	\N	-	Xenopus tropicalis snail family zinc finger 2 (snai2)%2C mRNA. 	zf-C2H2
+ENSXETG00000024057	prpf18	\N	-	pre-mRNA processing factor 18 	Prp18
+ENSXETG00000024069	dhx16	\N	-	DEAH-box helicase 16 	HA2
+ENSXETG00000024076	vars	\N	-	valyl-tRNA synthetase 	tRNA-synt_1
+ENSXETG00000024077	lsm2	\N	-	LSM2 homolog%2C U6 small nuclear RNA and mRNA degradation associated 	LSM
+ENSXETG00000024087	gnl1	\N	-	Xenopus tropicalis G protein nucleolar 1 (putative) (gnl1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000024097	larp7	\N	-	Xenopus tropicalis La ribonucleoprotein domain family member 7 (larp7)%2C mRNA. 	RRM_3
+ENSXETG00000024108	zranb2	\N	-	Xenopus tropicalis zinc finger RANBP2-type containing 2 (zranb2)%2C mRNA. 	zf-RanBP
+ENSXETG00000024114	gar1	\N	-	Xenopus tropicalis GAR1 homolog%2C ribonucleoprotein (gar1)%2C mRNA. 	Gar1
+ENSXETG00000024118	-	\N	-	-	zf-C2H2
+ENSXETG00000024129	chd2	\N	-	chromodomain helicase DNA binding protein 2 	ResIII
+ENSXETG00000024143	aptx	\N	-	Xenopus tropicalis aprataxin (aptx)%2C mRNA. 	DcpS_C
+ENSXETG00000024201	ipo7	\N	-	importin 7 	IBN_N
+ENSXETG00000024210	mrpl16	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L16 (mrpl16)%2C mRNA. 	Ribosomal_L16
+ENSXETG00000024395	casc3	\N	-	Xenopus tropicalis CASC3%2C exon junction complex subunit (casc3)%2C mRNA. 	Btz
+ENSXETG00000024429	rbbp6	\N	-	RB binding protein 6%2C ubiquitin ligase 	zf-CCHC_2
+ENSXETG00000024439	rnps1	\N	-	RNA binding protein S1%2C serine-rich domain 	RRM_1
+ENSXETG00000024453	sympk	\N	-	Xenopus tropicalis symplekin (sympk)%2C mRNA. 	Symplekin_C
+ENSXETG00000024458	zic3	\N	-	Xenopus tropicalis Zic family member 3 (zic3)%2C mRNA. 	zf-C2H2
+ENSXETG00000024501	nsun4	\N	-	NOP2/Sun RNA methyltransferase family member 4 	Methyltr_RsmB-F
+ENSXETG00000024516	fyttd1	\N	-	Xenopus tropicalis forty-two-three domain containing 1 (fyttd1)%2C mRNA. 	FYTT
+ENSXETG00000024532	pus3	\N	-	Xenopus tropicalis pseudouridylate synthase 3 (pus3)%2C mRNA. 	PseudoU_synth_1
+ENSXETG00000024565	nanos1	\N	-	nanos homolog 1 	zf-nanos
+ENSXETG00000024618	rbm24	\N	-	Xenopus tropicalis RNA binding motif protein 24 (rbm24)%2C mRNA. 	RRM_1
+ENSXETG00000024651	arid4b	\N	-	AT-rich interaction domain 4B 	Tudor-knot
+ENSXETG00000024652	nabp2	\N	-	nucleic acid binding protein 2 	tRNA_anti-codon
+ENSXETG00000024657	sarnp	\N	-	Xenopus tropicalis SAP domain containing ribonucleoprotein (sarnp)%2C mRNA. 	SAP
+ENSXETG00000024667	rpl31	\N	-	Xenopus tropicalis ribosomal protein L31 (rpl31)%2C mRNA. 	Ribosomal_L31e
+ENSXETG00000024679	spats2	\N	-	Xenopus tropicalis spermatogenesis associated%2C serine rich 2 (spats2)%2C mRNA. 	DUF1387
+ENSXETG00000024721	snrpc	\N	-	small nuclear ribonucleoprotein polypeptide C 	zf-U1
+ENSXETG00000024771	nop10	\N	-	NOP10 ribonucleoprotein 	Nop10p
+ENSXETG00000024773	apex1	\N	-	Xenopus tropicalis APEX nuclease (multifunctional DNA repair enzyme) 1 (apex1)%2C mRNA. 	Exo_endo_phos
+ENSXETG00000024782	rpl26	\N	-	Xenopus tropicalis ribosomal protein L26 (rpl26)%2C mRNA. 	KOW
+ENSXETG00000024796	ewsr1	\N	-	Xenopus tropicalis EWS RNA binding protein 1 (ewsr1)%2C mRNA. 	zf-RanBP
+ENSXETG00000024810	-	\N	-	-	FAM83
+ENSXETG00000024836	rps27	\N	-	Xenopus tropicalis ribosomal protein S27 (rps27)%2C mRNA. 	Ribosomal_S27e
+ENSXETG00000024897	ovol2	\N	-	Xenopus tropicalis ovo like zinc finger 2 (ovol2)%2C mRNA. 	zf-C2H2
+ENSXETG00000024898	polr3f	\N	-	Xenopus tropicalis polymerase (RNA) III (DNA directed) polypeptide F%2C 39 kDa (polr3f)%2C mRNA. 	RNA_pol_Rpc34
+ENSXETG00000024918	snrpd3	\N	-	small nuclear ribonucleoprotein D3 polypeptide 	LSM
+ENSXETG00000024933	lsm4	\N	-	Xenopus tropicalis LSM4 homolog%2C U6 small nuclear RNA and mRNA degradation associated (lsm4)%2C mRNA. 	LSM
+ENSXETG00000024943	sf3a2	\N	-	splicing factor 3a subunit 2 	zf-met
+ENSXETG00000024962	-	\N	-	-	Exo_endo_phos
+ENSXETG00000025007	n4bp1	\N	-	Xenopus tropicalis nedd4 binding protein 1 (n4bp1)%2C mRNA. 	RNase_Zc3h12a
+ENSXETG00000025027	rnpc3	\N	-	RNA binding region (RNP1%2C RRM) containing 3 	RRM_1
+ENSXETG00000025028	crcp	\N	-	CGRP receptor component 	RNA_pol_Rpb4
+ENSXETG00000025033	dars	\N	-	Xenopus tropicalis aspartyl-tRNA synthetase (dars)%2C mRNA. 	tRNA-synt_2
+ENSXETG00000025051	eif1	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 1 (eif1)%2C mRNA. 	SUI1
+ENSXETG00000025091	trnt1	\N	-	Xenopus tropicalis tRNA nucleotidyl transferase%2C CCA-adding%2C 1 (trnt1)%2C mRNA. 	PolyA_pol
+ENSXETG00000025124	srrt	\N	ars2|serrate|srrt-a|srrt-b	serrate%2C RNA effector molecule 	ARS2
+ENSXETG00000025146	tsen2	\N	-	tRNA splicing endonuclease subunit 2 	tRNA_int_endo
+ENSXETG00000025147	cnbp	\N	-	CCHC-type zinc finger nucleic acid binding protein 	zf-CCHC
+ENSXETG00000025174	mars	\N	-	methionyl-tRNA synthetase 	tRNA-synt_1g
+ENSXETG00000025199	dazl	\N	-	Xenopus tropicalis deleted in azoospermia-like (dazl)%2C mRNA. 	RRM_1
+ENSXETG00000025248	pdcd4	\N	-	Xenopus tropicalis programmed cell death 4 (pdcd4)%2C mRNA. 	MA3
+ENSXETG00000025267	ybx2	\N	-	Y-box binding protein 2 	CSD
+ENSXETG00000025271	srsf2	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 2 (srsf2)%2C mRNA. 	RRM_1
+ENSXETG00000025282	-	\N	-	-	zf-C2H2
+ENSXETG00000025300	srsf7	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 7 (srsf7)%2C mRNA. 	RRM_1
+ENSXETG00000025302	eif2ak2	\N	-	eukaryotic translation initiation factor 2 alpha kinase 2 	dsrm
+ENSXETG00000025305	-	\N	-	-	MMR_HSR1
+ENSXETG00000025319	rpl38	\N	-	Xenopus tropicalis ribosomal protein L38 (rpl38)%2C mRNA. 	Ribosomal_L38e
+ENSXETG00000025331	supt4h1	\N	-	SPT4 homolog%2C DSIF elongation factor subunit 	Spt4
+ENSXETG00000025347	eif1ax	\N	-	eukaryotic translation initiation factor 1A X-linked 	eIF-1a
+ENSXETG00000025376	acin1	\N	-	apoptotic chromatin condensation inducer 1 	SAP
+ENSXETG00000025402	ssb	\N	-	Xenopus tropicalis Sjogren syndrome antigen B (ssb)%2C mRNA. 	RRM_3
+ENSXETG00000025457	rpl7	\N	-	Xenopus tropicalis ribosomal protein L7 (rpl7)%2C mRNA. 	Ribosomal_L30_N
+ENSXETG00000025484	rab11b.1	\N	-	Xenopus tropicalis RAB11B%2C member RAS oncogene family%2C gene 1 (rab11b.1)%2C mRNA. 	MMR_HSR1
+ENSXETG00000025487	rpp25	\N	-	ribonuclease P and MRP subunit p25 	Alba
+ENSXETG00000025503	srsf6	\N	-	serine/arginine-rich splicing factor 6 	RRM_1
+ENSXETG00000025507	ethe1	\N	-	Xenopus tropicalis ethylmalonic encephalopathy 1 (ethe1)%2C mRNA. 	Lactamase_B
+ENSXETG00000025510	rps19	\N	-	ribosomal protein S19 	Ribosomal_S19e
+ENSXETG00000025551	rars	\N	-	Xenopus tropicalis arginyl-tRNA synthetase (rars)%2C mRNA. 	tRNA-synt_1d
+ENSXETG00000025558	-	\N	-	-	Exo_endo_phos
+ENSXETG00000025568	TDRD12	\N	-	tudor domain containing 12 	TUDOR
+ENSXETG00000025614	endog	\N	-	Xenopus tropicalis endonuclease G (endog)%2C mRNA. 	Endonuclease_NS
+ENSXETG00000025636	-	\N	-	-	Exo_endo_phos
+ENSXETG00000025641	pigy	\N	-	Xenopus tropicalis phosphatidylinositol glycan anchor biosynthesis class Y (pigy)%2C transcript variant 1%2C mRNA. 	Trm112p
+ENSXETG00000025651	eif4ebp2	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4E binding protein 2 (eif4ebp2)%2C mRNA. 	eIF_4EBP
+ENSXETG00000025658	mrpl13	\N	-	mitochondrial ribosomal protein L13 	Ribosomal_L13
+ENSXETG00000025676	paip2b	\N	-	Xenopus tropicalis poly(A) binding protein interacting protein 2B (paip2b)%2C mRNA. 	PAM2
+ENSXETG00000025768	polr2l.1	\N	-	Xenopus tropicalis polymerase (RNA) II subunit L (polr2l.1)%2C mRNA. 	RNA_pol_N
+ENSXETG00000025781	tent5c	\N	-	terminal nucleotidyltransferase 5C 	NTP_transf_7
+ENSXETG00000025794	-	\N	-	endonuclease domain-containing 1 protein-like 	Endonuclease_NS
+ENSXETG00000025878	mphosph6	\N	-	M-phase phosphoprotein 6 	MPP6
+ENSXETG00000025903	ddx52	\N	-	DEAD-box helicase 52 	DEAD
+ENSXETG00000025920	-	\N	-	Xenopus tropicalis RNA binding motif protein 12 (LOC733876)%2C mRNA. 	RRM_1
+ENSXETG00000025924	rad54b	\N	-	RAD54 homolog B 	ResIII
+ENSXETG00000025929	polr2k	\N	-	Xenopus tropicalis polymerase (RNA) II subunit K (polr2k)%2C mRNA. 	DNA_RNApol_7kD
+ENSXETG00000025934	c1d	\N	-	Xenopus tropicalis C1D nuclear receptor corepressor (c1d)%2C mRNA. 	Sas10_Utp3
+ENSXETG00000025944	-	\N	-	-	Exo_endo_phos
+ENSXETG00000026004	chd8	\N	-	chromodomain helicase DNA binding protein 8 	BRK
+ENSXETG00000026017	-	\N	-	-	Exo_endo_phos
+ENSXETG00000026024	snu13	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein 13 (snu13)%2C mRNA. 	Ribosomal_L7Ae
+ENSXETG00000026151	zgpat	\N	-	zinc finger%2C CCCH-type with G-patch domain 	G-patch
+ENSXETG00000026152	tsnax	\N	-	Xenopus tropicalis translin-associated factor X (tsnax)%2C mRNA. 	Translin
+ENSXETG00000026166	arl13a	\N	-	ADP ribosylation factor like GTPase 13A 	MMR_HSR1
+ENSXETG00000026169	-	\N	-	Xenopus tropicalis phosphoethanolamine methyltransferase (LOC100124841)%2C mRNA. 	Methyltransf_31
+ENSXETG00000026179	rbmx2	\N	-	Xenopus tropicalis RNA binding motif protein X-linked 2 (rbmx2)%2C mRNA. 	RRM_1
+ENSXETG00000026189	rpl23a	\N	-	Xenopus tropicalis ribosomal protein L23a (rpl23a)%2C mRNA. 	Ribosomal_L23eN
+ENSXETG00000026193	-	\N	-	-	MMR_HSR1
+ENSXETG00000026219	fau	\N	-	Xenopus tropicalis Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed (fau)%2C mRNA. 	Ribosomal_S30
+ENSXETG00000026230	rpp21	\N	-	Xenopus tropicalis ribonuclease P/MRP 21kDa subunit (rpp21)%2C mRNA. 	Rpr2
+ENSXETG00000026296	-	\N	-	-	Exo_endo_phos
+ENSXETG00000026372	eef1g	\N	-	Xenopus tropicalis eukaryotic translation elongation factor 1 gamma (eef1g)%2C mRNA. 	EF1G
+ENSXETG00000026410	chd4	\N	-	chromodomain helicase DNA binding protein 4 	ResIII
+ENSXETG00000026415	rps25	\N	-	Xenopus tropicalis ribosomal protein S25 (rps25)%2C mRNA. 	Ribosomal_S25
+ENSXETG00000026436	eif5a	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 5A (eif5a)%2C mRNA. 	eIF-5a
+ENSXETG00000026454	rps13	\N	-	ribosomal protein S13 	Ribosomal_S13_N
+ENSXETG00000026465	lsm5	\N	-	LSM5 homolog%2C U6 small nuclear RNA and mRNA degradation associated 	LSM
+ENSXETG00000026477	-	\N	-	-	Exo_endo_phos
+ENSXETG00000026537	gadd45g	\N	-	Xenopus tropicalis growth arrest and DNA damage inducible gamma (gadd45g)%2C mRNA. 	Ribosomal_L7Ae
+ENSXETG00000026538	-	\N	-	-	zf-CCHC
+ENSXETG00000026571	mrpl30	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L30 (mrpl30)%2C mRNA. 	Ribosomal_L30
+ENSXETG00000026622	mbd4	\N	-	Xenopus tropicalis methyl-CpG binding domain 4%2C DNA glycosylase (mbd4)%2C mRNA. 	MBD
+ENSXETG00000026649	rbm4b	\N	-	Xenopus tropicalis RNA binding motif protein 4B (rbm4b)%2C mRNA. 	RRM_1
+ENSXETG00000026650	rbm14	\N	-	Xenopus tropicalis RNA binding motif protein 14 (rbm14)%2C mRNA. 	RRM_1
+ENSXETG00000026673	-	\N	-	-	zf-C2H2
+ENSXETG00000026688	-	\N	-	-	MMR_HSR1
+ENSXETG00000026767	-	\N	-	Xenopus tropicalis uncharacterized loc100145486 (LOC100145486)%2C mRNA. 	NUFIP2
+ENSXETG00000026836	ctif	\N	-	CBP80/20-dependent translation initiation factor 	MIF4G
+ENSXETG00000026859	utp3	\N	-	Xenopus tropicalis UTP3%2C small subunit processome component (utp3)%2C mRNA. 	Sas10_Utp3
+ENSXETG00000026897	nutf2	\N	-	Xenopus tropicalis nuclear transport factor 2 (nutf2)%2C mRNA. 	NTF2
+ENSXETG00000026907	trmt61a	\N	-	Xenopus tropicalis tRNA methyltransferase 61A (trmt61a)%2C mRNA. 	GCD14
+ENSXETG00000026940	srsf9	\N	-	Xenopus tropicalis serine/arginine-rich splicing factor 9 (srsf9)%2C mRNA. 	RRM_1
+ENSXETG00000026942	rplp0	\N	-	Xenopus tropicalis ribosomal protein%2C large%2C P0 (rplp0)%2C mRNA. 	Ribosomal_L10
+ENSXETG00000026943	rab35	\N	-	Xenopus tropicalis RAB35%2C member RAS oncogene family (rab35)%2C mRNA. 	GTP_EFTU
+ENSXETG00000026979	sar1a	\N	-	Xenopus tropicalis secretion associated%2C Ras related GTPase 1A (sar1a)%2C mRNA. 	MMR_HSR1
+ENSXETG00000027008	eif3g	\N	-	eukaryotic translation initiation factor 3 subunit G 	eIF3g
+ENSXETG00000027024	rpl37	\N	-	ribosomal protein L37 	Ribosomal_L37e
+ENSXETG00000027042	ago3	\N	-	argonaute 3%2C RISC catalytic component 	Piwi
+ENSXETG00000027052	mrps10	\N	-	mitochondrial ribosomal protein S10 	Ribosomal_S10
+ENSXETG00000027058	hint3	\N	-	Xenopus tropicalis histidine triad nucleotide binding protein 3 (hint3)%2C mRNA. 	DcpS_C
+ENSXETG00000027063	mif4gd	\N	-	Xenopus tropicalis MIF4G domain containing (mif4gd)%2C mRNA. 	MIF4G
+ENSXETG00000027071	-	\N	-	-	Utp12
+ENSXETG00000027073	rps4x	\N	-	Xenopus tropicalis ribosomal protein S4 X-linked (rps4x)%2C mRNA. 	Ribosomal_S4e
+ENSXETG00000027086	ythdf1	\N	-	YTH N(6)-methyladenosine RNA binding protein 1 	YTH
+ENSXETG00000027117	mkrn1	\N	-	makorin ring finger protein 1 	zf-CCCH
+ENSXETG00000027126	elac1	\N	-	Xenopus tropicalis elaC ribonuclease Z 1 (elac1)%2C mRNA. 	Lactamase_B
+ENSXETG00000027149	-	\N	-	-	zf-C2H2
+ENSXETG00000027170	nars	\N	-	asparaginyl-tRNA synthetase 	tRNA-synt_2
+ENSXETG00000027218	sub1	\N	-	Xenopus tropicalis SUB1 homolog%2C transcriptional regulator (sub1)%2C mRNA. 	PC4
+ENSXETG00000027221	-	\N	-	-	RRM_1
+ENSXETG00000027237	hexim1	\N	-	hexamethylene bis-acetamide inducible 1 	HEXIM
+ENSXETG00000027254	mrpl53	\N	-	Xenopus tropicalis mitochondrial ribosomal protein L53 (mrpl53)%2C mRNA. 	MRP_L53
+ENSXETG00000027259	eif3d	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 3 subunit D (eif3d)%2C mRNA. 	eIF-3_zeta
+ENSXETG00000027266	snrpb	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein polypeptides B and B1 (snrpb)%2C mRNA. 	LSM
+ENSXETG00000027274	eif3l	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 3 subunit L (eif3l)%2C mRNA. 	Paf67
+ENSXETG00000027288	fcf1	\N	-	Xenopus tropicalis FCF1%2C rRNA-processing protein (fcf1)%2C mRNA. 	Fcf1
+ENSXETG00000027295	mrpl17	\N	-	mitochondrial ribosomal protein L17 	Ribosomal_L17
+ENSXETG00000027328	fastkd5	\N	-	FAST kinase domains 5 	RAP
+ENSXETG00000027344	rpsa	\N	-	Xenopus tropicalis ribosomal protein SA (rpsa)%2C mRNA. 	Ribosomal_S2
+ENSXETG00000027354	snrpd1	\N	-	Xenopus tropicalis small nuclear ribonucleoprotein D1 polypeptide (snrpd1)%2C mRNA. 	LSM
+ENSXETG00000027366	snai1	\N	-	Xenopus tropicalis snail family zinc finger 1 (snai1)%2C mRNA. 	zf-C2H2
+ENSXETG00000027370	riok3	\N	-	Xenopus tropicalis RIO kinase 3 (riok3)%2C mRNA. 	RIO1
+ENSXETG00000027398	mterf1	\N	-	mitochondrial transcription termination factor 1 	mTERF
+ENSXETG00000027405	dus3l	\N	-	Xenopus tropicalis dihydrouridine synthase 3-like (dus3l)%2C mRNA. 	Dus
+ENSXETG00000027422	mrpl27	\N	-	mitochondrial ribosomal protein L27 	Ribosomal_L27
+ENSXETG00000027476	leng9	\N	-	leukocyte receptor cluster (LRC) member 9 	AKAP7_NLS
+ENSXETG00000027484	znf432	\N	-	zinc finger protein 432 	zf-C2H2
+ENSXETG00000027491	dbr1	\N	-	Xenopus tropicalis debranching RNA lariats 1 (dbr1)%2C mRNA. 	DBR1
+ENSXETG00000027501	-	\N	-	-	Exo_endo_phos
+ENSXETG00000027536	znf574	\N	-	Xenopus tropicalis zinc finger protein 574 (znf574)%2C mRNA. 	zf-C2H2
+ENSXETG00000027585	dxo	\N	-	Xenopus tropicalis decapping exoribonuclease (dxo)%2C mRNA. 	RAI1
+ENSXETG00000027597	mrps18c	\N	-	mitochondrial ribosomal protein S18C 	Ribosomal_S18
+ENSXETG00000027601	mex3b	\N	-	mex-3 RNA binding family member B 	KH_1
+ENSXETG00000027618	-	\N	-	-	Exo_endo_phos
+ENSXETG00000027631	lsm10	\N	-	Xenopus tropicalis LSM10%2C U7 small nuclear RNA associated (lsm10)%2C mRNA. 	LSM
+ENSXETG00000027722	znf706.2	\N	-	Xenopus tropicalis zinc finger protein 706%2C gene 2 (znf706.2)%2C mRNA. 	zf-met
+ENSXETG00000027727	nmd3	\N	-	Xenopus tropicalis NMD3 ribosome export adaptor (nmd3)%2C mRNA. 	NMD3
+ENSXETG00000027734	rps29	\N	-	ribosomal protein S29 	Ribosomal_S14
+ENSXETG00000027781	-	\N	-	-	Exo_endo_phos
+ENSXETG00000027804	zcchc9	\N	-	Xenopus tropicalis zinc finger CCHC-type containing 9 (zcchc9)%2C mRNA. 	zf-CCHC
+ENSXETG00000027811	rps23	\N	-	ribosomal protein S23 	Ribosom_S12_S23
+ENSXETG00000027834	mael	\N	-	Xenopus tropicalis maelstrom spermatogenic transposon silencer (mael)%2C mRNA. 	Maelstrom
+ENSXETG00000027840	rpl36	\N	-	Xenopus tropicalis ribosomal protein L36 (rpl36)%2C mRNA. 	Ribosomal_L36e
+ENSXETG00000027865	yars	\N	-	Xenopus tropicalis tyrosyl-tRNA synthetase (yars)%2C mRNA. 	tRNA-synt_1b
+ENSXETG00000027871	rpl35a	\N	-	ribosomal protein L35a 	Ribosomal_L35Ae
+ENSXETG00000027885	mgc89871	\N	-	Xenopus tropicalis eukaryotic translation initiation factor 4E family member 2 (eif4e2)%2C mRNA. 	IF4E
+ENSXETG00000028019	-	\N	-	-	GTP_EFTU
+ENSXETG00000028035	akap8l	\N	-	Xenopus tropicalis A-kinase anchoring protein 8 like (akap8l)%2C mRNA. 	AKAP95
+ENSXETG00000028038	mrps21	\N	-	Xenopus tropicalis mitochondrial ribosomal protein S21 (mrps21)%2C mRNA. 	Ribosomal_S21
+ENSXETG00000028097	ddx19b	\N	-	DEAD-box helicase 19B 	DEAD
+ENSXETG00000028100	mrpl35	\N	-	mitochondrial ribosomal protein L35 	Ribosomal_L35p
+ENSXETG00000029921	trmt10c	\N	mrpp1|rg9mtd1	Xenopus tropicalis tRNA methyltransferase 10C%2C mitochondrial RNase P subunit (trmt10c)%2C mRNA. 	tRNA_m1G_MT
+ENSXETG00000029930	MRPL47	\N	CGI-204|NCM1	mitochondrial ribosomal protein L47 	MRP-L47
+ENSXETG00000029942	TDRD5	\N	-	tudor domain containing 5 	TUDOR
+ENSXETG00000029955	SECISBP2	\N	SBP2	SECIS binding protein 2 	Ribosomal_L7Ae
+ENSXETG00000030016	AFF3	\N	LAF4|MLLT2-like	AF4/FMR2 family member 3 	AF-4
+ENSXETG00000030019	las1l	\N	-	LAS1-like%2C ribosome biogenesis factor 	Las1
+ENSXETG00000030024	-	\N	-	Xenopus tropicalis uncharacterized loc780277 (LOC780277)%2C mRNA. 	Endonuclease_NS
+ENSXETG00000030043	ENPP1	\N	M6S1|NPPS|PC-1|PCA1|PDNP1	ectonucleotide pyrophosphatase/phosphodiesterase 1 	Endonuclease_NS
+ENSXETG00000030050	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030078	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030090	-	\N	-	-	zf-CCHC
+ENSXETG00000030097	PES1	\N	NOP7|PES	pescadillo ribosomal biogenesis factor 1 	Pescadillo_N
+ENSXETG00000030110	FAM83E	\N	-	family with sequence similarity 83 member E 	FAM83
+ENSXETG00000030161	-	\N	-	-	zf-CCHC
+ENSXETG00000030237	-	\N	-	-	RVT_1
+ENSXETG00000030239	-	\N	-	-	Fcf2
+ENSXETG00000030249	-	\N	-	-	zf-C2H2
+ENSXETG00000030252	-	\N	-	uncharacterized LOC100485404 	MMR_HSR1
+ENSXETG00000030260	-	\N	-	-	RRM_1
+ENSXETG00000030277	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030293	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030307	-	\N	-	-	zf-C2H2
+ENSXETG00000030317	-	\N	-	-	Transposase_22
+ENSXETG00000030343	SLIRP	\N	C14orf156|DC50	SRA stem-loop interacting RNA binding protein 	RRM_1
+ENSXETG00000030345	GPATCH3	\N	FLJ12455|GPATC3	G-patch domain containing 3 	G-patch
+ENSXETG00000030346	TENT5D	\N	CT1.26|CT112|FAM46D|MGC26999	terminal nucleotidyltransferase 5D 	NTP_transf_7
+ENSXETG00000030359	-	\N	-	-	RVT_1
+ENSXETG00000030369	rammet	\N	fam103a1|rammetGN	RNA guanine-7 methyltransferase activating subunit 	RAM
+ENSXETG00000030371	-	\N	-	ribonuclease H1-like 	RNase_H
+ENSXETG00000030397	ERI3	\N	FLJ22943|PINT1|PRNPIP	ERI1 exoribonuclease family member 3 	RNase_T
+ENSXETG00000030408	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030418	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030428	-	\N	-	-	ResIII
+ENSXETG00000030437	TNRC6A	\N	CAGH26|GW182|KIAA1460|TNRC6	trinucleotide repeat containing 6A 	Ago_hook
+ENSXETG00000030450	-	\N	-	-	Surp
+ENSXETG00000030573	rpl39	\N	rpl39-a|rpl39-b	Xenopus tropicalis ribosomal protein L39 (rpl39)%2C mRNA. 	Ribosomal_L39
+ENSXETG00000030588	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030615	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030617	SEPT8	\N	KIAA0202|SEP2	septin 8 	MMR_HSR1
+ENSXETG00000030625	SEPT4	\N	ARTS|CE5B3|H5|MART|PNUTL2|hCDCREL-2|hucep-7	septin 4 	MMR_HSR1
+ENSXETG00000030651	-	\N	-	-	SAP
+ENSXETG00000030681	-	\N	-	-	zf-CCHC
+ENSXETG00000030716	INTS11	\N	CPSF3L|CPSF73L|FLJ20542|INT11|RC-68	integrator complex subunit 11 	Beta-Casp
+ENSXETG00000030721	-	\N	-	-	Methyltransf_31
+ENSXETG00000030723	-	\N	-	-	zf-CCCH
+ENSXETG00000030730	-	\N	-	-	Methyltransf_31
+ENSXETG00000030733	bzw1	\N	-	Xenopus tropicalis basic leucine zipper and W2 domains 1 (bzw1)%2C mRNA. 	W2
+ENSXETG00000030755	RIMKLB	\N	FAM80B|KIAA1238|NAAGS|NAAGS-I	ribosomal modification protein rimK-like family member B 	RimK
+ENSXETG00000030767	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030794	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030832	DDX4	\N	VASA	DEAD-box helicase 4 	DEAD
+ENSXETG00000030860	-	\N	-	-	RVT_1
+ENSXETG00000030864	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030875	-	\N	-	-	eIF3_p135
+ENSXETG00000030882	TRMT44	\N	C4orf23|FLJ35725|METTL19|TRM44	tRNA methyltransferase 44 homolog 	AdoMet_MTase
+ENSXETG00000030888	sept5	\N	sep1	Xenopus tropicalis septin 5 (sept5)%2C mRNA. 	MMR_HSR1
+ENSXETG00000030890	-	\N	-	-	MMR_HSR1
+ENSXETG00000030911	-	\N	-	-	zf-CCHC
+ENSXETG00000030929	-	\N	-	-	A_deamin
+ENSXETG00000030935	-	\N	-	-	Exo_endo_phos
+ENSXETG00000030938	rab41	\N	-	Xenopus tropicalis RAB41%2C member RAS oncogene family (rab41)%2C mRNA. 	MMR_HSR1
+ENSXETG00000030967	-	\N	-	-	zf-C2H2
+ENSXETG00000030983	RASL11A	\N	-	RAS like family 11 member A 	MMR_HSR1
+ENSXETG00000031013	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031025	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031034	-	\N	-	-	RVT_1
+ENSXETG00000031054	-	\N	-	-	Noc2
+ENSXETG00000031067	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031094	-	\N	-	-	RVT_1
+ENSXETG00000031130	-	\N	-	-	PARP
+ENSXETG00000031149	-	\N	-	-	RVT_1
+ENSXETG00000031161	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031166	-	\N	-	-	zf-CCHC
+ENSXETG00000031192	-	\N	-	-	zf-C2H2
+ENSXETG00000031237	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031246	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031256	-	\N	-	-	Endonuclease_NS
+ENSXETG00000031258	IGHMBP2	\N	CATF1|CMT2S|HCSA|HMN6|SMARD1|SMUBP2|ZFAND7	immunoglobulin mu DNA binding protein 2 	R3H
+ENSXETG00000031282	-	\N	-	-	zf-CCHC
+ENSXETG00000031283	FASTKD2	\N	KIAA0971	FAST kinase domains 2 	RAP
+ENSXETG00000031310	-	\N	-	-	zf-C2H2
+ENSXETG00000031335	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031349	-	\N	-	-	Transposase_22
+ENSXETG00000031363	-	\N	-	-	MMR_HSR1
+ENSXETG00000031387	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031397	ndufa2	\N	b8|cd14|cib8	NADH:ubiquinone oxidoreductase subunit A2 	L51_S25_CI-B8
+ENSXETG00000031403	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031405	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031425	BCLAF3	\N	CXorf23	BCLAF1 and THRAP3 family member 3 	THRAP3_BCLAF1
+ENSXETG00000031460	-	\N	-	-	zf-C2H2
+ENSXETG00000031494	PRMT2	\N	HRMT1L1|MGC111373	Protein arginine N-methyltransferase 2  	MTS
+ENSXETG00000031535	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031539	-	\N	-	-	zf-CCHC
+ENSXETG00000031542	ZRSR2	\N	U2AF1-RS2|U2AF1L2|URP|ZC3H22	zinc finger (CCCH type)%2C RNA binding motif and serine/arginine rich 2 	zf-CCCH
+ENSXETG00000031547	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031573	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031584	MRPL49	\N	C11orf4|L49mt|NOF|NOF1	mitochondrial ribosomal protein L49 	Img2
+ENSXETG00000031597	-	\N	-	-	DEAD
+ENSXETG00000031641	-	\N	-	-	Transposase_22
+ENSXETG00000031651	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031652	PTCD2	\N	FLJ12598	pentatricopeptide repeat domain 2 	MRP-S27
+ENSXETG00000031661	RTCA	\N	RPC|RTC1|RTCD1	RNA 3'-terminal phosphate cyclase 	RTC
+ENSXETG00000031733	-	\N	-	-	RVT_1
+ENSXETG00000031743	-	\N	-	-	RVT_1
+ENSXETG00000031771	KIN	\N	KIN17|Rts2	Kin17 DNA and RNA binding protein 	Kin17_mid
+ENSXETG00000031776	FARS2	\N	FARS1|dJ236A3.1	phenylalanyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2d
+ENSXETG00000031779	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031783	-	\N	-	-	MMR_HSR1
+ENSXETG00000031793	POP5	\N	-	POP5 homolog%2C ribonuclease P/MRP subunit 	RNase_P_Rpp14
+ENSXETG00000031796	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031814	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031821	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031835	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031838	-	\N	-	-	SRRM_C
+ENSXETG00000031844	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031859	-	\N	-	-	RVT_1
+ENSXETG00000031863	-	\N	-	putative methyltransferase DDB_G0268948 	Methyltransf_31
+ENSXETG00000031873	ZBTB20	\N	DKFZp566F123|DPZF|ODA-8S|ZNF288	zinc finger and BTB domain containing 20 	zf-C2H2
+ENSXETG00000031887	-	\N	-	-	RVT_1
+ENSXETG00000031893	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031921	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031930	SBNO1	\N	FLJ10701|FLJ10833|MOP3|Sno	strawberry notch homolog 1 	ResIII
+ENSXETG00000031945	-	\N	-	-	TUDOR
+ENSXETG00000031949	DHX57	\N	DDX57	DExH-box helicase 57 	HA2
+ENSXETG00000031978	-	\N	-	-	Exo_endo_phos
+ENSXETG00000031995	UBR5	\N	DD5|EDD|EDD1|HYD|KIAA0896	ubiquitin protein ligase E3 component n-recognin 5 	PABP
+ENSXETG00000031996	-	\N	-	-	Methyltransf_31
+ENSXETG00000031997	ZC3H14	\N	FLJ11806|NY-REN-37|UKp68	zinc finger CCCH-type containing 14 	zf-CCCH_2
+ENSXETG00000032010	-	\N	-	-	RVT_1
+ENSXETG00000032017	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032028	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032038	-	\N	-	-	zf-C2H2
+ENSXETG00000032055	RBMS3	\N	-	RNA binding motif single stranded interacting protein 3 	RRM_1
+ENSXETG00000032067	-	\N	-	-	RRM_1
+ENSXETG00000032071	OCRL	\N	OCRL1	OCRL%2C inositol polyphosphate-5-phosphatase 	Exo_endo_phos
+ENSXETG00000032078	MTERF4	\N	-	mitochondrial transcription termination factor 4 	mTERF
+ENSXETG00000032090	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032139	MRPS6	\N	C21orf101|MRP-S6|RPMS6	mitochondrial ribosomal protein S6 	Ribosomal_S6
+ENSXETG00000032148	dppa2/4	\N	-	Xenopus tropicalis developmental pluripotency associated 2/4 (dppa2/4)%2C mRNA. 	SAP
+ENSXETG00000032168	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032173	PRDM10	\N	KIAA1231|MGC131802|PFM7	PR/SET domain 10 	zf-C2H2
+ENSXETG00000032180	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032193	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032207	ZNF131	\N	ZBTB35|pHZ-10	zinc finger protein 131 	zf-met
+ENSXETG00000032212	-	\N	-	-	DEAD
+ENSXETG00000032215	shq1	\N	-	Xenopus tropicalis SHQ1%2C H/ACA ribonucleoprotein assembly factor (shq1)%2C mRNA. 	SHQ1
+ENSXETG00000032242	-	\N	-	-	zf-CCHC
+ENSXETG00000032249	MTIF2	\N	IF-2mt	mitochondrial translational initiation factor 2 	GTP_EFTU
+ENSXETG00000032255	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032269	LRRFIP1	\N	FLAP-1|FLIIAP1|GCF-2|HUFI-1|TRIP	LRR binding FLII interacting protein 1 	LRRFIP
+ENSXETG00000032270	mettl7a	\N	-	Xenopus tropicalis methyltransferase like 7A (mettl7a)%2C mRNA. 	Methyltransf_31
+ENSXETG00000032297	-	\N	-	-	zf-CCHC
+ENSXETG00000032298	-	\N	-	-	Transposase_22
+ENSXETG00000032308	-	\N	-	-	RVT_1
+ENSXETG00000032316	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032326	sra1	\N	-	Xenopus tropicalis steroid receptor RNA activator 1 (sra1)%2C mRNA. 	SRA1
+ENSXETG00000032344	-	\N	-	-	DND1_DSRM
+ENSXETG00000032346	UTP20	\N	1A6/DRIM|DRIM	UTP20 small subunit processome component 	DRIM
+ENSXETG00000032370	-	\N	-	-	PARP
+ENSXETG00000032383	ARL13B	\N	ARL2L1|DKFZp761H079|JBTS8	ADP ribosylation factor like GTPase 13B 	MMR_HSR1
+ENSXETG00000032402	-	\N	-	-	zf-CCHC
+ENSXETG00000032410	-	\N	-	-	PARP
+ENSXETG00000032443	RAB39B	\N	MRX72|WSN	RAB39B%2C member RAS oncogene family 	MMR_HSR1
+ENSXETG00000032466	-	\N	-	ribonuclease H2 subunit C 	RNase_H2_suC
+ENSXETG00000032474	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032503	MRPS18B	\N	-	mitochondrial ribosomal protein S18B 	Ribosomal_S18
+ENSXETG00000032507	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032508	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032517	DKC1	\N	Cbf5|DKC|NAP57|NOLA4|XAP101|dyskerin	dyskeratosis congenita 1%2C dyskerin 	DKCLD
+ENSXETG00000032551	GFM1	\N	EFGM|EGF1|GFM|mtEF-G1	G elongation factor mitochondrial 1 	GTP_EFTU
+ENSXETG00000032571	-	\N	-	-	RVT_1
+ENSXETG00000032595	ULK2	\N	ATG1B|KIAA0623|Unc51.2	unc-51 like autophagy activating kinase 2 	RIO1
+ENSXETG00000032645	-	\N	-	-	RVT_1
+ENSXETG00000032705	-	\N	-	-	RVT_1
+ENSXETG00000032712	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032721	RECQL5	\N	FLJ90603|RecQ5	RecQ like helicase 5 	DEAD
+ENSXETG00000032740	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032742	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032749	-	\N	-	-	DEAD
+ENSXETG00000032798	MTREX	\N	Dob1|KIAA0052|Mtr4|SKIV2L2|fSAP118	Mtr4 exosome RNA helicase 	rRNA_proc-arch
+ENSXETG00000032833	-	\N	-	-	RVT_1
+ENSXETG00000032834	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032869	SF3B3	\N	KIAA0017|RSE1|SAP130|SF3b130	splicing factor 3b subunit 3 	CPSF_A
+ENSXETG00000032871	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032876	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032902	mrpl42	\N	-	mitochondrial ribosomal protein L42 	MRP-S32
+ENSXETG00000032909	-	\N	-	Xenopus tropicalis uncharacterized loc100145419 (LOC100145419)%2C mRNA. 	Endonuclease_NS
+ENSXETG00000032920	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032980	zcchc2	\N	-	Xenopus tropicalis zinc finger%2C CCHC domain containing 2 (zcchc2)%2C mRNA. 	zf-CCHC
+ENSXETG00000032983	-	\N	-	-	S10_plectin
+ENSXETG00000032984	-	\N	-	-	Endonuclease_NS
+ENSXETG00000032988	RRP15	\N	CGI-115|KIAA0507	ribosomal RNA processing 15 homolog 	Rrp15p
+ENSXETG00000032991	arl6ip4	\N	sr-25|srp25	Xenopus tropicalis ADP ribosylation factor like GTPase 6 interacting protein 4 (arl6ip4)%2C mRNA. 	SR-25
+ENSXETG00000032996	-	\N	-	-	Exo_endo_phos
+ENSXETG00000032998	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033027	-	\N	-	-	Arb2
+ENSXETG00000033049	GMPS	\N	GATD7	guanine monophosphate synthase 	tRNA_Me_trans
+ENSXETG00000033090	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033098	ZNF366	\N	FLJ39796	zinc finger protein 366 	zf-C2H2
+ENSXETG00000033103	UPF2	\N	DKFZP434D222|KIAA1408|RENT2|smg-3	UPF2%2C regulator of nonsense mediated mRNA decay 	MIF4G
+ENSXETG00000033118	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033139	ZBTB16	\N	PLZF|ZNF145	zinc finger and BTB domain containing 16 	zf-C2H2
+ENSXETG00000033143	-	\N	-	-	zf-CCHC
+ENSXETG00000033144	-	\N	-	-	SLBP_RNA_bind
+ENSXETG00000033185	sgf29	\N	ccdc101	Xenopus tropicalis SAGA complex associated factor 29 (sgf29)%2C mRNA. 	DUF1325
+ENSXETG00000033205	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033236	-	\N	-	-	Methyltransf_31
+ENSXETG00000033238	csdc2	\N	pippin	cold shock domain containing C2 	CSD
+ENSXETG00000033248	-	\N	-	-	RVT_1
+ENSXETG00000033250	MRPL54	\N	-	mitochondrial ribosomal protein L54 	Ribosomal_L37
+ENSXETG00000033268	PAIP1	\N	-	poly(A) binding protein interacting protein 1 	MIF4G
+ENSXETG00000033289	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033292	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033299	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033302	ZFC3H1	\N	CCDC131|CSRC2|KIAA0546|MGC23401|PSRC2	zinc finger C3H1-type containing 	zf-C3H1
+ENSXETG00000033321	-	\N	-	Xenopus tropicalis uncharacterized LOC100135405 (LOC100135405)%2C mRNA. 	Methyltransf_31
+ENSXETG00000033331	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033336	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033341	-	\N	-	-	zf-CCHC
+ENSXETG00000033343	TFB2M	\N	FLJ22661|FLJ23182|Hkp1	transcription factor B2%2C mitochondrial 	RrnaAD
+ENSXETG00000033348	ZBTB46	\N	BTBD4|BZEL|FLJ13502|RINZF|ZNF340	zinc finger and BTB domain containing 46 	zf-C2H2
+ENSXETG00000033349	mbnl2	\N	-	Xenopus tropicalis muscleblind-like splicing regulator 2 (mbnl2)%2C mRNA. 	zf-CCCH
+ENSXETG00000033350	HNRNPLL	\N	HNRPLL	heterogeneous nuclear ribonucleoprotein L like 	RRM_5
+ENSXETG00000033365	-	\N	-	-	Ribosomal_L1
+ENSXETG00000033389	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033395	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033410	-	\N	-	-	Endonuclease_NS
+ENSXETG00000033465	-	\N	-	-	PARP
+ENSXETG00000033469	-	\N	-	-	RVT_1
+ENSXETG00000033487	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033507	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033508	-	\N	-	-	zf-C2H2
+ENSXETG00000033513	-	\N	-	-	Transposase_22
+ENSXETG00000033518	DDX41	\N	ABS|MGC8828	DEAD-box helicase 41 	DEAD
+ENSXETG00000033533	ATXN1L	\N	BOAT1	ataxin 1-like 	AXH
+ENSXETG00000033541	RBM12	\N	HRIHFB2091|KIAA0765|SWAN	RNA binding motif protein 12 	RRM_1
+ENSXETG00000033546	gtsf1	\N	fam112b	Xenopus tropicalis gametocyte specific factor 1 (gtsf1)%2C mRNA. 	zf-U11-48K
+ENSXETG00000033553	-	\N	-	-	zf-CCHC
+ENSXETG00000033566	-	\N	-	-	zf-CCHC
+ENSXETG00000033574	TSR2	\N	DT1P1A10|RP1-112K5.2|WGG1	TSR2%2C 20S rRNA accumulation%2C homolog 	WGG
+ENSXETG00000033596	-	\N	-	-	zf-CCHC
+ENSXETG00000033624	R3HDM4	\N	C19orf22|MGC16353	R3H domain containing 4 	R3H
+ENSXETG00000033627	-	\N	-	-	RVT_1
+ENSXETG00000033640	-	\N	-	-	PseudoU_synth_1
+ENSXETG00000033641	-	\N	-	-	zf-CCHC
+ENSXETG00000033646	ercc3	\N	btf2|gtf2h|rad25|tfiih|xpb	Xenopus tropicalis excision repair cross-complementation group 3 (ercc3)%2C mRNA. 	ResIII
+ENSXETG00000033647	DIS3L2	\N	FAM6A|FLJ36974|MGC42174	DIS3 like 3'-5' exoribonuclease 2 	RNB
+ENSXETG00000033661	-	\N	-	-	zf-CCHC
+ENSXETG00000033707	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033714	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033739	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033743	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033763	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033765	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033791	SMG5	\N	EST1B|KIAA1089|LPTS-RP1|LPTSRP1|RP11-54H19.7|SMG-5	SMG5%2C nonsense mediated mRNA decay factor 	EST1_DNA_bind
+ENSXETG00000033794	bclaf1	\N	bk211l9.1|btf	Xenopus tropicalis BCL2 associated transcription factor 1 (bclaf1)%2C mRNA. 	THRAP3_BCLAF1
+ENSXETG00000033799	CNOT11	\N	C2orf29|C40	CCR4-NOT transcription complex subunit 11 	CNOT11
+ENSXETG00000033825	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033831	-	\N	-	-	RVT_1
+ENSXETG00000033835	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033837	ZC3H12C	\N	KIAA1726|MCPIP3	zinc finger CCCH-type containing 12C 	RNase_Zc3h12a
+ENSXETG00000033839	SIDT1	\N	FLJ20174|SID-1	SID1 transmembrane family member 1 	SID-1_RNA_chan
+ENSXETG00000033863	TRMT1	\N	FLJ20244|TRM1	tRNA methyltransferase 1 	TRM
+ENSXETG00000033878	RAD18	\N	RNF73	RAD18%2C E3 ubiquitin protein ligase 	SAP
+ENSXETG00000033886	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033892	-	\N	-	-	Exo_endo_phos
+ENSXETG00000033896	-	\N	-	-	RRM_1
+ENSXETG00000033900	zc3hc1	\N	nipa	Xenopus tropicalis zinc finger%2C C3HC-type containing 1 (zc3hc1)%2C mRNA. 	zf-C3HC
+ENSXETG00000033919	-	\N	-	-	RVT_1
+ENSXETG00000033988	-	\N	-	-	RIO1
+ENSXETG00000034004	-	\N	-	-	zf-CCHC
+ENSXETG00000034013	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034016	-	\N	-	-	RVT_1
+ENSXETG00000034020	RNF17	\N	-	ring finger protein 17 	TUDOR
+ENSXETG00000034041	-	\N	-	-	ResIII
+ENSXETG00000034062	-	\N	-	-	Transposase_22
+ENSXETG00000034064	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034066	synj2	\N	-	Xenopus tropicalis synaptojanin 2 (synj2)%2C mRNA. 	DUF1866
+ENSXETG00000034095	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034109	-	\N	-	-	Endonuclease_NS
+ENSXETG00000034113	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034120	-	\N	-	-	zf-CCHC
+ENSXETG00000034134	-	\N	-	-	RVT_1
+ENSXETG00000034146	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034167	GATB	\N	PET112|PET112L	glutamyl-tRNA amidotransferase subunit B 	GatB_Yqey
+ENSXETG00000034180	MRPS27	\N	KIAA0264	mitochondrial ribosomal protein S27 	MRP-S27
+ENSXETG00000034213	-	\N	-	-	zf-C2H2
+ENSXETG00000034216	polr3h	\N	-	Xenopus tropicalis polymerase (RNA) III (DNA directed) polypeptide H (22.9kD) (polr3h)%2C mRNA. 	RNA_pol_Rbc25
+ENSXETG00000034248	-	\N	-	-	L51_S25_CI-B8
+ENSXETG00000034272	INO80	\N	INO80A|INOC1|Ino80|KIAA1259|hINO80	INO80 complex subunit 	ResIII
+ENSXETG00000034278	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034305	-	\N	-	-	zf-CCHC
+ENSXETG00000034308	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034326	-	\N	-	-	Exo_endo_phos
+ENSXETG00000034336	-	\N	-	-	RVT_1
+ENSXETG00000034353	-	\N	-	-	Exo_endo_phos

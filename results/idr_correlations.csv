@@ -1,0 +1,7 @@
+metric,rho,p_value,significant
+Mean IDR content (%),0.714,0.1108,False
+Median IDR content (%),0.5,0.3123,False
+Mean longest IDR (aa),0.829,0.0416,True
+Mean # disordered regions,0.714,0.1108,False
+Mean disordered residues,0.829,0.0416,True
+High-IDR RBPs >30% (%),0.609,0.1997,False

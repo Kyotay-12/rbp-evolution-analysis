@@ -1,0 +1,1853 @@
+ENSGALG00000000137	SNRPE	396180	-	small nuclear ribonucleoprotein polypeptide E 	LSM
+ENSGALG00000000146	SUPT6H	425418	KIAA0162|SPT6H	SPT6 homolog%2C histone chaperone 	S1
+ENSGALG00000000150	RPL9	425468	-	ribosomal protein L9 	Ribosomal_L6
+ENSGALG00000000189	YTHDC2	415602	DKFZp564A186|FLJ10053|FLJ2194	YTH domain containing 2 	YTH
+ENSGALG00000000215	DCP2	769972	NUDT20	decapping mRNA 2 	DCP2
+ENSGALG00000000218	SRP19	770061	-	signal recognition particle 19 	SRP19
+ENSGALG00000000243	RDM1	395228	RAD52B	Gallus gallus RAD52 motif containing 1 (RDM1)%2C mRNA. 	RRM_1
+ENSGALG00000000247	WDR36	415609	-	Gallus gallus WD repeat domain 36 (WDR36)%2C mRNA. 	Utp21
+ENSGALG00000000377	HNRNPM	420054	HNRPM	heterogeneous nuclear ribonucleoprotein M 	RRM_1
+ENSGALG00000000396	METTL2A	419948	METTL2|METTL2B	methyltransferase like 2A 	Methyltransf_31
+ENSGALG00000000397	IPO9	421167	FLJ10402|Imp9	importin 9 	IBN_N
+ENSGALG00000000401	RBM15	100859595	OTT|OTT1	RNA binding motif protein 15 	RRM_1
+ENSGALG00000000474	RPL36	373936	-	ribosomal protein L36 	Ribosomal_L36e
+ENSGALG00000000533	SRSF3	419815	SFRS3	Gallus gallus serine and arginine rich splicing factor 3 (SRSF3)%2C mRNA. 	RRM_1
+ENSGALG00000000538	RNF113A	419956	RNF113B	ring finger protein 113A 	zf-CCCH
+ENSGALG00000000542	ZNF593	419549	-	Gallus gallus zinc finger protein 593 (ZNF593)%2C mRNA. 	zf-C2H2_jaz
+ENSGALG00000000544	-	100859805	-	-	MMR_HSR1
+ENSGALG00000000581	DDX42	419959	-	Gallus gallus DEAD-box helicase 42 (DDX42)%2C mRNA. 	DEAD
+ENSGALG00000000606	ARL8A	421175	-	Gallus gallus ADP ribosylation factor like GTPase 8A (ARL8A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000000613	RAB11B	420063	-	Gallus gallus RAB11B%2C member RAS oncogene family (RAB11B)%2C mRNA. 	MMR_HSR1
+ENSGALG00000000618	ZCCHC17	404295	-	Gallus gallus zinc finger CCHC-type containing 17 (ZCCHC17)%2C mRNA. 	S1
+ENSGALG00000000637	ZBTB48	419370	HKR3	zinc finger and BTB domain containing 48 	zf-C2H2
+ENSGALG00000000650	NIP7	415863	CGI-37|HSPC031|KD93	Gallus gallus NIP7%2C nucleolar pre-rRNA processing protein (NIP7)%2C mRNA. 	UPF0113
+ENSGALG00000000693	NOB1	415867	ART-4|MST158|NOB1P|PSMD8BP1	NIN1/PSMD8 binding protein 1 homolog 	NOB1_Zn_bind
+ENSGALG00000000713	ZFHX3	395682	ATBF1|zax-2	Gallus gallus zinc finger homeobox 3 (ZFHX3)%2C mRNA. 	zf-C2H2
+ENSGALG00000000719	RPL22	373937	-	ribosomal protein L22 	Ribosomal_L22e
+ENSGALG00000000726	ELAVL1	395637	HUA	ELAV like RNA binding protein 1 	RRM_1
+ENSGALG00000000747	CHD5	100857108	-	chromodomain helicase DNA binding protein 3 	ResIII
+ENSGALG00000000787	DHX38	415875	-	Gallus gallus DEAH-box helicase 38 (DHX38)%2C mRNA. 	HA2
+ENSGALG00000000814	HNRNPR	419570	HNRPR	Gallus gallus heterogeneous nuclear ribonucleoprotein R (HNRNPR)%2C mRNA. 	RRM_1
+ENSGALG00000000856	EIF2D	419845	LGTN	eukaryotic translation initiation factor 2D 	SUI1
+ENSGALG00000000881	GPATCH3	419577	GPATC3	Gallus gallus G-patch domain containing 3 (GPATCH3)%2C mRNA. 	G-patch
+ENSGALG00000000891	NSUN5	417462	FLJ10267|NOL1R|NSUN5A|WBSCR20|WBSCR20A|Ynl022cL|p120(NOL1)	NOP2/Sun RNA methyltransferase family member 5 	Methyltr_RsmB-F
+ENSGALG00000000907	KARS	415885	-	Gallus gallus lysyl-tRNA synthetase (KARS)%2C mRNA. 	tRNA-synt_2
+ENSGALG00000000908	ADAT1	415886	-	Gallus gallus adenosine deaminase%2C tRNA specific 1 (ADAT1)%2C mRNA. 	A_deamin
+ENSGALG00000000944	SUPT4H1	417470	SUPPRESSOR OF TY 4 HOMOLOG 1	Gallus gallus SPT4 homolog%2C DSIF elongation factor subunit (SUPT4H1)%2C mRNA. 	Spt4
+ENSGALG00000000962	PUS3	419708	FKSG32	pseudouridylate synthase 3 	PseudoU_synth_1
+ENSGALG00000000988	EFTUD2	428281	-	Gallus gallus elongation factor Tu GTP binding domain containing 2 (EFTUD2)%2C mRNA. 	GTP_EFTU
+ENSGALG00000000990	SRSF6	419116	SFRS6	Gallus gallus serine/arginine-rich splicing factor 6 (SRSF6)%2C mRNA. 	RRM_1
+ENSGALG00000000994	-	428212	-	RAB42%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000000999	ZNF319	427526	KIAA1388|Zfp319	zinc finger protein 319 	zf-C2H2
+ENSGALG00000001021	MYOCD	427790	-	Gallus gallus myocardin (MYOCD)%2C mRNA. 	SAP
+ENSGALG00000001034	AAR2	419118	C20H20ORF4|C20orf4	Gallus gallus AAR2 splicing factor homolog (AAR2)%2C mRNA. 	AAR2
+ENSGALG00000001036	ELAC2	417313	FLJ10530|HPC2	elaC ribonuclease Z 2 	Lactamase_B_4
+ENSGALG00000001043	REXO1	428327	EloA-BP1|KIAA1138|TCEB3BP1	RNA exonuclease 1 homolog 	RNase_T
+ENSGALG00000001099	ANKHD1	416143	-	Gallus gallus ankyrin repeat and KH domain containing 1 (ANKHD1)%2C mRNA. 	KH_1
+ENSGALG00000001109	GTSF1	771059	FAM112B|FLJ32942	gametocyte specific factor 1 	zf-U11-48K
+ENSGALG00000001110	-	417478	-	tRNA-yW synthesizing protein 1 homolog 	Wyosine_form
+ENSGALG00000001144	ZNF346	416144	JAZ|Zfp346	zinc finger protein 346 	zf-met
+ENSGALG00000001168	POLR2C	415635	-	Gallus gallus RNA polymerase II subunit C (POLR2C)%2C mRNA. 	RNA_pol_A_bac
+ENSGALG00000001253	RC3H2	417109	FLJ20301|FLJ20713|MNAB|RNF164	ring finger and CCCH-type domains 2 	zf-CCCH
+ENSGALG00000001279	ZNF652	419987	KIAA0924	zinc finger protein 652 	zf-C2H2
+ENSGALG00000001283	SRRM1	428216	-	Gallus gallus serine and arginine repetitive matrix 1 (SRRM1)%2C mRNA. 	PWI
+ENSGALG00000001310	-	419597	FLJ20503|SECP43|TRSPAP1	tRNA selenocysteine 1 associated protein 1 	RRM_1
+ENSGALG00000001313	EIF4H	417490	-	eukaryotic translation initiation factor 4H 	RRM_1
+ENSGALG00000001333	MRRF	417110	MRRFP1	mitochondrial ribosome recycling factor 	RRF
+ENSGALG00000001341	ZBTB44	101751641	BTBD15|HSPC063|ZNF851	zinc finger and BTB domain containing 44 	zf-C2H2
+ENSGALG00000001377	POLRMT	420084	APOLMT|MTRNAP|MTRPOL|h-mtRPOL	RNA polymerase mitochondrial 	RNA_pol
+ENSGALG00000001465	RPL38	771528	-	Gallus gallus ribosomal protein L38 (RPL38)%2C mRNA. 	Ribosomal_L38e
+ENSGALG00000001474	RAB14	417119	-	Gallus gallus RAB14%2C member RAS oncogene family (RAB14)%2C mRNA. 	MMR_HSR1
+ENSGALG00000001489	SSU72	419410	-	Gallus gallus SSU72 homolog%2C RNA polymerase II CTD phosphatase (SSU72)%2C mRNA. 	Ssu72
+ENSGALG00000001502	UTP11	419606	CGI-94|UTP11L	UTP11%2C small subunit processome component homolog (S. cerevisiae) 	Utp11
+ENSGALG00000001504	DDX20	419869	DP103|GEMIN3	DEAD-box helicase 20 	DEAD
+ENSGALG00000001540	SF3A3	419608	PRP9|PRPF9|SAP61|SF3a60	splicing factor 3a subunit 3 	SF3a60_bindingd
+ENSGALG00000001542	MRPL20	770979	-	Gallus gallus mitochondrial ribosomal protein L20 (MRPL20)%2C mRNA. 	Ribosomal_L20
+ENSGALG00000001550	RBM39	428133	CAPER|CAPERalpha|CC1.3|HCC1|RNPC2|fSAP59	RNA binding motif protein 39 	RRM_1
+ENSGALG00000001602	NUTF2	415655	-	Gallus gallus nuclear transport factor 2 (NUTF2)%2C transcript variant 3%2C mRNA. 	NTF2
+ENSGALG00000001606	INPP5B	419609	-	inositol polyphosphate-5-phosphatase B 	Exo_endo_phos
+ENSGALG00000001613	GNL3	415897	C77032|E2IG3|MGC800|NS	G protein nucleolar 3 	GN3L_Grn1
+ENSGALG00000001624	CWC25	420000	CCDC49|FLJ20291	CWC25 spliceosome associated protein homolog 	CWC25
+ENSGALG00000001634	RPL23	420001	-	ribosomal protein L23 	Ribosomal_L14
+ENSGALG00000001652	SEPT2L	416777	SEPT2	Gallus gallus septin 2-like (SEPT2L)%2C mRNA. 	MMR_HSR1
+ENSGALG00000001658	RPL19	420003	-	ribosomal protein L19 	Ribosomal_L19e
+ENSGALG00000001663	MAK16	426924	MAK16L|RBM13	MAK16 homolog 	Ribosomal_L28e
+ENSGALG00000001688	SEPT5	416778	SEP-05|septin-5	Gallus gallus septin 5 (SEPT5)%2C mRNA. 	MMR_HSR1
+ENSGALG00000001691	INTS11	419418	CPSF3L	Gallus gallus integrator complex subunit 11 (INTS11)%2C mRNA. 	Beta-Casp
+ENSGALG00000001714	PUSL1	419419	-	Gallus gallus pseudouridylate synthase-like 1 (PUSL1)%2C transcript variant 2%2C mRNA. 	PseudoU_synth_1
+ENSGALG00000001725	TNRC6C	417348	FLJ20015|KIAA1582	trinucleotide repeat containing 6C 	Ago_hook
+ENSGALG00000001800	-	428339	-	dihydrouridine synthase 3 like 	Dus
+ENSGALG00000001838	XPO7	426925	exportin-7	exportin 7 	IBN_N
+ENSGALG00000001850	RARS	416168	-	arginyl-tRNA synthetase 	tRNA-synt_1d
+ENSGALG00000001932	SRRM3	\N	FLJ37078	serine/arginine repetitive matrix 3 	cwf21
+ENSGALG00000001948	-	427046	-	scaffold attachment factor B2 	RRM_1
+ENSGALG00000001954	APTX	395173	FHA-HIT	Gallus gallus aprataxin (APTX)%2C mRNA. 	DcpS_C
+ENSGALG00000001962	PTBP1	420098	-	Gallus gallus polypyrimidine tract binding protein 1 (PTBP1)%2C mRNA. 	RRM_5
+ENSGALG00000001964	INPP5E	417135	CORS1|JBTS1|PPI5PIV|pharbin	inositol polyphosphate-5-phosphatase E 	Exo_endo_phos
+ENSGALG00000001965	AARS	415668	-	Gallus gallus alanyl-tRNA synthetase (AARS)%2C mRNA. 	tRNA-synt_2c
+ENSGALG00000001972	-	768611	-	pre-mRNA processing factor 38B 	PRP38
+ENSGALG00000001973	GNL2	419614	HUMAUANTIG|Ngp-1|Nog2|Nug2	G protein nucleolar 2 	MMR_HSR1
+ENSGALG00000001981	PARP6	769472	pART17	poly(ADP-ribose) polymerase family member 6 	PARP
+ENSGALG00000001998	R3HDM4	770563	C19orf22|MGC16353	R3H domain containing 4 	R3H
+ENSGALG00000002000	GRAMD2A	\N	GRAMD2	GRAM domain containing 2A 	RVT_1
+ENSGALG00000002018	CAPN15	416389	SOLH	calpain 15 	zf-RanBP
+ENSGALG00000002021	ZC3H12A	419618	FLJ23231|MCPIP1	zinc finger CCCH-type containing 12A 	RNase_Zc3h12a
+ENSGALG00000002057	POLR2D	424754	-	Gallus gallus RNA polymerase II subunit D (POLR2D)%2C mRNA. 	RNA_pol_Rpb4
+ENSGALG00000002060	TAF15	417522	Npl3|RBP56|TAF2N|hTAFII68	TATA-box binding protein associated factor 15 	RRM_1
+ENSGALG00000002087	NCBP1	427379	-	Gallus gallus nuclear cap binding protein subunit 1 (NCBP1)%2C mRNA. 	MIF4G_like_2
+ENSGALG00000002094	TRMT2A	416786	HTF9C	tRNA methyltransferase 2 homolog A 	tRNA_U5-meth_tr
+ENSGALG00000002127	LSM10	419621	MGC15749	LSM10%2C U7 small nuclear RNA associated 	LSM
+ENSGALG00000002139	CSDE1	419886	-	Gallus gallus cold shock domain containing E1 (CSDE1)%2C mRNA. 	CSD
+ENSGALG00000002144	THRAP3	419623	-	Gallus gallus thyroid hormone receptor associated protein 3 (THRAP3)%2C mRNA. 	THRAP3_BCLAF1
+ENSGALG00000002157	RPS17	374053	RPS17L	ribosomal protein S17 	Ribosomal_S17e
+ENSGALG00000002162	ACO1	373916	IREB1|IREBP	Gallus gallus aconitase 1%2C soluble (ACO1)%2C mRNA. 	Aconitase
+ENSGALG00000002164	DDX59	424346	DKFZP564B1023|ZNHIT5	DEAD-box helicase 59 	DEAD
+ENSGALG00000002167	PATL2	415327	Pat1a	PAT1 homolog 2 	PAT1
+ENSGALG00000002197	-	\N	NO38	-	Nucleoplasmin
+ENSGALG00000002222	NOC2L	419433	-	Gallus gallus NOC2 like nucleolar associated transcriptional repressor (NOC2L)%2C mRNA. 	Noc2
+ENSGALG00000002239	REXO5	427001	EXNEF	Gallus gallus RNA exonuclease 5 (REXO5)%2C mRNA. 	RRM_1
+ENSGALG00000002249	AGO1	428222	EIF2C1	Gallus gallus argonaute 1%2C RISC catalytic component (AGO1)%2C mRNA. 	Piwi
+ENSGALG00000002253	HEMK1	415915	MTQ1	HemK methyltransferase family member 1 	MTS
+ENSGALG00000002262	ETF1	416182	ERF|ERF1|RF1|SUP45L1|TB3-1	eukaryotic translation termination factor 1 	eRF1_2
+ENSGALG00000002272	NOC4L	416798	EP400	Gallus gallus nucleolar complex associated 4 homolog (NOC4L)%2C mRNA. 	CBF
+ENSGALG00000002278	UNK	417371	KIAA1753|ZC3H5|ZC3HDC5	unkempt family zinc finger 	zf-CCCH
+ENSGALG00000002301	CNOT1	100858397	-	Gallus gallus CCR4-NOT transcription complex subunit 1 (CNOT1)%2C mRNA. 	Not1
+ENSGALG00000002305	ZBTB41	424353	DKFZp686C06120|FLJ36199|FRBZ1|ZNF924	zinc finger and BTB domain containing 41 	zf-C2H2
+ENSGALG00000002354	PUS1	416799	-	pseudouridylate synthase 1 	PseudoU_synth_1
+ENSGALG00000002356	CMTR2	427537	AFT|FLJ11171|FTSJD1|MTr2	cap methyltransferase 2 	FtsJ
+ENSGALG00000002379	MRPS17	417538	-	Gallus gallus mitochondrial ribosomal protein S17 (MRPS17)%2C mRNA. 	Ribosomal_S17
+ENSGALG00000002403	ULK1	416800	ATG1|ATG1A	unc-51 like autophagy activating kinase 1 	RIO1
+ENSGALG00000002424	RECQL5	373891	RecQ5	Gallus gallus RecQ like helicase 5 (RECQL5)%2C mRNA. 	DEAD
+ENSGALG00000002430	SMN	374025	-	Gallus gallus survival of motor neuron (SMN)%2C mRNA. 	SMN
+ENSGALG00000002478	MATR3	373948	matrin-3	Gallus gallus matrin 3 (MATR3)%2C mRNA. 	RRM_5
+ENSGALG00000002487	SFSWAP	416802	SFRS8|SWAP	splicing factor SWAP 	DRY_EERY
+ENSGALG00000002488	PAIP2B	416187	PAIP2	Gallus gallus poly(A) binding protein interacting protein 2B (PAIP2B)%2C mRNA. 	PAM2
+ENSGALG00000002504	TROVE2	424358	Ro60|SSA2|TROVE2	TROVE domain family member 2 	TROVE
+ENSGALG00000002514	SFPQ	395803	-	splicing factor proline and glutamine rich 	RRM_1
+ENSGALG00000002531	SF3B3	415680	KIAA0017|RSE1|SAP130|SF3b130	splicing factor 3b subunit 3 	CPSF_A
+ENSGALG00000002587	CRCP	396022	RCP9	Gallus gallus CGRP receptor component (CRCP)%2C transcript variant 3%2C mRNA. 	RNA_pol_Rpb4
+ENSGALG00000002591	POLR2E	420103	RPABC1|RPB5|XAP4|hRPB25|hsRPB5	RNA polymerase II subunit E 	RNA_pol_Rpb5_C
+ENSGALG00000002605	MRPL17	769700	MRP-L26|RPML26	mitochondrial ribosomal protein L17 	Ribosomal_L17
+ENSGALG00000002612	U2SURP	424773	SR140|fSAPa	U2 snRNP associated SURP domain containing 	Surp
+ENSGALG00000002624	BMS1	\N	BMS1L	Gallus gallus BMS1%2C ribosome biogenesis factor (BMS1)%2C mRNA. 	AARP2CN
+ENSGALG00000002644	RPL10A	419895	Csa-19|L10A|NEDD6	ribosomal protein L10a 	Ribosomal_L1
+ENSGALG00000002645	PIWIL1	416804	PIWI	Gallus gallus piwi like RNA-mediated gene silencing 1 (PIWIL1)%2C mRNA. 	Piwi
+ENSGALG00000002653	NCBP3	417552	C17orf85|C19H17ORF85|ELG|HSA277841	Gallus gallus nuclear cap binding subunit 3 (NCBP3)%2C mRNA. 	NCBP3
+ENSGALG00000002659	WDR5	417144	WDR5B	Gallus gallus WD repeat domain 5 (WDR5)%2C mRNA. 	eIF2A
+ENSGALG00000002689	NUP35	107056600	MP44	nucleoporin NUP53-like 	Nup35_RRM
+ENSGALG00000002706	XRN1	424778	SEP1	5'-3' exoribonuclease 1 	XRN_N
+ENSGALG00000002734	UHMK1	424369	KIS|Kist	U2AF homology motif kinase 1 	RRM_1
+ENSGALG00000002739	INPP5K	771549	-	Gallus gallus inositol polyphosphate-5-phosphatase K (INPP5K)%2C mRNA. 	Exo_endo_phos
+ENSGALG00000002773	SNRPC	419901	U1-C|U1C	small nuclear ribonucleoprotein polypeptide C 	zf-U1
+ENSGALG00000002813	RPS10	419904	RPS10-NUDT3	Gallus gallus ribosomal protein S10 (RPS10)%2C mRNA. 	S10_plectin
+ENSGALG00000002837	RPL27	396280	-	ribosomal protein L27 	Ribosomal_L27e
+ENSGALG00000002868	RPL26L1	396400	RPL26	Gallus gallus ribosomal protein L26 like 1 (RPL26L1)%2C transcript variant 1%2C mRNA. 	KOW
+ENSGALG00000002880	AARSD1	107049007	-	Gallus gallus alanyl-tRNA synthetase domain containing 1 (AARSD1)%2C mRNA. 	tRNA_SAD
+ENSGALG00000002883	SCAPER	415352	ZNF291|Zfp291	S-phase cyclin A associated protein in the ER 	zf-met
+ENSGALG00000002906	TARDBP	419453	-	Gallus gallus TAR DNA binding protein (TARDBP)%2C mRNA. 	RRM_1
+ENSGALG00000002943	PRPF8	417559	PRPC8|Prp8|RP13|SNRNP220|hPrp8	pre-mRNA processing factor 8 	PROCN
+ENSGALG00000002964	DHX37	416813	DDX37|Dhr1|KIAA1517|MGC2695|MGC4322	DEAH-box helicase 37 	HA2
+ENSGALG00000003026	-	\N	-	-	SAP
+ENSGALG00000003047	SUGP2	420113	SFRS14	Gallus gallus SURP and G-patch domain containing 2 (SUGP2)%2C mRNA. 	Surp
+ENSGALG00000003072	RPA1	417563	-	Gallus gallus replication protein A1 (RPA1)%2C mRNA. 	tRNA_anti-codon
+ENSGALG00000003084	NUDT21	\N	-	nudix hydrolase 21 	NUDIX_2
+ENSGALG00000003086	EXOSC10	419454	-	exosome component 10 	DNA_pol_A_exo1
+ENSGALG00000003091	PARN	416423	-	Gallus gallus poly(A)-specific ribonuclease (PARN)%2C mRNA. 	CAF1
+ENSGALG00000003108	SMG6	101750600	C17orf31|EST1A|KIAA0732|SMG-6	TSR1%2C ribosome maturation factor 	EST1_DNA_bind
+ENSGALG00000003130	DDX49	420116	-	Gallus gallus DEAD-box helicase 49 (DDX49)%2C mRNA. 	DEAD
+ENSGALG00000003134	-	\N	-	-	MMR_HSR1
+ENSGALG00000003143	ZC3H7A	416426	FLJ20318|HSPC055|ZC3H7|ZC3HDC7	zinc finger CCCH-type containing 7A 	zf-CCCH
+ENSGALG00000003196	RNASE6	396194	ANG	Gallus gallus ribonuclease A family member k6 (RNASE6)%2C mRNA. 	RnaseA
+ENSGALG00000003197	RPL7A	417158	-	60S ribosomal protein L7a  	Ribosomal_L7Ae
+ENSGALG00000003205	EIF4EBP1	426773	4E-BP1|PHAS-I	eukaryotic translation initiation factor 4E binding protein 1 	eIF_4EBP
+ENSGALG00000003206	EEF1AKNMT	\N	CGI-01|DFNB26|KIAA0859|METTL13	eEF1A lysine and N-terminal methyltransferase 	Methyltransf_31
+ENSGALG00000003220	UPF1	420119	HUPF1|KIAA0221|NORF1|RENT1|pNORF1|smg-2	UPF1%2C RNA helicase and ATPase 	UPF1_Zn_bind
+ENSGALG00000003226	APOBEC2	419915	ARCD1|ARP1	apolipoprotein B mRNA editing enzyme catalytic subunit 2 	APOBEC_N
+ENSGALG00000003235	-	427424	-	zinc finger RNA binding protein 2 	DZF
+ENSGALG00000003243	RAD54L2	415933	-	Gallus gallus RAD54-like 2 (S. cerevisiae) (RAD54L2)%2C mRNA. 	ResIII
+ENSGALG00000003245	LSM1	426775	CASM|YJL124C	LSM1 homolog%2C mRNA degradation associated 	LSM
+ENSGALG00000003248	SUB1	427425	-	Gallus gallus SUB1 homolog%2C transcriptional regulator (SUB1)%2C mRNA. 	PC4
+ENSGALG00000003249	CHUK	101749626	-	conserved helix-loop-helix ubiquitous kinase 	CwfJ_C_1
+ENSGALG00000003259	EIF2B1	100857736	EIF-2B|EIF-2Balpha|EIF2B|EIF2BA	eukaryotic translation initiation factor 2B subunit alpha 	IF-2B
+ENSGALG00000003260	UTP6	417405	-	Gallus gallus UTP6%2C small subunit processome component (UTP6)%2C mRNA. 	U3_assoc_6
+ENSGALG00000003272	KHDRBS1	374071	-	Gallus gallus KH RNA binding domain containing%2C signal transduction associated 1 (KHDRBS1)%2C mRNA. 	KH_1
+ENSGALG00000003288	TARS	427427	-	Gallus gallus threonyl-tRNA synthetase (TARS)%2C mRNA. 	tRNA-synt_2b
+ENSGALG00000003298	DDX55	416820	-	DEAD-box helicase 55 	DEAD
+ENSGALG00000003318	SNRNP35	416823	U1SNRNPBP	small nuclear ribonucleoprotein U11/U12 subunit 35 	RRM_1
+ENSGALG00000003355	-	416228	-	NOP16 nucleolar protein 	Nop16
+ENSGALG00000003360	ARL10	416229	ARL10A	Gallus gallus ADP ribosylation factor like GTPase 10 (ARL10)%2C mRNA. 	MMR_HSR1
+ENSGALG00000003373	BRIX1	427433	BXDC2	BRX1%2C biogenesis of ribosomes 	Brix
+ENSGALG00000003374	ESRP2	415710	-	Gallus gallus epithelial splicing regulatory protein 2 (ESRP2)%2C mRNA. 	RRM_1
+ENSGALG00000003385	LSM4	420128	-	LSM4 homolog%2C U6 small nuclear RNA and mRNA degradation associated 	LSM
+ENSGALG00000003392	SBNO1	427694	-	Gallus gallus strawberry notch homolog 1 (SBNO1)%2C mRNA. 	ResIII
+ENSGALG00000003403	ZNF385C	420031	-	zinc finger protein 385C 	zf-met
+ENSGALG00000003457	CNP	395921	-	Gallus gallus 2'%2C3'-cyclic nucleotide 3' phosphodiesterase (CNP)%2C mRNA. 	CNPase
+ENSGALG00000003467	BYSL	419927	Enp1	bystin like 	Bystin
+ENSGALG00000003470	ZMAT4	426786	FLJ13842	zinc finger matrin-type 4 	zf-met
+ENSGALG00000003476	ERN1	417414	-	Gallus gallus endoplasmic reticulum to nucleus signaling 1 (ERN1)%2C mRNA. 	Ribonuc_2-5A
+ENSGALG00000003478	GFI1B	395977	GFI	Gallus gallus growth factor independent 1B transcriptional repressor (GFI1B)%2C mRNA. 	zf-C2H2
+ENSGALG00000003520	POLG2	417418	HP55|MTPOLB	DNA polymerase gamma 2%2C accessory subunit 	HGTP_anticodon
+ENSGALG00000003532	DDX5	395629	-	Gallus gallus DEAD-box helicase 5 (DDX5)%2C mRNA. 	DEAD
+ENSGALG00000003549	MTG1	791224	-	Gallus gallus mitochondrial ribosome associated GTPase 1 (MTG1)%2C mRNA. 	MMR_HSR1
+ENSGALG00000003563	YARS	419666	-	Gallus gallus tyrosyl-tRNA synthetase (YARS)%2C mRNA. 	tRNA-synt_1b
+ENSGALG00000003650	NOL11	417423	-	Gallus gallus nucleolar protein 11 (NOL11)%2C mRNA. 	NUC205
+ENSGALG00000003658	DHX35	419172	C20orf15|DDX35|FLJ22759|KAIA0875	DEAH-box helicase 35 	HA2
+ENSGALG00000003682	ARL6IP4	427695	SFRS20|SR-25|SRp25|SRrp37	ADP ribosylation factor like GTPase 6 interacting protein 4 	SR-25
+ENSGALG00000003722	THG1L	416242	-	Gallus gallus tRNA-histidine guanylyltransferase 1 like (THG1L)%2C mRNA. 	Thg1
+ENSGALG00000003765	A1CF	423680	ACF|ACF64|ACF65|APOBEC1CF|ASP	APOBEC1 complementation factor 	RRM_1
+ENSGALG00000003781	SUN1	416449	FLJ12407|KIAA0810|UNC84A	Sad1 and UNC84 domain containing 1 	MRP
+ENSGALG00000003795	DENR	771794	-	density regulated re-initiation and release factor 	SUI1
+ENSGALG00000003800	PABPC4	419674	APP-1|iPABP	poly(A) binding protein cytoplasmic 4 	RRM_1
+ENSGALG00000003824	CHERP	420144	-	calcium homeostasis endoplasmic reticulum protein 	Surp
+ENSGALG00000003836	-	107049003	-	RNA binding motif protein 44 	RRM_1
+ENSGALG00000003851	TRIT1	419678	FLJ20061|IPT	tRNA isopentenyltransferase 1 	IPPT
+ENSGALG00000003862	LRRFIP1	428996	FLAP-1|FLIIAP1|GCF-2|HUFI-1|TRIP	LRR binding FLII interacting protein 1 	LRRFIP
+ENSGALG00000003881	ERCC6L	422135	FLJ20105|PICH|RAD26L	ERCC excision repair 6 like%2C spindle assembly checkpoint helicase 	ResIII
+ENSGALG00000003891	ZNF423	415738	Ebfaz|JBTS19|KIAA0760|NPHP14|OAZ|Zfp104|hOAZ	zinc finger protein 423 	zf-C2H2
+ENSGALG00000003895	PRDM12	417183	PFM9	PR/SET domain 12 	zf-C2H2
+ENSGALG00000003899	RAB17	424017	-	RAB17%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000003906	MPHOSPH10	415384	CT90|MPP10|MPP10P|PPP1R106	M-phase phosphoprotein 10 	Mpp10
+ENSGALG00000003907	N4BP1	415739	-	Gallus gallus NEDD4 binding protein 1 (N4BP1)%2C mRNA. 	RNase_Zc3h12a
+ENSGALG00000003914	CALR3	420146	CALR	Gallus gallus calreticulin 3 (CALR3)%2C mRNA. 	Calreticulin
+ENSGALG00000003919	MRPL22	416253	HSPC158|MRP-L25|RPML25	mitochondrial ribosomal protein L22 	Ribosomal_L22
+ENSGALG00000003920	-	422136	-	OCRL%2C inositol polyphosphate-5-phosphatase 	Exo_endo_phos
+ENSGALG00000003941	FUBP3	417184	-	Gallus gallus far upstream element binding protein 3 (FUBP3)%2C mRNA. 	KH_1
+ENSGALG00000003947	HNRNPH3	423686	HNRPH3	Gallus gallus heterogeneous nuclear ribonucleoprotein H3 (HNRNPH3)%2C mRNA. 	RRM_1
+ENSGALG00000003950	CNOT8	416255	-	CCR4-NOT transcription complex subunit 8 	CAF1
+ENSGALG00000003958	PRMT3	422975	-	Gallus gallus protein arginine methyltransferase 3 (PRMT3)%2C mRNA. 	Methyltransf_31
+ENSGALG00000003966	RPL23A	417574	L23A	ribosomal protein L23a 	Ribosomal_L23eN
+ENSGALG00000003985	TARSL2	415389	-	Gallus gallus threonyl-tRNA synthetase like 2 (TARSL2)%2C mRNA. 	tRNA-synt_2b
+ENSGALG00000003991	MRTO4	428192	-	MRT4 homolog%2C ribosome maturation factor 	Ribosomal_L10
+ENSGALG00000003995	ERAL1	374084	GdERA	Gallus gallus Era like 12S mitochondrial rRNA chaperone 1 (ERAL1)%2C mRNA. 	MMR_HSR1
+ENSGALG00000004019	MARS2	\N	SPAX3|mtMetRS	methionyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1g
+ENSGALG00000004042	NUFIP2	417582	182-FIP|82-FIP|FIP-82|KIAA1321|MGC117262|PIG1	NUFIP2%2C FMR1 interacting protein 2 	NUFIP2
+ENSGALG00000004046	LARP6	415392	FLJ11196|acheron	La ribonucleoprotein domain family member 6 	La
+ENSGALG00000004079	ENOX2	422142	COVA1	ecto-NOX disulfide-thiol exchanger 2 	RRM_1
+ENSGALG00000004108	-	\N	-	-	S1-like
+ENSGALG00000004123	PABPC1L	419189	C20orf119|PABPC1L1|dJ1069P2.3|ePAB	poly(A) binding protein cytoplasmic 1 like 	RRM_1
+ENSGALG00000004133	SRSF10	419689	FUSIP1|SFRS13A	Gallus gallus serine/arginine-rich splicing factor 10 (SRSF10)%2C mRNA. 	RRM_1
+ENSGALG00000004144	-	768898	-	-	DEAD
+ENSGALG00000004160	G3BP1	416265	-	Gallus gallus G3BP stress granule assembly factor 1 (G3BP1)%2C mRNA. 	NTF2
+ENSGALG00000004186	NSRP1	417588	CCDC55|DKFZP434K1421|NSrp70	nuclear speckle splicing regulatory protein 1 	DUF2040
+ENSGALG00000004197	SUPV3L1	423697	-	Gallus gallus Suv3 like RNA helicase (SUPV3L1)%2C mRNA. 	SUV3_C
+ENSGALG00000004238	MRM2	416466	FTSJ2	Gallus gallus mitochondrial rRNA methyltransferase 2 (MRM2)%2C mRNA. 	FtsJ
+ENSGALG00000004311	-	416364	-	angiogenic factor with G-patch and FHA domains 1 	G-patch
+ENSGALG00000004324	SETD1B	416851	SETD1A	Gallus gallus SET domain containing 1B (SETD1B)%2C mRNA. 	RRM_1
+ENSGALG00000004325	P4HA1	423704	-	Gallus gallus prolyl 4-hydroxylase subunit alpha 1 (P4HA1)%2C transcript variant 2%2C mRNA. 	hmm_2OG-FeII_Oxy
+ENSGALG00000004328	IGHMBP2	422999	-	Gallus gallus immunoglobulin mu DNA binding protein 2 (IGHMBP2)%2C mRNA. 	R3H
+ENSGALG00000004336	INPPL1	428692	SHIP2	inositol polyphosphate phosphatase like 1 	Exo_endo_phos
+ENSGALG00000004362	MRPL21	423000	-	mitochondrial ribosomal protein L21 	Ribosomal_L21p
+ENSGALG00000004394	-	100858906	-	-	KH_1
+ENSGALG00000004431	SAR1A	423711	SAR1|SARA1|Sara	secretion associated Ras related GTPase 1A 	MMR_HSR1
+ENSGALG00000004441	-	771558	-	cleavage and polyadenylation specific factor 4 like 	zf-CCCH
+ENSGALG00000004469	TP53RK	\N	BUD32|C20orf64|Nori-2p|dJ101A2.2|prpk	TP53 regulating kinase 	RIO1
+ENSGALG00000004486	ZCCHC8	416862	-	Gallus gallus zinc finger%2C CCHC domain containing 8 (ZCCHC8)%2C mRNA. 	zf-CCHC
+ENSGALG00000004517	PARP3	771158	ADPRT3|ADPRTL3|IRT1|hPARP-3|pADPRT-3	poly(ADP-ribose) polymerase family member 3 	PARP
+ENSGALG00000004523	MFN2	419484	CMT2A2|CPRP1|KIAA0214|MARF	mitofusin 2 	MMR_HSR1
+ENSGALG00000004531	PLOD1	419485	PLOD|procollagen-lysine	Gallus gallus procollagen-lysine%2C 2-oxoglutarate 5-dioxygenase 1 (PLOD1)%2C mRNA. 	hmm_2OG-FeII_Oxy
+ENSGALG00000004555	RBM22	416270	-	RNA binding motif protein 22 	RRM_1
+ENSGALG00000004587	RC3H1	424439	KIAA2025|RNF198|RP5-1198E17.5|roquin	ring finger and CCCH-type domains 1 	zf-CCCH
+ENSGALG00000004588	RPS14	416275	-	ribosomal protein S14 	Ribosomal_S11
+ENSGALG00000004622	SPOUT1	417203	C17H9ORF114|C9orf114	Gallus gallus SPOUT domain containing methyltransferase 1 (SPOUT1)%2C mRNA. 	Methyltrn_RNA_3
+ENSGALG00000004625	ATXN2	416877	ATX2|SCA2|TNRC13	ataxin 2 	SM-ATX
+ENSGALG00000004667	SMG7	424444	C1orf16|EST1C|KIAA0250|SGA56M|SMG-7	SMG7%2C nonsense mediated mRNA decay factor 	EST1_DNA_bind
+ENSGALG00000004704	-	768954	-	-	TUDOR
+ENSGALG00000004707	CSE1L	419212	CAS|CSE1|XPO2	chromosome segregation 1 like 	IBN_N
+ENSGALG00000004711	-	\N	-	-	PPR
+ENSGALG00000004714	CPSF4	416494	-	cleavage and polyadenylation specific factor 4 	zf-CCCH
+ENSGALG00000004736	STAU1	419213	STAU	Gallus gallus staufen double-stranded RNA binding protein 1 (STAU1)%2C mRNA. 	dsrm
+ENSGALG00000004738	GLE1	417212	GLE1L|LCCS1|hGLE1	GLE1%2C RNA export mediator 	GLE1
+ENSGALG00000004750	NOL8	415955	C9orf34|FLJ20736|Nop132	nucleolar protein 8 	RRM_1
+ENSGALG00000004782	TSEN15	424448	C1orf19	tRNA splicing endonuclease subunit 15 	Sen15
+ENSGALG00000004799	-	\N	-	-	SpoU_methylase
+ENSGALG00000004813	IARS	415957	IARS1|ILRS	isoleucyl-tRNA synthetase 	tRNA-synt_1
+ENSGALG00000004818	RPL6	373957	-	Gallus gallus ribosomal protein L6 (RPL6)%2C mRNA. 	Ribosomal_L6e
+ENSGALG00000004831	RPS4X	396001	RPS4|RPS4Y1	ribosomal protein S4 X-linked 	Ribosomal_S4e
+ENSGALG00000004832	RBM41	428698	FLJ11016	RNA binding motif protein 41 	RRM_1
+ENSGALG00000004833	P3H1	414142	LEPRE1	Gallus gallus prolyl 3-hydroxylase 1 (P3H1)%2C mRNA. 	hmm_2OG-FeII_Oxy
+ENSGALG00000004839	GPATCH1	415772	ECGP|FLJ10206|FLJ38686|GPATC1	G-patch domain containing 1 	DUF1604
+ENSGALG00000004848	YBX1	386575	NSEP1|YB1	Gallus gallus Y-box binding protein 1 (YBX1)%2C mRNA. 	CSD
+ENSGALG00000004871	RPS24	423726	-	ribosomal protein S24 	Ribosomal_S24e
+ENSGALG00000004918	RAB9B	422187	RAB9L	RAB9B%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000004920	TRUB2	\N	CLONE24922	TruB pseudouridine synthase family member 2 	TruB_N
+ENSGALG00000004935	LSM14A	415781	-	LSM14A%2C mRNA processing body assembly factor 	LSM14
+ENSGALG00000004947	POLR3A	423727	-	Gallus gallus RNA polymerase III subunit A (POLR3A)%2C mRNA. 	RNA_pol_Rpb1_1
+ENSGALG00000004952	RPL36AL	100859914	RPL36A	ribosomal protein L36a like 	Ribosomal_L44
+ENSGALG00000004953	DRG2	416513	-	Gallus gallus developmentally regulated GTP binding protein 2 (DRG2)%2C mRNA. 	MMR_HSR1
+ENSGALG00000004971	URM1	417221	-	Gallus gallus ubiquitin related modifier 1 (URM1)%2C mRNA. 	Urm1
+ENSGALG00000004981	TSEN2	415965	-	Gallus gallus tRNA splicing endonuclease subunit 2 (TSEN2)%2C mRNA. 	tRNA_int_endo_N
+ENSGALG00000004991	MKRN2	374162	-	makorin ring finger protein 2 	zf-CCCH
+ENSGALG00000005001	ZCCHC13	395731	CNBP|ZNF9	Gallus gallus zinc finger CCHC-type containing 13 (ZCCHC13)%2C mRNA. 	zf-CCHC
+ENSGALG00000005012	-	415968	-	ISY1 splicing factor homolog 	Isy1
+ENSGALG00000005054	DKC1	422196	-	Gallus gallus dyskerin pseudouridine synthase 1 (DKC1)%2C mRNA. 	DKCLD
+ENSGALG00000005087	FAM83G	101751551	FLJ41564|PAWS1	family with sequence similarity 83%2C member G 	FAM83
+ENSGALG00000005125	LSM14B	771330	C20orf40|FAM61B|FLJ25473|FT005|LSM13|RAP55B|bA11M20.3	LSM family member 14B 	LSM14
+ENSGALG00000005126	DHX40	772090	ARG147|DDX40|FLJ22060|PAD	DEAH-box helicase 40 	HA2
+ENSGALG00000005150	PTRH2	417634	-	Gallus gallus peptidyl-tRNA hydrolase 2 (PTRH2)%2C mRNA. 	PTH2
+ENSGALG00000005162	RNPC3	424458	FLJ20008|KIAA1839|RBM40|SNRNP65	RNA binding region (RNP1%2C RRM) containing 3 	RRM_1
+ENSGALG00000005164	MTG2	419226	FLJ10741|GTPBP5|ObgH1|dJ1005F21.2	mitochondrial ribosome associated GTPase 2 	MMR_HSR1
+ENSGALG00000005236	FARSB	424812	FARSLB	Gallus gallus phenylalanyl-tRNA synthetase subunit beta (FARSB)%2C mRNA. 	B3_4
+ENSGALG00000005269	INTS2	417640	-	Gallus gallus integrator complex subunit 2 (INTS2)%2C mRNA. 	INTS2
+ENSGALG00000005277	RTCA	424468	RPC|RTC1|RTCD1	RNA 3'-terminal phosphate cyclase 	RTC
+ENSGALG00000005287	ZBTB47	\N	DKFZp434N0615|KIAA1190|ZNF651	zinc finger and BTB domain containing 47 	zf-C2H2
+ENSGALG00000005290	TRMT13	424470	CCDC76|FLJ10287|FLJ11219	tRNA methyltransferase 13 homolog 	TRM13
+ENSGALG00000005315	RPUSD1	771031	C16orf40|MGC19600|RLUCL	RNA pseudouridylate synthase domain containing 1 	PseudoU_synth_2
+ENSGALG00000005316	SRFBP1	426795	BUD22|FLJ25286|Rlb1|STRAP|p49	serum response factor binding protein 1 	BUD22
+ENSGALG00000005336	GUK1	428399	-	guanylate kinase 1 	MMR_HSR1
+ENSGALG00000005338	RPS21	419228	S21	ribosomal protein S21 	Ribosomal_S21e
+ENSGALG00000005367	MRPS22	424824	C3orf5|GIBT|GK002|MRP-S22	mitochondrial ribosomal protein S22 	MRP-S22
+ENSGALG00000005393	ARF1	420398	-	ADP ribosylation factor 1 	MMR_HSR1
+ENSGALG00000005395	POLR1E	426805	FLJ13390|FLJ13970|PAF53|PRAF1	RNA polymerase I subunit E 	RNA_pol_I_A49
+ENSGALG00000005398	HAGH	416537	-	hydroxyacylglutathione hydrolase 	Lactamase_B
+ENSGALG00000005451	HELLS	423750	LSH|Nbla10143|PASG|SMARCA6	helicase%2C lymphoid specific 	ResIII
+ENSGALG00000005458	RPL3L	416542	-	Gallus gallus ribosomal protein L3 like (RPL3L)%2C mRNA. 	Ribosomal_L3
+ENSGALG00000005487	CCDC12	420402	-	Gallus gallus coiled-coil domain containing 12 (CCDC12)%2C mRNA. 	cwf18
+ENSGALG00000005489	DDX52	417660	-	Gallus gallus DExD-box helicase 52 (DDX52)%2C mRNA. 	DEAD
+ENSGALG00000005490	RPS2	416544	RPS2E	Gallus gallus ribosomal protein S2 (RPS2)%2C mRNA. 	Ribosomal_S5
+ENSGALG00000005507	NONO	428701	-	non-POU domain containing octamer binding 	RRM_1
+ENSGALG00000005509	DPYD	429083	DPD	dihydropyrimidine dehydrogenase 	Dus
+ENSGALG00000005525	SRSF1	772264	SFRS1	Gallus gallus serine and arginine rich splicing factor 1 (SRSF1)%2C mRNA. 	RRM_1
+ENSGALG00000005552	PTBP2	424479	PTB|PTBLP|brPTB|nPTB	polypyrimidine tract binding protein 2 	RRM_5
+ENSGALG00000005558	TBL3	416545	-	Gallus gallus transducin beta like 3 (TBL3)%2C mRNA. 	Utp13
+ENSGALG00000005559	MRPS23	417666	CGI-138|HSPC329|MRP-S23	mitochondrial ribosomal protein S23 	MRP-S23
+ENSGALG00000005567	MSI2	417667	-	musashi RNA binding protein 2 	RRM_1
+ENSGALG00000005575	AKAP1	417668	AKAP121|AKAP149|AKAP84|D-AKAP1|PPP1R43|PRKA1|S-AKAP84|SAKAP84|TDRD17	A-kinase anchoring protein 1 	TUDOR
+ENSGALG00000005587	EIF4G2	395905	DAP5|NAT1	Gallus gallus eukaryotic translation initiation factor 4 gamma 2 (EIF4G2)%2C transcript variant 2%2C mRNA. 	MIF4G
+ENSGALG00000005622	ARF4	769725	ARF2	ADP ribosylation factor 4 	MMR_HSR1
+ENSGALG00000005623	TFIP11	416909	-	Gallus gallus tuftelin interacting protein 11 (TFIP11)%2C mRNA. 	G-patch
+ENSGALG00000005674	USP10	415817	-	ubiquitin specific peptidase 10 	PAM2
+ENSGALG00000005688	DNASE1L1	416008	DNASE1L3	deoxyribonuclease 1 like 1 	Exo_endo_phos
+ENSGALG00000005694	GARS	428403	-	Gallus gallus glycyl-tRNA synthetase (GARS)%2C mRNA. 	HGTP_anticodon
+ENSGALG00000005745	YTHDF1	419238	-	Gallus gallus YTH N6-methyladenosine RNA binding protein 1 (YTHDF1)%2C mRNA. 	YTH
+ENSGALG00000005753	-	422214	-	nuclear cap binding protein subunit 2%2C 20kDa 	RRM_1
+ENSGALG00000005782	GCLM	424494	-	Gallus gallus glutamate-cysteine ligase modifier subunit (GCLM)%2C mRNA. 	Fcf2
+ENSGALG00000005807	IPO7	423046	Imp7|RANBP7	importin 7 	IBN_N
+ENSGALG00000005809	SEPT2	424843	DIFF6|KIAA0158|NEDD5|Pnutl3|hNedd5	septin 2 	MMR_HSR1
+ENSGALG00000005823	HDLBP	395984	-	high density lipoprotein binding protein 	KH_1
+ENSGALG00000005843	EEF1A2	419244	-	Gallus gallus eukaryotic translation elongation factor 1 alpha 2 (EEF1A2)%2C mRNA. 	GTP_EFTU
+ENSGALG00000005854	CLUH	417675	CLU1|KIAA0664	clustered mitochondria homolog 	eIF3_p135
+ENSGALG00000005885	ESS2	\N	DGCR13|DGCR14|DGS-H|DGSI|ES2|ESS-2|Es2el|bis1	ess-2 splicing factor homolog 	Es2
+ENSGALG00000005902	RAB7A	416016	RAB7	RAB7A%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000005948	RPL27A	770018	-	Gallus gallus ribosomal protein L27a (RPL27A)%2C mRNA. 	Ribosomal_L27A
+ENSGALG00000006001	PRPF6	419254	ANT-1|C20orf14|Prp6|RP60|SNRNP102|TOM|U5-102K|bB152O15.1|hPrp6	pre-mRNA processing factor 6 	PRP1_N
+ENSGALG00000006010	RAMAC	415459	FAM103A1	Gallus gallus RNA guanine-7 methyltransferase activating subunit (RAMAC)%2C transcript variant 1%2C mRNA. 	RAM
+ENSGALG00000006041	BNC1	\N	BNC|HsT19447	basonuclin 1 	zf-met
+ENSGALG00000006043	RBBP6	416569	P2P-R|PACT|SNAMA	RB binding protein 6%2C ubiquitin ligase 	zf-CCHC_2
+ENSGALG00000006062	ZBTB46	419259	BTBD4|BZEL|FLJ13502|RINZF|ZNF340	zinc finger and BTB domain containing 46 	zf-C2H2
+ENSGALG00000006068	TNRC6A	416570	CAGH26|GW182|KIAA1460|TNRC6	trinucleotide repeat containing 6A 	Ago_hook
+ENSGALG00000006092	-	419260	-	zinc finger CCCH-type and G-patch domain containing 	G-patch
+ENSGALG00000006096	RPS13	414782	-	ribosomal protein S13 	Ribosomal_S13_N
+ENSGALG00000006101	ARFRP1	419261	ARL18|ARP|Arp1	ADP ribosylation factor related protein 1 	MMR_HSR1
+ENSGALG00000006113	ZNF326	424512	-	Gallus gallus zinc finger protein 326 (ZNF326)%2C mRNA. 	AKAP95
+ENSGALG00000006122	EARS2	427672	-	Gallus gallus glutamyl-tRNA synthetase 2%2C mitochondrial (EARS2)%2C mRNA. 	tRNA-synt_1c
+ENSGALG00000006138	HELZ2	419265	KIAA1769|PDIP1|PRIC285	helicase with zinc finger 2 	RNB
+ENSGALG00000006153	EXOG	420430	ENDOGL1|ENDOGL2|ENGL|ENGL-a|ENGL-b	exo/endonuclease G 	Endonuclease_NS
+ENSGALG00000006157	-	422239	-	integrator complex subunit 6 like 	INT_SG_DDX_CT_C
+ENSGALG00000006160	HNRNPA0	416302	HNRPA0|hnRNPA0	heterogeneous nuclear ribonucleoprotein A0 	RRM_1
+ENSGALG00000006179	RPL13	395849	BBC1	Gallus gallus ribosomal protein L13 (RPL13)%2C mRNA. 	Ribosomal_L13e
+ENSGALG00000006225	EFL1	415467	EFTUD1	Gallus gallus elongation factor like GTPase 1 (EFL1)%2C mRNA. 	GTP_EFTU
+ENSGALG00000006242	PABPN1L	\N	ePABP2	poly(A) binding protein nuclear 1 like%2C cytoplasmic 	RRM_1
+ENSGALG00000006332	RBM17	418248	MGC14439|SPF45	RNA binding motif protein 17 	G-patch
+ENSGALG00000006404	DDX46	\N	FLJ25329|KIAA0801|PRPF5|Prp5	DEAD-box helicase 46 	DEAD
+ENSGALG00000006410	HTATSF1	422245	TAT-SF1	HIV-1 Tat specific factor 1 	RRM_1
+ENSGALG00000006427	CARS	423086	-	cysteinyl-tRNA synthetase 	tRNA-synt_1e
+ENSGALG00000006437	NOM1	420446	C7orf3|PPP1R113|SGD1	nucleolar protein with MIF4G domain 1 	MA3
+ENSGALG00000006457	-	422248	RBMXL1	RNA binding motif protein X-linked 	RRM_1
+ENSGALG00000006486	RPP30	\N	TSG15	ribonuclease P/MRP subunit p30 	RNase_P_p30
+ENSGALG00000006531	TRA2B	395403	SFRS10	Gallus gallus transformer 2 beta homolog (Drosophila) (TRA2B)%2C mRNA. 	RRM_1
+ENSGALG00000006561	-	\N	-	-	Ribosomal_L23
+ENSGALG00000006596	SNRPD3	416947	-	Gallus gallus small nuclear ribonucleoprotein D3 polypeptide (SNRPD3)%2C mRNA. 	LSM
+ENSGALG00000006612	ASXL1	428158	KIAA0978	ASXL transcriptional regulator 1 	HARE-HTH
+ENSGALG00000006672	LARP4B	420457	KIAA0217|LARP5	La ribonucleoprotein domain family member 4B 	La
+ENSGALG00000006677	P4HA2	416326	-	prolyl 4-hydroxylase subunit alpha 2 	hmm_2OG-FeII_Oxy
+ENSGALG00000006703	GTPBP4	420458	-	Gallus gallus GTP binding protein 4 (GTPBP4)%2C mRNA. 	NOG1
+ENSGALG00000006710	RAB36	416953	-	RAB36%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000006760	CSTF2	422258	-	Gallus gallus cleavage stimulation factor subunit 2 (CSTF2)%2C mRNA. 	RRM_1
+ENSGALG00000006773	TRMT12	422259	FLJ20772|TYW2|Trm12	tRNA methyltransferase 12 homolog 	Met_10
+ENSGALG00000006777	MRPS11	415498	-	Gallus gallus mitochondrial ribosomal protein S11 (MRPS11)%2C mRNA. 	Ribosomal_S11
+ENSGALG00000006782	MRPL46	415499	-	Gallus gallus mitochondrial ribosomal protein L46 (MRPL46)%2C mRNA. 	MRP-L46
+ENSGALG00000006783	PLOD2	424882	LH2	procollagen-lysine%2C2-oxoglutarate 5-dioxygenase 2 	hmm_2OG-FeII_Oxy
+ENSGALG00000006797	ADARB2	420461	ADAR3|RED2|hRED2	adenosine deaminase%2C RNA specific B2 (inactive) 	A_deamin
+ENSGALG00000006841	POLR2L	770704	-	Gallus gallus RNA polymerase II subunit L (POLR2L)%2C mRNA. 	RNA_pol_N
+ENSGALG00000006843	NCBP2	424889	-	Gallus gallus nuclear cap binding protein subunit 2%2C 20kDa (NCBP2)%2C transcript variant 1%2C mRNA. 	RRM_1
+ENSGALG00000006898	EIF4ENIF1	416961	2610509L04Rik|4E-T|Clast4|FLJ21601	eukaryotic translation initiation factor 4E nuclear import factor 1 	EIF4E-T
+ENSGALG00000006912	CPEB3	423816	KIAA0940	cytoplasmic polyadenylation element binding protein 3 	RRM_1
+ENSGALG00000006921	DRG1	416962	-	developmentally regulated GTP binding protein 1 	MMR_HSR1
+ENSGALG00000006934	PATZ1	416963	MAZR|PATZ|RIAZ|ZBTB19|ZNF278|ZSG|dJ400N23	POZ/BTB and AT hook containing zinc finger 1 	zf-C2H2
+ENSGALG00000006949	CHD2	415507	-	Gallus gallus chromodomain helicase DNA binding protein 2 (CHD2)%2C mRNA. 	ResIII
+ENSGALG00000006963	ENDOV	\N	FLJ35220	endonuclease V 	Endonuclease_5
+ENSGALG00000006974	DDX27	419308	-	DEAD-box helicase 27 	DEAD
+ENSGALG00000007009	NCOA5	419304	CIA|bA465L10.6	nuclear receptor coactivator 5 	RRM_1
+ENSGALG00000007017	RBM7	419760	-	Gallus gallus RNA binding motif protein 7 (RBM7)%2C mRNA. 	RRM_1
+ENSGALG00000007058	LSG1	424897	-	large 60S subunit nuclear export GTPase 1 	MMR_HSR1
+ENSGALG00000007124	POP5	\N	-	POP5 homolog%2C ribonuclease P/MRP subunit 	RNase_P_Rpp14
+ENSGALG00000007157	TENT5D	422282	CT1.26|CT112|FAM46D|MGC26999	terminal nucleotidyltransferase 5D 	NTP_transf_7
+ENSGALG00000007172	FHIT	416071	-	fragile histidine triad 	DcpS_C
+ENSGALG00000007185	COQ5	416975	-	Gallus gallus coenzyme Q5%2C methyltransferase (COQ5)%2C mRNA. 	Methyltransf_31
+ENSGALG00000007195	-	416976	-	glutamyl-tRNA amidotransferase subunit C 	Glu-tRNAGln
+ENSGALG00000007227	MSI1	416979	-	musashi RNA binding protein 1 	RRM_1
+ENSGALG00000007237	ALYREF	769169	THOC4	Gallus gallus Aly/REF export factor (ALYREF)%2C mRNA. 	RRM_1
+ENSGALG00000007260	ZEB1	396029	TCF8	Gallus gallus zinc finger E-box binding homeobox 1 (ZEB1)%2C mRNA. 	zf-C2H2
+ENSGALG00000007299	THOC7	416077	-	THO complex 7 	THOC7
+ENSGALG00000007308	RAB35	416983	-	Gallus gallus RAB35%2C member RAS oncogene family (RAB35)%2C mRNA. 	GTP_EFTU
+ENSGALG00000007351	MTPAP	420478	FLJ10486|PAPD1|SPAX4|TENT6|mtPAP	mitochondrial poly(A) polymerase 	PAP_assoc
+ENSGALG00000007357	BCL6	424912	-	Gallus gallus B-cell CLL/lymphoma 6 (BCL6)%2C mRNA. 	zf-C2H2
+ENSGALG00000007365	PARP16	415534	C15orf30|FLJ20509|FLJ25281|pART15	poly(ADP-ribose) polymerase family member 16 	PARP
+ENSGALG00000007370	CLP1	423131	-	Polyribonucleotide 5'-hydroxyl-kinase Clp1  	Clp1
+ENSGALG00000007386	LUC7L3	428677	-	Gallus gallus LUC7 like 3 pre-mRNA splicing factor (LUC7L3)%2C mRNA. 	LUC7
+ENSGALG00000007435	RAB18	420483	-	Gallus gallus RAB18%2C member RAS oncogene family (RAB18)%2C mRNA. 	MMR_HSR1
+ENSGALG00000007470	POLR1D	\N	MGC9850|RPA16|RPA9|RPAC2|RPO1-3	RNA polymerase I and III subunit D 	RNA_pol_L_2
+ENSGALG00000007473	MRPL28	426121	-	Gallus gallus mitochondrial ribosomal protein L28 (MRPL28)%2C mRNA. 	Ribosomal_L28
+ENSGALG00000007490	DDX54	416992	APR-5|DP97|MGC2835	DEAD-box helicase 54 	DEAD
+ENSGALG00000007494	LARS	416347	FLJ10595|FLJ21788|HSPC192|LARS1|LEUS|RNTLS	leucyl-tRNA synthetase 	tRNA-synt_1
+ENSGALG00000007516	-	416348	-	RNA binding motif protein 27 	RRM_1
+ENSGALG00000007527	ADARB1	374087	RED1	adenosine deaminase%2C RNA specific B1 	A_deamin
+ENSGALG00000007554	RAB22A	419318	-	Gallus gallus RAB22A%2C member RAS oncogene family (RAB22A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000007581	FYTTD1	424921	-	Gallus gallus forty-two-three domain containing 1 (FYTTD1)%2C mRNA. 	FYTT
+ENSGALG00000007611	RPL35A	424924	-	Gallus gallus ribosomal protein L35a (RPL35A)%2C mRNA. 	Ribosomal_L35Ae
+ENSGALG00000007615	RAB11A	415544	-	Gallus gallus RAB11A%2C member RAS oncogene family (RAB11A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000007643	DIS3L	100857630	DIS3L1|FLJ38088|KIAA1955|MGC4562	DIS3 like exosome 3'-5' exoribonuclease 	RNB
+ENSGALG00000007683	-	\N	-	-	Fip1
+ENSGALG00000007699	RPS25	770722	-	ribosomal protein S25 	Ribosomal_S25
+ENSGALG00000007711	RPL4	415551	-	ribosomal protein L4 	Ribosomal_L4
+ENSGALG00000007767	DIS3L2	424934	FAM6A|FLJ36974|MGC42174	DIS3 like 3'-5' exoribonuclease 2 	RNB
+ENSGALG00000007778	PES1	770808	NOP7|PES	pescadillo ribosomal biogenesis factor 1 	Pescadillo_N
+ENSGALG00000007780	EIF4E3	416093	MGC39820	eukaryotic translation initiation factor 4E family member 3 	IF4E
+ENSGALG00000007798	SHQ1	416096	FLJ10539|Shq1p	SHQ1%2C H/ACA ribonucleoprotein assembly factor 	SHQ1
+ENSGALG00000007822	MRPL58	422114	DS-1|ICT1	mitochondrial ribosomal protein L58 	RF-1
+ENSGALG00000007853	PAPOLG	\N	FLJ12972	poly(A) polymerase gamma 	PAP_RNA-bind
+ENSGALG00000007919	EIF4E2	424941	4EHP|EIF4EL3|IF4e	eukaryotic translation initiation factor 4E family member 2 	IF4E
+ENSGALG00000007937	SF3A1	427717	-	Gallus gallus splicing factor 3a subunit 1 (SF3A1)%2C mRNA. 	PRP21_like_P
+ENSGALG00000007967	FDXACB1	428255	LOC91893|hCG_2033039	ALG9%2C alpha-1%2C2-mannosyltransferase 	FDX-ACB
+ENSGALG00000007999	MRPS7	422122	-	Gallus gallus mitochondrial ribosomal protein S7 (MRPS7)%2C mRNA. 	Ribosomal_S7
+ENSGALG00000008003	ZC3HC1	416679	-	Gallus gallus zinc finger C3HC-type containing 1 (ZC3HC1)%2C mRNA. 	zf-C3HC
+ENSGALG00000008018	SNAI1	396047	-	snail family transcriptional repressor 1 	zf-C2H2
+ENSGALG00000008038	SF3B1	424056	Hsh155|PRPF10|Prp10|SAP155|SF3b155	splicing factor 3b subunit 1 	SF3b1
+ENSGALG00000008049	ARL3	423865	ARFL3	ADP ribosylation factor like GTPase 3 	MMR_HSR1
+ENSGALG00000008050	HBP1	417705	-	HMG-box transcription factor 1 	AXH
+ENSGALG00000008070	ZMAT5	417017	-	Gallus gallus zinc finger matrin-type 5 (ZMAT5)%2C transcript variant 1%2C mRNA. 	zf-CCCH
+ENSGALG00000008092	NXT2	422346	-	nuclear transport factor 2 like export factor 2 	NTF2
+ENSGALG00000008097	CELF1	373923	CUGBP1	Gallus gallus CUGBP Elav-like family member 1 (CELF1)%2C mRNA. 	RRM_1
+ENSGALG00000008132	PUS7	417709	-	Gallus gallus pseudouridylate synthase 7 (PUS7)%2C mRNA. 	TruD
+ENSGALG00000008133	AS3MT	\N	CYT19	arsenite methyltransferase 	Methyltransf_31
+ENSGALG00000008146	MORF4L1	554283	MORF4L2	mortality factor 4 like 1 	Tudor-knot
+ENSGALG00000008149	EWSR1	417022	-	Gallus gallus EWS RNA binding protein 1 (EWSR1)%2C mRNA. 	zf-RanBP
+ENSGALG00000008152	SPATS2L	424067	-	spermatogenesis associated serine rich 2 like 	DUF1387
+ENSGALG00000008162	FBH1	416687	FBXO18	F-box DNA helicase 1 	UvrD-helicase
+ENSGALG00000008187	EIF3J	415573	EIF3S1|eIF3-alpha|eIF3-p35	Gallus gallus eukaryotic translation initiation factor 3 subunit J (EIF3J)%2C mRNA. 	eIF3_subunit
+ENSGALG00000008220	BZW1	424073	-	basic leucine zipper and W2 domains 1 	W2
+ENSGALG00000008256	BLM	415577	ORF1	BLM RecQ like helicase 	BDHCT
+ENSGALG00000008265	PDCD11	\N	ALG-4|KIAA0185|RRP5	programmed cell death 11 	S1
+ENSGALG00000008269	ZC3H6	421230	ZC3H8	Gallus gallus zinc finger CCCH-type containing 6 (ZC3H6)%2C mRNA. 	zf-CCCH
+ENSGALG00000008289	RBM19	417029	-	Gallus gallus RNA binding motif protein 19 (RBM19)%2C mRNA. 	RRM_1
+ENSGALG00000008304	STN1	423877	FLJ22559|OBFC1|bA541N10.2	STN1%2C CST complex subunit 	tRNA_anti-codon
+ENSGALG00000008314	ARL8B	416109	ARL10C|FLJ10702|Gie1	ADP ribosylation factor like GTPase 8B 	MMR_HSR1
+ENSGALG00000008368	RAD18	416114	-	RAD18%2C E3 ubiquitin protein ligase 	SAP
+ENSGALG00000008372	XRN2	421236	-	Gallus gallus 5'-3' exoribonuclease 2 (XRN2)%2C mRNA. 	XRN_N
+ENSGALG00000008376	EIF2B5	424948	EIF-2B|EIF2Bepsilon	eukaryotic translation initiation factor 2B subunit epsilon 	W2
+ENSGALG00000008429	CRNKL1	421243	CLF|CRN|Clf1|SYF3	crooked neck pre-mRNA splicing factor 1 	HAT
+ENSGALG00000008431	SMARCA1	422358	ISWI|NURF140|SNF2L|SNF2L1|SNF2LB|SWI|hSNF2L	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 1 	ResIII
+ENSGALG00000008454	NOP58	424087	HSPC120|NOP5	NOP58 ribonucleoprotein 	Nop
+ENSGALG00000008504	HNRNPLL	416702	HNRPLL	heterogeneous nuclear ribonucleoprotein L like 	RRM_5
+ENSGALG00000008506	MRPS25	416129	-	mitochondrial ribosomal protein S25 	L51_S25_CI-B8
+ENSGALG00000008507	THOC2	422361	CXorf3|MRX12|MRX35|THO2|dJ506G2.1	THO complex 2 	Tho2
+ENSGALG00000008517	MCTS1	422363	-	Gallus gallus MCTS1%2C re-initiation and release factor (MCTS1)%2C mRNA. 	PUA
+ENSGALG00000008520	EIF4G1	424953	EIF4F|EIF4G|PARK18|p220	eukaryotic translation initiation factor 4 gamma 1 	MIF4G
+ENSGALG00000008529	FASTKD2	424096	KIAA0971	FAST kinase domains 2 	RAP
+ENSGALG00000008530	EIF4A3	416704	DDX48	Gallus gallus eukaryotic translation initiation factor 4A3 (EIF4A3)%2C mRNA. 	DEAD
+ENSGALG00000008534	POLR2H	424954	-	Gallus gallus RNA polymerase II subunit H (POLR2H)%2C transcript variant 2%2C mRNA. 	RNA_pol_Rpb8
+ENSGALG00000008550	MRPS5	416706	-	mitochondrial ribosomal protein S5 	Ribosomal_S5_C
+ENSGALG00000008553	INO80	423210	INOC1	Gallus gallus INO80 complex subunit (INO80)%2C mRNA. 	ResIII
+ENSGALG00000008557	ARL5B	420513	ARL8	Gallus gallus ADP ribosylation factor like GTPase 5B (ARL5B)%2C mRNA. 	MMR_HSR1
+ENSGALG00000008561	SMNDC1	423889	SMNR|SPF30|TDRD16C	survival motor neuron domain containing 1 	SMN
+ENSGALG00000008564	NSUN6	428419	ARL5B-AS1|FLJ23743|NOPD1	NOP2/Sun RNA methyltransferase family member 6 	Methyltr_RsmB-F
+ENSGALG00000008590	EEF1B2	395723	EEF1B	eukaryotic translation elongation factor 1 beta 2 	EF1_GNE
+ENSGALG00000008597	MRPL2	421256	CGI-22|MRP-L14|RPML14	mitochondrial ribosomal protein L2 	Ribosomal_L2_C
+ENSGALG00000008618	UPF3B	100858231	-	UPF3B%2C regulator of nonsense mediated mRNA decay 	Smg4_UPF3
+ENSGALG00000008620	RPL39	374132	RPL39L	ribosomal protein L39 	Ribosomal_L39
+ENSGALG00000008645	NKRF	422370	-	Gallus gallus NFKB repressing factor (NKRF)%2C mRNA. 	R3H
+ENSGALG00000008684	EIF4A2	395232	EIF4A1|EIF4AII	eukaryotic translation initiation factor 4A2 	DEAD
+ENSGALG00000008700	PDCD4	374191	-	programmed cell death 4 	MA3
+ENSGALG00000008702	OVOL2	\N	CHED|CHED1|HOVO2|ZNF339|bA504H3.3	ovo like zinc finger 2 	zf-C2H2
+ENSGALG00000008749	POLR3F	416723	-	RNA polymerase III subunit F 	RNA_pol_Rpc34
+ENSGALG00000008765	C1D	421267	-	Gallus gallus C1D nuclear receptor corepressor (C1D)%2C transcript variant 2%2C mRNA. 	Sas10_Utp3
+ENSGALG00000008785	MCCC1	424962	-	Gallus gallus methylcrotonoyl-CoA carboxylase 1 (MCCC1)%2C mRNA. 	RimK
+ENSGALG00000008794	RPP38	420530	-	Gallus gallus ribonuclease P/MRP subunit p38 (RPP38)%2C mRNA. 	Ribosomal_L7Ae
+ENSGALG00000008796	RPF1	424539	BXDC5	ribosome production factor 1 homolog 	Brix
+ENSGALG00000008806	RPL12	417264	-	ribosomal protein L12 	Ribosomal_L11_N
+ENSGALG00000008857	PRPF4	417270	HPRP4|HPRP4P|PRP4|Prp4p|SNRNP60	pre-mRNA processing factor 4 	PRP4
+ENSGALG00000008864	FXR1	424968	-	Gallus gallus FMR1 autosomal homolog 1 (FXR1)%2C mRNA. 	FXMRP1_C_core
+ENSGALG00000008939	FUBP1	424551	-	far upstream element binding protein 1 	KH_1
+ENSGALG00000008950	EHD4	100859860	PAST4	EH domain containing 4 	MMR_HSR1
+ENSGALG00000008979	TRMT61B	101748994	FLJ20628	tRNA methyltransferase 61B 	GCD14
+ENSGALG00000009001	CWC22	424123	-	CWC22 spliceosome associated protein homolog 	MA3
+ENSGALG00000009004	ZNF804B	\N	FLJ32110	zinc finger protein 804B 	zf-C2H2_jaz
+ENSGALG00000009012	ZNF385B	424124	FLJ25270|ZNF533	zinc finger protein 385B 	zf-met
+ENSGALG00000009035	GTPBP10	420544	DKFZP686A10121|FLJ38242|OBGH2	GTP binding protein 10 	MMR_HSR1
+ENSGALG00000009045	EBNA1BP2	\N	EBP2|NOBP|P40	EBNA1 binding protein 2 	Ebp2
+ENSGALG00000009086	EHD3	421306	-	Gallus gallus EH domain containing 3 (EHD3)%2C mRNA. 	MMR_HSR1
+ENSGALG00000009091	TRUB1	423914	PUS4	TruB pseudouridine synthase family member 1 	TruB_N
+ENSGALG00000009110	LSM8	417765	-	Gallus gallus LSM8 homolog%2C U6 small nuclear RNA associated (LSM8)%2C mRNA. 	LSM
+ENSGALG00000009119	THUMPD2	421310	C2orf8|MGC2454	THUMP domain containing 2 	UPF0020
+ENSGALG00000009168	AFF2	422394	FMR2|FRAXE	AF4/FMR2 family member 2 	AF-4
+ENSGALG00000009169	TRMT6	421313	-	tRNA methyltransferase 6 	Gcd10p
+ENSGALG00000009177	FMR1	422395	FMRP|FRAXA|MGC87458|POF|POF1	fragile X mental retardation 1 	FXMRP1_C_core
+ENSGALG00000009202	RBM45	424132	-	Gallus gallus RNA binding motif protein 45 (RBM45)%2C mRNA. 	RRM_1
+ENSGALG00000009228	PARP1	396199	ADPRT|ARTD1|PARP-1	poly (ADP-ribose) polymerase 1 	PARP
+ENSGALG00000009250	HNRNPA3	100859627	-	heterogeneous nuclear ribonucleoprotein A3 homolog 1-like 	RRM_1
+ENSGALG00000009278	RBM46	422404	CT68|MGC27016	RNA binding motif protein 46 	RRM_1
+ENSGALG00000009288	RNPS1	416756	-	RNA binding protein with serine rich domain 1 	RRM_1
+ENSGALG00000009309	EIF5A2	396545	-	Gallus gallus eukaryotic translation initiation factor 5A (EIF5A)%2C mRNA. 	eIF-5a
+ENSGALG00000009312	RPL22L1	100858296	-	ribosomal protein L22 like 1 	Ribosomal_L22e
+ENSGALG00000009325	OLA1	424144	-	Gallus gallus Obg like ATPase 1 (OLA1)%2C mRNA. 	MMR_HSR1
+ENSGALG00000009332	-	\N	-	-	PWI
+ENSGALG00000009409	-	771218	-	-	zf-C2H2
+ENSGALG00000009421	SRSF5	423258	SFRS5	Gallus gallus serine and arginine rich splicing factor 5 (SRSF5)%2C mRNA. 	RRM_1
+ENSGALG00000009427	TIAL1	112529920	TIAR	TIA1 cytotoxic granule associated RNA binding protein like 1 	RRM_1
+ENSGALG00000009454	ZNF277	427859	ZNF277P	Gallus gallus zinc finger protein 277 (ZNF277)%2C mRNA. 	zf-C2H2_jaz
+ENSGALG00000009456	EXD2	423264	EXDL2	Gallus gallus exonuclease 3'-5' domain containing 2 (EXD2)%2C mRNA. 	DNA_pol_A_exo1
+ENSGALG00000009496	NAF1	769997	-	nuclear assembly factor 1 ribonucleoprotein 	Gar1
+ENSGALG00000009533	NMD3	425009	CGI-07	NMD3 ribosome export adaptor 	NMD3
+ENSGALG00000009540	YAF2	417790	-	Gallus gallus YY1 associated factor 2 (YAF2)%2C mRNA. 	zf-RanBP
+ENSGALG00000009544	ZCRB1	417791	-	Gallus gallus zinc finger CCHC-type and RNA binding motif containing 1 (ZCRB1)%2C mRNA. 	RRM_1
+ENSGALG00000009565	EIF2S1	423279	-	eukaryotic translation initiation factor 2 subunit alpha 	EIF_2_alpha
+ENSGALG00000009566	IARS2	421346	ileRS	Gallus gallus isoleucyl-tRNA synthetase 2%2C mitochondrial (IARS2)%2C mRNA. 	tRNA-synt_1
+ENSGALG00000009577	PUS7L	417795	DKFZP434G1415	pseudouridylate synthase 7 like 	TruD
+ENSGALG00000009592	SRP14	423284	-	signal recognition particle 14 	SRP14
+ENSGALG00000009598	EPRS	421348	-	Gallus gallus glutamyl-prolyl-tRNA synthetase (EPRS)%2C mRNA. 	tRNA-synt_1c
+ENSGALG00000009611	EIF2AK4	423285	GCN2|KIAA1338	eukaryotic translation initiation factor 2 alpha kinase 4 	HGTP_anticodon2
+ENSGALG00000009615	RRP15	421353	CGI-115|KIAA0507	ribosomal RNA processing 15 homolog 	Rrp15p
+ENSGALG00000009627	GPATCH2	421355	GPATC2	Gallus gallus G-patch domain containing 2 (GPATCH2)%2C mRNA. 	G-patch
+ENSGALG00000009634	GFM1	425018	EFGM|EGF1|GFM|mtEF-G1	G elongation factor mitochondrial 1 	GTP_EFTU
+ENSGALG00000009639	DDX60	422427	FLJ20035	DExD/H-box helicase 60 	DEAD
+ENSGALG00000009676	METTL5	771367	HSPC133	methyltransferase like 5 	MTS
+ENSGALG00000009677	SSB	395268	UBP	Gallus gallus Sjogren syndrome antigen B (SSB)%2C mRNA. 	RRM_3
+ENSGALG00000009744	FAM98B	423291	FLJ38426	family with sequence similarity 98 member B 	DUF2465
+ENSGALG00000009790	RAB33B	422441	-	Gallus gallus RAB33B%2C member RAS oncogene family (RAB33B)%2C mRNA. 	MMR_HSR1
+ENSGALG00000009802	ANGEL2	421363	-	angel homolog 2 	Exo_endo_phos
+ENSGALG00000009826	CLGN	422447	-	calmegin 	Calreticulin
+ENSGALG00000009835	XPOT	417824	exportin-T	exportin for tRNA 	Xpo1
+ENSGALG00000009838	AQR	423296	IBP160|KIAA0560|fSAP164	aquarius intron-binding spliceosomal factor 	ResIII
+ENSGALG00000009841	FASTKD1	424163	FLJ21901	FAST kinase domains 1 	RAP
+ENSGALG00000009850	NOVA1	423300	-	Gallus gallus NOVA alternative splicing regulator 1 (NOVA1)%2C transcript variant 2%2C mRNA. 	KH_1
+ENSGALG00000009890	MRPS10	421385	-	Gallus gallus mitochondrial ribosomal protein S10 (MRPS10)%2C mRNA. 	Ribosomal_S10
+ENSGALG00000009896	TRERF1	421386	BCAR2|HSA277276|RAPA|TReP-132|dJ139D8.5	transcriptional regulating factor 1 	zf-C2H2
+ENSGALG00000009913	SMARCA5	422457	-	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 5 	ResIII
+ENSGALG00000009942	MDM2	395609	-	MDM2 proto-oncogene 	zf-RanBP
+ENSGALG00000009967	LRPPRC	421403	GP130|LRP130|LSFC	leucine rich pentatricopeptide repeat containing 	PPR
+ENSGALG00000009985	LSM6	422466	-	Gallus gallus LSM6 homolog%2C U6 small nuclear RNA and mRNA degradation associated (LSM6)%2C transcript variant 2%2C mRNA. 	LSM
+ENSGALG00000009990	SRBD1	421408	FLJ10379	S1 RNA binding domain 1 	S1
+ENSGALG00000010042	CNOT2	417851	-	Gallus gallus CCR4-NOT transcription complex subunit 2 (CNOT2)%2C mRNA. 	NOT2_3_5
+ENSGALG00000010077	RPS3A	422477	RPS3AE	Gallus gallus ribosomal protein S3A (RPS3A)%2C mRNA. 	Ribosomal_S3Ae
+ENSGALG00000010084	EIF4G3	425544	eIF4GII	eukaryotic translation initiation factor 4 gamma 3 	MIF4G
+ENSGALG00000010087	IPO13	424573	importin-13	Gallus gallus importin 13 (IPO13)%2C mRNA. 	Xpo1
+ENSGALG00000010097	GATB	422480	PET112|PET112L	glutamyl-tRNA amidotransferase subunit B 	GatB_Yqey
+ENSGALG00000010106	ERI3	424579	FLJ22943|PINT1|PRNPIP	ERI1 exoribonuclease family member 3 	RNase_T
+ENSGALG00000010124	RPS8	424584	-	ribosomal protein S8 	Ribosomal_S8e
+ENSGALG00000010149	CMTR1	421434	FTSJD2|ISG95|KIAA0082|MTr1	cap methyltransferase 1 	FtsJ
+ENSGALG00000010154	GEMIN2	423336	SIP1	Gallus gallus gem nuclear organelle associated protein 2 (GEMIN2)%2C mRNA. 	SIP1
+ENSGALG00000010164	SMARCA2	396040	BRM	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 2 	BRK
+ENSGALG00000010177	ZFC3H1	417855	-	zinc finger C3H1-type containing 	zf-C3H1
+ENSGALG00000010178	PUM3	427350	KIAA0020	pumilio RNA binding family member 3 	CPL
+ENSGALG00000010207	LARP1B	422500	DKFZp434K245|DKFZp686E0316|FLJ10378|LARP2	La ribonucleoprotein domain family member 1B 	La
+ENSGALG00000010228	TOE1	424595	hCaf1z	target of EGR1%2C member 1 (nuclear) 	CAF1
+ENSGALG00000010256	TIPARP	425026	DDF1|DKFZP434J214|DKFZp686N0351|PARP-1|PARP-7|PARP7|RM1|pART14	TCDD inducible poly(ADP-ribose) polymerase 	PARP
+ENSGALG00000010275	FCF1	423355	Bka|C14orf111|CGI-35|UTP24	FCF1%2C rRNA-processing protein 	Fcf1
+ENSGALG00000010284	GMPS	425028	-	Gallus gallus guanine monophosphate synthase (GMPS)%2C mRNA. 	tRNA_Me_trans
+ENSGALG00000010285	MRPL14	421443	MRP-L32|RPML32	mitochondrial ribosomal protein L14 	Ribosomal_L14
+ENSGALG00000010291	RBPMS	\N	HERMES	RNA binding protein%2C mRNA processing factor 	RRM_1
+ENSGALG00000010296	MRPS18A	421445	-	Gallus gallus mitochondrial ribosomal protein S18A (MRPS18A)%2C transcript variant 2%2C mRNA. 	Ribosomal_S18
+ENSGALG00000010301	EIF2B2	423359	-	eukaryotic translation initiation factor 2B subunit beta 	IF-2B
+ENSGALG00000010315	GTPBP2	421449	-	GTP binding protein 2 	GTP_EFTU
+ENSGALG00000010324	MRPL1	422507	BM022	mitochondrial ribosomal protein L1 	Ribosomal_L1
+ENSGALG00000010333	CNOT6L	422508	Ccr4b|DKFZp434K098	CCR4-NOT transcription complex subunit 6 like 	Exo_endo_phos
+ENSGALG00000010341	XPO5	421450	-	Gallus gallus exportin 5 (XPO5)%2C mRNA. 	Xpo1
+ENSGALG00000010349	POLR1C	421452	-	Gallus gallus RNA polymerase I and III subunit C (POLR1C)%2C transcript variant 2%2C mRNA. 	RNA_pol_A_bac
+ENSGALG00000010356	RAD54L	424611	GdRAD54	Gallus gallus RAD54-like (S. cerevisiae) (RAD54L)%2C mRNA. 	ResIII
+ENSGALG00000010360	NSUN4	424613	-	Gallus gallus NOP2/Sun RNA methyltransferase family member 4 (NSUN4)%2C mRNA. 	Methyltr_RsmB-F
+ENSGALG00000010372	ANGEL1	423370	-	Gallus gallus angel homolog 1 (ANGEL1)%2C mRNA. 	Exo_endo_phos
+ENSGALG00000010401	EIF2A	425042	-	Gallus gallus eukaryotic translation initiation factor 2A (EIF2A)%2C mRNA. 	eIF2A
+ENSGALG00000010428	FAM98A	421458	-	Gallus gallus family with sequence similarity 98 member A (FAM98A)%2C mRNA. 	DUF2465
+ENSGALG00000010485	ALKBH1	428898	ALKBH	Gallus gallus alkB homolog 1%2C histone H2A dioxygenase (ALKBH1)%2C mRNA. 	hmm_2OG-FeII_Oxy_2
+ENSGALG00000010493	INPP5A	423973	5PTASE	inositol polyphosphate-5-phosphatase A 	Exo_endo_phos
+ENSGALG00000010533	ELAVL4	395634	HUD	Gallus gallus ELAV like RNA binding protein 4 (ELAVL4)%2C mRNA. 	RRM_1
+ENSGALG00000010553	AIMP1	422533	EMAP-2|EMAPII|SCYE1|p43	aminoacyl tRNA synthetase complex interacting multifunctional protein 1 	tRNA_bind
+ENSGALG00000010560	EIF2AK2	395147	PKR	eukaryotic translation initiation factor 2 alpha kinase 2 	dsrm
+ENSGALG00000010561	GPATCH11	421468	CCDC75	Gallus gallus G-patch domain containing 11 (GPATCH11)%2C transcript variant 2%2C mRNA. 	G-patch
+ENSGALG00000010573	GSTCD	422536	FLJ13273	glutathione S-transferase C-terminal domain containing 	Methyltransf_31
+ENSGALG00000010622	ZC3H14	423399	2700069A02RIK	Gallus gallus zinc finger CCCH-type containing 14 (ZC3H14)%2C mRNA. 	zf-CCCH_2
+ENSGALG00000010627	PRPF38A	771795	-	Gallus gallus pre-mRNA processing factor 38A (PRPF38A)%2C mRNA. 	PRP38
+ENSGALG00000010629	TUT4	424642	KIAA0191|PAPD3|TENT3A|ZCCHC11	terminal uridylyl transferase 4 	PAP_assoc
+ENSGALG00000010651	TFB2M	421488	FLJ22661|FLJ23182|Hkp1	transcription factor B2%2C mitochondrial 	RrnaAD
+ENSGALG00000010671	HNRNPU	421492	C1orf199|FLJ30202|FLJ37978|HNRNPU-AS1|HNRPU|NCRNA00201|SAF-A|hnRNPU	heterogeneous nuclear ribonucleoprotein U 	SAP
+ENSGALG00000010677	NRDE2	423404	C14orf102|FLJ14051	NRDE-2%2C necessary for RNA interference%2C domain containing 	NRDE-2
+ENSGALG00000010689	MAGOHB	374226	MAGOH|MAGOH2	mago homolog B%2C exon junction complex subunit 	Mago_nashi
+ENSGALG00000010694	SECISBP2	\N	SBP2	SECIS binding protein 2 	Ribosomal_L7Ae
+ENSGALG00000010761	MRPL37	772313	-	mitochondrial ribosomal protein L37 	PDCD9
+ENSGALG00000010783	CPSF2	423416	-	Gallus gallus cleavage and polyadenylation specific factor 2 (CPSF2)%2C mRNA. 	Beta-Casp
+ENSGALG00000010789	PARS2	\N	-	prolyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2b
+ENSGALG00000010809	BZW2	420594	-	Gallus gallus basic leucine zipper and W2 domains 2 (BZW2)%2C mRNA. 	W2
+ENSGALG00000010863	TWISTNB	420603	-	TWIST neighbor 	SHS2_Rpb7-N
+ENSGALG00000010882	G3BP2	422576	KIAA0660	G3BP stress granule assembly factor 2 	NTF2
+ENSGALG00000010884	DDX24	423429	-	DEAD-box helicase 24 	DEAD
+ENSGALG00000010961	IGF2BP3	420617	-	Gallus gallus insulin like growth factor 2 mRNA binding protein 3 (IGF2BP3)%2C mRNA. 	KH_1
+ENSGALG00000010973	TRA2A	420618	-	Gallus gallus transformer 2 alpha homolog (TRA2A)%2C mRNA. 	RRM_1
+ENSGALG00000010980	STK31	420621	SgK396|TDRD8	serine/threonine kinase 31 	TUDOR
+ENSGALG00000010999	DICER1	423437	dicer	Gallus gallus dicer 1%2C ribonuclease III (DICER1)%2C mRNA. 	Ribonuclease_3
+ENSGALG00000011000	TARBP1	421517	TRM3|TRMT3|TRP-185	TAR (HIV-1) RNA binding protein 1 	SpoU_methylase
+ENSGALG00000011036	HNRNPA2B1	420627	HNRPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1 	RRM_1
+ENSGALG00000011101	URB2	421539	KIAA0133|NET10|NPA2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae) 	Urb2
+ENSGALG00000011132	RBMS1	395880	-	Gallus gallus RNA binding motif single stranded interacting protein 1 (RBMS1)%2C mRNA. 	RRM_1
+ENSGALG00000011184	HNRNPD	422602	HNRPD	Gallus gallus heterogeneous nuclear ribonucleoprotein D (HNRNPD)%2C mRNA. 	RRM_1
+ENSGALG00000011208	HELQ	422606	Hel308	helicase%2C POLQ like 	DEAD
+ENSGALG00000011228	WARS	423458	IFI53|IFP53	tryptophanyl-tRNA synthetase 	tRNA-synt_1b
+ENSGALG00000011229	SERBP1	424706	-	Gallus gallus SERPINE1 mRNA binding protein 1 (SERBP1)%2C mRNA. 	HABP4_PAI-RBP1
+ENSGALG00000011243	DAZL	374054	-	Gallus gallus deleted in azoospermia like (DAZL)%2C mRNA. 	RRM_1
+ENSGALG00000011272	RAB5A	420649	-	Gallus gallus RAB5A%2C member RAS oncogene family (RAB5A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000011283	-	420651	-	zinc finger protein 385D 	zf-met
+ENSGALG00000011289	NKIRAS1	420654	KBRAS1|kappaB-Ras1	NFKB inhibitor interacting Ras like 1 	MMR_HSR1
+ENSGALG00000011290	RPL15	428442	L10	ribosomal protein L15 	Ribosomal_L15e
+ENSGALG00000011293	MRPL42	417899	HSPC204|MRP-L31|MRPL31|MRPS32|PTD007|RPML31	mitochondrial ribosomal protein L42 	MRP-S32
+ENSGALG00000011305	SRSF11	424714	SFRS11	Gallus gallus serine and arginine rich splicing factor 11 (SRSF11)%2C mRNA. 	RRM_1
+ENSGALG00000011322	NEK10	776071	FLJ32685	NIMA related kinase 10 	RIO1
+ENSGALG00000011340	ZRANB2	424717	ZNF265	zinc finger RANBP2-type containing 2 	zf-RanBP
+ENSGALG00000011387	POLR2B	422621	-	Gallus gallus RNA polymerase II subunit B (POLR2B)%2C mRNA. 	RNA_pol_Rpb2_6
+ENSGALG00000011403	SRP72	422626	-	signal recognition particle 72 	SRP72
+ENSGALG00000011409	SNRPF	417916	-	Gallus gallus small nuclear ribonucleoprotein polypeptide F (SNRPF)%2C mRNA. 	LSM
+ENSGALG00000011426	RNASET2	421569	-	ribonuclease T2 	Ribonuclease_T2
+ENSGALG00000011439	RBMS3	420661	-	RNA binding motif single stranded interacting protein 3 	RRM_1
+ENSGALG00000011448	ERI1	422629	Eri-1|THEX1	exoribonuclease 1 	RNase_T
+ENSGALG00000011455	CL2	422633	-	Gallus gallus liver ribonuclease A (CL2)%2C mRNA. 	RnaseA
+ENSGALG00000011464	EIF5	423479	-	Gallus gallus eukaryotic translation initiation factor 5 (EIF5)%2C mRNA. 	eIF-5_eIF-2B
+ENSGALG00000011475	RPL37A	769981	-	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a like 1 	Ribosomal_L37ae
+ENSGALG00000011476	SEPT11	422635	FLJ10849	septin 11 	MMR_HSR1
+ENSGALG00000011515	ERCC3	424226	-	Gallus gallus ERCC excision repair 3%2C TFIIH core complex helicase subunit (ERCC3)%2C mRNA. 	ResIII
+ENSGALG00000011522	TRMT61A	423481	C14orf172|FLJ40452|GCD14|Gcd14p|hTRM61	tRNA methyltransferase 61A 	GCD14
+ENSGALG00000011555	QKI	374204	-	QKI%2C KH domain containing RNA binding 	KH_1
+ENSGALG00000011565	TDRD9	\N	C14orf75|DKFZp434N0820|FLJ36164|NET54	tudor domain containing 9 	TUDOR
+ENSGALG00000011570	ILF2	425709	-	interleukin enhancer binding factor 2 	DZF
+ENSGALG00000011592	MRAS	395149	-	muscle RAS oncogene homolog 	GTP_EFTU
+ENSGALG00000011624	PNLDC1	428595	FLJ40240|dJ195P10.2	PARN like%2C ribonuclease domain containing 1 	CAF1
+ENSGALG00000011642	ANKRD17	422651	FLJ22206|GTAR|KIAA0697|MASK2|NY-BR-16	ankyrin repeat domain 17 	KH_1
+ENSGALG00000011643	UTP20	417933	1A6/DRIM|DRIM	UTP20%2C small subunit processome component 	DRIM
+ENSGALG00000011650	NIFK	424239	MKI67IP|Nopp34|hNIFK	nucleolar protein interacting with the FHA domain of MKI67 	RRM_1
+ENSGALG00000011651	ARL1	417934	-	ADP ribosylation factor like GTPase 1 	MMR_HSR1
+ENSGALG00000011652	TSN	395955	C3PO	translin 	Translin
+ENSGALG00000011682	CNOT4	417936	-	CCR4-NOT transcription complex subunit 4 	RRM_1
+ENSGALG00000011685	CSTF3	421595	-	Gallus gallus cleavage stimulation factor subunit 3 (CSTF3)%2C mRNA. 	Suf
+ENSGALG00000011794	DDX47	417959	-	Gallus gallus DEAD-box helicase 47 (DDX47)%2C mRNA. 	DEAD
+ENSGALG00000011863	POLDIP3	417974	-	Gallus gallus DNA polymerase delta interacting protein 3 (POLDIP3)%2C mRNA. 	RRM_1
+ENSGALG00000011866	RRP7A	417975	-	Gallus gallus ribosomal RNA processing 7 homolog A (RRP7A)%2C mRNA. 	RRP7
+ENSGALG00000011884	EXOSC9	619530	-	exosome component 9 	RNase_PH
+ENSGALG00000011904	TRMT5	423520	KIAA1393|TRM5	tRNA methyltransferase 5 	Met_10
+ENSGALG00000011913	SEPT3	427899	SEP3	septin 3 	MMR_HSR1
+ENSGALG00000011931	SNU13	\N	15.5K|FA-1|NHP2L1|SNRNP15-5|SPAG12|SSFA1	small nuclear ribonucleoprotein 13 	Ribosomal_L7Ae
+ENSGALG00000011932	XRCC6	395767	KU70	Gallus gallus X-ray repair complementing defective repair in Chinese hamster cells 6 (XRCC6)%2C mRNA. 	SAP
+ENSGALG00000011947	POLR3H	417990	-	Gallus gallus RNA polymerase III subunit H (POLR3H)%2C mRNA. 	RNA_pol_Rbc25
+ENSGALG00000011950	ACO2	374009	-	aconitase 2 	Aconitase
+ENSGALG00000011953	PHF5A	417991	-	Gallus gallus PHD finger protein 5A (PHF5A)%2C mRNA. 	PHF5
+ENSGALG00000011957	TOB2	417992	-	Gallus gallus transducer of ERBB2%2C 2 (TOB2)%2C mRNA. 	PAM2
+ENSGALG00000011963	PRDM5	422673	PFM2	PR/SET domain 5 	zf-C2H2
+ENSGALG00000011965	ZC3H7B	417996	DKFZp434K0920|FLJ13787|KIAA1031|RoXaN	zinc finger CCCH-type containing 7B 	zf-CCCH
+ENSGALG00000011974	RPL7L1	422676	-	Gallus gallus ribosomal protein L7 like 1 (RPL7L1)%2C mRNA. 	Ribosomal_L30_N
+ENSGALG00000012000	METTL14	422684	-	Gallus gallus methyltransferase like 14 (METTL14)%2C mRNA. 	MT-A70
+ENSGALG00000012024	MRTFA	418005	BSAC|KIAA1438|MAL|MKL|MKL1|MRTF-A	myocardin related transcription factor A 	SAP
+ENSGALG00000012037	ARID4A	423541	-	Gallus gallus AT-rich interaction domain 4A (ARID4A)%2C mRNA. 	Tudor-knot
+ENSGALG00000012048	LARP7	422690	DKFZP564K112|HDCMA18P|PIP7S	La ribonucleoprotein domain family member 7 	RRM_3
+ENSGALG00000012050	TNRC6B	418010	KIAA1093	trinucleotide repeat containing 6B 	Ago_hook
+ENSGALG00000012072	-	101747378	-	-	PARP
+ENSGALG00000012115	WT1	101747322	-	Wilms tumor 1 	WT1
+ENSGALG00000012147	DDX18	424278	Has1|MrDb	DEAD-box helicase 18 	DEAD
+ENSGALG00000012172	RPL3	418016	-	Gallus gallus ribosomal protein L3 (RPL3)%2C mRNA. 	Ribosomal_L3
+ENSGALG00000012199	WDHD1	423558	AND-1|CHTF4|CTF4	WD repeat and HMG-box DNA binding protein 1 	eIF2A
+ENSGALG00000012223	ZRANB3	\N	DKFZP434B1727	zinc finger RANBP2-type containing 3 	ResIII
+ENSGALG00000012229	-	\N	-	-	Ribosomal_S14
+ENSGALG00000012232	DNAAF2	423566	C14orf104|CILD10|FLJ10563|KTU|PF13	dynein axonemal assembly factor 2 	PIH1
+ENSGALG00000012246	R3HDM1	424292	KIAA0029|R3HDM	R3H domain containing 1 	R3H
+ENSGALG00000012264	TRMT10A	422708	MGC27034|RG9MTD2|TRM10	tRNA methyltransferase 10A 	tRNA_m1G_MT
+ENSGALG00000012291	POLR2F	395486	RPB6	Gallus gallus RNA polymerase II subunit F (POLR2F)%2C mRNA. 	RNA_pol_Rpb6
+ENSGALG00000012296	EIF3L	418033	EIF3EIP|EIF3S6IP	Gallus gallus eukaryotic translation initiation factor 3 subunit L (EIF3L)%2C mRNA. 	Paf67
+ENSGALG00000012350	TDRD7	430492	-	Gallus gallus tudor domain containing 7 (TDRD7)%2C mRNA. 	TUDOR
+ENSGALG00000012355	DARS	424296	-	Gallus gallus aspartyl-tRNA synthetase (DARS)%2C mRNA. 	tRNA-synt_2
+ENSGALG00000012364	PPIL4	421625	-	peptidylprolyl isomerase like 4 	RRM_1
+ENSGALG00000012388	PCMT1	428607	-	protein-L-isoaspartate (D-aspartate) O-methyltransferase 	GCD14
+ENSGALG00000012410	-	418037	-	nucleolar protein 12 	Nop25
+ENSGALG00000012484	RIF1	424316	FLJ10599|FLJ12870	Telomere-associated protein RIF1  	Rif1_N
+ENSGALG00000012529	EIF3D	771356	EIF3S7|eIF3-p66|eIF3-zeta|eIF3d	eukaryotic translation initiation factor 3 subunit D 	eIF-3_zeta
+ENSGALG00000012540	RBFOX2	418055	FOX-2|HNRBP2|HRNBP2|RBM9	RNA binding fox-1 homolog 2 	Fox-1_C
+ENSGALG00000012576	RASEF	427451	FLJ31614|RAB45	RAS and EF-hand domain containing 	MMR_HSR1
+ENSGALG00000012579	BAZ2B	395400	-	Gallus gallus bromodomain adjacent to zinc finger domain 2B (BAZ2B)%2C mRNA. 	MBD
+ENSGALG00000012591	-	427458	-	heterogeneous nuclear ribonucleoprotein K 	KH_1
+ENSGALG00000012607	ZCCHC6	100857368	-	Gallus gallus zinc finger CCHC-type containing 6 (ZCCHC6)%2C mRNA. 	PAP_assoc
+ENSGALG00000012611	RTCB	418064	C22orf28|FAAP|HSPC117	RNA 2'%2C3'-cyclic phosphate and 5'-OH ligase 	RtcB
+ENSGALG00000012619	PRDM4	418065	PFM1	PR/SET domain 4 	zf-C2H2
+ENSGALG00000012621	ERCC6L2	427469	C9orf102|FLJ37706|RAD26L	excision repair cross-complementation group 6 like 2 	ResIII
+ENSGALG00000012628	HABP4	395444	-	Gallus gallus hyaluronan binding protein 4 (HABP4)%2C mRNA. 	HABP4_PAI-RBP1
+ENSGALG00000012639	MTERF2	418067	FLJ14062|MTERFD3	mitochondrial transcription termination factor 2 	mTERF
+ENSGALG00000012655	POLR3B	418071	-	Gallus gallus RNA polymerase III subunit B (POLR3B)%2C mRNA. 	RNA_pol_Rpb2_6
+ENSGALG00000012662	NUAK1	418074	ARK5|KIAA0537|NuaK1	NUAK family kinase 1 	RIO1
+ENSGALG00000012695	NOL7	420835	C6orf90|NOP27|PQBP3|RARG-1|dJ223E5.2	nucleolar protein 7 	NUC129
+ENSGALG00000012709	ATXN1	420843	ATX1|D6S504E|SCA1	ataxin 1 	AXH
+ENSGALG00000012712	RBM24	420846	-	Gallus gallus RNA binding motif protein 24 (RBM24)%2C transcript variant 1%2C mRNA. 	RRM_1
+ENSGALG00000012720	NUP153	420848	HNUP153	nucleoporin 153 	zf-RanBP
+ENSGALG00000012721	C2H6orf52	420849	TRNAU1AP	Gallus gallus chromosome 2 C6orf52 homolog (C2H6orf52)%2C mRNA. 	RRM_1
+ENSGALG00000012795	RIOK1	\N	AD034|FLJ30006|RRP10|bA288G3.1	RIO kinase 1 	RIO1
+ENSGALG00000012799	RREB1	395920	RREB-1	Gallus gallus ras responsive element binding protein 1 (RREB1)%2C mRNA. 	zf-C2H2
+ENSGALG00000012852	MKRN1	395500	MKRN4P	Gallus gallus makorin ring finger protein 1 (MKRN1)%2C mRNA. 	zf-CCCH
+ENSGALG00000012889	ZCCHC2	420905	C18orf49|FLJ20222|FLJ20281|KIAA1744	zinc finger CCHC-type containing 2 	zf-CCHC
+ENSGALG00000012916	DROSHA	420911	RNASEN	Gallus gallus drosha ribonuclease III (DROSHA)%2C mRNA. 	Ribonucleas_3_3
+ENSGALG00000012919	YARS2	418131	CGI-04|FLJ13995|mt-TyrRS	tyrosyl-tRNA synthetase 2 	tRNA-synt_1b
+ENSGALG00000012947	CAPRIN2	418141	C1QDC1|EEG1|FLJ11391|FLJ22569|RNG140|caprin-2	caprin family member 2 	Caprin-1_C
+ENSGALG00000012953	IPO8	418142	IMP8|RANBP8	importin 8 	IBN_N
+ENSGALG00000013005	SNRNP48	420925	C6orf151|FLJ32234|dJ336K20B.1|dJ512B11.2	small nuclear ribonucleoprotein U11/U12 subunit 48 	zf-U11-48K
+ENSGALG00000013061	PAPD7	770425	POLS	Gallus gallus poly(A) RNA polymerase D7%2C non-canonical (PAPD7)%2C mRNA. 	PAP_assoc
+ENSGALG00000013064	NSUN2	420938	-	Gallus gallus NOP2/Sun RNA methyltransferase family member 2 (NSUN2)%2C mRNA. 	Methyltr_RsmB-F
+ENSGALG00000013155	-	420965	-	poly(rC) binding protein 2 	KH_1
+ENSGALG00000013174	RECQL	378910	RecQ1	Gallus gallus RecQ like helicase (RECQL)%2C mRNA. 	DEAD
+ENSGALG00000013183	TERT	420972	chTERT	Gallus gallus telomerase reverse transcriptase (TERT)%2C mRNA. 	Telomerase_RBD
+ENSGALG00000013352	SF3B4	426042	Hsh49|SAP49|SF3b49	splicing factor 3b subunit 4 	RRM_1
+ENSGALG00000013365	-	426047	-	scaffold attachment factor B 	RRM_1
+ENSGALG00000013383	PPIE	426061	CyP-33|MGC111222|MGC3736	peptidylprolyl isomerase E 	RRM_1
+ENSGALG00000013510	UTP15	426152	-	Gallus gallus UTP15%2C small subunit processome component (UTP15)%2C mRNA. 	UTP15_C
+ENSGALG00000013532	CAPRIN1	426151	GPIAP1|M11S1|caprin-1	cell cycle associated protein 1 	Caprin-1_C
+ENSGALG00000013565	-	\N	-	-	ResIII
+ENSGALG00000013590	-	422726	-	FSHD region gene 1 	FRG1
+ENSGALG00000013609	MTRF1L	421643	HMRF1L|mtRF1a	mitochondrial translational release factor 1 like 	RF-1
+ENSGALG00000013635	SCAF8	421647	KIAA1116|RBM16	SR-related CTD associated factor 8 	RRM_1
+ENSGALG00000013637	TDP2	421007	TTRAP	Gallus gallus tyrosyl-DNA phosphodiesterase 2 (TDP2)%2C mRNA. 	Exo_endo_phos
+ENSGALG00000013639	SYF2	419593	CBPIN|GCIPIP	Gallus gallus SYF2 pre-mRNA splicing factor (SYF2)%2C mRNA. 	SYF2
+ENSGALG00000013647	TFB1M	428608	CGI-75|mtTFB	transcription factor B1%2C mitochondrial 	RrnaAD
+ENSGALG00000013649	CNOT7	422733	-	Gallus gallus CCR4-NOT transcription complex subunit 7 (CNOT7)%2C mRNA. 	CAF1
+ENSGALG00000013657	ZNF236	421008	-	zinc finger protein 236 	zf-C2H2
+ENSGALG00000013723	OASL	395908	OAS*A|OAS*B	Gallus gallus 2'-5'-oligoadenylate synthetase like (OASL)%2C mRNA. 	OAS1_C
+ENSGALG00000013727	SYNJ2	421656	INPP5H	synaptojanin 2 	DUF1866
+ENSGALG00000013759	MRPL47	424977	-	mitochondrial ribosomal protein L47 	MRP-L47
+ENSGALG00000013795	HIVEP2	421672	HIV-EP2|MBP-2|MIBP1|Schnurri-2|ZAS2|ZNF40B	human immunodeficiency virus type I enhancer binding protein 2 	zf-C2H2
+ENSGALG00000013821	GEMIN6	426266	-	gem nuclear organelle associated protein 6 	Gemin6
+ENSGALG00000013879	TIA1	771327	TIAL1|TIAR	Gallus gallus TIA1 cytotoxic granule associated RNA binding protein (TIA1)%2C mRNA. 	RRM_1
+ENSGALG00000013889	RNMT	421046	RG7MT1	RNA guanine-7 methyltransferase 	Pox_MCEL
+ENSGALG00000013911	ZC3HAV1	426315	-	Gallus gallus zinc finger CCCH-type containing%2C antiviral 1 (ZC3HAV1)%2C mRNA. 	PARP
+ENSGALG00000013935	BCLAF1	100858086	BTF|KIAA0164	BCL2-associated transcription factor 1 	THRAP3_BCLAF1
+ENSGALG00000013943	-	422754	-	factor interacting with PAPOLA and CPSF1 	Fip1
+ENSGALG00000013948	RASL11B	422756	-	RAS like family 11 member B 	MMR_HSR1
+ENSGALG00000013962	HBS1L	421694	DKFZp434g247|EF-1a|ERFS|HBS1|HSPC276|KIAA1038|eRF3c	HBS1 like translational GTPase 	GTP_EFTU
+ENSGALG00000013990	RPS12	421698	-	Gallus gallus ribosomal protein S12 (RPS12)%2C mRNA. 	Ribosomal_L7Ae
+ENSGALG00000014016	MEX3A	101747646	RKHD4|RNF162	mex-3 RNA binding family member A 	KH_1
+ENSGALG00000014118	MRPS26	426561	-	Gallus gallus mitochondrial ribosomal protein S26 (MRPS26)%2C mRNA. 	MRP-S26
+ENSGALG00000014126	-	418221	-	endonuclease%2C polyU-specific-like 	XendoU
+ENSGALG00000014217	GUF1	422773	FLJ13220	GUF1 homolog%2C GTPase 	GTP_EFTU
+ENSGALG00000014267	RBM47	\N	FLJ20273|NET18	RNA binding motif protein 47 	RRM_1
+ENSGALG00000014280	AICDA	418257	AID	activation induced cytidine deaminase 	APOBEC_N
+ENSGALG00000014347	-	418264	-	poly(ADP-ribose) polymerase family member 11 	PARP
+ENSGALG00000014381	HNRNPAB	396268	HNRPAB	heterogeneous nuclear ribonucleoprotein A/B 	RRM_1
+ENSGALG00000014387	MRPL10	426521	L10MT|MGC17973|MRP-L10|MRP-L8|MRPL8|RPML8	mitochondrial ribosomal protein L10 	Ribosomal_L10
+ENSGALG00000014395	DHX15	422813	-	DEAH-box helicase 15 	HA2
+ENSGALG00000014432	RPS20	430990	S20|uS10	ribosomal protein S20 	Ribosomal_S10
+ENSGALG00000014435	MRPL51	418274	-	Gallus gallus mitochondrial ribosomal protein L51 (MRPL51)%2C mRNA. 	MRP-L51
+ENSGALG00000014453	TENT5C	\N	FAM46C	Gallus gallus family with sequence similarity 46 member C (TENT5C)%2C mRNA. 	NTP_transf_7
+ENSGALG00000014516	CPEB2	\N	-	cytoplasmic polyadenylation element binding protein 2 	RRM_1
+ENSGALG00000014568	EMG1	418292	-	Gallus gallus EMG1%2C N1-specific pseudouridine methyltransferase (EMG1)%2C transcript variant 1%2C mRNA. 	EMG1
+ENSGALG00000014573	NAT10	426609	-	Gallus gallus N-acetyltransferase 10 (NAT10)%2C mRNA. 	tRNA_bind_2
+ENSGALG00000014614	TNKS2	374253	tankyrase-2	Gallus gallus tankyrase 2 (TNKS2)%2C mRNA. 	PARP
+ENSGALG00000014649	MBLAC2	\N	-	Gallus gallus metallo-beta-lactamase domain containing 2 (MBLAC2)%2C mRNA. 	Lactamase_B
+ENSGALG00000014650	-	\N	-	-	RNA_pol_3_Rpc31
+ENSGALG00000014661	FAM172A	427109	C5orf21	Gallus gallus family with sequence similarity 172 member A (FAM172A)%2C mRNA. 	Arb2
+ENSGALG00000014691	PHAX	427124	RNUXA	Gallus gallus phosphorylated adaptor for RNA export (PHAX)%2C mRNA. 	RNA_GG_bind
+ENSGALG00000014700	DHX29	427136	DDX29	DExH-box helicase 29 	HA2
+ENSGALG00000014709	MTREX	427137	-	Mtr4 exosome RNA helicase 	rRNA_proc-arch
+ENSGALG00000014713	DDX4	395447	-	Gallus gallus DEAD-box helicase 4 (DDX4)%2C mRNA. 	DEAD
+ENSGALG00000014740	IPO11	769679	-	importin 11 	IBN_N
+ENSGALG00000014762	-	\N	-	-	AKAP7_NLS
+ENSGALG00000014772	WARS2	\N	TrpRS	tryptophanyl tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1b
+ENSGALG00000014791	WDR3	427952	-	WD repeat domain 3 	Utp12
+ENSGALG00000014799	METTL4	421056	-	methyltransferase like 4 	MT-A70
+ENSGALG00000014810	TENT2	427178	FLJ38499|GLD2|PAPD4|TUT2	poly(A) RNA polymerase D4%2C non-canonical 	PAP_assoc
+ENSGALG00000014812	SIDT1	418321	FLJ20174|SID-1	SID1 transmembrane family member 1 	SID-1_RNA_chan
+ENSGALG00000014831	TRMT11	378793	MDS024	Gallus gallus tRNA methyltransferase 11 homolog (TRMT11)%2C mRNA. 	UPF0020
+ENSGALG00000014833	RPL37	427186	-	ribosomal protein L37 	Ribosomal_L37e
+ENSGALG00000014859	ZNF131	431588	ZBTB35|pHZ-10	zinc finger protein 131 	zf-met
+ENSGALG00000014867	PAIP1	427195	-	Gallus gallus poly(A) binding protein interacting protein 1 (PAIP1)%2C transcript variant 1%2C mRNA. 	MIF4G
+ENSGALG00000014874	MRPS30	395781	-	Gallus gallus mitochondrial ribosomal protein S30 (MRPS30)%2C mRNA. 	PDCD9
+ENSGALG00000014880	PARP8	427198	FLJ21308|pART16	poly(ADP-ribose) polymerase family member 8 	PARP
+ENSGALG00000014891	ITGA1	430689	-	Gallus gallus integrin subunit alpha 1 (ITGA1)%2C mRNA. 	eRF1_1
+ENSGALG00000014915	THOC1	421062	-	Gallus gallus THO complex 1 (THOC1)%2C transcript variant 2%2C mRNA. 	efThoc1
+ENSGALG00000014924	POLQ	418326	POLH	DNA polymerase theta 	DEAD
+ENSGALG00000014939	GFM2	427205	EF-G2mt|EFG2|FLJ21661	G elongation factor mitochondrial 2 	GTP_EFTU
+ENSGALG00000014942	NSA2	427206	TINP1	Gallus gallus NSA2%2C ribosome biogenesis homolog (NSA2)%2C mRNA. 	Ribosomal_S8e
+ENSGALG00000014949	RABL3	418329	-	Gallus gallus RAB%2C member of RAS oncogene family like 3 (RABL3)%2C mRNA. 	MMR_HSR1
+ENSGALG00000015002	MRPS27	427216	-	mitochondrial ribosomal protein S27 	MRP-S27
+ENSGALG00000015004	RIOK3	421074	SUDD	RIO kinase 3 	RIO1
+ENSGALG00000015009	ZBTB49	422847	FLJ38559|ZNF509	zinc finger and BTB domain containing 49 	zf-C2H2
+ENSGALG00000015014	TNPO1	427218	IPO2|KPNB2|MIP|MIP1|TRN	transportin 1 	IBN_N
+ENSGALG00000015024	RCL1	427222	RNAC|RPCL1	RNA terminal phosphate cyclase like 1 	RTC
+ENSGALG00000015038	CHD1L	418338	ALC1	chromodomain helicase DNA binding protein 1 like 	ResIII
+ENSGALG00000015082	RPS6	396148	-	Gallus gallus ribosomal protein S6 (RPS6)%2C mRNA. 	Ribosomal_S6e
+ENSGALG00000015094	ZBTB20	100859265	DKFZp566F123|DPZF|ODA-8S|ZNF288	zinc finger and BTB domain containing 20 	zf-C2H2
+ENSGALG00000015101	BNC2	431604	BSN2|FLJ20043	basonuclin 2 	zf-C2H2
+ENSGALG00000015112	ZNF521	421083	EHZF|Evi3	zinc finger protein 521 	zf-C2H2
+ENSGALG00000015190	GTPBP8	418366	HSPC135	GTP binding protein 8 (putative) 	MMR_HSR1
+ENSGALG00000015195	RPS15	396448	-	ribosomal protein S15 	Ribosomal_S19
+ENSGALG00000015196	ASXL3	421102	KIAA1713	ASXL transcriptional regulator 3 	HARE-HTH
+ENSGALG00000015200	DAZAP1	427266	-	Gallus gallus DAZ associated protein 1 (DAZAP1)%2C mRNA. 	RRM_1
+ENSGALG00000015231	ZBTB24	421763	BIF1|KIAA0441|PATZ2|ZNF450	zinc finger and BTB domain containing 24 	zf-C2H2
+ENSGALG00000015249	-	418376	-	-	ResIII
+ENSGALG00000015267	CMSS1	418381	C1H3ORF26|C3orf26	cms1 ribosomal small subunit homolog (yeast) 	CMS1
+ENSGALG00000015288	RIOK2	427278	-	RIO kinase 2 	RIO1
+ENSGALG00000015328	TRMT10C	418397	FLJ20432|MRPP1|RG9MTD1	tRNA methyltransferase 10C%2C mitochondrial RNase P subunit 	tRNA_m1G_MT
+ENSGALG00000015339	RPL24	418401	-	Gallus gallus ribosomal protein L24 (RPL24)%2C mRNA. 	Ribosomal_L24e
+ENSGALG00000015340	TGS1	421126	NCOA6IP	Gallus gallus trimethylguanosine synthase 1 (TGS1)%2C mRNA. 	Methyltransf_15
+ENSGALG00000015414	NSUN3	418432	FLJ22609	NOP2/Sun RNA methyltransferase family member 3 	Methyltr_RsmB-F
+ENSGALG00000015450	RAB2A	396153	RAB2	RAB2A%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000015465	ASCC3	421790	-	Gallus gallus activating signal cointegrator 1 complex subunit 3 (ASCC3)%2C mRNA. 	DEAD
+ENSGALG00000015486	COQ3	421797	bA9819.1	coenzyme Q3%2C methyltransferase 	Methyltransf_31
+ENSGALG00000015543	MRPL50	427307	-	Gallus gallus mitochondrial ribosomal protein L50 (MRPL50)%2C mRNA. 	Ribosomal_L50
+ENSGALG00000015594	TRMT44	422871	C4orf23|FLJ35725|METTL19|TRM44	tRNA methyltransferase 44 homolog (S. cerevisiae) 	AdoMet_MTase
+ENSGALG00000015603	ZCCHC9	427320	DKFZp761J139|PPP1R41	zinc finger CCHC-type containing 9 	zf-CCHC
+ENSGALG00000015617	-	427323	-	ribosomal protein S23 	Ribosom_S12_S23
+ENSGALG00000015649	NOP14	422880	C4orf9|NOL14|RES4-25|UTP2	NOP14 nucleolar protein 	Nop14
+ENSGALG00000015669	PTBP3	427333	DKFZp781I1117|ROD1	polypyrimidine tract binding protein 3 	RRM_5
+ENSGALG00000015712	SLBP	422902	-	Gallus gallus stem-loop binding protein (SLBP)%2C mRNA. 	SLBP_RNA_bind
+ENSGALG00000015787	RNGTT	421819	HCE|HCE1|hCAP	RNA guanylyltransferase and 5'-phosphatase 	mRNA_cap_enzyme
+ENSGALG00000015799	ELAVL2	770158	HEL-N1|HuB	ELAV like RNA binding protein 2 	RRM_1
+ENSGALG00000015802	N6AMT1	418481	C21orf127|HEMK2	N-6 adenine-specific DNA methyltransferase 1 	MTS
+ENSGALG00000015806	RARS2	421823	RARSL	Gallus gallus arginyl-tRNA synthetase 2%2C mitochondrial (RARS2)%2C mRNA. 	tRNA-synt_1d
+ENSGALG00000015830	SYNCRIP	421831	-	Gallus gallus synaptotagmin binding cytoplasmic RNA interacting protein (SYNCRIP)%2C mRNA. 	RRM_1
+ENSGALG00000015879	HUNK	418493	-	hormonally up-regulated Neu-associated kinase 	RIO1
+ENSGALG00000015887	URB1	427975	C21orf108|KIAA0539|NPA1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae) 	Npa1
+ENSGALG00000015917	EEF1A1	373963	EEF1A|EF1A	eukaryotic translation elongation factor 1 alpha 1 	GTP_EFTU
+ENSGALG00000015923	MTO1	772297	-	mitochondrial tRNA translation optimization 1 	GIDA_assoc
+ENSGALG00000015928	-	\N	-	-	DEAD
+ENSGALG00000016142	MX1	395313	GTPase|MX	Gallus gallus MX dynamin like GTPase 1 (MX1)%2C mRNA. 	MMR_HSR1
+ENSGALG00000016198	U2AF1	395370	-	Gallus gallus U2 small nuclear RNA auxiliary factor 1 (U2AF1)%2C mRNA. 	zf-CCCH
+ENSGALG00000016231	DDX3X	418567	CPL10	Gallus gallus DEAD-box helicase 3 X-linked (DDX3X)%2C mRNA. 	DEAD
+ENSGALG00000016232	RPL8	418568	-	ribosomal protein L8 	Ribosomal_L2_C
+ENSGALG00000016276	KHDRBS2	428643	MGC26664|SLM-1|SLM1	KH RNA binding domain containing%2C signal transduction associated 2 	KH_1
+ENSGALG00000016279	RAB23	421879	-	ras-related protein Rab-23 	MMR_HSR1
+ENSGALG00000016299	FAM83B	428645	C6orf143|FLJ30642	family with sequence similarity 83 member B 	FAM83
+ENSGALG00000016340	-	418597	EIF2S3L	-	eIF2_C
+ENSGALG00000016389	RNASEH1	395848	-	Gallus gallus ribonuclease H1 (RNASEH1)%2C mRNA. 	RNase_H
+ENSGALG00000016392	RPS7	421919	S7|eS7	ribosomal protein S7 	Ribosomal_S7e
+ENSGALG00000016410	EIF1AY	418606	EIF1AX	Gallus gallus eukaryotic translation initiation factor 1A%2C Y-linked (EIF1AY)%2C mRNA. 	eIF-1a
+ENSGALG00000016418	BCLAF3	100858121	CXorf23	BCLAF1 and THRAP3 family member 3 	THRAP3_BCLAF1
+ENSGALG00000016424	CPSF3	421929	CPSF-73|CPSF73|YSH1	cleavage and polyadenylation specific factor 3 	CPSF73-100_C
+ENSGALG00000016445	NOL10	421938	FLJ14075|PQBP5	nucleolar protein 10 	NUC153
+ENSGALG00000016461	DDX1	395249	-	Gallus gallus DEAD-box helicase 1 (DDX1)%2C mRNA. 	DEAD
+ENSGALG00000016481	PUM2	421961	-	Gallus gallus pumilio RNA binding family member 2 (PUM2)%2C mRNA. 	PUF
+ENSGALG00000016492	TDRD15	101751663	-	tudor domain containing 15 	TUDOR
+ENSGALG00000016501	SF3B6	\N	CGI-110|Ht006|P14|SAP14a|SF3B14a	splicing factor 3b subunit 6 	RRM_1
+ENSGALG00000016505	GPN1	\N	ATPBD1A|MBDIN|NTPBP|RPAP4|XAB1	GPN-loop GTPase 1 	GTP_EFTU
+ENSGALG00000016531	ASXL2	421993	-	Gallus gallus ASXL transcriptional regulator 2 (ASXL2)%2C mRNA. 	HARE-HTH
+ENSGALG00000016552	ZRSR2	\N	U2AF1-RS2|U2AF1L2|URP|ZC3H22	zinc finger CCCH-type%2C RNA binding motif and serine/arginine rich 2 	zf-CCCH
+ENSGALG00000016574	GEMIN8	418631	FAM51A1|FLJ20514	gem nuclear organelle associated protein 8 	GEMIN8
+ENSGALG00000016579	RAB9A	418635	RAB9	Gallus gallus RAB9A%2C member RAS oncogene family (RAB9A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000016610	PTRHD1	422015	C2orf79|LOC391356	peptidyl-tRNA hydrolase domain containing 1 	PTH2
+ENSGALG00000016631	INTS9	422023	INT9|RC74	Gallus gallus integrator complex subunit 9 (INTS9)%2C mRNA. 	Beta-Casp
+ENSGALG00000016704	CDC5L	422052	CDC5|CEF1|PCDC5RP|hCDC5	cell division cycle 5 like 	Myb_Cef
+ENSGALG00000016717	GTPBP6	\N	FLJ20977|PGPL	GTP binding protein 6 (putative) 	MMR_HSR1
+ENSGALG00000016731	MRPL19	422066	KIAA0104|MRP-L15|RLX1|RPML15	mitochondrial ribosomal protein L19 	Ribosomal_L19
+ENSGALG00000016760	-	418699	-	mitochondrial ribosomal protein L30 	Ribosomal_L30
+ENSGALG00000016764	EIF5B	395514	CIF2	Gallus gallus eukaryotic translation initiation factor 5B (EIF5B)%2C mRNA. 	GTP_EFTU
+ENSGALG00000016767	AFF3	418705	LAF4|MLLT2-like	AF4/FMR2 family member 3 	AF-4
+ENSGALG00000016775	-	418710	-	-	Ribosomal_L31e
+ENSGALG00000016794	MRPS9	418723	-	Gallus gallus mitochondrial ribosomal protein S9 (MRPS9)%2C transcript variant 2%2C mRNA. 	Ribosomal_S9
+ENSGALG00000016815	-	\N	-	-	Smg4_UPF3
+ENSGALG00000016847	CARS2	418757	FLJ12118	cysteinyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1e
+ENSGALG00000016854	LIG4	418764	-	Gallus gallus DNA ligase 4 (LIG4)%2C mRNA. 	RNA_ligase
+ENSGALG00000016890	MBNL2	418784	-	Gallus gallus muscleblind like splicing regulator 2 (MBNL2)%2C transcript variant 5%2C mRNA. 	zf-CCCH
+ENSGALG00000016910	RBM26	418804	ARRS2|C13orf10|FLJ20957|PPP1R132|PRO1777|SE70-2|ZC3H17	RNA binding motif protein 26 	RRM_1
+ENSGALG00000016930	DIS3	418821	EXOSC11|KIAA1008|RRP44|dis3p	DIS3 homolog%2C exosome endoribonuclease and 3'-5' exoribonuclease 	RNB
+ENSGALG00000016936	TDRD3	418823	-	Gallus gallus tudor domain containing 3 (TDRD3)%2C mRNA. 	SMN
+ENSGALG00000016949	WBP4	418829	-	Gallus gallus WW domain binding protein 4 (WBP4)%2C mRNA. 	zf-U1
+ENSGALG00000016951	MTRF1	418830	MGC47721|MTTRF1|RF1	mitochondrial translation release factor 1 	RF-1
+ENSGALG00000016967	ENOX1	418839	CNOX|FLJ10094|PIG38|cCNOX	ecto-NOX disulfide-thiol exchanger 1 	RRM_1
+ENSGALG00000016972	NUFIP1	418841	-	Gallus gallus NUFIP1%2C FMR1 interacting protein 1 (NUFIP1)%2C mRNA. 	NUFIP1
+ENSGALG00000016984	ZC3H13	418850	DKFZp434D1812|KIAA0853|Xio	zinc finger CCCH-type containing 13 	zf-CCCH
+ENSGALG00000017006	SETDB2	\N	C13orf4|CLLD8|CLLL8|KMT1F	SET domain bifurcated 2 	MBD
+ENSGALG00000017015	RNASEH2B	418874	DLEU8	Gallus gallus ribonuclease H2 subunit B (RNASEH2B)%2C mRNA. 	RNase_H2-Ydr279
+ENSGALG00000017018	INTS6	418876	DBI-1|DDX26|DDX26A|DICE1|HDB|INT6|Notchl2	integrator complex subunit 6 	INT_SG_DDX_CT_C
+ENSGALG00000017033	MRPS31	418887	IMOGN38	mitochondrial ribosomal protein S31 	MRP-S31
+ENSGALG00000017048	EXOSC8	100858560	CIP3|EAP2|OIP2|RRP43|Rrp43p|bA421P11.3|p9	exosome component 8 	RNase_PH
+ENSGALG00000017099	RASL11A	418932	-	ras- like family 11 member A 	MMR_HSR1
+ENSGALG00000017129	SAP18	374206	-	Sin3A associated protein 18 	SAP18
+ENSGALG00000017132	XPO4	428081	exportin-4	Gallus gallus exportin 4 (XPO4)%2C mRNA. 	CRM1_C
+ENSGALG00000017142	PSPC1	418955	-	Gallus gallus paraspeckle component 1 (PSPC1)%2C mRNA. 	RRM_1
+ENSGALG00000017154	ZC3H12C	418963	KIAA1726|MCPIP3	zinc finger CCCH-type containing 12C 	RNase_Zc3h12a
+ENSGALG00000017156	DDX10	418965	-	Gallus gallus DEAD-box helicase 10 (DDX10)%2C mRNA. 	DEAD
+ENSGALG00000017170	ALKBH8	418972	MGC10235|TRM9|TRMT9A	alkB homolog 8%2C tRNA methyltransferase 	hmm_2OG-FeII_Oxy_2
+ENSGALG00000017171	CWF19L2	418973	FLJ32343	CWF19 like cell cycle control factor 2 	CwfJ_C_1
+ENSGALG00000017205	ENDOD1	428090	KIAA0830	endonuclease domain containing 1 	Endonuclease_NS
+ENSGALG00000017207	CWC15	418996	-	Gallus gallus CWC15 spliceosome associated protein homolog (CWC15)%2C transcript variant 1%2C mRNA. 	Cwf_Cwc_15
+ENSGALG00000017248	RAB30	419020	-	RAB30%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000017262	NARS2	419026	DFNB94|FLJ23441|SLM5	asparaginyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2
+ENSGALG00000017299	RPS11	419049	cRPS11	ribosomal protein S11 	Ribosomal_S17
+ENSGALG00000017319	MRPL48	419062	-	mitochondrial ribosomal protein L48 	Ribosomal_S10
+ENSGALG00000017320	RAB6A	419063	-	RAB6A%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000017330	-	419069	-	-	Ribosomal_S3_C
+ENSGALG00000017357	SRSF2	396195	SC-35|SFRS2	Gallus gallus serine/arginine-rich splicing factor 2 (SRSF2)%2C mRNA. 	RRM_1
+ENSGALG00000017368	TRNT1	416103	CCA1|CGI-47|MtCCA	tRNA nucleotidyl transferase 1 	PolyA_pol
+ENSGALG00000017681	POLR3K	\N	RPC11	RNA polymerase III subunit K 	RNA_POL_M_15KD
+ENSGALG00000019178	PRDM15	418531	C21orf83|ZNF298	PR/SET domain 15 	zf-C2H2
+ENSGALG00000019211	MAEL	418446	CT128|FLJ14904|SPATA35	maelstrom spermatogenic transposon silencer 	Maelstrom
+ENSGALG00000019215	ARL6	418433	-	Gallus gallus ADP ribosylation factor like GTPase 6 (ARL6)%2C mRNA. 	MMR_HSR1
+ENSGALG00000019355	CPSF6	417844	-	Gallus gallus cleavage and polyadenylation specific factor 6 (CPSF6)%2C mRNA. 	RRM_1
+ENSGALG00000019796	DAP3	425065	DAP-3|DKFZp686G12159|MGC126058|MGC126059|MRP-S29|MRPS29|bMRP-10	death associated protein 3 	DAP3
+ENSGALG00000020164	GAR1	422697	NOLA1	GAR1 ribonucleoprotein 	Gar1
+ENSGALG00000020438	DPH6	423294	ATPBD4	diphthamine biosynthesis 6 	Ribonuc_L-PSP
+ENSGALG00000020569	DIMT1	427157	DIMT1L|HSA9761	DIM1 dimethyladenosine transferase 1 homolog 	RrnaAD
+ENSGALG00000020590	SGF29	424726	CCDC101	Gallus gallus SAGA complex associated factor 29 (SGF29)%2C mRNA. 	DUF1325
+ENSGALG00000020729	NDUFAF5	416742	C20ORF7|C3H20orf7|bA526K24.2|dJ842G6.1	Gallus gallus NADH:ubiquinone oxidoreductase complex assembly factor 5 (NDUFAF5)%2C mRNA. 	Methyltransf_31
+ENSGALG00000020742	PPRC1	423848	KIAA0595|MGC74642|PRC	peroxisome proliferator-activated receptor gamma%2C coactivator-related 1 	RRM_1
+ENSGALG00000021040	HAGHL	416536	-	Gallus gallus hydroxyacylglutathione hydrolase-like (HAGHL)%2C mRNA. 	Lactamase_B
+ENSGALG00000021475	ADAR1	769675	-	adenosine deaminase%2C RNA specific 	A_deamin
+ENSGALG00000021570	ZBTB6	417108	ZNF482	Gallus gallus zinc finger and BTB domain containing 6 (ZBTB6)%2C mRNA. 	zf-C2H2
+ENSGALG00000021679	SF3A2	420077	SAP62|SF3a66	Gallus gallus splicing factor 3a subunit 2 (SF3A2)%2C mRNA. 	zf-met
+ENSGALG00000022166	PNKD	426214	BRP17|DKFZp564N1362|DYT8|FKSG19|FPD1|KIAA1184|KIPP1184|MGC31943|MR-1|MR-1S|PDC|PKND1|TAHCCP2	PNKD%2C MBL domain containing 	Lactamase_B
+ENSGALG00000022874	RAB31	430750	Rab22B	RAB31%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000022950	MRPL35	422914	-	mitochondrial ribosomal protein L35 	Ribosomal_L35p
+ENSGALG00000023135	SRP54	423322	-	signal recognition particle 54 	SRP54
+ENSGALG00000023191	MRPS18C	770813	-	Gallus gallus mitochondrial ribosomal protein S18C (MRPS18C)%2C mRNA. 	Ribosomal_S18
+ENSGALG00000023199	HNRNPDL	422601	HNRPDL|hnRNP DL	Gallus gallus heterogeneous nuclear ribonucleoprotein D like (HNRNPDL)%2C mRNA. 	RRM_1
+ENSGALG00000023294	RPLP0	\N	P0	60S acidic ribosomal protein P0  	Ribosomal_L10
+ENSGALG00000023354	FSCN2	429198	fascin-2	Gallus gallus fascin actin-bundling protein 2%2C retinal (FSCN2)%2C mRNA. 	FRG1
+ENSGALG00000023407	ZBTB34	417090	-	Gallus gallus zinc finger and BTB domain containing 34 (ZBTB34)%2C mRNA. 	zf-C2H2
+ENSGALG00000023661	DUS4L	769352	DUS4|PP35	dihydrouridine synthase 4 like 	Dus
+ENSGALG00000023749	DARS2	424408	FLJ10514	aspartyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2
+ENSGALG00000023821	DHX58	100858653	LGP2	Gallus gallus DExH-box helicase 58 (DHX58)%2C mRNA. 	RIG-I_C-RD
+ENSGALG00000023886	ZNF804A	423994	C2orf10	zinc finger protein 804A 	zf-C2H2_jaz
+ENSGALG00000024039	-	422140	-	-	Utp14
+ENSGALG00000024049	RAB33A	769358	RabS10	RNA binding motif protein X-linked 2 	MMR_HSR1
+ENSGALG00000024051	SETDB1	100859816	ESET|KG1T|KIAA0067|KMT1E|TDRD21	SET domain bifurcated 1 	MBD
+ENSGALG00000024172	THOC3	416232	-	Gallus gallus THO complex 3 (THOC3)%2C mRNA. 	eIF2A
+ENSGALG00000024326	RPUSD4	768808	FLJ14494	RNA pseudouridylate synthase domain containing 4 	PseudoU_synth_2
+ENSGALG00000025882	BUD13	428248	-	Gallus gallus BUD13 homolog (BUD13)%2C mRNA. 	Bud13
+ENSGALG00000025884	NABP1	424046	DKFZp667M1322|FLJ13624|FLJ22833|MGC111163|OBFC2A|SOSS-B2|SSB2|hSSB2	nucleic acid binding protein 1 	tRNA_anti-codon
+ENSGALG00000025899	-	112532301	-	-	Sua5_yciO_yrdC
+ENSGALG00000025977	GADD45A	693255	-	growth arrest and DNA damage inducible alpha 	Ribosomal_L7Ae
+ENSGALG00000026009	SRP9	770243	-	Gallus gallus signal recognition particle 9 (SRP9)%2C mRNA. 	SRP9-21
+ENSGALG00000026019	ASCC1	423709	ASC1p50|CGI-18|Em:AC022392.3	activating signal cointegrator 1 complex subunit 1 	AKAP7_NLS
+ENSGALG00000026037	EIF4E1B	\N	FLJ36951	eukaryotic translation initiation factor 4E family member 1B 	IF4E
+ENSGALG00000026038	ERI2	427000	EXOD1|KIAA1504|MGC16943|ZGRF5	ERI1 exoribonuclease family member 2 	RNase_T
+ENSGALG00000026081	RBM38	768866	-	Gallus gallus RNA binding motif protein 38 (RBM38)%2C mRNA. 	RRM_1
+ENSGALG00000026221	ENDOG	\N	-	endonuclease G 	Endonuclease_NS
+ENSGALG00000026278	-	101751235	-	RAB41%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000026302	SRPRB	101750392	-	Gallus gallus SRP receptor beta subunit (SRPRB)%2C mRNA. 	MMR_HSR1
+ENSGALG00000026303	MRPS2	\N	CGI-91	mitochondrial ribosomal protein S2 	Ribosomal_S2
+ENSGALG00000026315	RAB34	100858849	NARR|RAB39|RAH	RAB34%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000026332	EEF1AKMT4	431092	-	citrate synthase lysine methyltransferase 	Methyltransf_31
+ENSGALG00000026422	-	101747378	-	poly(ADP-ribose) polymerase family member 14 	PARP
+ENSGALG00000026490	RPS16	417871	S16	ribosomal protein S16 	Ribosomal_S9
+ENSGALG00000026692	N-RAS	419885	-	Gallus gallus neuroblastoma RAS viral oncogene homolog (NRAS)%2C mRNA. 	MMR_HSR1
+ENSGALG00000026715	MIF4GD	100858848	AD023|MGC45027|MIFD|SLIP1	MIF4G domain containing 	MIF4G
+ENSGALG00000026716	CELF5	425867	BRUNOL5	CUGBP Elav-like family member 5 	RRM_1
+ENSGALG00000026761	LIN28B	421786	-	Gallus gallus lin-28 homolog B (LIN28B)%2C mRNA. 	CSD
+ENSGALG00000026809	SARS	426697	-	seryl-tRNA synthetase 	tRNA-synt_2b
+ENSGALG00000026864	ZCCHC24	423722	C10orf56|FLJ90798|Z3CXXC8	zinc finger CCHC-type containing 24 	zf-CCHC_2
+ENSGALG00000026978	RPL29	770249	-	Gallus gallus ribosomal protein L29 (RPL29)%2C mRNA. 	Ribosomal_L29e
+ENSGALG00000026999	SNRPB2	421261	Msl1|U2B''	small nuclear ribonucleoprotein polypeptide B2 	RRM_1
+ENSGALG00000027035	RPL21	418933	DKFZp686C06101|FLJ27458|L21|MGC104274|MGC104275|MGC71252	ribosomal protein L21 	Ribosomal_L21e
+ENSGALG00000027046	INTS3	771890	C1orf60|FLJ21919|INT3|SOSS-A	integrator complex subunit 3 	Ints3
+ENSGALG00000027056	-	418138	-	electron transfer flavoprotein beta subunit lysine methyltransferase 	Met_10
+ENSGALG00000027142	RPL32	416122	-	ribosomal protein L32 	Ribosomal_L32e
+ENSGALG00000027147	-	771551	-	SUB1 homolog (S. cerevisiae)-like 1 	PC4
+ENSGALG00000027152	HELZ	417427	DHRC|HUMORF5|KIAA0054	helicase with zinc finger 	zf-CCCH
+ENSGALG00000027165	RNASE4	423668	RSFR	ribonuclease A family member 4 	RnaseA
+ENSGALG00000027418	-	100859112	-	histidine triad nucleotide binding protein 2-Z 	DcpS_C
+ENSGALG00000027562	PURG	428737	PURG-A|PURG-B	purine rich element binding protein G 	PurA
+ENSGALG00000027579	-	427978	-	-	Ribosomal_S6
+ENSGALG00000027611	MRPL54	100859867	-	mitochondrial ribosomal protein L54 	Ribosomal_L37
+ENSGALG00000027695	PCBP4	100859674	LIP4|MCG10	poly(rC)-binding protein 4-like 	KH_1
+ENSGALG00000027757	ARL4A	420589	ARL4	ADP ribosylation factor like GTPase 4A 	MMR_HSR1
+ENSGALG00000027980	NANOS1	100857342	NOS1|ZC2HC12A	nanos C2HC-type zinc finger 1 	zf-nanos
+ENSGALG00000027989	SBDS	417477	-	Gallus gallus SBDS%2C ribosome maturation factor (SBDS)%2C mRNA. 	SBDS_C
+ENSGALG00000028005	GADD45G	429929	GADD45B	growth arrest and DNA damage inducible gamma 	Ribosomal_L7Ae
+ENSGALG00000028056	-	100858699	-	ribosomal RNA processing 36 	RRP36
+ENSGALG00000028167	RBM18	417111	-	RNA binding motif protein 18 	RRM_1
+ENSGALG00000028186	RERG	418173	MGC15754	RAS like estrogen regulated growth inhibitor 	MMR_HSR1
+ENSGALG00000028205	PRPF3	426667	-	Gallus gallus pre-mRNA processing factor 3 (PRPF3)%2C mRNA. 	PRP3
+ENSGALG00000028253	ATXN1L	427566	BOAT1	ataxin 1 like 	AXH
+ENSGALG00000028409	SNRPG	771344	SNRPGP15	small nuclear ribonucleoprotein polypeptide G 	LSM
+ENSGALG00000028478	CELF3	431347	BRUNOL1|CAGH4|ERDA4|MGC57297|TNRC4	CUGBP Elav-like family member 3 	RRM_1
+ENSGALG00000028517	EIF1	420037	SUI1	Gallus gallus eukaryotic translation initiation factor 1 (EIF1)%2C mRNA. 	SUI1
+ENSGALG00000028648	CCDC59	417878	BR22|HSPC128|TAP26	coiled-coil domain containing 59 	rRNA_processing
+ENSGALG00000028675	ZCCHC7	426807	AIR1|FLJ22611	zinc finger CCHC-type containing 7 	zf-CCHC
+ENSGALG00000028879	MRPS33	418119	-	mitochondrial ribosomal protein S33 	MRP-S33
+ENSGALG00000028912	SCRT2	100379662	-	Gallus gallus scratch family transcriptional repressor 2 (SCRT2)%2C mRNA. 	zf-C2H2
+ENSGALG00000028967	DNAJC27	402783	RBJ	DnaJ heat shock protein family (Hsp40) member C27 	MMR_HSR1
+ENSGALG00000028971	NKIRAS2	420032	-	Gallus gallus NFKB inhibitor interacting Ras like 2 (NKIRAS2)%2C mRNA. 	MMR_HSR1
+ENSGALG00000029001	YRDC	419610	FLJ23476|IRIP|SUA5	yrdC N6-threonylcarbamoyltransferase domain containing 	Sua5_yciO_yrdC
+ENSGALG00000029027	SEPT12	416408	FLJ25410	septin 12 	MMR_HSR1
+ENSGALG00000029118	-	\N	-	-	tRNA_m1G_MT
+ENSGALG00000029152	IMP4	100857200	-	Gallus gallus IMP4%2C U3 small nucleolar ribonucleoprotein (IMP4)%2C mRNA. 	Brix
+ENSGALG00000029190	MBNL1	425033	-	Gallus gallus muscleblind like splicing regulator 1 (MBNL1)%2C transcript variant 1%2C mRNA. 	zf-CCCH
+ENSGALG00000029260	H-RAS	396229	-	HRas proto-oncogene%2C GTPase 	MMR_HSR1
+ENSGALG00000029286	-	\N	-	-	RVT_1
+ENSGALG00000029346	-	768802	-	histidyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_His
+ENSGALG00000029387	PURA	430546	PUR-ALPHA|PUR1|PURALPHA	purine rich element binding protein A 	PurA
+ENSGALG00000029390	C15H12ORF65	416827	C12orf65	Gallus gallus chromosome 15 open reading frame%2C human C12orf65 (C15H12ORF65)%2C mRNA. 	RF-1
+ENSGALG00000029419	MRPL16	\N	FLJ20484|PNAS-111	mitochondrial ribosomal protein L16 	Ribosomal_L16
+ENSGALG00000029476	XPO1	421192	exportin-1	Gallus gallus exportin 1 (XPO1)%2C mRNA. 	CRM1_C
+ENSGALG00000029537	SNUPN	770225	-	Gallus gallus snurportin 1 (SNUPN)%2C mRNA. 	Snurportin1
+ENSGALG00000029569	-	429682	-	GTPase IMAP family member 7-like 	MMR_HSR1
+ENSGALG00000029794	AKAP7	426926	AKAP15|AKAP18	A-kinase anchoring protein 7 	AKAP7_NLS
+ENSGALG00000029812	RAB25	100858582	CATX-8	RAB25%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000029897	RPL30	425416	-	ribosomal protein L30 	Ribosomal_L7Ae
+ENSGALG00000029915	RBM34	\N	KIAA0117	RNA binding motif protein 34 	RRM_1
+ENSGALG00000029918	-	425473	-	SMG5%2C nonsense mediated mRNA decay factor 	EST1_DNA_bind
+ENSGALG00000029927	STRBP	417105	-	Gallus gallus spermatid perinuclear RNA binding protein (STRBP)%2C mRNA. 	DZF
+ENSGALG00000029968	GADD45B	\N	DKFZP566B133|GADD45BETA|MYD118	growth arrest and DNA damage inducible beta 	Ribosomal_L7Ae
+ENSGALG00000029980	QARS	416057	-	Gallus gallus glutaminyl-tRNA synthetase (QARS)%2C mRNA. 	tRNA-synt_1c
+ENSGALG00000030028	MRPS14	424436	-	Gallus gallus mitochondrial ribosomal protein S14 (MRPS14)%2C mRNA. 	Ribosomal_S14
+ENSGALG00000030064	-	422221	-	forty-two-three domain containing 1-like 	FYTT
+ENSGALG00000030084	EXOSC7	420704	-	exosome component 7 	RNase_PH
+ENSGALG00000030101	CSDC2	425183	PIPPin	cold shock domain containing C2%2C RNA binding 	CSD
+ENSGALG00000030139	-	\N	-	-	SID-1_RNA_chan
+ENSGALG00000030147	AFF4	416337	AF5Q31|MCEF	AF4/FMR2 family member 4 	AF-4
+ENSGALG00000030253	RBM12	404531	-	Gallus gallus RNA binding motif protein 12 (RBM12)%2C mRNA. 	RRM_1
+ENSGALG00000030280	PABPC1	430997	-	Gallus gallus poly(A) binding protein cytoplasmic 1 (PABPC1)%2C mRNA. 	RRM_1
+ENSGALG00000030342	SARNP	425058	-	SAP domain containing ribonucleoprotein 	SAP
+ENSGALG00000030351	ILF3	100858655	-	interleukin enhancer binding factor 3 	DZF
+ENSGALG00000030378	RPL11	419682	-	ribosomal protein L11 	Ribosomal_L5
+ENSGALG00000030580	RPS6KA5	423408	-	Gallus gallus ribosomal protein S6 kinase A5 (RPS6KA5)%2C mRNA. 	RIO1
+ENSGALG00000030609	REXO4	\N	XPMC2H|hPMC2	REX4 homolog%2C 3'-5' exonuclease 	RNase_T
+ENSGALG00000030672	TRIP4	415330	ASC-1|HsT17391|ZC2HC5	thyroid hormone receptor interactor 4 	ASCH
+ENSGALG00000030702	KIN	\N	KIN17|Rts2	Kin17 DNA and RNA binding protein 	Kin17_mid
+ENSGALG00000030730	NOL6	100858366	FLJ21959|MGC14896|MGC14921|MGC20838|Nrap|UTP22|bA311H10.1	nucleolar protein 6 	Nrap
+ENSGALG00000030759	SRPRA	419713	SRPR	SRP receptor subunit alpha 	SRP54
+ENSGALG00000030776	METTL7A	426871	DKFZP586A0522	methyltransferase like 7A 	Methyltransf_8
+ENSGALG00000030783	GTPBP1	418022	-	Gallus gallus GTP binding protein 1 (GTPBP1)%2C mRNA. 	GTP_EFTU
+ENSGALG00000030808	-	107049063	-	polymerase (RNA) II (DNA directed) polypeptide J%2C 13.3kDa 	RNA_pol_L_2
+ENSGALG00000030824	SF3B5	769794	-	Gallus gallus splicing factor 3b subunit 5 (SF3B5)%2C mRNA. 	SF3b10
+ENSGALG00000030878	RPLP1	396262	-	ribosomal protein lateral stalk subunit P1 	Ribosomal_60s
+ENSGALG00000030890	RRS1	107052739	KIAA0112	ribosome biogenesis regulator homolog 	RRS1
+ENSGALG00000030902	-	432368	-	-	zf-C2H2
+ENSGALG00000030918	CIRBP	425789	-	cold inducible RNA binding protein 	RRM_1
+ENSGALG00000030943	KRAS	418207	-	Gallus gallus KRAS proto-oncogene%2C GTPase (KRAS)%2C mRNA. 	GTP_EFTU
+ENSGALG00000030988	RBPMS2	395678	RBPMS	Gallus gallus RNA binding protein%2C mRNA processing factor 2 (RBPMS2)%2C mRNA. 	RRM_1
+ENSGALG00000030994	MRPL24	768957	MRP-L18	mitochondrial ribosomal protein L24 	KOW
+ENSGALG00000031120	HNRNPH2	395157	HNRNPH1|HNRPH1	Gallus gallus heterogeneous nuclear ribonucleoprotein H2 (HNRNPH2)%2C mRNA. 	RRM_1
+ENSGALG00000031143	DCPS	\N	HINT-5|HSL1|HSPC015	decapping enzyme%2C scavenger 	DcpS_C
+ENSGALG00000031160	GRSF1	422646	-	G-rich RNA sequence binding factor 1 	RRM_1
+ENSGALG00000031182	FANCM	100857997	FAAP250|KIAA1596	Fanconi anemia group M protein  	ResIII
+ENSGALG00000031238	SLIRP	772054	C14orf156|DC50	SRA stem-loop interacting RNA binding protein 	RRM_1
+ENSGALG00000031265	MTIF2	421213	-	mitochondrial translational initiation factor 2 	GTP_EFTU
+ENSGALG00000031282	UBR5	420252	DD5|EDD|EDD1|HYD|KIAA0896	ubiquitin protein ligase E3 component n-recognin 5 	PABP
+ENSGALG00000031313	-	\N	-	-	RRM_1
+ENSGALG00000031327	-	374195	-	chromodomain helicase DNA binding protein 1 	ResIII
+ENSGALG00000031384	-	\N	-	-	THUMP
+ENSGALG00000031390	STAU2	420184	-	staufen double-stranded RNA binding protein 2 	dsrm
+ENSGALG00000031474	ZRANB1	423953	TRABID	zinc finger RANBP2-type containing 1 	zf-RanBP
+ENSGALG00000031512	PAN2	429172	USP52	Gallus gallus poly(A) specific ribonuclease subunit PAN2 (PAN2)%2C mRNA. 	RNase_T
+ENSGALG00000031519	KHDRBS3	420317	Etle|SALP|SLM-2|SLM2|T-STAR|etoile	KH RNA binding domain containing%2C signal transduction associated 3 	KH_1
+ENSGALG00000031582	RAB1A	421273	RAB1B	Gallus gallus RAB1A%2C member RAS oncogene family (RAB1A)%2C mRNA. 	MMR_HSR1
+ENSGALG00000031812	TDRKH	\N	TDRD2	tudor and KH domain containing 	KH_1
+ENSGALG00000031813	CASC3	426135	BTZ|MLN51	CASC3%2C exon junction complex subunit 	Btz
+ENSGALG00000031851	TENT4B	415733	PAPD5|TRF4-2|TUT3	poly(A) RNA polymerase D5%2C non-canonical 	PAP_assoc
+ENSGALG00000031890	YBX3	396371	CSDA	Gallus gallus Y-box binding protein 3 (YBX3)%2C mRNA. 	CSD
+ENSGALG00000031906	FAM83C	769474	C20orf128|dJ614O4.7	family with sequence similarity 83 member C 	FAM83
+ENSGALG00000031922	TRMU	425909	-	Gallus gallus tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase (TRMU)%2C mRNA. 	tRNA_Me_trans
+ENSGALG00000031958	NABP2	\N	MGC2731|OBFC2B|SOSS-B1|SSB1|hSSB1	nucleic acid binding protein 2 	tRNA_anti-codon
+ENSGALG00000031983	MPHOSPH6	415811	-	Gallus gallus M-phase phosphoprotein 6 (MPHOSPH6)%2C mRNA. 	MPP6
+ENSGALG00000032002	RPL34	422526	-	Gallus gallus ribosomal protein L34 (RPL34)%2C mRNA. 	Ribosomal_L34e
+ENSGALG00000032057	-	101748079	-	-	Tap-RNA_bind
+ENSGALG00000032148	CANX	416288	-	Gallus gallus calnexin (CANX)%2C mRNA. 	Calreticulin
+ENSGALG00000032219	FUS	\N	FUS/TLS	FUS RNA binding protein 	RRM_1
+ENSGALG00000032273	POLR1B	101749883	FLJ10816|FLJ21921|RPA2|Rpo1-2	RNA polymerase I subunit B 	RNA_pol_Rpb2_6
+ENSGALG00000032305	DHX8	419982	DDX8|Dhr2|HRH1|PRP22|PRPF22	DEAH-box helicase 8 	HA2
+ENSGALG00000032307	DDX23	100858001	PRPF28|SNRNP100|U5-100K|prp28	DEAD-box helicase 23 	DEAD
+ENSGALG00000032329	NPM3	770430	-	nucleophosmin/nucleoplasmin 3 	Nucleoplasmin
+ENSGALG00000032400	UTP23	420287	C8orf53|MGC14595	UTP23%2C small subunit processome component 	Fcf1
+ENSGALG00000032458	RABL2B	426865	RABL2A|RABL2L	RAB%2C member of RAS oncogene family like 2B 	MMR_HSR1
+ENSGALG00000032501	-	\N	-	-	RNA_pol_Rpc4
+ENSGALG00000032506	GEM	404771	-	GTP binding protein overexpressed in skeletal muscle 	MMR_HSR1
+ENSGALG00000032529	WDR43	421295	-	Gallus gallus WD repeat domain 43 (WDR43)%2C mRNA. 	Utp12
+ENSGALG00000032546	MYEF2	415432	-	myelin expression factor 2 	RRM_1
+ENSGALG00000032549	TYW3	424720	-	tRNA-yW synthesizing protein 3 homolog 	TYW3
+ENSGALG00000032690	DDX51	416936	-	DEAD-box helicase 51 	DEAD
+ENSGALG00000032730	NOP56	426574	NOL5A|SCA36	NOP56 ribonucleoprotein 	Nop
+ENSGALG00000032746	ENPP2	420361	-	Gallus gallus ectonucleotide pyrophosphatase/phosphodiesterase 2 (ENPP2)%2C mRNA. 	Endonuclease_NS
+ENSGALG00000032830	SEPT7	420741	-	Gallus gallus septin 7 (SEPT7)%2C mRNA. 	MMR_HSR1
+ENSGALG00000032858	RSL24D1	\N	C10H15ORF15	Gallus gallus ribosomal L24 domain containing 1 (RSL24D1)%2C mRNA. 	Ribosomal_L24e
+ENSGALG00000032889	RBFOX3	100857589	FOX-3|HRNBP3|NeuN	RNA binding fox-1 homolog 3 	Fox-1_C
+ENSGALG00000032930	NCL	396201	-	Gallus gallus nucleolin (NCL)%2C mRNA. 	RRM_1
+ENSGALG00000032957	NOCT	404779	CCRN4L|MNOC|NOC	nocturnin 	Exo_endo_phos
+ENSGALG00000032984	MEX3B	\N	DKFZp434J0617|RKHD3|RNF195	mex-3 RNA binding family member B 	KH_1
+ENSGALG00000032988	PCMT1L	423008	-	Gallus gallus protein-L-isoaspartate (D-aspartate) O-methyltransferase-like (PCMT1L)%2C transcript variant 1%2C mRNA. 	GCD14
+ENSGALG00000032993	FTSJ3	419943	-	Gallus gallus FtsJ RNA methyltransferase homolog 3 (FTSJ3)%2C mRNA. 	FtsJ
+ENSGALG00000033025	RYBP	416095	AAP1|DEDAF|YEAF1	RING1 and YY1 binding protein 	zf-RanBP
+ENSGALG00000033058	FASTK	426636	FAST	Fas activated serine/threonine kinase 	RAP
+ENSGALG00000033064	DDX6	419783	RCK	Gallus gallus DEAD-box helicase 6 (DDX6)%2C mRNA. 	DEAD
+ENSGALG00000033077	TRMT1L	426860	C1orf25	tRNA methyltransferase 1 like 	TRM
+ENSGALG00000033099	PAPOLA	395878	PAPOLB	Gallus gallus poly(A) polymerase alpha (PAPOLA)%2C mRNA. 	PAP_RNA-bind
+ENSGALG00000033102	LRRFIP2	420759	HUFI-2	LRR binding FLII interacting protein 2 	LRRFIP
+ENSGALG00000033118	FAM83H	101750205	FLJ46072	family with sequence similarity 83 member H 	FAM83
+ENSGALG00000033120	SRSF7	426265	SFRS7	Gallus gallus serine and arginine rich splicing factor 7 (SRSF7)%2C mRNA. 	RRM_1
+ENSGALG00000033126	DGCR8	\N	C22orf12|DGCRK6|Gy1|pasha	DGCR8%2C microprocessor complex subunit 	dsrm
+ENSGALG00000033129	ZFP36L2	107052930	-	ZFP36 ring finger protein like 2 	zf-CCCH
+ENSGALG00000033174	ZBTB45	776930	FLJ14486|ZNF499	zinc finger and BTB domain containing 45 	zf-C2H2
+ENSGALG00000033195	IGF2BP2	424865	IMP-2	insulin like growth factor 2 mRNA binding protein 2 	KH_1
+ENSGALG00000033196	EIF2S2	395295	EIF2B	eukaryotic translation initiation factor 2 subunit beta 	eIF-5_eIF-2B
+ENSGALG00000033245	SMPD2	770663	ISC1|nSMase	sphingomyelin phosphodiesterase 2 	Exo_endo_phos
+ENSGALG00000033259	SRSF5A	423265	-	Gallus gallus serine/arginine-rich splicing factor 5a (SRSF5A)%2C mRNA. 	RRM_1
+ENSGALG00000033416	HIC2	416768	-	Gallus gallus hypermethylated in cancer 2 (HIC2)%2C transcript variant 2%2C mRNA. 	zf-C2H2
+ENSGALG00000033512	CPEB4	416363	KIAA1673	cytoplasmic polyadenylation element binding protein 4 	RRM_1
+ENSGALG00000033521	FASTKD3	420932	FLJ23274|MGC5297	FAST kinase domains 3 	RAP
+ENSGALG00000033573	-	107050739	-	G-patch domain and KOW motifs 	G-patch
+ENSGALG00000033575	EIF2B4	425800	DKFZP586J0119|EIF-2B|EIF2B|EIF2Bdelta	eukaryotic translation initiation factor 2B subunit delta 	IF-2B
+ENSGALG00000033608	RAB12	421048	-	RAB12%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000033634	TDRD5	424421	FLJ34823|TUDOR3	tudor domain containing 5 	TUDOR
+ENSGALG00000033656	DQX1	100859193	FLJ23757	DEAQ-box RNA dependent ATPase 1 	HA2
+ENSGALG00000033660	PRDM10	419729	KIAA1231|MGC131802|PFM7	PR domain 10 	zf-C2H2
+ENSGALG00000033666	NHP2	416218	DKCB2|NHP2P|NOLA2	Gallus gallus NHP2 ribonucleoprotein (NHP2)%2C mRNA. 	Ribosomal_L7Ae
+ENSGALG00000033690	RSL1D1	416416	-	ribosomal L1 domain containing 1 	Ribosomal_L1
+ENSGALG00000033696	RALY	419148	HNRPCL2|P542	RALY heterogeneous nuclear ribonucleoprotein 	RRM_1
+ENSGALG00000033759	RAVER2	424694	FLJ10770|KIAA1579	ribonucleoprotein%2C PTB binding 2 	RRM_1
+ENSGALG00000033772	UPF2	419100	DKFZP434D222|KIAA1408|RENT2|smg-3	UPF2%2C regulator of nonsense mediated mRNA decay 	MIF4G
+ENSGALG00000033827	-	\N	-	-	RVT_1
+ENSGALG00000033884	EEF2	396325	-	eukaryotic translation elongation factor 2 	GTP_EFTU
+ENSGALG00000033957	SPATS2	426663	FLJ13117|SCR59|SPATA10	spermatogenesis associated serine rich 2 	DUF1387
+ENSGALG00000033965	SCAF4	418492	SFRS15	SR-related CTD associated factor 4 	RRM_1
+ENSGALG00000033997	ZNF800	417747	-	Gallus gallus zinc finger protein 800 (ZNF800)%2C mRNA. 	zf-C2H2
+ENSGALG00000034013	-	423955	-	-	Methyltransf_31
+ENSGALG00000034065	-	422901	-	stem-loop binding protein-like 	SLBP_RNA_bind
+ENSGALG00000034115	DUS1L	417381	DUS1|PP3111	dihydrouridine synthase 1 like 	Dus
+ENSGALG00000034166	ZCCHC14	415829	BDG29|MGC14139	zinc finger CCHC-type containing 14 	zf-CCHC
+ENSGALG00000034187	SEPT8	416333	Sep-08	septin 8 	MMR_HSR1
+ENSGALG00000034230	SWT1	100859817	C1orf26|FLJ20121|HsSwt1	SWT1%2C RNA endoribonuclease homolog 	PIN_4
+ENSGALG00000034264	-	423325	-	KIAA0391 	PPR
+ENSGALG00000034316	CNOT6	416293	CCR4|Ccr4a|KIAA1194	CCR4-NOT transcription complex subunit 6 	Exo_endo_phos
+ENSGALG00000034317	SYNJ1	418498	INPP5G|PARK20	synaptojanin 1 	DUF1866
+ENSGALG00000034325	RBFOX1	416645	A2BP1|FOX-1|HRNBP1	RNA binding fox-1 homolog 1 	Fox-1_C
+ENSGALG00000034352	MRPL43	100858689	bMRP36a	mitochondrial ribosomal protein L43 	L51_S25_CI-B8
+ENSGALG00000034373	KATNB1	415631	-	Gallus gallus katanin regulatory subunit B1 (KATNB1)%2C mRNA. 	eIF2A
+ENSGALG00000034383	TRMT2B	100858909	CXorf34|FLJ12687	tRNA (uracil-5-)-methyltransferase homolog 	tRNA_U5-meth_tr
+ENSGALG00000034414	SLU7	416157	-	Gallus gallus SLU7 homolog%2C splicing factor (SLU7)%2C mRNA. 	Slu7
+ENSGALG00000034473	PARP4	418958	-	Gallus gallus poly(ADP-ribose) polymerase family member 4 (PARP4)%2C mRNA. 	PARP
+ENSGALG00000034475	EIF3G	101747413	EIF3S4|eIF3-delta|eIF3-p44|eIF3g	eukaryotic translation initiation factor 3%2C subunit G 	eIF3g
+ENSGALG00000034488	-	427010	-	zinc finger RNA-binding protein-like 1 	DZF
+ENSGALG00000034511	-	418108	-	poly 	PARP
+ENSGALG00000034572	-	415889	-	POC1 centriolar protein A 	eIF2A
+ENSGALG00000034575	MRI1	107049831	MGC3207|MRDI|Ypr118w|mtnA	methylthioribose-1-phosphate isomerase 1 	IF-2B
+ENSGALG00000034590	CELF2	374111	CUGBP2	CUGBP Elav-like family member 2 	RRM_1
+ENSGALG00000034618	DCAF13	\N	WDSOF1	DDB1- and CUL4-associated factor 13  	Sof1
+ENSGALG00000034768	ESF1	428551	-	Gallus gallus ESF1 nucleolar pre-rRNA processing protein homolog (ESF1)%2C mRNA. 	NUC153
+ENSGALG00000034811	RPLP2	426492	D11S2243E|LP2|MGC71408|P2|RPP2	ribosomal protein lateral stalk subunit P2 	Ribosomal_60s
+ENSGALG00000034831	YTHDF2	419583	CAHL|HGRG8|NY-REN-2	YTH domain family%2C member 2 	YTH
+ENSGALG00000034905	-	107055444	-	activated RNA polymerase II transcriptional coactivator p15-like 	PC4
+ENSGALG00000035079	RPSAP58	395181	37LRP|67LR|DMRT1|LBP/p40|LRP/LR|RPSA|lamR	ribosomal protein SA pseudogene 58 	Ribosomal_S2
+ENSGALG00000035080	HARS	416132	-	Gallus gallus histidyl-tRNA synthetase (HARS)%2C mRNA. 	tRNA-synt_His
+ENSGALG00000035129	RBM12B	420223	-	Gallus gallus RNA binding motif protein 12B (RBM12B)%2C mRNA. 	RRM_1
+ENSGALG00000035152	ALKBH2	416897	-	Gallus gallus alkB homolog 2%2C alpha-ketoglutarate dependent dioxygenase (ALKBH2)%2C transcript variant 5%2C mRNA. 	hmm_2OG-FeII_Oxy_2
+ENSGALG00000035185	SEPT4	770762	ARTS|CE5B3|H5|MART|PNUTL2|hCDCREL-2|hucep-7	septin 4 	MMR_HSR1
+ENSGALG00000035252	RPL7	420182	-	Gallus gallus ribosomal protein L7 (RPL7)%2C mRNA. 	Ribosomal_L30_N
+ENSGALG00000035260	RBM14	426080	-	RNA binding motif protein 14 	RRM_1
+ENSGALG00000035337	AARS2	421436	AARSL	alanyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2c
+ENSGALG00000035351	-	\N	-	-	zf-RanBP
+ENSGALG00000035360	XPO6	416410	FLJ22519|KIAA0370|RANBP20	exportin 6 	Xpo1
+ENSGALG00000035365	-	101747763	-	gametocyte specific factor 1-like 	zf-U11-48K
+ENSGALG00000035421	SNRPN	395298	SNRB'|SNRPB|SNRPB'|SNRPL	Gallus gallus small nuclear ribonucleoprotein polypeptide N (SNRPN)%2C mRNA. 	LSM
+ENSGALG00000035462	IREB2	427490	-	Gallus gallus iron responsive element binding protein 2 (IREB2)%2C mRNA. 	Aconitase
+ENSGALG00000035498	INPP5D	424745	SHIP|SHIP1|hp51CN	inositol polyphosphate-5-phosphatase D 	Exo_endo_phos
+ENSGALG00000035499	SKIV2L	\N	170A|DDX13|HLP|SKI2W|SKIV2|SKIV2L1	Ski2 like RNA helicase 	rRNA_proc-arch
+ENSGALG00000035506	FAU	\N	FLJ22986|Fub1|Fubi|MNSFbeta|RPS30|S30|asr1	FAU%2C ubiquitin like and ribosomal protein S30 fusion 	Ribosomal_S30
+ENSGALG00000035578	RBM6	415931	-	Gallus gallus RNA binding motif protein 6 (RBM6)%2C mRNA. 	G-patch
+ENSGALG00000035604	USB1	415628	C16orf57|FLJ13154|HVSL1|Mpn1	U6 snRNA biogenesis 1 	HVSL
+ENSGALG00000035641	-	100858214	-	-	tRNA-synt_2b
+ENSGALG00000035667	NOC3L	423799	AD24|C10orf117|FAD24|FLJ12820	NOC3 like DNA replication regulator 	CBF
+ENSGALG00000035677	RPL35	374133	-	ribosomal protein L35 	Ribosomal_L29
+ENSGALG00000035696	RRP1B	425237	-	Gallus gallus ribosomal RNA processing 1B (RRP1B)%2C mRNA. 	Nop52
+ENSGALG00000035903	FAM46A	421845	-	Gallus gallus family with sequence similarity 46 member A (FAM46A)%2C mRNA. 	NTP_transf_7
+ENSGALG00000035906	YTHDC1	422656	-	YTH domain containing 1 	YTH
+ENSGALG00000035912	-	770140	-	CBP80/20-dependent translation initiation factor 	MIF4G
+ENSGALG00000035963	METTL18	424400	AsTP2|C1orf156|HPM1|MGC9084	methyltransferase like 18 	MTS
+ENSGALG00000035980	REXO2	419761	SMFN	RNA exonuclease 2 	RNase_T
+ENSGALG00000036004	MRPL34	426941	-	mitochondrial ribosomal protein L34 	Ribosomal_L34
+ENSGALG00000036019	POLR2K	\N	RPB10alpha	RNA polymerase II subunit K 	DNA_RNApol_7kD
+ENSGALG00000036022	LIN28A	428206	LIN28	Gallus gallus lin-28 homolog A (LIN28A)%2C mRNA. 	CSD
+ENSGALG00000036074	RPP40	420876	RNASEP1|bA428J1.3	ribonuclease P/MRP subunit p40 	Ribonuc_P_40
+ENSGALG00000036095	BICC1	423604	-	BicC family RNA binding protein 1 	KH_1
+ENSGALG00000036117	TENT5B	\N	FAM46B|MGC16491	terminal nucleotidyltransferase 5B 	NTP_transf_7
+ENSGALG00000036191	-	\N	-	-	ResIII
+ENSGALG00000036238	LUC7L2	417971	-	Gallus gallus LUC7 like 2%2C pre-mRNA splicing factor (LUC7L2)%2C mRNA. 	LUC7
+ENSGALG00000036283	RBM8A	107050968	BOV-1A|BOV-1B|BOV-1C|RBM8|RBM8B|Y14|ZNRP	RNA binding motif protein 8A 	RRM_1
+ENSGALG00000036309	LARS2	420702	KIAA0028|LEURS|MGC26121|mtLeuRS	leucyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_1
+ENSGALG00000036432	DNAJC17	770519	-	Gallus gallus DnaJ heat shock protein family (Hsp40) member C17 (DNAJC17)%2C mRNA. 	RRM_1
+ENSGALG00000036498	EHD2	107049991	PAST2	EH domain containing 2 	MMR_HSR1
+ENSGALG00000036530	PRPF19	430767	-	Gallus gallus pre-mRNA processing factor 19 (PRPF19)%2C mRNA. 	Prp19
+ENSGALG00000036543	ZBTB38	424783	CIBZ|FLJ35036|PPP1R171|ZNF921	zinc finger and BTB domain containing 38 	zf-C2H2
+ENSGALG00000036616	NUAK2	419828	FLJ90349|SNARK	NUAK family kinase 2 	RIO1
+ENSGALG00000036730	MRPS35	419048	-	Gallus gallus mitochondrial ribosomal protein S35 (MRPS35)%2C transcript variant 1%2C mRNA. 	MRP-S28
+ENSGALG00000036747	TTC31	100858003	FLJ12788	tetratricopeptide repeat domain 31 	RRM_1
+ENSGALG00000036749	MRPS28	770322	HSPC007|MRP-S28|MRPS35	mitochondrial ribosomal protein S28 	MRP-S35
+ENSGALG00000036774	RPL17	426845	RPL17L	Gallus gallus ribosomal protein L17 (RPL17)%2C mRNA. 	Ribosomal_L22
+ENSGALG00000036790	RPS27A	395796	-	Gallus gallus ribosomal protein S27a (RPS27A)%2C mRNA. 	Ribosomal_S27
+ENSGALG00000036932	SPEN	419460	KIAA0929|MINT|RBM15C|SHARP	spen family transcriptional repressor 	RRM_1
+ENSGALG00000036935	CCDC86	\N	-	-	Cgr1
+ENSGALG00000036938	RALYL	420203	-	RALY RNA binding protein like 	RRM_1
+ENSGALG00000036962	KPNB1	426499	IMB1|IPO1|IPOB|Impnb|MGC2155|MGC2156|MGC2157|NTF97	karyopherin subunit beta 1 	IBN_N
+ENSGALG00000036976	DALRD3	416059	FLJ10496	DALR anticodon binding domain containing 3 	DALR_1
+ENSGALG00000037067	EIF3E	420272	EIF3S6	Gallus gallus eukaryotic translation initiation factor 3 subunit E (EIF3E)%2C mRNA. 	eIF3_N
+ENSGALG00000037087	RPF2	428624	BXDC1|FLJ21087|bA397G5.4	ribosome production factor 2 homolog 	Brix
+ENSGALG00000037164	ZFHX4	395904	FLJ20980|ZFH4	zinc finger homeobox 4 	zf-C2H2
+ENSGALG00000037171	ZNF622	373921	ZPR9	zinc finger protein 622 	zf-C2H2_jaz
+ENSGALG00000037177	TSNAX	421526	-	Gallus gallus translin associated factor X (TSNAX)%2C mRNA. 	Translin
+ENSGALG00000037256	GTPBP3	\N	FLJ14700|GTPBG3|MSS1|MTGP1|THDF1	GTP binding protein 3%2C mitochondrial 	MMR_HSR1
+ENSGALG00000037258	MRPL32	420773	HSPC283|L32mt|MRP-L32|bMRP-59b	mitochondrial ribosomal protein L32 	Ribosomal_L32p
+ENSGALG00000037273	-	\N	-	-	SID-1_RNA_chan
+ENSGALG00000037339	SMARCAD1	\N	DKFZP762K2015|ETL1|KIAA1122	SWI/SNF-related%2C matrix-associated actin-dependent regulator of chromatin%2C subfamily a%2C containing DEAD/H box 1 	ResIII
+ENSGALG00000037360	DDX17	418024	P72	DEAD-box helicase 17 	DEAD
+ENSGALG00000037441	-	107055140	MPS-1|MPS1|S27	ribosomal protein S27 	Ribosomal_S27e
+ENSGALG00000037485	QTRT2	418351	-	Gallus gallus queuine tRNA-ribosyltransferase accessory subunit 2 (QTRT2)%2C mRNA. 	TGT
+ENSGALG00000037522	SBNO2	420104	FLJ00173|KIAA0963|Sno|Stno	strawberry notch homolog 2 	ResIII
+ENSGALG00000037587	ENPP3	426928	B10|CD203c|PD-IBETA|PDNP3|gp130RB13-6	ectonucleotide pyrophosphatase/phosphodiesterase 3 	Endonuclease_NS
+ENSGALG00000037629	TRANK1	\N	KIAA0342|LBA1	tetratricopeptide repeat and ankyrin repeat containing 1 	UvrD-helicase
+ENSGALG00000037698	ZFAT	420319	KIAA1485|ZFAT1|ZNF406	zinc finger and AT-hook domain containing 	zf-C2H2
+ENSGALG00000037716	UBA52	395958	-	Gallus gallus ubiquitin A-52 residue ribosomal protein fusion product 1 (UBA52)%2C mRNA. 	Ribosomal_L40e
+ENSGALG00000037733	-	101748881	-	-	RIO1
+ENSGALG00000037802	-	\N	-	-	MMR_HSR1
+ENSGALG00000037805	RPS19	107050719	DBA|S19|eS19	ribosomal protein S19 	Ribosomal_S19e
+ENSGALG00000037807	-	\N	-	-	Methyltr_RsmB-F
+ENSGALG00000037867	MRPL53	420196	-	mitochondrial ribosomal protein L53 	MRP_L53
+ENSGALG00000037904	EIF4EBP2	769479	-	Gallus gallus eukaryotic translation initiation factor 4E binding protein 2 (EIF4EBP2)%2C mRNA. 	eIF_4EBP
+ENSGALG00000037941	ZC3H10	\N	FLJ14451|ZC3HDC10	zinc finger CCCH-type containing 10 	zf-CCCH
+ENSGALG00000037946	-	100859276	LARK|RBM4A|ZCCHC21|ZCRB3A	RNA-binding protein 4B-like 	RRM_1
+ENSGALG00000037983	LUC7L	416654	LUC7B1|Luc7|hLuc7B1	LUC7 like 	LUC7
+ENSGALG00000038102	TBRG4	420408	Cpr2|FASTKD4|H_TD2522F11.8|KIAA0948	transforming growth factor beta regulator 4 	RAP
+ENSGALG00000038160	-	422910	-	-	RNA_pol_Rpb1_2
+ENSGALG00000038260	PTCD2	427217	FLJ12598	pentatricopeptide repeat domain 2 	MRP-S27
+ENSGALG00000038340	ZBTB14	396070	ZF5|ZFP161	Gallus gallus zinc finger and BTB domain containing 14 (ZBTB14)%2C mRNA. 	zf-C2H2
+ENSGALG00000038413	SURF6	417160	-	Gallus gallus surfeit 6 (SURF6)%2C mRNA. 	SURF6
+ENSGALG00000038480	DHX32	\N	DDX32|DHLP1|FLJ10694|FLJ10889	DEAH-box helicase 32 (putative) 	HA2
+ENSGALG00000038528	-	100859609	-	serine and arginine rich splicing factor 7-like 	RRM_1
+ENSGALG00000038540	ZBTB16	419759	ZBTB32|ZGC:55675	Gallus gallus zinc finger and BTB domain containing 16 (ZBTB16)%2C mRNA. 	zf-C2H2
+ENSGALG00000038549	-	106780805	-	-	Xpo1
+ENSGALG00000038585	NOA1	422622	C4orf14|MGC3232|MTG3|hAtNOS1|hNOA1	nitric oxide associated 1 	MMR_HSR1
+ENSGALG00000038595	POLR2I	426289	RPB9|hRPB14.5	RNA polymerase II subunit I 	RNA_POL_M_15KD
+ENSGALG00000038646	EIF1B	420715	GC20	eukaryotic translation initiation factor 1B 	SUI1
+ENSGALG00000038667	MRPS12	\N	RPMS12|RPS12|RPSM12	mitochondrial ribosomal protein S12 	Ribosom_S12_S23
+ENSGALG00000038684	EEFSEC	416021	EFSEC|SELB|eEFSec	eukaryotic elongation factor%2C selenocysteine-tRNA specific 	GTP_EFTU
+ENSGALG00000038723	RPP25L	427403	C9orf23|MGC29635|bA296L22.5	ribonuclease P/MRP 25kDa subunit-like 	Alba
+ENSGALG00000038745	LACTB2	420178	-	Gallus gallus lactamase beta 2 (LACTB2)%2C mRNA. 	Lactamase_B
+ENSGALG00000038753	SAR1B	416314	-	secretion associated Ras related GTPase 1B 	MMR_HSR1
+ENSGALG00000038757	RBMS2	107055400	SCR3	RNA binding motif single stranded interacting protein 2 	RRM_1
+ENSGALG00000038782	ZC3H12D	421623	C6orf95|MCPIP4|dJ281H8.1	zinc finger CCCH-type containing 12D 	RNase_Zc3h12a
+ENSGALG00000038812	MRPL27	422105	-	mitochondrial ribosomal protein L27 	Ribosomal_L27
+ENSGALG00000038820	-	100858219	-	mitochondrial ribosomal protein L55 	Mitoc_L55
+ENSGALG00000038884	SRL	396269	-	sarcalumenin 	MMR_HSR1
+ENSGALG00000038930	-	\N	-	-	RRM_1
+ENSGALG00000038939	-	\N	Trbp	-	dsrm
+ENSGALG00000039178	CHD9	415722	BC022889|FLJ12178|KIAA0308	chromodomain helicase DNA binding protein 9 	BRK
+ENSGALG00000039228	ZFP36L1	101751828	-	Gallus gallus ZFP36 ring finger protein like 1 (ZFP36L1)%2C mRNA. 	zf-CCCH
+ENSGALG00000039238	SALL1	395446	SAL1|Spalt	Gallus gallus spalt like transcription factor 1 (SALL1)%2C mRNA. 	zf-C2H2
+ENSGALG00000039288	RBM5	415947	RBM5	RNA binding motif protein 10 	G-patch
+ENSGALG00000039315	MARS	425613	-	methionyl-tRNA synthetase 	tRNA-synt_1g
+ENSGALG00000039391	ZC3H12B	422175	CXorf32|MCPIP2	zinc finger CCCH-type containing 12B 	RNase_Zc3h12a
+ENSGALG00000039420	TNPO3	\N	IPO12|LGMD1F|MTR10A|TRN-SR|TRN-SR2	transportin 3 	Xpo1
+ENSGALG00000039472	SART3	416890	KIAA0156|RP11-13G14|TIP110|p110	spliceosome associated factor 3%2C U4/U6 recycling protein 	RRM_1
+ENSGALG00000039473	NOP53	\N	GLTSCR2|PICT-1|PICT1	NOP53 ribosome biogenesis factor 	Nop53
+ENSGALG00000039500	GSPT2	768522	GSPT1	Gallus gallus G1 to S phase transition 2 (GSPT2)%2C mRNA. 	GTP_EFTU
+ENSGALG00000039523	MRM1	\N	FLJ22578	mitochondrial rRNA methyltransferase 1 	SpoU_methylase
+ENSGALG00000039563	CNOT11	418711	C2orf29|C40	CCR4-NOT transcription complex subunit 11 	CNOT11
+ENSGALG00000039713	AGO4	419629	EIF2C4	Gallus gallus argonaute 4%2C RISC catalytic component (AGO4)%2C mRNA. 	Piwi
+ENSGALG00000039773	AKAP8	107057625	AKAP95|DKFZp586B1222	A-kinase anchoring protein 8 	AKAP95
+ENSGALG00000039774	YTHDF3	421145	-	Gallus gallus YTH N6-methyladenosine RNA binding protein 3 (YTHDF3)%2C mRNA. 	YTH
+ENSGALG00000039783	MRPL57	771615	MRP63	mitochondrial ribosomal protein L57 	MRP-63
+ENSGALG00000039803	LSM12	776864	-	Protein LSM12 homolog  	AD
+ENSGALG00000039830	DHX30	420376	-	Gallus gallus DExH-box helicase 30 (DHX30)%2C mRNA. 	HA2
+ENSGALG00000039863	DDX25	427073	-	DEAD-box helicase 25 	DEAD
+ENSGALG00000039869	PYURF	\N	PreY	PIGY upstream reading frame 	Trm112p
+ENSGALG00000039880	RHEB	420434	RHEB2	Ras homolog%2C mTORC1 binding 	MMR_HSR1
+ENSGALG00000039901	PUF60	426402	-	Gallus gallus poly(U) binding splicing factor 60 (PUF60)%2C mRNA. 	RRM_1
+ENSGALG00000039917	EXOSC1	423844	CGI-108|CSL4|Csl4p|SKI4|Ski4p|hCsl4p|p13	exosome component 1 	EXOSC1
+ENSGALG00000039967	DDX19B	426504	DDX19	Gallus gallus ATP-dependent RNA helicase DDX19B (DDX19B)%2C mRNA. 	DEAD
+ENSGALG00000039970	ENDOU	\N	P11|PP11|PRSS26	endonuclease%2C poly(U) specific 	XendoU
+ENSGALG00000039974	AKAP8L	776856	-	Gallus gallus A-kinase anchoring protein 8 like (AKAP8L)%2C mRNA. 	AKAP95
+ENSGALG00000039983	EEPD1	420740	KIAA1706	endonuclease/exonuclease/phosphatase family domain containing 1 	Exo_endo_phos
+ENSGALG00000040079	ZFPM2	420269	FOG2|ZC2HC11B|ZNF89B|hFOG-2	zinc finger protein%2C FOG family member 2 	zf-C2H2
+ENSGALG00000040086	-	426516	HNRNPK|HNRPK	heterogeneous nuclear ribonucleoprotein K-like 	KH_1
+ENSGALG00000040098	EEF1D	107049004	EF-1D|FLJ20897	eukaryotic translation elongation factor 1 delta 	EF1_GNE
+ENSGALG00000040109	LARP1	416258	KIAA0731|LARP|MGC19556	La ribonucleoprotein domain family member 1 	La
+ENSGALG00000040181	EDC3	415294	LSM16	Gallus gallus enhancer of mRNA decapping 3 (EDC3)%2C mRNA. 	FDF
+ENSGALG00000040184	RIMKLB	418255	FAM80B|KIAA1238|NAAGS|NAAGS-I	ribosomal modification protein rimK like family member B 	RimK
+ENSGALG00000040238	IMP3	107053172	BRMS2|C15orf12|FLJ10968|MRPS4	IMP3%2C U3 small nucleolar ribonucleoprotein%2C homolog (yeast) 	S4
+ENSGALG00000040244	SEPT9	417347	septin-9	Gallus gallus septin 9 (SEPT9)%2C mRNA. 	MMR_HSR1
+ENSGALG00000040258	FARSA	100859604	FARSLA|PheRS	phenylalanyl-tRNA synthetase subunit alpha 	tRNA-synt_2d
+ENSGALG00000040263	-	107049046	-	60S ribosomal protein L17 	Ribosomal_L22
+ENSGALG00000040335	CEBPZ	421474	-	Gallus gallus CCAAT enhancer binding protein zeta (CEBPZ)%2C mRNA. 	CBF
+ENSGALG00000040368	CALR	100859104	CRT|FLJ26680|RO|SSA|cC1qR	calreticulin 	Calreticulin
+ENSGALG00000040373	EXOSC2	417182	-	Gallus gallus exosome component 2 (EXOSC2)%2C mRNA. 	ECR1_N
+ENSGALG00000040453	SRA1	427608	-	Gallus gallus steroid receptor RNA activator 1 (SRA1)%2C mRNA. 	SRA1
+ENSGALG00000040465	ZEB2	424306	Sip1|ZFHX1B	Gallus gallus zinc finger E-box binding homeobox 2 (ZEB2)%2C mRNA. 	zf-C2H2
+ENSGALG00000040471	MVP	420049	-	Gallus gallus major vault protein (MVP)%2C mRNA. 	Vault
+ENSGALG00000040489	-	\N	-	-	RRM_1
+ENSGALG00000040506	NARS	426856	-	asparaginyl-tRNA synthetase 	tRNA-synt_2
+ENSGALG00000040511	MTERF3	420237	MTERFD1	mitochondrial transcription termination factor 3 	mTERF
+ENSGALG00000040626	NDUFA2	768860	-	NADH:ubiquinone oxidoreductase subunit A2 	L51_S25_CI-B8
+ENSGALG00000040665	METTL6	420681	MGC24132	methyltransferase like 6 	Methyltransf_31
+ENSGALG00000040784	RAB39B	422354	MRX72|WSN	RAB39B%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000040866	P3H2	414143	LEPREL1	prolyl 3-hydroxylase 2 	hmm_2OG-FeII_Oxy
+ENSGALG00000040873	MRPL3	420686	-	mitochondrial ribosomal protein L3 	Ribosomal_L3
+ENSGALG00000040909	WRN	422505	-	Gallus gallus Werner syndrome RecQ like helicase (WRN)%2C mRNA. 	DNA_pol_A_exo1
+ENSGALG00000040948	ZMAT3	425428	FLJ12296|MGC10613|PAG608|WIG-1|WIG1	zinc finger matrin-type 3 	zf-met
+ENSGALG00000040957	AGO2	\N	CASC7|EIF2C2|LINC00980|Q10|hAGO2	argonaute 2%2C RISC catalytic component 	Piwi
+ENSGALG00000040962	CPSF7	426014	CFIM59|FLJ12529	cleavage and polyadenylation specific factor 7 	RRM_1
+ENSGALG00000040999	EIF3B	769783	EIF3S9|PRT1|eIF3b	eukaryotic translation initiation factor 3 subunit B 	eIF2A
+ENSGALG00000041030	PCBP2	426023	HNRNPE2|HNRPE2|hnRNP-E2	poly(rC)-binding protein 2-like 	KH_1
+ENSGALG00000041036	FTO	415718	-	Gallus gallus FTO%2C alpha-ketoglutarate dependent dioxygenase (FTO)%2C mRNA. 	FTO_NTD
+ENSGALG00000041066	DNASE1	395725	deoxyribonuclease-1	Gallus gallus deoxyribonuclease 1 (DNASE1)%2C mRNA. 	Exo_endo_phos
+ENSGALG00000041080	CHD7	421140	CHD-7	Gallus gallus chromodomain helicase DNA binding protein 7 (CHD7)%2C mRNA. 	BRK
+ENSGALG00000041086	MRPL15	421121	-	Gallus gallus mitochondrial ribosomal protein L15 (MRPL15)%2C mRNA. 	Ribosomal_L27A
+ENSGALG00000041124	NOLC1	423755	KIAA0035|NOPP130|NOPP140|P130	nucleolar and coiled-body phosphoprotein 1 	SRP40_C
+ENSGALG00000041139	PINX1	422028	FLJ20565|Gno1|LPTL|LPTS|MGC8850|PinX1|Pxr1	PIN2 (TERF1) interacting telomerase inhibitor 1 	G-patch
+ENSGALG00000041192	IFIH1	424185	MDA5	Gallus gallus interferon induced with helicase C domain 1 (IFIH1)%2C mRNA. 	RIG-I_C-RD
+ENSGALG00000041200	ZNF706	768824	-	Gallus gallus zinc finger protein 706 (ZNF706)%2C mRNA. 	zf-met
+ENSGALG00000041204	IGF2BP1	395953	ZBP1	Gallus gallus insulin like growth factor 2 mRNA binding protein 1 (IGF2BP1)%2C mRNA. 	KH_1
+ENSGALG00000041216	RPUSD2	\N	C15orf19|C18B11|FLJ31409|PUS9	RNA pseudouridine synthase domain containing 2 	PseudoU_synth_2
+ENSGALG00000041226	RRAGB	422311	-	Ras related GTP binding A 	MMR_HSR1
+ENSGALG00000041309	ALKBH3	\N	-	alkB homolog 3%2C alpha-ketoglutaratedependent dioxygenase 	hmm_2OG-FeII_Oxy_2
+ENSGALG00000041331	RRP12	423845	-	Gallus gallus ribosomal RNA processing 12 homolog (RRP12)%2C mRNA. 	NUC173
+ENSGALG00000041334	SNRPD1	776411	-	Gallus gallus small nuclear ribonucleoprotein D1 polypeptide (SNRPD1)%2C mRNA. 	LSM
+ENSGALG00000041362	SECISBP2L	\N	KIAA0256	SECIS binding protein 2 like 	Ribosomal_L7Ae
+ENSGALG00000041365	SALL4	769286	-	Gallus gallus spalt like transcription factor 4 (SALL4)%2C mRNA. 	zf-C2H2
+ENSGALG00000041404	SALL3	395359	SAL2	Gallus gallus spalt like transcription factor 3 (SALL3)%2C mRNA. 	zf-C2H2
+ENSGALG00000041433	MSL3	418641	MSL3L1	MSL complex subunit 3 	Tudor-knot
+ENSGALG00000041449	EXD1	\N	EXDL1|MGC33637	exonuclease 3'-5' domain containing 1 	DNA_pol_A_exo1
+ENSGALG00000041473	DDX31	427759	FLJ13633|FLJ14578|FLJ23349|PPP1R25	DEAD-box helicase 31 	DEAD
+ENSGALG00000041500	-	107055485	-	-	Ribosomal_L22
+ENSGALG00000041547	DCP1A	415992	HSA275986|SMAD4IP1|SMIF	decapping mRNA 1A 	DCP1
+ENSGALG00000041556	GPATCH8	426522	GPATC8|KIAA0553	G-patch domain containing 8 	G-patch
+ENSGALG00000041558	-	\N	-	-	HA2
+ENSGALG00000041625	LSM5	420751	-	LSM5 homolog%2C U6 small nuclear RNA and mRNA degradation associated 	LSM
+ENSGALG00000041746	ZMAT2	427602	-	zinc finger matrin-type 2 	zf-C2H2_jaz
+ENSGALG00000041748	FAM83A	770521	BJ-TSA-9|MGC14128	family with sequence similarity 83 member A 	FAM83
+ENSGALG00000041857	ZC3H15	423992	DFRP1|GDFRP1	Gallus gallus zinc finger CCCH-type containing 15 (ZC3H15)%2C mRNA. 	zf-CCCH
+ENSGALG00000041863	MRPL13	420356	-	Gallus gallus mitochondrial ribosomal protein L13 (MRPL13)%2C mRNA. 	Ribosomal_L13
+ENSGALG00000041873	MFN1	424973	mitofusin-1	Gallus gallus mitofusin 1 (MFN1)%2C mRNA. 	MMR_HSR1
+ENSGALG00000041926	HEXIM1	\N	CLP-1|EDG1|HIS1|MAQ1	hexamethylene bisacetamide inducible 1 	HEXIM
+ENSGALG00000041972	POP4	768362	-	POP4 homolog%2C ribonuclease P/MRP subunit 	UPF0086
+ENSGALG00000041978	K123	395873	-	Gallus gallus K123 protein (K123)%2C mRNA. 	Endonuclease_NS
+ENSGALG00000042011	HNRNPA1	424136	-	Gallus gallus heterogeneous nuclear ribonucleoprotein A1 (HNRNPA1)%2C mRNA. 	RRM_1
+ENSGALG00000042073	-	424014	-	methyltransferase 	Methyltransf_31
+ENSGALG00000042077	HIC1	396164	-	Gallus gallus HIC ZBTB transcriptional repressor 1 (HIC1)%2C mRNA. 	zf-C2H2
+ENSGALG00000042112	EIF4E	422703	EIF4E1|EIF4EL1|EIF4F	eukaryotic translation initiation factor 4E 	IF4E
+ENSGALG00000042122	LARP4	426876	-	Gallus gallus La ribonucleoprotein domain family member 4 (LARP4)%2C mRNA. 	La
+ENSGALG00000042132	SUGP1	428349	SF4	Gallus gallus SURP and G-patch domain containing 1 (SUGP1)%2C mRNA. 	Surp
+ENSGALG00000042254	-	\N	-	-	DEAD
+ENSGALG00000042325	-	417216	-	-	zf-met
+ENSGALG00000042333	DDB1	374050	-	damage specific DNA binding protein 1 	CPSF_A
+ENSGALG00000042375	-	101748706	-	ATP-dependent DNA helicase Q4-like 	DEAD
+ENSGALG00000042481	FARS2	428482	FARS1|dJ236A3.1	phenylalanyl-tRNA synthetase 2%2C mitochondrial 	tRNA-synt_2d
+ENSGALG00000042598	PUM1	419554	-	Gallus gallus pumilio RNA binding family member 1 (PUM1)%2C mRNA. 	PUF
+ENSGALG00000042641	PATL1	426566	FLJ36874|Pat1b	PAT1 homolog 1%2C processing body mRNA decay factor 	PAT1
+ENSGALG00000042726	TRMT9B	422741	C8orf79|FLJ36980|KIAA1456|TRM9L|hTRM9L	KIAA1456 	Methyltransf_31
+ENSGALG00000042762	ZBTB26	417107	-	Gallus gallus zinc finger and BTB domain containing 26 (ZBTB26)%2C mRNA. 	zf-C2H2
+ENSGALG00000042851	PPARGC1A	422815	AVPGC-1ALPHA	Gallus gallus PPARG coactivator 1 alpha (PPARGC1A)%2C mRNA. 	RRM_1
+ENSGALG00000042941	MRPL9	100858402	-	mitochondrial ribosomal protein L9 	Ribosomal_L9_N
+ENSGALG00000042986	RNASEL	424410	-	Gallus gallus ribonuclease L (RNASEL)%2C mRNA. 	Ribonuc_2-5A
+ENSGALG00000042994	DDX41	427630	-	DEAD-box helicase 41 	DEAD
+ENSGALG00000043081	WDR26	421324	FLJ21016|GID7	WD repeat domain 26 	eIF2A
+ENSGALG00000043082	DHX36	425032	DDX36|KIAA1488|MLEL1|RHAU	DEAH-box helicase 36 	HA2
+ENSGALG00000043164	TNKS	374252	tankyrase-1	Gallus gallus tankyrase (TNKS)%2C mRNA. 	PARP
+ENSGALG00000043240	ARPP21	428459	ARPP-21|R3HDM3|TARPP	cAMP regulated phosphoprotein 21 	R3H
+ENSGALG00000043265	ZC3H3	430349	-	Gallus gallus zinc finger CCCH-type containing 3 (ZC3H3)%2C mRNA. 	zf-CCCH
+ENSGALG00000043290	-	\N	-	-	Methyltransf_31
+ENSGALG00000043379	RPL14	374134	CTG-B33|L14|RL14|hRL14	ribosomal protein L14 	Ribosomal_L14e
+ENSGALG00000043400	BCDIN3D	431303	-	BCDIN3 domain containing RNA methyltransferase 	Bin3
+ENSGALG00000043416	-	770407	-	-	tRNA-synt_2b
+ENSGALG00000043447	LAS1L	422174	FLJ12525	LAS1 like%2C ribosome biogenesis factor 	Las1
+ENSGALG00000043476	-	396265	ARF/CPS3	-	MMR_HSR1
+ENSGALG00000043541	SREK1	\N	DKFZp564B176|SFRS12|SRrp508|SRrp86	splicing regulatory glutamic acid and lysine rich protein 1 	RRM_1
+ENSGALG00000043545	PNPT1	421206	DFNB70|OLD35|PNPase|old-35	polyribonucleotide nucleotidyltransferase 1 	RNase_PH
+ENSGALG00000043593	-	419036	-	pre-mRNA processing factor 18 	Prp18
+ENSGALG00000043597	RAD54B	395449	-	Gallus gallus RAD54 homolog B (RAD54B)%2C mRNA. 	ResIII
+ENSGALG00000043623	ARL14	101749876	ARF7|FLJ22595	ADP ribosylation factor like GTPase 14 	MMR_HSR1
+ENSGALG00000043650	GFI1	429088	GFI-1|GFI1A|ZNF163	growth factor independent 1 transcriptional repressor 	zf-C2H2
+ENSGALG00000043693	ALKBH5	770703	-	Gallus gallus alkB homolog 5%2C RNA demethylase (ALKBH5)%2C mRNA. 	hmm_2OG-FeII_Oxy_2
+ENSGALG00000043711	AGO3	419628	EIF2C3	Gallus gallus argonaute 3%2C RISC catalytic component (AGO3)%2C mRNA. 	Piwi
+ENSGALG00000043724	NFX1	420796	MGC20369|NFX2|TEG-42|Tex42	nuclear transcription factor%2C X-box binding 1 	R3H
+ENSGALG00000043736	R3HDM2	426509	-	R3H domain containing 2 	R3H
+ENSGALG00000043765	-	416593	-	-	zf-CCCH
+ENSGALG00000043797	DBR1	429118	-	Lariat debranching enzyme  	DBR1
+ENSGALG00000043929	-	\N	-	-	RRM_5
+ENSGALG00000043931	-	\N	-	-	zf-RanBP
+ENSGALG00000043935	AFF1	422590	AF-4|AF4|MLLT2|PBM1	AF4/FMR2 family member 1 	AF-4
+ENSGALG00000044014	-	420369	-	zinc finger protein 212 	zf-C2H2
+ENSGALG00000044069	-	769660	-	-	zf-C2H2
+ENSGALG00000044204	ISG20	\N	CD25|HEM45	interferon stimulated exonuclease gene 20 	RNase_T
+ENSGALG00000044213	METTL3	107050363	M6A|MT-A70|Spo8	methyltransferase like 3 	MT-A70
+ENSGALG00000044238	-	\N	-	-	RNase_H
+ENSGALG00000044241	-	\N	-	-	zf-CCHC
+ENSGALG00000044279	-	428669	CT41.2|NY-CO-45|SPATA36|bA446F17.4	-	TUDOR
+ENSGALG00000044342	HINT3	769579	FLJ33126	histidine triad nucleotide binding protein 3 	DcpS_C
+ENSGALG00000044391	RBM11	418467	-	RNA binding motif protein 11 	RRM_1
+ENSGALG00000044404	-	425103	-	-	FAM83
+ENSGALG00000044433	-	\N	-	-	Ribosomal_S15
+ENSGALG00000044554	RIDA	426536	HRSP12|P14.5|PSP|UK114	reactive intermediate imine deaminase A homolog 	Ribonuc_L-PSP
+ENSGALG00000044674	-	\N	-	-	RVT_1
+ENSGALG00000044734	-	\N	-	-	RNase_H
+ENSGALG00000044739	-	\N	-	-	zf-CCHC
+ENSGALG00000044813	THUMPD3	416116	DKFZP434F091	THUMP domain containing 3 	UPF0020
+ENSGALG00000044818	-	\N	-	-	RVT_1
+ENSGALG00000044935	-	\N	-	-	MMR_HSR1
+ENSGALG00000044970	LARP6L	420093	-	Gallus gallus La ribonucleoprotein domain family member 6-like (LARP6L)%2C mRNA. 	La
+ENSGALG00000044995	-	\N	-	-	A_deamin
+ENSGALG00000045021	-	101751844	-	-	MMR_HSR1
+ENSGALG00000045131	-	\N	-	-	RVT_1
+ENSGALG00000045335	-	\N	-	-	RNase_H
+ENSGALG00000045352	EIF4B	\N	-	eukaryotic translation initiation factor 4B 	RRM_1
+ENSGALG00000045414	-	\N	-	-	TUDOR
+ENSGALG00000045529	RAB15	429955	-	RAB15%2C member RAS oncogene family 	MMR_HSR1
+ENSGALG00000045581	-	\N	-	-	MMR_HSR1
+ENSGALG00000045605	-	\N	-	-	RVT_1
+ENSGALG00000045676	NELFE	100859071	D6S45|NELF-E|RD|RDBP|RDP	negative elongation factor complex member E 	RRM_1
+ENSGALG00000045721	ISG20L2	\N	FLJ12671	interferon stimulated exonuclease gene 20 like 2 	RNase_T
+ENSGALG00000045726	-	107055627	-	PWP2%2C small subunit processome component 	Utp12
+ENSGALG00000045753	MRPL12	769031	MRPL7|MRPL7/L12|RPML12	mitochondrial ribosomal protein L12 	Ribosomal_L12
+ENSGALG00000045936	FAM83F	770747	-	family with sequence similarity 83 member F 	FAM83
+ENSGALG00000045940	-	422002	-	nuclear GTPase%2C germinal center associated 	MMR_HSR1
+ENSGALG00000045962	-	\N	-	-	RNase_H
+ENSGALG00000045984	-	\N	-	-	RNase_H
+ENSGALG00000046009	-	101748113	-	zinc finger matrin-type protein 1-like 	zf-met
+ENSGALG00000046064	-	\N	-	-	RVT_1
+ENSGALG00000046169	PYM1	100858240	PYM|WIBG	PYM homolog 1%2C exon junction complex associated factor 	Mago-bind
+ENSGALG00000046180	TDRD1	423906	CT41.1	tudor domain containing 1 	TUDOR
+ENSGALG00000046187	PARP12	\N	FLJ22693|PARP-12|ZC3H1|ZC3HDC1	poly(ADP-ribose) polymerase family member 12 	PARP
+ENSGALG00000046313	DNASE1L2	112533475	DNAS1L2	deoxyribonuclease-1-like 2 	Exo_endo_phos
+ENSGALG00000046336	-	\N	-	-	zf-C2H2
+ENSGALG00000046448	ZNF385A	101749643	DKFZp586G1122|Hzf|ZFP385|ZNF385	zinc finger protein 385A 	zf-met
+ENSGALG00000046517	-	\N	-	-	RVT_1
+ENSGALG00000046681	-	\N	-	-	RVT_1
+ENSGALG00000046707	-	\N	-	-	RVT_1
+ENSGALG00000046715	-	\N	-	-	RVT_1
+ENSGALG00000046721	-	\N	-	-	RNase_H
+ENSGALG00000046757	-	\N	-	-	RVT_1
+ENSGALG00000046763	-	\N	-	-	RVT_1
+ENSGALG00000046789	-	\N	-	-	RVT_1
+ENSGALG00000046843	-	\N	-	-	SID-1_RNA_chan
+ENSGALG00000046848	-	\N	-	-	RVT_1
+ENSGALG00000046864	-	\N	-	-	RNase_H
+ENSGALG00000046886	-	\N	-	-	MIF4G
+ENSGALG00000046889	-	\N	-	-	RVT_1
+ENSGALG00000046911	-	\N	-	-	RVT_1
+ENSGALG00000047029	-	\N	-	-	RVT_1
+ENSGALG00000047064	-	\N	-	-	RVT_1
+ENSGALG00000047083	-	\N	-	-	RVT_1
+ENSGALG00000047103	UTP3	422644	CRLZ1|DKFZp761F222|FLJ23256|SAS10	UTP3%2C small subunit processome component 	Sas10_Utp3
+ENSGALG00000047139	-	\N	-	-	eIF-3c_N
+ENSGALG00000047145	SMARCA4	395932	BRG1	SWI/SNF related%2C matrix associated%2C actin dependent regulator of chromatin%2C subfamily a%2C member 4 	BRK
+ENSGALG00000047154	-	\N	-	-	RVT_1
+ENSGALG00000047163	TSEN54	422126	SEN54|SEN54L	tRNA splicing endonuclease subunit 54 	tRNA_int_end_N2
+ENSGALG00000047164	-	\N	-	-	RVT_1
+ENSGALG00000047170	-	\N	-	-	RNase_H
+ENSGALG00000047196	-	\N	-	-	RVT_1
+ENSGALG00000047240	-	\N	-	-	RVT_1
+ENSGALG00000047291	-	\N	-	-	RVT_1
+ENSGALG00000047322	-	\N	-	-	RVT_1
+ENSGALG00000047329	-	\N	-	-	RVT_1
+ENSGALG00000047355	-	\N	-	-	RNase_H
+ENSGALG00000047364	-	\N	-	-	RRM_1
+ENSGALG00000047403	PIH1D2	\N	-	PIH1 domain containing 2 	PIH1
+ENSGALG00000047469	-	\N	-	-	RVT_1
+ENSGALG00000047472	-	\N	-	-	RVT_1
+ENSGALG00000047486	-	\N	-	-	RRM_1
+ENSGALG00000047518	-	\N	-	-	RVT_1
+ENSGALG00000047524	-	\N	-	-	PARP
+ENSGALG00000047535	-	112532770	-	putative methyltransferase DDB_G0268948 	Methyltransf_31
+ENSGALG00000047540	-	\N	-	-	RVT_1
+ENSGALG00000047550	-	\N	-	-	RVT_1
+ENSGALG00000047565	-	\N	-	-	RNA_pol_Rpb1_2
+ENSGALG00000047588	-	\N	-	-	RVT_1
+ENSGALG00000047682	-	\N	-	-	RVT_1
+ENSGALG00000047706	-	\N	-	-	RVT_1
+ENSGALG00000047718	-	\N	-	-	RVT_1
+ENSGALG00000047828	-	\N	-	-	RNase_H
+ENSGALG00000047837	-	\N	-	-	MMR_HSR1
+ENSGALG00000047839	-	\N	-	-	RVT_1
+ENSGALG00000047946	-	\N	-	-	RVT_1
+ENSGALG00000047953	-	\N	-	-	cwf21
+ENSGALG00000047963	MECP2	\N	MRX16|MRX79|RTT	methyl-CpG binding protein 2 	MBD
+ENSGALG00000047964	-	\N	-	-	RVT_1
+ENSGALG00000047968	-	\N	-	-	RVT_1
+ENSGALG00000047982	-	\N	-	-	RVT_1
+ENSGALG00000047989	-	\N	-	-	RVT_1
+ENSGALG00000048014	-	\N	-	-	RVT_1
+ENSGALG00000048019	-	\N	-	-	dsrm
+ENSGALG00000048028	-	\N	-	-	RVT_1
+ENSGALG00000048031	-	\N	-	-	RNase_H
+ENSGALG00000048067	DUS2	415712	DUS2L|FLJ20399|SMM1	dihydrouridine synthase 2 	Dus
+ENSGALG00000048095	-	\N	-	-	RVT_1
+ENSGALG00000048108	-	\N	-	-	RVT_1
+ENSGALG00000048109	-	107051636	-	uncharacterized LOC107051636 	zf-CCHC
+ENSGALG00000048125	-	\N	-	-	RVT_1
+ENSGALG00000048143	-	\N	-	-	RVT_1
+ENSGALG00000048165	-	\N	-	-	MMR_HSR1
+ENSGALG00000048170	-	\N	-	-	RVT_1
+ENSGALG00000048185	-	\N	-	-	RVT_1
+ENSGALG00000048200	MRPL33	771953	-	mitochondrial ribosomal protein L33 	Ribosomal_L33
+ENSGALG00000048263	MEPCE	107050787	BCDIN3|FLJ20257|MePCE	methylphosphate capping enzyme 	Bin3
+ENSGALG00000048294	-	\N	-	-	zf-CCHC
+ENSGALG00000048309	-	107050476	-	uncharacterized LOC107050476 	zf-CCHC
+ENSGALG00000048320	chPKCI	395424	-	histidine triad nucleotide binding protein 1-Z 	DcpS_C
+ENSGALG00000048329	-	\N	-	-	RVT_1
+ENSGALG00000048365	GPATCH4	100859444	DKFZP434F1735|FLJ20249|GPATC4	G-patch domain containing 4 	G-patch
+ENSGALG00000048416	-	\N	-	-	RVT_1
+ENSGALG00000048478	-	\N	-	-	RVT_1
+ENSGALG00000048524	SHARPIN	101751687	DKFZP434N1923|SIPL1	putative uncharacterized protein FLJ22184-like 	zf-RanBP
+ENSGALG00000048525	-	\N	-	-	RVT_1
+ENSGALG00000048543	RPP14	\N	P14	ribonuclease P/MRP subunit p14 	RNase_P_Rpp14
+ENSGALG00000048560	-	\N	-	-	RNase_H
+ENSGALG00000048569	-	\N	-	-	RVT_1
+ENSGALG00000048580	-	\N	-	-	RVT_1
+ENSGALG00000048604	-	\N	-	-	RVT_1
+ENSGALG00000048612	RPS26	100857770	S26|eS26	ribosomal protein S26 	Ribosomal_S26e
+ENSGALG00000048658	-	\N	-	-	RVT_1
+ENSGALG00000048665	-	\N	-	-	RVT_1
+ENSGALG00000048697	-	\N	-	-	RVT_1
+ENSGALG00000048700	DDX28	427544	FLJ11282|MDDX28	DEAD-box helicase 28 	DEAD
+ENSGALG00000048701	-	\N	-	-	RVT_1
+ENSGALG00000048735	-	\N	-	-	RNase_H
+ENSGALG00000048743	-	\N	-	-	RVT_1
+ENSGALG00000048769	-	\N	-	-	Methyltransf_8
+ENSGALG00000048822	-	\N	-	-	RVT_1
+ENSGALG00000048830	EIF4EBP3	\N	4E-BP3	eukaryotic translation initiation factor 4E binding protein 3 	eIF_4EBP
+ENSGALG00000048839	-	\N	-	-	RVT_1
+ENSGALG00000048857	-	\N	-	-	RNase_H
+ENSGALG00000048890	-	\N	-	-	RVT_1
+ENSGALG00000048900	-	\N	-	-	RVT_1
+ENSGALG00000048907	-	\N	-	-	RNase_H
+ENSGALG00000048972	-	\N	-	-	RRM_1
+ENSGALG00000048974	-	\N	-	-	RVT_1
+ENSGALG00000048976	-	\N	-	-	RVT_1
+ENSGALG00000049023	-	\N	-	-	RVT_1
+ENSGALG00000049027	-	107054036	-	endogenous retrovirus group K member 9 Pol protein-like 	zf-CCHC
+ENSGALG00000049056	-	\N	-	-	RVT_1
+ENSGALG00000049065	ZFPM1	415835	-	zinc finger protein%2C FOG family member 1 	zf-met
+ENSGALG00000049069	-	\N	-	-	RVT_1
+ENSGALG00000049073	-	\N	-	-	RVT_1
+ENSGALG00000049096	-	\N	-	-	RRM_1
+ENSGALG00000049124	-	\N	-	-	RVT_1
+ENSGALG00000049152	-	\N	-	-	RVT_1
+ENSGALG00000049167	-	\N	-	-	RNase_H
+ENSGALG00000049173	-	\N	-	-	RVT_1
+ENSGALG00000049210	-	\N	-	-	RVT_1
+ENSGALG00000049217	-	\N	-	-	RVT_1
+ENSGALG00000049219	-	\N	-	-	RVT_1
+ENSGALG00000049232	-	\N	-	-	RNA_pol_Rpb1_1
+ENSGALG00000049257	-	\N	-	-	RVT_1
+ENSGALG00000049288	-	\N	-	-	MMR_HSR1
+ENSGALG00000049305	-	\N	-	-	RVT_1
+ENSGALG00000049341	-	\N	-	-	RVT_1
+ENSGALG00000049346	-	\N	-	-	RVT_1
+ENSGALG00000049351	-	\N	-	-	RNase_H
+ENSGALG00000049368	-	\N	-	-	RVT_1
+ENSGALG00000049374	-	\N	-	-	RVT_1
+ENSGALG00000049420	-	\N	-	-	FAM83
+ENSGALG00000049435	-	\N	-	-	RVT_1
+ENSGALG00000049474	-	\N	-	-	RVT_1
+ENSGALG00000049484	-	\N	-	-	zf-C2H2
+ENSGALG00000049505	ZC3H4	\N	-	zinc finger CCCH-type containing 4 	zf-CCCH
+ENSGALG00000049520	-	\N	-	-	RVT_1
+ENSGALG00000049534	-	\N	-	-	RVT_1
+ENSGALG00000049538	RPS28	768930	-	ribosomal protein S28 	Ribosomal_S28e
+ENSGALG00000049544	-	\N	-	-	EST1_DNA_bind
+ENSGALG00000049557	-	\N	-	-	EF_TS
+ENSGALG00000049559	-	\N	-	-	RIX1
+ENSGALG00000049563	-	\N	-	-	RVT_1
+ENSGALG00000049609	-	426821	-	zinc finger protein 624-like 	zf-C2H2
+ENSGALG00000049628	-	\N	-	-	RVT_1
+ENSGALG00000049642	-	\N	-	-	RVT_1
+ENSGALG00000049690	-	\N	-	-	RNase_H
+ENSGALG00000049721	-	\N	-	-	zf-met
+ENSGALG00000049732	-	\N	-	-	RVT_1
+ENSGALG00000049735	-	\N	-	-	RVT_1
+ENSGALG00000049758	-	\N	-	-	RVT_1
+ENSGALG00000049771	-	\N	-	-	RVT_1
+ENSGALG00000049772	-	\N	-	-	RNase_H
+ENSGALG00000049776	-	\N	-	-	RVT_1
+ENSGALG00000049783	-	\N	-	-	RVT_1
+ENSGALG00000049807	-	\N	-	-	RVT_1
+ENSGALG00000049810	-	\N	-	-	RVT_1
+ENSGALG00000049830	-	\N	-	-	RVT_1
+ENSGALG00000049837	-	\N	-	-	RVT_1
+ENSGALG00000049838	-	\N	-	-	RNA_pol_Rpb1_7
+ENSGALG00000049865	-	417823	L18A	-	Ribosomal_L18A
+ENSGALG00000049868	-	\N	-	-	RVT_1
+ENSGALG00000049871	-	\N	-	-	RVT_1
+ENSGALG00000049887	-	\N	-	-	RVT_1
+ENSGALG00000049949	-	\N	-	-	MA3
+ENSGALG00000049970	-	\N	-	-	RVT_1
+ENSGALG00000049991	-	\N	-	-	RVT_1
+ENSGALG00000049996	OVOL1	\N	HOVO1	ovo like transcriptional repressor 1 	zf-C2H2
+ENSGALG00000050009	-	\N	-	-	RVT_1
+ENSGALG00000050031	-	\N	-	-	RVT_1
+ENSGALG00000050036	-	\N	-	-	RVT_1
+ENSGALG00000050039	-	\N	-	-	zf-RanBP
+ENSGALG00000050043	-	\N	-	-	RVT_1
+ENSGALG00000050047	-	\N	-	-	tRNA-synt_1
+ENSGALG00000050052	-	\N	-	-	RVT_1
+ENSGALG00000050082	-	\N	-	-	RVT_1
+ENSGALG00000050102	-	\N	-	-	RNase_H
+ENSGALG00000050117	-	\N	-	-	RVT_1
+ENSGALG00000050123	-	\N	-	-	RVT_1
+ENSGALG00000050139	-	\N	-	-	RVT_1
+ENSGALG00000050141	-	\N	-	-	RVT_1
+ENSGALG00000050180	-	\N	-	-	RVT_1
+ENSGALG00000050182	-	\N	-	-	MMR_HSR1
+ENSGALG00000050186	-	\N	-	-	RVT_1
+ENSGALG00000050204	MRPL4	\N	CGI-28	mitochondrial ribosomal protein L4 	Ribosomal_L4
+ENSGALG00000050225	-	\N	-	-	RVT_1
+ENSGALG00000050235	-	107050606	-	queuine tRNA-ribosyltransferase catalytic subunit 1 	TGT
+ENSGALG00000050241	-	\N	-	-	RVT_1
+ENSGALG00000050256	TRPT1	\N	MGC11134	tRNA phosphotransferase 1 	PTS_2-RNA
+ENSGALG00000050265	-	\N	-	-	RVT_1
+ENSGALG00000050269	-	\N	-	-	RNA_pol_Rpb1_5
+ENSGALG00000050288	DCP1B	772197	FLJ31638	decapping mRNA 1B 	DCP1
+ENSGALG00000050302	-	\N	-	-	RVT_1
+ENSGALG00000050314	SRSF4	419600	SFRS4|SRP75	serine and arginine rich splicing factor 4 	RRM_1
+ENSGALG00000050335	-	\N	-	-	RVT_1
+ENSGALG00000050342	-	\N	-	-	RVT_1
+ENSGALG00000050344	-	\N	-	-	RRM_1
+ENSGALG00000050351	-	\N	-	-	RVT_1
+ENSGALG00000050356	-	\N	-	-	RNase_H
+ENSGALG00000050399	-	\N	-	-	RVT_1
+ENSGALG00000050409	-	\N	-	-	RVT_1
+ENSGALG00000050454	-	\N	-	-	RNase_H
+ENSGALG00000050468	-	\N	-	-	RNase_H
+ENSGALG00000050474	-	\N	-	-	RVT_1
+ENSGALG00000050479	-	\N	-	-	RVT_1
+ENSGALG00000050520	-	\N	-	-	RNase_H
+ENSGALG00000050527	-	\N	-	-	RVT_1
+ENSGALG00000050537	-	\N	-	-	RVT_1
+ENSGALG00000050548	-	107048987	-	putative methyltransferase DDB_G0268948 	Methyltransf_31
+ENSGALG00000050555	-	\N	-	-	RVT_1
+ENSGALG00000050608	-	\N	-	-	RRM_1
+ENSGALG00000050611	-	\N	-	-	RVT_1
+ENSGALG00000050621	MRPS16	769996	-	Gallus gallus mitochondrial ribosomal protein S16 (MRPS16)%2C transcript variant 1%2C mRNA. 	Ribosomal_S16
+ENSGALG00000050627	-	112531388	-	endogenous retrovirus group K member 8 Gag polyprotein-like 	zf-CCHC
+ENSGALG00000050649	-	\N	-	-	RVT_1
+ENSGALG00000050669	-	\N	-	-	A_deamin
+ENSGALG00000050727	-	\N	-	-	RVT_1
+ENSGALG00000050734	METTL27	\N	WBSCR27	methyltransferase like 27 	Methyltransf_31
+ENSGALG00000050817	-	\N	-	-	RVT_1
+ENSGALG00000050826	-	\N	-	-	RVT_1
+ENSGALG00000050833	-	\N	-	-	RVT_1
+ENSGALG00000050847	-	\N	-	-	RVT_1
+ENSGALG00000050855	-	\N	-	-	RVT_1
+ENSGALG00000050856	-	\N	-	-	RVT_1
+ENSGALG00000050870	NPM2	107050133	-	nucleophosmin/nucleoplasmin 2 	Nucleoplasmin
+ENSGALG00000050883	-	\N	-	-	RVT_1
+ENSGALG00000050897	TNIK	\N	KIAA0551	TRAF2 and NCK interacting kinase 	RIO1
+ENSGALG00000050905	-	\N	-	-	RNase_H
+ENSGALG00000050918	-	\N	-	-	RVT_1
+ENSGALG00000050969	RBM15B	770664	HUMAGCGB|OTT3	RNA binding motif protein 15B 	RRM_1
+ENSGALG00000050991	-	\N	-	-	RVT_1
+ENSGALG00000050995	LRRC47	419380	KIAA1185|RP1-286D6.3	leucine rich repeat containing 47 	B3_4
+ENSGALG00000051001	-	107053122	-	endogenous retrovirus group K member 18 Pol protein-like 	zf-CCHC
+ENSGALG00000051009	-	\N	-	-	RVT_1
+ENSGALG00000051015	-	\N	-	-	RVT_1
+ENSGALG00000051027	-	\N	-	-	MMR_HSR1
+ENSGALG00000051034	-	\N	-	-	RVT_1
+ENSGALG00000051046	-	\N	-	-	RVT_1
+ENSGALG00000051097	-	\N	-	-	RVT_1
+ENSGALG00000051123	-	\N	-	-	RVT_1
+ENSGALG00000051133	-	\N	-	-	RVT_1
+ENSGALG00000051139	-	\N	-	-	RVT_1
+ENSGALG00000051197	-	\N	-	-	RVT_1
+ENSGALG00000051205	-	\N	-	-	RVT_1
+ENSGALG00000051206	-	\N	-	RNA binding motif protein X-linked 2 	RRM_1
+ENSGALG00000051248	-	\N	-	-	RVT_1
+ENSGALG00000051305	-	\N	-	-	RVT_1
+ENSGALG00000051313	-	\N	-	-	RVT_1
+ENSGALG00000051320	-	\N	-	-	RVT_1
+ENSGALG00000051324	-	\N	-	-	RVT_1
+ENSGALG00000051355	-	\N	-	-	RVT_1
+ENSGALG00000051399	-	\N	-	-	RVT_1
+ENSGALG00000051422	-	\N	-	-	RNase_H
+ENSGALG00000051424	-	\N	-	-	RVT_1
+ENSGALG00000051431	RPS15A	427675	-	ribosomal protein S15a 	Ribosomal_S8
+ENSGALG00000051453	-	\N	-	-	RVT_1
+ENSGALG00000051508	-	\N	-	-	RVT_1
+ENSGALG00000051525	-	\N	-	-	RVT_1
+ENSGALG00000051536	-	\N	-	-	MMR_HSR1
+ENSGALG00000051567	MRPL41	417261	-	Gallus gallus mitochondrial ribosomal protein L41 (MRPL41)%2C mRNA. 	MRP-L27
+ENSGALG00000051576	-	\N	-	-	RVT_1
+ENSGALG00000051597	-	\N	-	-	Brix
+ENSGALG00000051624	-	\N	-	-	RVT_1
+ENSGALG00000051675	-	\N	-	-	RVT_1
+ENSGALG00000051695	-	\N	-	-	RVT_1
+ENSGALG00000051731	-	\N	-	-	RVT_1
+ENSGALG00000051759	-	\N	-	-	RVT_1
+ENSGALG00000051781	-	\N	-	-	RNase_H
+ENSGALG00000051783	-	\N	-	-	RVT_1
+ENSGALG00000051806	-	\N	-	-	RVT_1
+ENSGALG00000051865	-	\N	-	-	RVT_1
+ENSGALG00000051866	-	\N	-	-	RVT_1
+ENSGALG00000051879	-	\N	-	-	RVT_1
+ENSGALG00000051894	-	\N	-	-	RVT_1
+ENSGALG00000051899	DND1	425270	MGC34750|RBMS4	DND microRNA-mediated repression inhibitor 1 	RRM_1
+ENSGALG00000051916	-	\N	-	-	RVT_1
+ENSGALG00000051926	-	\N	-	-	RVT_1
+ENSGALG00000051944	-	\N	-	-	RVT_1
+ENSGALG00000051997	-	\N	-	-	RVT_1
+ENSGALG00000052002	RNASEH2A	\N	AGS4|RNASEHI|RNHIA|RNHL	ribonuclease H2 subunit A 	RNase_HII
+ENSGALG00000052038	MBLAC1	\N	MGC49416	metallo-beta-lactamase domain containing 1 	Lactamase_B
+ENSGALG00000052041	-	\N	-	-	RNase_H
+ENSGALG00000052064	MRPS24	\N	HSPC335|MRP-S24	mitochondrial ribosomal protein S24 	MRP-S24
+ENSGALG00000052072	-	112531814	-	uncharacterized LOC112531814 	zf-CCHC
+ENSGALG00000052089	-	\N	-	-	tRNA-synt_1
+ENSGALG00000052095	-	\N	-	-	SAP
+ENSGALG00000052108	-	\N	-	-	RVT_1
+ENSGALG00000052157	-	\N	-	-	RNase_H
+ENSGALG00000052158	-	\N	-	-	RVT_1
+ENSGALG00000052198	-	\N	-	-	RVT_1
+ENSGALG00000052202	-	112530472	-	-	RNase_PH
+ENSGALG00000052227	-	\N	-	-	RVT_1
+ENSGALG00000052233	-	\N	-	-	RVT_1
+ENSGALG00000052242	-	\N	-	-	SAP
+ENSGALG00000052283	-	\N	-	-	RVT_1
+ENSGALG00000052296	MEX3D	420082	KIAA2031|OK/SW-cl.4|RKHD1|RNF193|Tino	mex-3 RNA binding family member D 	KH_1
+ENSGALG00000052304	-	\N	-	-	RVT_1
+ENSGALG00000052307	RPP25	430848	FLJ20374	ribonuclease P and MRP subunit p25 	Alba
+ENSGALG00000052317	-	\N	-	-	RVT_1
+ENSGALG00000052354	-	770637	-	-	G-patch
+ENSGALG00000052355	PDE12	107054443	2'-PDE|3635|DKFZp667B1218	phosphodiesterase 12 	Exo_endo_phos
+ENSGALG00000052360	-	\N	-	-	RVT_1
+ENSGALG00000052363	-	\N	-	-	RVT_1
+ENSGALG00000052368	-	\N	-	-	RVT_1
+ENSGALG00000052387	-	\N	-	-	RVT_1
+ENSGALG00000052397	-	\N	-	-	RVT_1
+ENSGALG00000052402	-	\N	-	-	RVT_1
+ENSGALG00000052405	-	\N	-	-	RVT_1
+ENSGALG00000052411	-	\N	-	-	RVT_1
+ENSGALG00000052441	-	\N	-	-	RVT_1
+ENSGALG00000052449	-	\N	-	-	RVT_1
+ENSGALG00000052471	-	\N	-	-	Ribosomal_S21
+ENSGALG00000052484	-	\N	-	-	RNase_H
+ENSGALG00000052489	-	\N	-	-	RVT_1
+ENSGALG00000052502	-	\N	-	-	RVT_1
+ENSGALG00000052513	-	\N	-	-	RVT_1
+ENSGALG00000052515	-	107050951	-	DNA-directed RNA polymerase III subunit RPC3-like 	RNA_pol_Rpc82
+ENSGALG00000052522	-	\N	-	-	RVT_1
+ENSGALG00000052575	-	\N	-	-	RVT_1
+ENSGALG00000052612	RPS27L	415372	-	ribosomal protein S27 like 	Ribosomal_S27e
+ENSGALG00000052635	-	\N	-	-	RNase_H
+ENSGALG00000052645	-	\N	-	-	zf-CCHC
+ENSGALG00000052646	EXD3	417283	FLJ20433|LOC54932|mut-7	exonuclease 3'-5' domain containing 3 	DNA_pol_A_exo1
+ENSGALG00000052672	-	426258	-	N(alpha)-acetyltransferase 38%2C NatC auxiliary subunit 	LSM
+ENSGALG00000052684	-	\N	-	-	SNase
+ENSGALG00000052688	-	\N	-	-	RVT_1
+ENSGALG00000052689	-	\N	-	-	LsmAD
+ENSGALG00000052695	-	\N	-	-	RVT_1
+ENSGALG00000052737	-	101751764	-	GTPase IMAP family member 8-like 1 	MMR_HSR1
+ENSGALG00000052743	ARL4C	424026	ARL7|LAK	ADP ribosylation factor like GTPase 4C 	MMR_HSR1
+ENSGALG00000052748	U2AF2	\N	U2AF65	U2 small nuclear RNA auxiliary factor 2 	RRM_1
+ENSGALG00000052752	-	\N	-	-	zf-CCHC
+ENSGALG00000052766	-	\N	-	-	RVT_1
+ENSGALG00000052818	-	\N	-	-	zf-CCHC
+ENSGALG00000052819	-	\N	-	-	RVT_1
+ENSGALG00000052861	-	\N	-	-	RVT_1
+ENSGALG00000052873	MAPKBP1	771487	KIAA0596	mitogen-activated protein kinase binding protein 1 	eIF2A
+ENSGALG00000052917	-	\N	-	-	RVT_1
+ENSGALG00000052919	-	\N	-	-	RVT_1
+ENSGALG00000052920	-	\N	-	-	RVT_1
+ENSGALG00000052928	-	\N	-	-	RVT_1
+ENSGALG00000052930	-	\N	-	-	RRM_1
+ENSGALG00000052946	-	\N	-	-	RVT_1
+ENSGALG00000052974	-	\N	-	-	RVT_1
+ENSGALG00000052984	-	\N	-	-	RVT_1
+ENSGALG00000053033	-	\N	-	-	RVT_1
+ENSGALG00000053043	CARHSP1	416640	-	calcium regulated heat stable protein 1 	CSD
+ENSGALG00000053063	MRPL40	100858795	MRP-L22|NLVCF	mitochondrial ribosomal protein L40 	MRP-L28
+ENSGALG00000053078	APOBEC4	100858926	C1orf169|FLJ25691|MGC26594|RP1-127C7.4	apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 	APOBEC_N
+ENSGALG00000053127	-	\N	-	-	RVT_1
+ENSGALG00000053164	-	\N	-	-	RVT_1
+ENSGALG00000053173	-	\N	-	-	RVT_1
+ENSGALG00000053183	-	\N	-	-	RVT_1
+ENSGALG00000053189	-	\N	-	-	zf-CCHC
+ENSGALG00000053213	-	\N	-	-	RVT_1
+ENSGALG00000053215	-	\N	-	-	RVT_1
+ENSGALG00000053218	-	\N	-	-	RVT_1
+ENSGALG00000053306	-	\N	-	-	RVT_1
+ENSGALG00000053338	-	\N	-	-	RVT_1
+ENSGALG00000053353	BOP1	425985	KIAA0124	block of proliferation 1 	BOP1NT
+ENSGALG00000053374	-	\N	-	-	RVT_1
+ENSGALG00000053378	-	\N	-	-	RVT_1
+ENSGALG00000053399	-	\N	-	-	zf-CCCH
+ENSGALG00000053407	-	\N	-	-	RVT_1
+ENSGALG00000053417	-	\N	-	-	RVT_1
+ENSGALG00000053424	-	420876	-	ribonuclease P/MRP subunit p40 	RVT_1
+ENSGALG00000053434	-	\N	-	-	RVT_1
+ENSGALG00000053475	-	\N	-	-	RVT_1
+ENSGALG00000053504	-	\N	-	-	RNase_H
+ENSGALG00000053507	-	427922	-	ZFP2 zinc finger protein 	zf-C2H2
+ENSGALG00000053520	-	\N	-	-	RVT_1
+ENSGALG00000053556	-	\N	-	-	RVT_1
+ENSGALG00000053584	-	\N	-	-	RNase_H
+ENSGALG00000053597	MBNL3	422233	-	Gallus gallus muscleblind like splicing regulator 3 (MBNL3)%2C transcript variant 1%2C mRNA. 	zf-CCCH
+ENSGALG00000053640	GZF1	421233	ZNF568|ZNF605	Gallus gallus GDNF inducible zinc finger protein 1 (GZF1)%2C mRNA. 	zf-C2H2
+ENSGALG00000053659	-	421232	ZNF568|ZNF605	Gallus gallus GDNF inducible zinc finger protein 1-like (LOC421232)%2C mRNA. 	zf-C2H2
+ENSGALG00000053703	-	101748694	-	-	zf-met
+ENSGALG00000053730	-	\N	-	-	RVT_1
+ENSGALG00000053757	-	\N	-	-	RVT_1
+ENSGALG00000053798	-	\N	-	-	RVT_1
+ENSGALG00000053810	-	\N	-	-	RVT_1
+ENSGALG00000053834	-	\N	-	-	RVT_1
+ENSGALG00000053886	-	\N	-	-	zf-CCHC
+ENSGALG00000053908	-	\N	-	-	RVT_1
+ENSGALG00000053912	-	\N	-	-	RVT_1
+ENSGALG00000053921	-	112532140	-	uncharacterized LOC112532140 	zf-CCHC
+ENSGALG00000053931	-	\N	-	-	RNase_H
+ENSGALG00000053933	-	\N	-	-	RVT_1
+ENSGALG00000053937	INSM2	\N	IA-6|Mlt1	INSM transcriptional repressor 2 	zf-C2H2
+ENSGALG00000054017	-	101750875	-	-	INTS5_C
+ENSGALG00000054029	-	\N	-	-	RVT_1
+ENSGALG00000054035	-	\N	-	-	RVT_1
+ENSGALG00000054037	-	\N	-	-	LSM
+ENSGALG00000054059	-	\N	-	-	Endonuclease_NS
+ENSGALG00000054082	-	\N	-	-	RVT_1
+ENSGALG00000054099	-	\N	-	-	Exo_endo_phos
+ENSGALG00000054102	-	\N	-	-	RNase_H
+ENSGALG00000054122	-	\N	-	-	RVT_1
+ENSGALG00000054136	-	\N	-	-	zf-RanBP
+ENSGALG00000054175	-	\N	-	-	RVT_1
+ENSGALG00000054228	-	\N	-	-	RVT_1
+ENSGALG00000054257	-	\N	-	-	RNase_H
+ENSGALG00000054264	-	\N	-	-	MMR_HSR1
+ENSGALG00000054278	-	\N	-	-	RVT_1
+ENSGALG00000054325	-	\N	-	-	zf-C2H2
+ENSGALG00000054356	-	\N	-	-	RVT_1
+ENSGALG00000054370	-	\N	-	-	RVT_1
+ENSGALG00000054371	-	\N	-	-	RVT_1
+ENSGALG00000054387	-	\N	-	-	RVT_1
+ENSGALG00000054413	-	\N	-	-	RVT_1
+ENSGALG00000054416	-	\N	-	-	RVT_1
+ENSGALG00000054488	-	\N	-	-	RRM_1
+ENSGALG00000054532	-	\N	-	-	RVT_1
+ENSGALG00000054534	-	\N	-	-	RVT_1
+ENSGALG00000054546	-	\N	-	-	RNase_H
+ENSGALG00000054550	-	\N	-	-	RVT_1
+ENSGALG00000054560	-	\N	-	-	RVT_1
+ENSGALG00000054582	-	\N	-	-	RVT_1
+ENSGALG00000054605	-	\N	-	-	RVT_1
+ENSGALG00000054614	-	\N	-	-	RVT_1
+ENSGALG00000054620	-	\N	-	-	RVT_1
+ENSGALG00000054642	-	\N	-	-	RVT_1
+ENSGALG00000054658	-	\N	-	-	RVT_1
+ENSGALG00000054664	-	\N	-	-	Nucleoplasmin
+ENSGALG00000054754	-	\N	-	-	RVT_1
+ENSGALG00000054775	-	\N	-	-	RVT_1
+ENSGALG00000054809	-	\N	-	-	RVT_1
+ENSGALG00000054858	-	\N	-	-	RVT_1
+ENSGALG00000054902	-	\N	-	-	RVT_1
+ENSGALG00000054912	-	\N	-	-	RVT_1
+ENSGALG00000054964	-	\N	-	-	Sua5_yciO_yrdC
+ENSGALG00000054994	-	\N	-	-	RVT_1
+ENSGALG00000054995	-	\N	-	-	RVT_1
+ENSGALG00000055009	-	\N	-	-	RVT_1
+ENSGALG00000055012	-	\N	-	-	RVT_1
+ENSGALG00000055024	-	\N	-	-	RVT_1
+ENSGALG00000055028	-	\N	-	-	RVT_1
+ENSGALG00000055099	-	\N	-	-	RVT_1
+ENSGALG00000055113	-	\N	-	-	RVT_1
+ENSGALG00000055122	-	\N	-	-	RVT_1
+ENSGALG00000055127	-	101747670	-	-	zf-C2H2
+ENSGALG00000055132	-	\N	-	-	RVT_1

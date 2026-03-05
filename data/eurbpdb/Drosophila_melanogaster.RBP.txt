@@ -1,0 +1,1633 @@
+FBgn0000053	ade3	33986	-	adenosine 3	Non-canonical_RBP
+FBgn0000100	RpLP0	40451	-	Ribosomal protein LP0 	Ribosomal_L10
+FBgn0000114	bru1	34648	-	bruno 1 	RRM_1
+FBgn0000115	Arl1	39745	-	ADP ribosylation factor-like 1 	MMR_HSR1
+FBgn0000116	Argk	39041	-	Arginine kinase	Non-canonical_RBP
+FBgn0000146	aub	34524	-	aubergine 	Piwi
+FBgn0000181	bic	45827	-	bicaudal	Non-canonical_RBP
+FBgn0000182	BicC	34946	-	Bicaudal C 	KH_1
+FBgn0000183	BicD	35051	-	Bicaudal D	Non-canonical_RBP
+FBgn0000212	brm	39744	-	brahma 	BRK
+FBgn0000239	bur	45830	-	burgundy	Non-canonical_RBP
+FBgn0000246	c(3)G	47765	-	crossover suppressor on 3 of Gowen	Non-canonical_RBP
+FBgn0000259	CkIIbeta	32132	-	Casein kinase II beta subunit	Non-canonical_RBP
+FBgn0000287	salr	34568	-	spalt-related 	zf-C2H2
+FBgn0000377	crn	31208	-	crooked neck 	HAT
+FBgn0000392	cup	33934	-	-	EIF4E-T
+FBgn0000405	CycB	37618	-	Cyclin B	Non-canonical_RBP
+FBgn0000426	SmF	36314	-	Small ribonucleoprotein particle protein SmF 	LSM
+FBgn0000427	dec-1	31691	-	defective chorion 1	Non-canonical_RBP
+FBgn0000454	Dip-B	48450	-	Dipeptidase B	Non-canonical_RBP
+FBgn0000520	dwg	31265	-	deformed wings 	zf-C2H2
+FBgn0000557	eEF1alpha2	43736	-	eukaryotic translation elongation factor 1 alpha 2 	GTP_EFTU
+FBgn0000559	eEF2	35422	-	eukaryotic translation elongation factor 2 	GTP_EFTU
+FBgn0000562	egl	37757	-	egalitarian 	DNA_pol_A_exo1
+FBgn0000615	exu	37345	-	exuperantia	Non-canonical_RBP
+FBgn0000721	for	44817	-	foraging	Non-canonical_RBP
+FBgn0001087	g	44819	-	garnet	Non-canonical_RBP
+FBgn0001124	Got1	36782	-	Glutamate oxaloacetate transaminase 1	Non-canonical_RBP
+FBgn0001125	Got2	33373	-	Glutamate oxaloacetate transaminase 2	Non-canonical_RBP
+FBgn0001142	Gs1	33172	-	Glutamine synthetase 1	Non-canonical_RBP
+FBgn0001149	GstD1	41503	-	Glutathione S transferase D1	Non-canonical_RBP
+FBgn0001179	hay	39202	-	haywire 	ResIII
+FBgn0001197	His2Av	43229	-	Histone H2A variant	Non-canonical_RBP
+FBgn0001215	Hrb98DE	43385	-	Heterogeneous nuclear ribonucleoprotein at 98DE 	RRM_1
+FBgn0001220	Hsc70-5	36583	-	Heat shock protein cognate 5	Non-canonical_RBP
+FBgn0001233	Hsp83	38389	-	Heat shock protein 83	Non-canonical_RBP
+FBgn0001248	Idh	44291	-	Isocitrate dehydrogenase	Non-canonical_RBP
+FBgn0001325	Kr	38012	-	Kruppel 	zf-C2H2
+FBgn0001330	kz	31205	-	kurz 	HA2
+FBgn0001565	Hlc	33118	-	Helicase 	DEAD
+FBgn0001612	Grip91	48481	-	Gamma-tubulin ring protein 91	Non-canonical_RBP
+FBgn0001942	eIF4A	33835	-	eukaryotic translation initiation factor 4A 	DEAD
+FBgn0001974	l(2)35Bd	\N	-	lethal (2) 35Bd 	Pox_MCEL
+FBgn0001978	stc	34888	-	shuttle craft 	R3H
+FBgn0001981	esg	34903	-	escargot 	zf-C2H2
+FBgn0001983	wor	34906	-	worniu 	zf-C2H2
+FBgn0001986	Mtr4	48782	-	Mtr4 helicase 	rRNA_proc-arch
+FBgn0001995	mRpL4	49425	-	mitochondrial ribosomal protein L4 	Ribosomal_L4
+FBgn0002044	swm	35235	-	second mitotic wave missing 	Nup35_RRM_2
+FBgn0002069	AspRS	36420	-	Aspartyl-tRNA synthetase 	tRNA-synt_2
+FBgn0002183	dre4	38248	-		Non-canonical_RBP
+FBgn0002284	Prosbeta6	39855	-	Proteasome beta6 subunit	Non-canonical_RBP
+FBgn0002413	dco	43673	-	discs overgrown	Non-canonical_RBP
+FBgn0002431	hyd	41181	-	hyperplastic discs 	PABP
+FBgn0002542	lds	45894	-	lodestar 	ResIII
+FBgn0002579	RpL36	31009	-	Ribosomal protein L36 	Ribosomal_L36e
+FBgn0002590	RpS5a	32700	-	Ribosomal protein S5a 	Ribosomal_S7
+FBgn0002593	RpLP1	33214	-	Ribosomal protein LP1 	Ribosomal_60s
+FBgn0002622	RpS3	42761	-	Ribosomal protein S3 	Ribosomal_S3_C
+FBgn0002626	RpL32	43573	-	Ribosomal protein L32 	Ribosomal_L32e
+FBgn0002645	Map205	43765	-	Microtubule-associated protein 205	Non-canonical_RBP
+FBgn0002736	mago	37402	-	mago nashi 	Mago_nashi
+FBgn0002774	mle	35523	-	maleless 	dsrm
+FBgn0002780	mod	43764	-	modulo 	RRM_1
+FBgn0002787	Rpn8	37894	-	Regulatory particle non-ATPase 8	Non-canonical_RBP
+FBgn0002899	mus301	38905	-	mutagen-sensitive 301 	DEAD
+FBgn0002905	mus308	41571	-	mutagen-sensitive 308 	DEAD
+FBgn0002906	Blm	41366	-	Bloom syndrome helicase 	DEAD
+FBgn0002924	ncd	43517	-	non-claret disjunctional	Non-canonical_RBP
+FBgn0002962	nos	42297	-	Nitric oxide synthase 	zf-nanos
+FBgn0002985	odd	33583	-	odd skipped 	zf-C2H2
+FBgn0002989	okr	33507	-	okra 	ResIII
+FBgn0003015	osk	41066	-	oskar	Non-canonical_RBP
+FBgn0003062	Fib	37662	-	Fibrillarin 	Fibrillarin
+FBgn0003071	Pfk	36060	-	Phosphofructokinase	Non-canonical_RBP
+FBgn0003124	polo	40232	-		Non-canonical_RBP
+FBgn0003165	pum	41094	-	pumilio 	PUF
+FBgn0003189	r	32640	-	rudimentary	Non-canonical_RBP
+FBgn0003204	ras	43873	-	raspberry	Non-canonical_RBP
+FBgn0003205	Ras85D	41140	-	Ras oncogene at 85D 	GTP_EFTU
+FBgn0003256	rl	3354888	-	rolled	Non-canonical_RBP
+FBgn0003257	r-l	42493	-	rudimentary-like	Non-canonical_RBP
+FBgn0003261	Rm62	40739	-	-	DEAD
+FBgn0003274	RpLP2	36855	-	Ribosomal protein LP2 	Ribosomal_60s
+FBgn0003275	RpII18	48312	-	RNA polymerase II 18kD subunit 	RNA_pol_Rpb6
+FBgn0003277	RpII215	32100	-	RNA polymerase II 215kD subunit 	RNA_pol_Rpb1_1
+FBgn0003278	RpI135	33210	-	RNA polymerase I 135kD subunit 	RNA_pol_Rpb2_6
+FBgn0003279	RpL4	43349	-	Ribosomal protein L4 	Ribosomal_L4
+FBgn0003321	sbr	43944	-	small bristles 	TAP_C
+FBgn0003346	RanGAP	35223	-	Ran GTPase activating protein	Non-canonical_RBP
+FBgn0003392	shi	45928	-	shibire	Non-canonical_RBP
+FBgn0003396	shn	36171	-	schnurri 	zf-C2H2
+FBgn0003435	sm	37254	-	smooth 	RRM_5
+FBgn0003449	snf	31442	-	sans fille 	RRM_1
+FBgn0003464	sol	44014	-	small optic lobes 	zf-RanBP
+FBgn0003483	spn-E	41919	-	spindle E 	TUDOR
+FBgn0003512	Sry-delta	43572	-	Serendipity delta 	zf-C2H2
+FBgn0003517	sta	31106	-	stubarista 	Ribosomal_S2
+FBgn0003520	stau	37065	-	staufen 	dsrm
+FBgn0003559	su(f)	3354994	-	suppressor of forked 	Suf
+FBgn0003567	su(Hw)	41740	-	suppressor of Hairy wing 	zf-C2H2
+FBgn0003607	Su(var)205	34119	-	Suppressor of variegation 205	Non-canonical_RBP
+FBgn0003638	su(w[a])	31054	-	suppressor of white-apricot 	DRY_EERY
+FBgn0003676	CCT1	42649	-	Chaperonin containing TCP1 subunit 1	Non-canonical_RBP
+FBgn0003714	tko	31228	-	technical knockout 	Ribosom_S12_S23
+FBgn0003721	Tm1	41852	-	Tropomyosin 1	Non-canonical_RBP
+FBgn0003741	tra	39849	-	transformer 	Transformer
+FBgn0003742	tra2	36619	-	transformer 2 	RRM_1
+FBgn0003891	tud	37417	-	tudor 	TUDOR
+FBgn0003941	RpL40	33629	-	Ribosomal protein L40 	Ribosomal_L40e
+FBgn0003942	RpS27A	34420	-	Ribosomal protein S27A 	Ribosomal_S27
+FBgn0003963	ush	33225	-	u-shaped 	zf-met
+FBgn0004066	Prosalpha4	32584	-	Proteasome alpha4 subunit	Non-canonical_RBP
+FBgn0004103	Pp1-87B	49260	-	Protein phosphatase 1 at 87B	Non-canonical_RBP
+FBgn0004106	Cdk1	34411	-	Cyclin-dependent kinase 1	Non-canonical_RBP
+FBgn0004108	Nrt	39873	-	Neurotactin	Non-canonical_RBP
+FBgn0004177	mts	45959	-	microtubule star	Non-canonical_RBP
+FBgn0004227	nonA	32603	-	no on or off transient A 	RRM_1
+FBgn0004237	Hrb87F	48535	-	Heterogeneous nuclear ribonucleoprotein at 87F 	RRM_1
+FBgn0004362	HmgD	37481	-	High mobility group protein D	Non-canonical_RBP
+FBgn0004378	Klp61F	38135	-	Kinesin-like protein at 61F	Non-canonical_RBP
+FBgn0004395	unk	42738	-	unkempt 	zf-CCCH
+FBgn0004401	Pep	45961	-	Protein on ecdysone puffs 	zf-C2H2_jaz
+FBgn0004403	RpS14a	47218	-	Ribosomal protein S14a 	Ribosomal_S11
+FBgn0004404	RpS14b	47219	-	Ribosomal protein S14b 	Ribosomal_S11
+FBgn0004407	DNApol-gamma35	3772064	-	DNA polymerase gamma 35kD 	HGTP_anticodon
+FBgn0004419	me31B	34364	-	maternal expression at 31B 	DEAD
+FBgn0004463	RpIII128	36289	-	RNA polymerase III 128kD subunit 	RNA_pol_Rpb2_6
+FBgn0004507	GlyP	33386	-	Glycogen phosphorylase	Non-canonical_RBP
+FBgn0004556	Dbp73D	39871	-	Dead box protein 73D 	DEAD
+FBgn0004581	bgcn	47873	-	benign gonial cell neoplasm 	HA2
+FBgn0004584	Rrp1	33500	-	Recombination repair protein 1 	Exo_endo_phos
+FBgn0004587	B52	41670	-	-	RRM_1
+FBgn0004618	gl	42210	-	glass 	zf-C2H2
+FBgn0004654	Pgd	31185	-	Phosphogluconate dehydrogenase	Non-canonical_RBP
+FBgn0004838	Hrb27C	33968	-	Heterogeneous nuclear ribonucleoprotein at 27C 	RRM_1
+FBgn0004855	RpII15	41741	-	RNA polymerase II 15kD subunit 	RNA_POL_M_15KD
+FBgn0004867	RpS2	34309	-	Ribosomal protein S2 	Ribosomal_S5
+FBgn0004872	piwi	34521	-	P-element induced wimpy testis 	Piwi
+FBgn0004875	enc	44543	-	encore 	R3H
+FBgn0004882	orb	42752	-	oo18 RNA-binding protein 	RRM_1
+FBgn0004888	Scsalpha	38447	-	Succinyl coenzyme A synthetase alpha subunit	Non-canonical_RBP
+FBgn0004889	tws	47877	-	twins	Non-canonical_RBP
+FBgn0004892	sob	33581	-	sister of odd and bowl 	zf-C2H2
+FBgn0004903	Rb97D	43231	-	Ribonuclear protein at 97D 	RRM_1
+FBgn0004907	14-3-3zeta	36059	-		Non-canonical_RBP
+FBgn0004908	Arl2	40993	-	ADP ribosylation factor-like 2 	MMR_HSR1
+FBgn0004913	Gnf1	40607	-	Germ line transcription factor 1	Non-canonical_RBP
+FBgn0004926	eIF2beta	39433	-	eukaryotic translation initiation factor 2 subunit beta 	eIF-5_eIF-2B
+FBgn0005411	U2af50	32602	-	U2 small nuclear riboprotein auxiliary factor 50 	RRM_1
+FBgn0005533	RpS17	39088	-	Ribosomal protein S17 	Ribosomal_S17e
+FBgn0005585	Calr	41166	-	Calreticulin 	Calreticulin
+FBgn0005593	RpL7	34352	-	Ribosomal protein L7 	Ribosomal_L30
+FBgn0005632	faf	43749	-	fat facets	Non-canonical_RBP
+FBgn0005648	Pabp2	35788	-	-	RRM_1
+FBgn0005649	Rox8	42848	-	-	RRM_1
+FBgn0005671	Vha55	41550	-	Vacuolar H	Non-canonical_RBP
+FBgn0005674	GluProRS	42834	-	Glutamyl-prolyl-tRNA synthetase 	tRNA-synt_1c
+FBgn0005694	Aef1	40370	-	Adult enhancer factor 1 	zf-C2H2
+FBgn0010078	RpL23	37628	-	Ribosomal protein L23 	Ribosomal_L14
+FBgn0010100	Acon	44149	-	Aconitase 	Aconitase
+FBgn0010173	RpA-70	40972	-	Replication Protein A 70 	tRNA_anti-codon
+FBgn0010198	RpS15Aa	44150	-	Ribosomal protein S15Aa 	Ribosomal_S8
+FBgn0010220	Dbp45A	35917	-	DEAD box protein 45A 	DEAD
+FBgn0010247	Parp	3355109	-	Poly-(ADP-ribose) polymerase 	PARP
+FBgn0010258	Rbp4	41668	-	RNA-binding protein 4 	RRM_1
+FBgn0010263	Rbp9	33498	-	RNA-binding protein 9 	RRM_1
+FBgn0010265	RpS13	34149	-	Ribosomal protein S13 	Ribosomal_S13_N
+FBgn0010278	Ssrp	37767	-	Structure specific recognition protein	Non-canonical_RBP
+FBgn0010292	bys	31701	-	by S6 	Bystin
+FBgn0010300	brat	35197	-	brain tumor	Non-canonical_RBP
+FBgn0010339	128up	36288	-	upstream of RpIII128 	MMR_HSR1
+FBgn0010348	Arf79F	40506	-	ADP ribosylation factor at 79F 	MMR_HSR1
+FBgn0010352	Nc73EF	39899	-	Neural conserved at 73EF	Non-canonical_RBP
+FBgn0010391	Gtp-bp	47251	-	GTP-binding protein 	SRP54
+FBgn0010406	RNaseX25	38885	-	Ribonuclease X25 	Ribonuclease_T2
+FBgn0010408	RpS9	39108	-	Ribosomal protein S9 	S4
+FBgn0010409	RpL18A	36985	-	Ribosomal protein L18A 	Ribosomal_L18A
+FBgn0010411	RpS18	37292	-	Ribosomal protein S18 	Ribosomal_S13
+FBgn0010412	RpS19a	32635	-	Ribosomal protein S19a 	Ribosomal_S19e
+FBgn0010438	mtSSB	41968	-	mitochondrial single stranded DNA-binding protein	Non-canonical_RBP
+FBgn0010488	NAT1	46020	-	-	MIF4G
+FBgn0010516	wal	36252	-	walrus	Non-canonical_RBP
+FBgn0010520	Bka	46032	-	Bekka 	Fcf1
+FBgn0010548	Aldh-III	45398	-	Aldehyde dehydrogenase type III	Non-canonical_RBP
+FBgn0010549	l(2)03659	47905	-	lethal (2) 03659 	MMR_HSR1
+FBgn0010621	CCT5	36308	-	Chaperonin containing TCP1 subunit 5	Non-canonical_RBP
+FBgn0010660	Nup214	46091	-	Nucleoporin 214kD	Non-canonical_RBP
+FBgn0010747	Srp54k	38593	-	Signal recognition particle protein 54k 	SRP54
+FBgn0010768	sqz	42300	-	squeeze 	zf-C2H2
+FBgn0010770	ppan	42502	-	peter pan 	Brix
+FBgn0010774	Ref1	44029	-	RNA and export factor binding protein 1 	RRM_1
+FBgn0010803	TrpRS	45399	-	Tryptophanyl-tRNA synthetase 	tRNA-synt_1b
+FBgn0010812	unc-45	44910	-	uncoordinated 45	Non-canonical_RBP
+FBgn0010926	l(3)07882	46201	-	lethal (3) 07882 	Nop14
+FBgn0011206	bol	39049	-	boule 	RRM_1
+FBgn0011207	pelo	34286	-	pelota 	eRF1_1
+FBgn0011211	blw	37617	-	bellwether	Non-canonical_RBP
+FBgn0011224	heph	48571	-	hephaestus 	RRM_5
+FBgn0011272	RpL13	34329	-	Ribosomal protein L13 	Ribosomal_L13e
+FBgn0011284	RpS4	39484	-	Ribosomal protein S4 	Ribosomal_S4e
+FBgn0011305	Rsf1	34370	-	Repressor splicing factor 1 	RRM_1
+FBgn0011327	Uch-L5	39102	-	Ubiquitin carboxy-terminal hydrolase L5	Non-canonical_RBP
+FBgn0011509	SrpRbeta	47283	-	Signal recognition particle receptor beta 	MMR_HSR1
+FBgn0011596	fzo	42745	-	fuzzy onions 	MMR_HSR1
+FBgn0011604	Iswi	36390	-	Imitation SWI 	ResIII
+FBgn0011638	La	35305	-	La autoantigen-like 	La
+FBgn0011640	lark	38811	-	-	RRM_1
+FBgn0011666	msi	43087	-	musashi 	RRM_1
+FBgn0011703	RnrL	34392	-	Ribonucleoside diphosphate reductase large subunit	Non-canonical_RBP
+FBgn0011710	Sep1	33114	-	Septin 1 	MMR_HSR1
+FBgn0011725	twin	42880	-	-	Exo_endo_phos
+FBgn0011726	tsr	37841	-	twinstar	Non-canonical_RBP
+FBgn0011761	dhd	31444	-	deadhead	Non-canonical_RBP
+FBgn0011787	mRpL12	44326	-	mitochondrial ribosomal protein L12 	Ribosomal_L12
+FBgn0011802	Gem3	39195	-	Gemin3 	DEAD
+FBgn0011824	CG4038	37397	-	-	Gar1
+FBgn0011837	Tis11	32222	-	Tis11 zinc finger protein 	zf-CCCH
+FBgn0013325	RpL11	37235	-	Ribosomal protein L11 	Ribosomal_L5_C
+FBgn0013726	pnut	35801	-	peanut 	MMR_HSR1
+FBgn0013749	Arf102F	43823	-	ADP ribosylation factor at 102F 	MMR_HSR1
+FBgn0013756	Mtor	36264	-	Megator	Non-canonical_RBP
+FBgn0013764	Chi	37837	-	Chip	Non-canonical_RBP
+FBgn0014009	Rab2	35577	-	-	MMR_HSR1
+FBgn0014010	Rab5	33418	-	-	MMR_HSR1
+FBgn0014020	Rho1	36775	-		Non-canonical_RBP
+FBgn0014023	mRpL47	41141	-	mitochondrial ribosomal protein L47 	MRP-L47
+FBgn0014024	Rnp4F	31448	-	RNA-binding protein 4F 	RRM_1
+FBgn0014026	RpL7A	31588	-	Ribosomal protein L7A 	Ribosomal_L7Ae
+FBgn0014029	Sep2	42438	-	Septin 2 	MMR_HSR1
+FBgn0014163	fax	39826	-	failed axon connections	Non-canonical_RBP
+FBgn0014189	Hel25E	33781	-	Helicase at 25E 	DEAD
+FBgn0014340	mof	31518	-	males absent on the first 	Tudor-knot
+FBgn0014366	noi	40678	-	noisette 	SF3a60_bindingd
+FBgn0014427	CG11899	46391	-		Non-canonical_RBP
+FBgn0014464	Cp7Fa	3885650	-	Chorion protein a at 7F	Non-canonical_RBP
+FBgn0014861	Mcm2	40973	-	Minichromosome maintenance 2	Non-canonical_RBP
+FBgn0014868	Ost48	31849	-	Oligosaccharyltransferase 48kD subunit	Non-canonical_RBP
+FBgn0014869	Pglym78	43447	-	Phosphoglyceromutase	Non-canonical_RBP
+FBgn0014870	Psi	36889	-	P-element somatic inhibitor 	KH_1
+FBgn0014877	Roe1	36508	-		Non-canonical_RBP
+FBgn0015019	CCT3	42029	-	Chaperonin containing TCP1 subunit 3	Non-canonical_RBP
+FBgn0015075	Ddx1	40457	-	Dead-box-1 	DEAD
+FBgn0015218	eIF4E1	45525	-	eukaryotic translation initiation factor 4E1 	IF4E
+FBgn0015222	Fer1HCH	46415	-	Ferritin 1 heavy chain homologue	Non-canonical_RBP
+FBgn0015288	RpL22	31022	-	Ribosomal protein L22 	Ribosomal_L22e
+FBgn0015298	Srp19	38815	-	Signal recognition particle protein 19 	SRP19
+FBgn0015299	Ssb-c31a	34120	-	Single stranded-binding protein c31A 	PC4
+FBgn0015331	abs	40530	-	abstrakt 	DEAD
+FBgn0015351	CG14906	42030	-	-	MT-A70
+FBgn0015372	RabX1	44172	-	-	MMR_HSR1
+FBgn0015391	glu	35001	-	gluon	Non-canonical_RBP
+FBgn0015393	hoip	44173	-	hoi-polloi 	Ribosomal_L7Ae
+FBgn0015509	Cul1	35742	-	Cullin 1	Non-canonical_RBP
+FBgn0015520	nonA-l	42026	-	nonA-like 	RRM_1
+FBgn0015521	RpS21	33487	-	Ribosomal protein S21 	Ribosomal_S21e
+FBgn0015527	peng	33112	-	penguin 	CPL
+FBgn0015544	spag	43958	-	spaghetti	Non-canonical_RBP
+FBgn0015621	Clp	33259	-	Clipper 	zf-CCCH
+FBgn0015622	Cnx99A	44643	-	Calnexin 99A 	Calreticulin
+FBgn0015756	RpL9	34526	-	Ribosomal protein L9 	Ribosomal_L6
+FBgn0015778	rin	47998	-	rasputin 	NTF2
+FBgn0015790	Rab11	42501	-	-	MMR_HSR1
+FBgn0015791	Rab14	34840	-	-	MMR_HSR1
+FBgn0015794	Rab18	44360	-	-	MMR_HSR1
+FBgn0015795	Rab7	42841	-	-	MMR_HSR1
+FBgn0015797	Rab6	34636	-	-	MMR_HSR1
+FBgn0015818	Spx	31558	-	Spliceosomal protein on the X 	RRM_1
+FBgn0015834	eIF3i	33710	-	eukaryotic translation initiation factor 3 subunit i	Non-canonical_RBP
+FBgn0015929	dpa	35679	-	disc proliferation abnormal	Non-canonical_RBP
+FBgn0015949	hrg	49636	-	hiiragi 	PAP_RNA-bind
+FBgn0016034	mael	40489	-	maelstrom 	Maelstrom
+FBgn0016070	smg	39034	-	smaug 	PHAT
+FBgn0016126	CaMKI	43792	-	Calcium/calmodulin-dependent protein kinase I 	RIO1
+FBgn0016685	Nlp	43560	-	Nucleoplasmin 	Nucleoplasmin
+FBgn0016693	Past1	41569	-	Putative Achaete Scute Target 1 	MMR_HSR1
+FBgn0016726	RpL29	37430	-	Ribosomal protein L29 	Ribosomal_L29e
+FBgn0016762	angel	37748	-	-	Exo_endo_phos
+FBgn0016977	spen	44205	-	split ends 	RRM_1
+FBgn0016978	snRNP-U1-70K	33982	-	small ribonucleoprotein particle U1 subunit 70K 	U1snRNP70_N
+FBgn0017430	Nelf-E	38982	-	Negative elongation factor E 	RRM_1
+FBgn0017457	U2af38	33201	-	U2 small nuclear riboprotein auxiliary factor 38 	zf-CCCH
+FBgn0017545	RpS3A	43768	-	Ribosomal protein S3A 	Ribosomal_S3Ae
+FBgn0017550	Rga	40683	-	Regena 	NOT2_3_5
+FBgn0017558	Pdk	35970	-	Pyruvate dehydrogenase kinase	Non-canonical_RBP
+FBgn0017567	ND-23	44207	-	NADH dehydrogenase (ubiquinone) 23 kDa subunit	Non-canonical_RBP
+FBgn0017577	Mcm5	41296	-	Minichromosome maintenance 5	Non-canonical_RBP
+FBgn0017579	RpL14	38983	-	Ribosomal protein L14 	Ribosomal_L14e
+FBgn0019890	Smg5	34804	-	-	EST1_DNA_bind
+FBgn0019936	RpS20	42464	-	Ribosomal protein S20 	Ribosomal_S10
+FBgn0019938	RpI1	36617	-	RNA polymerase I subunit 	RNA_pol_Rpb1_5
+FBgn0019957	ND-42	42591	-	NADH dehydrogenase (ubiquinone) 42 kDa subunit	Non-canonical_RBP
+FBgn0019960	Mitofilin	42587	-		Non-canonical_RBP
+FBgn0020235	ATPsyngamma	43507	-	ATP synthase%2C gamma subunit	Non-canonical_RBP
+FBgn0020236	ATPCL	36760	-	ATP citrate lyase	Non-canonical_RBP
+FBgn0020261	pcm	32935	-	pacman 	XRN_N
+FBgn0020279	lig	35771	-	lingerer	Non-canonical_RBP
+FBgn0020306	dom	45655	-	domino 	ResIII
+FBgn0020309	crol	34592	-	crooked legs 	zf-C2H2
+FBgn0020392	Nmt	38909	-	N-myristoyl transferase	Non-canonical_RBP
+FBgn0020443	eRF3	34658	-	eukaryotic translation release factor 3 	GTP_EFTU
+FBgn0020497	emb	34167	-	embargoed 	CRM1_C
+FBgn0020503	CLIP-190	35042	-	Cytoplasmic linker protein 190	Non-canonical_RBP
+FBgn0020618	Rack1	34070	-	Receptor of activated protein kinase C 1	Non-canonical_RBP
+FBgn0020633	Mcm7	39014	-	Minichromosome maintenance 7	Non-canonical_RBP
+FBgn0020653	Trxr-1	31760	-	Thioredoxin reductase-1	Non-canonical_RBP
+FBgn0020660	eIF4B	3355041	-	eukaryotic translation initiation factor 4B 	RRM_1
+FBgn0020909	Rtc1	32338	-	-	RTC
+FBgn0020910	RpL3	41347	-	Ribosomal protein L3 	Ribosomal_L3
+FBgn0021750	SerRS-m	41862	-	Seryl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2b
+FBgn0021761	Nup154	34527	-	Nucleoporin 154kD	Non-canonical_RBP
+FBgn0021765	scu	32789	-	scully	Non-canonical_RBP
+FBgn0021768	nudC	39879	-		Non-canonical_RBP
+FBgn0021825	DCTN2-p50	44086	-	Dynactin 2%2C p50 subunit	Non-canonical_RBP
+FBgn0021979	l(2)k09913	37661	-	lethal (2) k09913	Non-canonical_RBP
+FBgn0021995	Rs1	44087	-	-	DEAD
+FBgn0022023	eIF3h	45682	-	eukaryotic translation initiation factor 3 subunit h	Non-canonical_RBP
+FBgn0022069	Nnp-1	44391	-	-	Nop52
+FBgn0022213	Cse1	35016	-	Chromosome segregation 1 	IBN_N
+FBgn0022238	lolal	44703	-	lola like	Non-canonical_RBP
+FBgn0022343	CG3760	37987	-		Non-canonical_RBP
+FBgn0022344	CG10340	42020	-		Non-canonical_RBP
+FBgn0022355	Tsf1	32821	-	Transferrin 1	Non-canonical_RBP
+FBgn0022361	Pur-alpha	43797	-	Purine-rich binding protein-alpha 	PurA
+FBgn0022942	Cbp80	44409	-	cap binding protein 80 	MIF4G_like_2
+FBgn0022943	Cbp20	42166	-	cap binding protein 20 	RRM_1
+FBgn0022959	yps	39377	-	ypsilon schachtel 	CSD
+FBgn0022984	qkr58E-3	37559	-	quaking related 58E-3 	KH_1
+FBgn0022985	qkr58E-2	37562	-	quaking related 58E-2 	KH_1
+FBgn0022986	qkr58E-1	37561	-	quaking related 58E-1 	KH_1
+FBgn0022987	qkr54B	36966	-	quaking related 54B 	KH_1
+FBgn0023143	Uba1	35998	-	Ubiquitin activating enzyme 1	Non-canonical_RBP
+FBgn0023167	SmD3	36306	-	Small ribonucleoprotein particle protein SmD3 	LSM
+FBgn0023170	RpL39	37849	-	Ribosomal protein L39 	Ribosomal_L39
+FBgn0023171	rnh1	35746	-	ribonuclease H1 	RNase_H
+FBgn0023213	eIF4G1	43839	-	eukaryotic translation initiation factor 4G1 	MIF4G
+FBgn0023395	Chd3	40111	-	-	ResIII
+FBgn0023506	Es2	31780	-	-	Es2
+FBgn0023508	Ocrl	31157	-	Oculocerebrorenal syndrome of Lowe 	Exo_endo_phos
+FBgn0023512	eIF2Bepsilon	31156	-	eukaryotic translation initiation factor 2B subunit epsilon 	W2
+FBgn0023519	mRpL16	31150	-	mitochondrial ribosomal protein L16 	Ribosomal_L16
+FBgn0023527	CG3071	31213	-	-	UTP15_C
+FBgn0023542	Nmd3	31195	-	Nonsense-mediated mRNA 3 	NMD3
+FBgn0024182	waw	3771960	-	waclaw 	GTP_EFTU
+FBgn0024183	vig	34885	-	vasa intronic gene 	HABP4_PAI-RBP1
+FBgn0024191	sip1	44238	-	septin interacting protein 1 	G-patch
+FBgn0024244	drm	49638	-	drumstick 	zf-C2H2
+FBgn0024285	Srp54	34312	-	-	RRM_1
+FBgn0024314	Plap	43978	-	Phospholipase A2 activator protein	Non-canonical_RBP
+FBgn0024360	MTPAP	31081	-	mitochondrial poly(A) polymerase 	PAP_assoc
+FBgn0024364	CG11417	31083	-	-	NUC153
+FBgn0024491	Bin1	41965	-	Bicoid interacting protein 1 	SAP18
+FBgn0024542	Neos	38795	-	Neosin 	RRM_1
+FBgn0024556	mEFTu1	44438	-	mitochondrial translation elongation factor Tu 1 	GTP_EFTU
+FBgn0024558	Dph5	42663	-	Diphthamide methyltransferase	Non-canonical_RBP
+FBgn0024698	Cpsf160	44250	-	Cleavage and polyadenylation specificity factor 160 	CPSF_A
+FBgn0024733	RpL10	43864	-	Ribosomal protein L10 	Ribosomal_L16
+FBgn0024804	Dbp80	3354919	-	Dead box protein 80 	DEAD
+FBgn0024807	DIP1	43981	-	DISCO Interacting Protein 1 	dsrm
+FBgn0024887	kin17	40242	-	-	Kin17_mid
+FBgn0024921	Tnpo	38721	-	Transportin 	IBN_N
+FBgn0024957	Irp-1B	41269	-	Iron regulatory protein 1B 	Aconitase
+FBgn0024958	Irp-1A	42689	-	Iron regulatory protein 1A 	Aconitase
+FBgn0024973	CG2701	31261	-		Non-canonical_RBP
+FBgn0024987	ssx	31086	-	sister-of-Sex-lethal 	RRM_1
+FBgn0024996	eIF2Bbeta	31256	-	eukaryotic translation initiation factor 2B subunit beta 	IF-2B
+FBgn0025336	CG4882	37787	-	-	MRP-S27
+FBgn0025352	Thiolase	37784	-		Non-canonical_RBP
+FBgn0025366	Ip259	34419	-	Intronic Protein 259 	Ribosomal_S8e
+FBgn0025455	CycT	39961	-	Cyclin T	Non-canonical_RBP
+FBgn0025571	SF1	43912	-	Splicing factor 1 	KH_1
+FBgn0025582	eIF3e	39877	-	eukaryotic translation initiation factor 3 subunit e 	eIF3_N
+FBgn0025621	CG16989	31026	-		Non-canonical_RBP
+FBgn0025630	Rtca	31175	-	RNA 3'-terminal phosphate cyclase 	RTC
+FBgn0025724	beta'COP	45757	-	Coat Protein (coatomer) beta'	Non-canonical_RBP
+FBgn0025790	TBPH	37781	-	TAR DNA-binding protein-43 homolog 	RRM_1
+FBgn0025832	Fen1	36887	-	Flap endonuclease 1	Non-canonical_RBP
+FBgn0026015	Top3beta	31565	-	Topoisomerase 3beta	Non-canonical_RBP
+FBgn0026063	KP78b	41361	-	-	RIO1
+FBgn0026079	Nsun2	45064	-	NOP2-Sun domain family%2C member 2 	Methyltr_RsmB-F
+FBgn0026080	Tip60	31362	-	Tat interactive protein 60kDa 	Tudor-knot
+FBgn0026083	tyf	31363	-	twenty-four	Non-canonical_RBP
+FBgn0026086	Adar	31130	-	Adenosine deaminase acting on RNA 	A_deamin
+FBgn0026089	CG14817	31145	-	-	MRP-63
+FBgn0026150	ApepP	35029	-	Aminopeptidase P	Non-canonical_RBP
+FBgn0026196	nop5	33966	-	-	Nop
+FBgn0026238	gus	35478	-	gustavus	Non-canonical_RBP
+FBgn0026250	eIF1A	44260	-	eukaryotic translation initiation factor 1A 	eIF-1a
+FBgn0026252	msk	44747	-	moleskin 	IBN_N
+FBgn0026259	eIF5B	44261	-	eukaryotic translation initiation factor 5B 	GTP_EFTU
+FBgn0026261	bonsai	37587	-	-	Ribosomal_S15
+FBgn0026309	aft	37034	-	adrift 	FtsJ
+FBgn0026361	Sep5	43990	-	Septin 5 	MMR_HSR1
+FBgn0026370	SRPK	36706	-	SR Protein Kinase	Non-canonical_RBP
+FBgn0026372	RpL23A	38208	-	Ribosomal protein L23A 	Ribosomal_L23
+FBgn0026373	RpII33	34796	-	RNA polymerase II 33kD subunit 	RNA_pol_A_bac
+FBgn0026418	Hsc70Cb	39557	-		Non-canonical_RBP
+FBgn0026428	HDAC6	32461	-	Histone deacetylase 6	Non-canonical_RBP
+FBgn0026479	Drp1	33445	-	Dynamin related protein 1	Non-canonical_RBP
+FBgn0026566	CG1307	40814	-	-	PTH2
+FBgn0026575	hang	32613	-	hangover 	zf-C2H2
+FBgn0026620	tacc	40589	-	transforming acidic coiled-coil protein	Non-canonical_RBP
+FBgn0026702	l(1)G0045	31475	-	lethal (1) G0045 	POP1
+FBgn0026713	l(1)G0007	32373	-	lethal (1) G0007 	HA2
+FBgn0026722	drosha	35747	-	-	Ribonucleas_3_3
+FBgn0026738	CG7857	39671	-		Non-canonical_RBP
+FBgn0026761	Trap1	35559	-		Non-canonical_RBP
+FBgn0026777	Rad23	43785	-		Non-canonical_RBP
+FBgn0027057	CSN1b	40063	-	COP9 signalosome subunit 1b	Non-canonical_RBP
+FBgn0027066	Eb1	35584	-		Non-canonical_RBP
+FBgn0027079	ValRS	45783	-	Valyl-tRNA synthetase 	tRNA-synt_1
+FBgn0027080	TyrRS	39829	-	Tyrosyl-tRNA synthetase 	tRNA-synt_1b
+FBgn0027081	ThrRS	45784	-	Threonyl-tRNA synthetase 	tRNA-synt_2b
+FBgn0027082	ProRS-m	38331	-	Prolyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2b
+FBgn0027083	MetRS-m	41733	-	Methionyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1g
+FBgn0027084	LysRS	31904	-	Lysyl-tRNA synthetase 	tRNA-synt_2
+FBgn0027085	LeuRS-m	38581	-	Leucyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1
+FBgn0027086	IleRS	45785	-	Isoleucyl-tRNA synthetase 	tRNA-synt_1
+FBgn0027087	HisRS	32841	-	Histidyl-tRNA synthetase 	tRNA-synt_His
+FBgn0027088	GlyRS	39644	-	Glycyl-tRNA synthetase 	HGTP_anticodon
+FBgn0027090	GlnRS	45786	-	Glutaminyl-tRNA synthetase 	tRNA-synt_1c
+FBgn0027091	CysRS	36784	-	Cysteinyl-tRNA synthetase 	tRNA-synt_1e
+FBgn0027093	ArgRS	32539	-	Arginyl-tRNA synthetase 	tRNA-synt_1d
+FBgn0027094	AlaRS	34156	-	Alanyl-tRNA synthetase 	tRNA-synt_2c
+FBgn0027291	l(1)G0156	32940	-	lethal (1) G0156	Non-canonical_RBP
+FBgn0027329	CCT6	32518	-	Chaperonin containing TCP1 subunit 6	Non-canonical_RBP
+FBgn0027330	l(1)G0020	31811	-	lethal (1) G0020 	tRNA_bind_2
+FBgn0027338	Kap-alpha3	41158	-	karyopherin alpha3	Non-canonical_RBP
+FBgn0027343	fz3	31023	-	frizzled 3 	RRM_1
+FBgn0027375	RecQ5	39594	-	RecQ5 helicase 	DEAD
+FBgn0027378	MRG15	41850	-	MORF-related gene 15 	Tudor-knot
+FBgn0027493	AdSS	42466	-	Adenylosuccinate Synthetase	Non-canonical_RBP
+FBgn0027494	RpS10a	43321	-	Ribosomal protein S10a 	S10_plectin
+FBgn0027508	Tnks	43095	-	tankyrase 	PARP
+FBgn0027529	tapas	37304	-	-	TUDOR
+FBgn0027548	nito	35756	-	spenito 	RRM_1
+FBgn0027567	CG8108	39161	-		Non-canonical_RBP
+FBgn0027568	Cand1	34403	-	Cullin-associated and neddylation-dissociated 1	Non-canonical_RBP
+FBgn0027580	PCB	36020	-	Pyruvate carboxylase	Non-canonical_RBP
+FBgn0027588	GCS2alpha	49953	-	Glucosidase 2 alpha subunit	Non-canonical_RBP
+FBgn0027590	GstE12	37960	-	Glutathione S transferase E12	Non-canonical_RBP
+FBgn0027599	CG2790	37992	-	-	zf-C2H2_jaz
+FBgn0027602	CG8611	32725	-	-	DEAD
+FBgn0027616	YT521-B	38420	-	-	YTH
+FBgn0027617	CG5808	42957	-	-	RRM_1
+FBgn0027619	eIF3j	36037	-	eukaryotic translation initiation factor 3 subunit j 	eIF3_subunit
+FBgn0027657	glob1	41930	-	globin 1	Non-canonical_RBP
+FBgn0027783	SMC2	36653	-	Structural maintenance of chromosomes 2	Non-canonical_RBP
+FBgn0027784	Prp18	42285	-	-	Prp18
+FBgn0027794	Lrpprc2	31095	-	Leucine-rich pentatricopeptide repeat containing 2 	PPR
+FBgn0027835	Dp1	37116	-	Dodeca-satellite-binding protein 1 	KH_1
+FBgn0027836	Dgp-1	37080	-	-	GTP_EFTU
+FBgn0027841	CstF64	42239	-	Cleavage stimulation factor 64 kD subunit 	RRM_1
+FBgn0027873	Cpsf100	43426	-	Cleavage and polyadenylation specificity factor 100 	Beta-Casp
+FBgn0027885	Aac11	35053	-		Non-canonical_RBP
+FBgn0027889	ball	43228	-	ballchen	Non-canonical_RBP
+FBgn0027948	msps	41952	-	mini spindles	Non-canonical_RBP
+FBgn0027950	MBD-like	41151	-	Methyl-CpG binding domain protein-like 	MBD
+FBgn0028327	l(1)G0320	326234	-	lethal (1) G0320	Non-canonical_RBP
+FBgn0028342	ATPsyndelta	31950	-	ATP synthase%2C delta subunit	Non-canonical_RBP
+FBgn0028382	cyp33	36984	-	cyclophilin-33 	RRM_1
+FBgn0028411	Nxt1	37769	-	NTF2-related export protein 1 	NTF2
+FBgn0028426	JhI-1	36086	-	Juvenile hormone-inducible protein 1 	Lactamase_B_4
+FBgn0028471	Nab2	42897	-	Nuclear polyadenosine RNA-binding 2 	zf-CCCH_2
+FBgn0028473	Non1	35963	-	Novel nucleolar protein 1 	NOG1
+FBgn0028474	CG4119	31481	-	-	PWI
+FBgn0028479	Mtpalpha	34276	-	Mitochondrial trifunctional protein alpha subunit	Non-canonical_RBP
+FBgn0028530	mTTF	34837	-	mitochondrial transcription termination factor 	mTERF
+FBgn0028554	x16	33967	-	x16 splicing factor 	RRM_1
+FBgn0028577	hfp	38173	-	half pint 	RRM_1
+FBgn0028648	mRpL50	38796	-	mitochondrial ribosomal protein L50 	Ribosomal_L50
+FBgn0028658	Adat1	34787	-	Adenosine deaminase%2C tRNA-specific 1 	A_deamin
+FBgn0028683	spt4	36387	-	-	Spt4
+FBgn0028688	Rpn7	42641	-	Regulatory particle non-ATPase 7	Non-canonical_RBP
+FBgn0028689	Rpn6	36638	-	Regulatory particle non-ATPase 6	Non-canonical_RBP
+FBgn0028692	Rpn2	43449	-	Regulatory particle non-ATPase 2	Non-canonical_RBP
+FBgn0028693	Rpn12	39845	-	Regulatory particle non-ATPase 12	Non-canonical_RBP
+FBgn0028695	Rpn1	40174	-	Regulatory particle non-ATPase 1	Non-canonical_RBP
+FBgn0028697	RpL15	3354918	-	Ribosomal protein L15 	Ribosomal_L15e
+FBgn0028734	Fmr1	37528	-	-	FXMRP1_C_core
+FBgn0028737	eEF1beta	45249	-	eukaryotic translation elongation factor 1 beta 	EF1_GNE
+FBgn0028744	CG5033	37036	-	-	BOP1NT
+FBgn0028841	jhamt	34977	-	juvenile hormone acid methyltransferase 	Methyltransf_31
+FBgn0028852	CG15262	34901	-	-	NOT2_3_5
+FBgn0028878	CG15269	34887	-	-	zf-C2H2
+FBgn0028887	CG3491	34870	-	-	ResIII
+FBgn0028895	CG17328	34962	-	-	zf-C2H2
+FBgn0028962	AlaRS-m	38595	-	Alanyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2c
+FBgn0028982	Spt6	44000	-	-	S1
+FBgn0029113	Uba2	44496	-	Ubiquitin activating enzyme 2	Non-canonical_RBP
+FBgn0029148	NHP2	44005	-	-	Ribosomal_L7Ae
+FBgn0029152	Mkrn1	44131	-	Makorin 1 	zf-CCCH
+FBgn0029174	FKBP59	47762	-	FK506-binding protein FKBP59	Non-canonical_RBP
+FBgn0029176	eEF1gamma	44791	-	eukaryotic translation elongation factor 1 gamma 	EF1G
+FBgn0029503	CHORD	42874	-		Non-canonical_RBP
+FBgn0029514	312	38161	-		Non-canonical_RBP
+FBgn0029525	CG18273	30991	-	-	Urb2
+FBgn0029629	eIF3g1	31243	-	eukaryotic translation initiation factor 3 subunit g1 	eIF3g
+FBgn0029664	CG10802	31318	-	-	tRNA_SAD
+FBgn0029666	CG10803	31320	-		Non-canonical_RBP
+FBgn0029672	CG2875	31326	-	-	CBF
+FBgn0029693	CG6379	31355	-	-	FtsJ
+FBgn0029714	CG3527	31387	-	-	EMG1
+FBgn0029715	CG11444	31388	-		Non-canonical_RBP
+FBgn0029718	mRpL30	31398	-	mitochondrial ribosomal protein L30 	Ribosomal_L30
+FBgn0029754	CG15930	31446	-	-	TUDOR
+FBgn0029755	Sas10	31447	-	Something about silencing 10 	Sas10_Utp3
+FBgn0029785	RpL35	31483	-	Ribosomal protein L35 	Ribosomal_L29
+FBgn0029823	Shmt	31524	-	Serine hydroxymethyl transferase	Non-canonical_RBP
+FBgn0029833	MCTS1	31536	-	Malignant T cell amplified sequence 1 	PUA
+FBgn0029870	Marf	31581	-	Mitochondrial assembly regulatory factor 	MMR_HSR1
+FBgn0029880	CG14443	31595	-	-	DEAD
+FBgn0029882	CG3226	31597	-		Non-canonical_RBP
+FBgn0029885	CG3224	31600	-	-	zf-C2H2_jaz
+FBgn0029887	CG3198	31602	-	-	LUC7
+FBgn0029888	ND-ASHI	31604	-	NADH dehydrogenase (ubiquinone) ASHI subunit	Non-canonical_RBP
+FBgn0029897	RpL17	31613	-	Ribosomal protein L17 	Ribosomal_L22
+FBgn0029899	CG14438	31615	-		Non-canonical_RBP
+FBgn0029907	Atx-1	31624	-	Ataxin 1 	AXH
+FBgn0029915	CG14434	31632	-		Non-canonical_RBP
+FBgn0029928	CG3032	31648	-	-	zf-C2H2
+FBgn0029941	CG1677	31662	-		Non-canonical_RBP
+FBgn0029959	Rab39	31684	-	-	MMR_HSR1
+FBgn0029979	mahe	31707	-	maheshvara 	DEAD
+FBgn0029992	Upf2	31724	-	-	MIF4G
+FBgn0030007	alpha-PheRS	31740	-	Phenylalanyl-tRNA synthetase%2C alpha-subunit 	tRNA-synt_2d
+FBgn0030008	CG2129	31741	-	-	zf-C2H2
+FBgn0030010	CG10959	31743	-	-	zf-C2H2
+FBgn0030012	CG18262	31745	-	-	zf-C2H2
+FBgn0030049	Trf4-1	31795	-	Topoisomerase related function 4-1 	PAP_assoc
+FBgn0030061	CG1785	31810	-	-	Nop53
+FBgn0030063	CG1789	31812	-	-	Utp11
+FBgn0030067	Rbm13	31818	-	RNA-binding motif protein 13 	Ribosomal_L28e
+FBgn0030081	CG7246	31833	-	-	U3_assoc_6
+FBgn0030085	CG6999	31837	-	-	RRM_1
+FBgn0030088	Arfrp1	31841	-	ADP-ribosylation factor related protein 1 	MMR_HSR1
+FBgn0030122	CG16892	31881	-		Non-canonical_RBP
+FBgn0030136	RpS28b	31897	-	Ribosomal protein S28b 	Ribosomal_S28e
+FBgn0030151	CG1354	31914	-	-	MMR_HSR1
+FBgn0030170	CG2990	31934	-		Non-canonical_RBP
+FBgn0030177	CG2972	31943	-	-	NOB1_Zn_bind
+FBgn0030206	CG2889	31977	-	-	zf-C2H2
+FBgn0030246	CG1582	32021	-	-	HA2
+FBgn0030251	CG2145	32027	-	-	XendoU
+FBgn0030268	Klp10A	32049	-	Kinesin-like protein at 10A	Non-canonical_RBP
+FBgn0030306	Spase25	32095	-	Spase 25-subunit	Non-canonical_RBP
+FBgn0030320	CG2247	32111	-		Non-canonical_RBP
+FBgn0030321	CG1703	32112	-		Non-canonical_RBP
+FBgn0030329	prtp	32124	-	pretaporter	Non-canonical_RBP
+FBgn0030336	CG1578	32135	-	-	Ribonuc_L-PSP
+FBgn0030354	Upf1	32153	-	-	UPF1_Zn_bind
+FBgn0030364	Lsm12	32167	-	LSM12 homolog 	AD
+FBgn0030366	Usp7	32169	-	Ubiquitin-specific protease 7	Non-canonical_RBP
+FBgn0030377	CG1924	32180	-	-	Calreticulin
+FBgn0030433	mRpL49	32242	-	mitochondrial ribosomal protein L49 	Img2
+FBgn0030460	CG2453	32272	-	-	Methyltransf_31
+FBgn0030468	CG1622	32282	-	-	PRP38
+FBgn0030474	CG15747	32288	-	-	DUF2040
+FBgn0030479	Rbp1-like	32293	-	-	RRM_1
+FBgn0030504	CG2691	32320	-	-	NUC173
+FBgn0030506	Lig4	32322	-	Ligase4 	RNA_ligase
+FBgn0030507	CG11164	32323	-	-	RNase_H2-Ydr279
+FBgn0030520	Pdcd4	32337	-	Programmed cell death 4 	MA3
+FBgn0030524	CG10993	32344	-	-	RRM_1
+FBgn0030552	mRpL38	32375	-	mitochondrial ribosomal protein L38	Non-canonical_RBP
+FBgn0030554	CG1434	32377	-	-	Dus
+FBgn0030556	mRNA-cap	32379	-	mRNA-capping-enzyme 	mRNA_cap_enzyme
+FBgn0030571	CG14414	32394	-	-	RRM_1
+FBgn0030572	mRpS25	32395	-	mitochondrial ribosomal protein S25 	L51_S25_CI-B8
+FBgn0030578	CG5347	32403	-	-	zf-CCCH
+FBgn0030608	Lsd-2	32437	-	Lipid storage droplet-2	Non-canonical_RBP
+FBgn0030616	RpL37a	32446	-	Ribosomal protein L37A 	Ribosomal_L37e
+FBgn0030623	PPYR1	32453	-	Protein phosphatase Y regulator 1 	HABP4_PAI-RBP1
+FBgn0030625	CG5877	32455	-	-	NRDE-2
+FBgn0030631	CG6227	32464	-	-	DEAD
+FBgn0030655	CG9213	32490	-	-	CwfJ_C_1
+FBgn0030660	CG8097	32495	-	-	DALR_1
+FBgn0030672	CG9281	32508	-		Non-canonical_RBP
+FBgn0030680	CG8944	32517	-	-	zf-C2H2
+FBgn0030686	mRpL3	32523	-	mitochondrial ribosomal protein L3 	Ribosomal_L3
+FBgn0030687	CG17209	32524	-	-	RNA_pol_Rpb1_5
+FBgn0030692	mRpS30	32530	-	mitochondrial ribosomal protein S30 	PDCD9
+FBgn0030699	CG8578	32540	-	-	LRRFIP
+FBgn0030711	Rrp47	32558	-	Ribosomal RNA processing 47 	Sas10_Utp3
+FBgn0030719	eIF5	32566	-	eukaryotic translation initiation factor 5 	eIF-5_eIF-2B
+FBgn0030720	CG8939	32568	-	-	FtsJ
+FBgn0030761	CG9784	32629	-	-	Exo_endo_phos
+FBgn0030786	mRpL22	32662	-	mitochondrial ribosomal protein L22 	Ribosomal_L22
+FBgn0030789	Rrp45	32665	-	-	RNase_PH
+FBgn0030793	CG9125	2768882	-	-	RAI1
+FBgn0030801	Rcp	32678	-	Receptor component protein 	RNA_pol_Rpb4
+FBgn0030802	DENR	32679	-	Density regulated protein 	SUI1
+FBgn0030833	CG8915	32715	-	-	HA2
+FBgn0030853	ND-24	32740	-	NADH dehydrogenase (ubiquinone) 24 kDa subunit	Non-canonical_RBP
+FBgn0030855	CG5800	32742	-	-	DEAD
+FBgn0030858	IntS2	32745	-	Integrator 2 	INTS2
+FBgn0030864	CG8173	32753	-	-	RIO1
+FBgn0030878	CG6769	32770	-	-	zf-C2H2_jaz
+FBgn0030892	CG7206	32788	-	-	PIN_4
+FBgn0030943	CG6540	32851	-	-	Nup35_RRM
+FBgn0030944	CG6617	32852	-		Non-canonical_RBP
+FBgn0030956	CG18259	32866	-	-	RRM_1
+FBgn0030959	CG6961	32869	-	-	RRM_1
+FBgn0030973	CG7332	32885	-		Non-canonical_RBP
+FBgn0031040	CG14210	32958	-	-	Cgr1
+FBgn0031051	Ranbp21	32970	-	-	Xpo1
+FBgn0031052	CG14215	32971	-		Non-canonical_RBP
+FBgn0031054	Ssu72	32973	-	Ssu72 CTD phosphatase 	Ssu72
+FBgn0031062	CG14230	32984	-	-	RRM_1
+FBgn0031078	Nup205	33002	-	Nucleoporin 205kD	Non-canonical_RBP
+FBgn0031090	Rab35	33014	-	-	MMR_HSR1
+FBgn0031111	Obp19c	33039	-	Odorant-binding protein 19c	Non-canonical_RBP
+FBgn0031115	CG11710	33044	-	-	ASCH
+FBgn0031145	Ntf-2	33078	-	Nuclear transport factor-2 	NTF2
+FBgn0031189	CG14618	33134	-	-	tRNA_m1G_MT
+FBgn0031224	CG11454	33175	-	-	RRM_1
+FBgn0031227	CG3709	33178	-		Non-canonical_RBP
+FBgn0031231	mRpL10	33182	-	mitochondrial ribosomal protein L10 	Ribosomal_L10
+FBgn0031238	CG3645	33190	-	-	Dus
+FBgn0031252	CG13690	33213	-	-	RNase_HII
+FBgn0031266	Sf3b1	33235	-	Splicing factor 3b subunit 1 	SF3b1
+FBgn0031287	CG4291	33264	-	-	zf-U1
+FBgn0031318	CG4887	33304	-	-	G-patch
+FBgn0031319	CG4896	33305	-	-	G-patch
+FBgn0031321	Tgt	33307	-	tRNA-guanine transglycosylase 	TGT
+FBgn0031357	mRpL48	33348	-	mitochondrial ribosomal protein L48 	Ribosomal_S10
+FBgn0031361	CG17652	33353	-	-	Fcf1
+FBgn0031378	CG15362	33371	-	-	DcpS_C
+FBgn0031390	tho2	326153	-	-	Tho2
+FBgn0031392	AIF	33390	-	Apoptosis inducing factor	Non-canonical_RBP
+FBgn0031401	papi	33401	-	-	TUDOR
+FBgn0031419	CG15390	33422	-	-	mTERF
+FBgn0031452	Cwc25	33460	-	-	CWC25
+FBgn0031454	CG9960	3771966	-	-	MTS
+FBgn0031456	Tnpo-SR	33465	-	Transportin-Serine/Arginine rich 	Xpo1
+FBgn0031459	CG2862	33471	-	-	DcpS_C
+FBgn0031483	CG9641	33502	-		Non-canonical_RBP
+FBgn0031485	CG9643	33504	-	-	Methyltransf_31
+FBgn0031492	CG3542	33513	-		Non-canonical_RBP
+FBgn0031493	Sf3b2	33514	-	Splicing factor 3b subunit 2 	DUF382
+FBgn0031494	CG17219	33515	-	-	Methyltransf_31
+FBgn0031497	SerRS	33518	-	Seryl-tRNA synthetase 	tRNA-synt_2b
+FBgn0031592	Art2	33631	-	Arginine methyltransferase 2 	Methyltransf_31
+FBgn0031607	CG15440	33652	-	-	RRM_1
+FBgn0031628	CG3294	33677	-	-	RRM_1
+FBgn0031631	CG3225	33680	-	-	HA2
+FBgn0031637	mxt	33686	-	mextli 	KH_1
+FBgn0031639	mRpS2	33688	-	mitochondrial ribosomal protein S2 	Ribosomal_S2
+FBgn0031643	CG3008	33693	-	-	RIO1
+FBgn0031651	mRpL24	33703	-	mitochondrial ribosomal protein L24 	KOW
+FBgn0031655	Marcal1	33709	-	-	ResIII
+FBgn0031657	CG3756	33712	-	-	RNA_pol_A_bac
+FBgn0031660	mRpL28	33715	-	mitochondrial ribosomal protein L28	Non-canonical_RBP
+FBgn0031670	CG3887	33725	-		Non-canonical_RBP
+FBgn0031677	CG14036	33735	-	-	zf-U11-48K
+FBgn0031736	CG11030	33805	-	-	Sas10_Utp3
+FBgn0031764	CG9107	33843	-	-	RRP7
+FBgn0031766	CG9117	33846	-	-	Lactamase_B
+FBgn0031769	CG9135	33850	-		Non-canonical_RBP
+FBgn0031771	ND-51	33852	-	NADH dehydrogenase (ubiquinone) 51 kDa subunit	Non-canonical_RBP
+FBgn0031776	Pfdn1	33857	-	Prefoldin 1	Non-canonical_RBP
+FBgn0031817	CG9531	33902	-	-	MTS
+FBgn0031822	Phf5a	33909	-	PHD finger protein 5a 	PHF5
+FBgn0031832	CG9596	33920	-	-	Gcd10p
+FBgn0031868	Rat1	33964	-	Rat1 5'-3' exoribonuclease 	XRN_N
+FBgn0031882	Rab30	33988	-	-	MMR_HSR1
+FBgn0031883	Caper	33989	-	-	RRM_1
+FBgn0031920	CG6441	34029	-	-	PAM2
+FBgn0031951	r2d2	34066	-	-	dsrm
+FBgn0031980	RpL36A	34098	-	Ribosomal protein L36A 	Ribosomal_L44
+FBgn0031987	CG12375	34106	-	-	Lactamase_B
+FBgn0031996	CG8460	34115	-		Non-canonical_RBP
+FBgn0032016	Mettl14	34138	-	Methyltransferase like 14 	MT-A70
+FBgn0032031	CG13390	34154	-	-	MMR_HSR1
+FBgn0032050	CG13096	34183	-	-	Ribosomal_L1
+FBgn0032051	CG13097	34184	-	-	Mpp10
+FBgn0032053	mRpL51	34186	-	mitochondrial ribosomal protein L51 	MRP-L51
+FBgn0032138	CG4364	34287	-	-	Pescadillo_N
+FBgn0032149	CG4036	34302	-	-	hmm_2OG-FeII_Oxy
+FBgn0032156	CG13124	34310	-	-	MIF4G
+FBgn0032157	Etl1	34311	-	-	ResIII
+FBgn0032160	CG4598	34315	-		Non-canonical_RBP
+FBgn0032166	CG4619	34321	-		Non-canonical_RBP
+FBgn0032168	CG13126	34323	-	-	Rsm22
+FBgn0032169	CG4709	34324	-	-	G-patch
+FBgn0032194	CG4901	34357	-	-	HA2
+FBgn0032198	eEF1delta	34363	-	eukaryotic translation elongation factor 1 delta 	EF1_GNE
+FBgn0032200	CG5676	34368	-		Non-canonical_RBP
+FBgn0032236	mRpS7	34412	-	mitochondrial ribosomal protein S7 	Ribosomal_S7
+FBgn0032240	CG17768	3772012	-	-	LSM
+FBgn0032242	CG5355	34421	-		Non-canonical_RBP
+FBgn0032256	RluA-2	34440	-	-	PseudoU_synth_2
+FBgn0032259	CG6144	34443	-	-	hmm_2OG-FeII_Oxy_2
+FBgn0032261	CG6094	34446	-	-	RF-1
+FBgn0032276	CG17098	34462	-	-	zf-met
+FBgn0032295	CG12299	34483	-	-	zf-C2H2
+FBgn0032329	Art8	34528	-	Arginine methyltransferase 8 	Methyltransf_31
+FBgn0032346	Csl4	34548	-	-	EXOSC1
+FBgn0032350	CG6287	34554	-		Non-canonical_RBP
+FBgn0032388	CG6686	34608	-	-	SART-1
+FBgn0032407	Pex19	34630	-	Peroxin 19	Non-canonical_RBP
+FBgn0032408	CG6712	34631	-	-	Brix
+FBgn0032430	CG6388	34656	-	-	TRM
+FBgn0032439	Ref2	34667	-	RNA and export factor binding protein 2 	RRM_1
+FBgn0032444	CCT4	34674	-	Chaperonin containing TCP1 subunit 4	Non-canonical_RBP
+FBgn0032453	CG6180	34683	-		Non-canonical_RBP
+FBgn0032454	CG5787	34684	-		Non-canonical_RBP
+FBgn0032455	Pih1D1	34685	-	-	PIH1
+FBgn0032486	mRF1	34720	-	mitochondrial translation release factor 1 	RF-1
+FBgn0032487	Ski6	34721	-	-	RNase_PH
+FBgn0032509	CG6523	34745	-		Non-canonical_RBP
+FBgn0032515	loqs	34751	-	loquacious 	dsrm
+FBgn0032518	RpL24	34754	-	Ribosomal protein L24 	Ribosomal_L24e
+FBgn0032586	Tpr2	34984	-	Tetratricopeptide repeat protein 2	Non-canonical_RBP
+FBgn0032597	CG17904	35000	-		Non-canonical_RBP
+FBgn0032620	CG12288	35027	-	-	RRM_1
+FBgn0032624	CG6304	35032	-	-	PAM2
+FBgn0032625	CG15136	35033	-	-	PAM2
+FBgn0032634	Rpb11	35043	-	-	RNA_pol_L_2
+FBgn0032646	mEFTs	35060	-	mitochondrial translation elongation factor Ts 	EF_TS
+FBgn0032680	Ntf-2r	35101	-	Nuclear transport factor-2-related 	NTF2
+FBgn0032690	CG10333	35112	-	-	DEAD
+FBgn0032701	CG10341	35125	-	-	Gar1
+FBgn0032720	mRpL13	35145	-	mitochondrial ribosomal protein L13 	Ribosomal_L13
+FBgn0032721	CG10602	35146	-	-	Ribosomal_L13
+FBgn0032723	ssp3	35149	-	short spindle 3	Non-canonical_RBP
+FBgn0032724	CG10428	35150	-	-	Methyltransf_31
+FBgn0032725	Nedd8	35151	-		Non-canonical_RBP
+FBgn0032750	CG10495	35179	-	-	Dus
+FBgn0032763	CG17568	35198	-	-	zf-C2H2
+FBgn0032781	RtcB	35220	-	RtcB-like 	RtcB
+FBgn0032783	CG10237	35222	-		Non-canonical_RBP
+FBgn0032788	CG13084	35229	-		Non-canonical_RBP
+FBgn0032789	CG13083	35230	-		Non-canonical_RBP
+FBgn0032818	CG10628	35263	-	-	MMR_HSR1
+FBgn0032819	CG10463	35264	-	-	Dus
+FBgn0032822	CG10466	35268	-	-	RRM_1
+FBgn0032833	COX4	35279	-	Cytochrome c oxidase subunit 4	Non-canonical_RBP
+FBgn0032849	mRpS18B	35299	-	mitochondrial ribosomal protein S18B 	Ribosomal_S18
+FBgn0032870	CG2608	35323	-	-	R3H
+FBgn0032873	CG2614	35326	-	-	Methyltransf_31
+FBgn0032876	Cen	35330	-	Centrocortin	Non-canonical_RBP
+FBgn0032882	Ns4	35338	-	Nucleostemin 4 	MMR_HSR1
+FBgn0032883	Rhau	35339	-	RHAU helicase 	HA2
+FBgn0032919	CG9253	35379	-	-	DEAD
+FBgn0032921	Mpp6	35382	-	M-phase phosphoprotein 6 	MPP6
+FBgn0032922	CG9249	35383	-	-	Methyltransf_31
+FBgn0032924	Nbr	35385	-	Nibbler 	DNA_pol_A_exo1
+FBgn0032925	CG9246	35386	-	-	Noc2
+FBgn0032966	CG1421	35432	-	-	Nup35_RRM_2
+FBgn0032987	RpL21	35453	-	Ribosomal protein L21 	Ribosomal_L21e
+FBgn0033005	CG3107	35475	-		Non-canonical_RBP
+FBgn0033029	Not3	35501	-	CCR4-NOT transcription complex subunit 3 	Not3
+FBgn0033060	CG7849	35537	-	-	TruB_N
+FBgn0033062	Ars2	35539	-	Arsenic resistance protein 2 	ARS2
+FBgn0033092	CG9422	35574	-	-	Alba
+FBgn0033100	CG3420	35585	-		Non-canonical_RBP
+FBgn0033153	Gadd45	35646	-	Growth arrest and DNA damage-inducible 45 	Ribosomal_L7Ae
+FBgn0033160	Dhx15	35654	-	DEAH-box helicase 15 	HA2
+FBgn0033169	CG11123	35664	-	-	PUF
+FBgn0033184	mEFTu2	35681	-	mitochondrial translation elongation factor Tu 2 	GTP_EFTU
+FBgn0033224	Nop17l	35730	-	Nop17 like 	PIH1
+FBgn0033235	CG8728	35748	-		Non-canonical_RBP
+FBgn0033246	ACC	35761	-	Acetyl-CoA carboxylase	Non-canonical_RBP
+FBgn0033252	CG12769	35770	-	-	zf-met
+FBgn0033264	Nup50	35784	-	Nucleoporin 50kD	Non-canonical_RBP
+FBgn0033316	CG14749	35849	-	-	GLE1
+FBgn0033317	CG8635	35850	-	-	zf-CCCH
+FBgn0033351	AIMP1	35892	-	aaRS-interacting multifunctional protein 1 	tRNA_bind
+FBgn0033352	PAN2	35893	-	Poly(A)-binding protein-dependent poly(A) ribonuclease 2 	RNase_T
+FBgn0033378	tsu	35924	-	tsunagi 	RRM_1
+FBgn0033380	Phax	35926	-	Phosphorylated adaptor for RNA export 	RNA_GG_bind
+FBgn0033450	Lsm11	36013	-	-	LSM
+FBgn0033451	CG1665	36014	-		Non-canonical_RBP
+FBgn0033454	CG1671	36019	-	-	Utp13
+FBgn0033473	CG12128	36042	-	-	Methyltrn_RNA_3
+FBgn0033475	CG12129	36044	-	-	AKAP7_NLS
+FBgn0033480	mRpL42	36050	-	mitochondrial ribosomal protein L42 	MRP-S32
+FBgn0033485	RpLP0-like	36058	-	Ribosomal protein LP0-like 	Ribosomal_L10
+FBgn0033490	CG12917	36065	-	-	Endonuclease_NS
+FBgn0033491	CG18011	36068	-	-	zf-C2H2
+FBgn0033528	trsn	36110	-	translin 	Translin
+FBgn0033548	CG7637	36135	-	-	Nop10p
+FBgn0033554	Lsm10	36141	-	-	LSM
+FBgn0033555	RpS15Ab	36142	-	Ribosomal protein S15Ab 	Ribosomal_S8
+FBgn0033556	CG12343	36143	-	-	SYF2
+FBgn0033557	CG12325	36144	-	-	Utp12
+FBgn0033569	CG12942	36158	-	-	zf-C2H2
+FBgn0033571	Rpb5	36160	-	-	RNA_pol_Rpb5_N
+FBgn0033615	CG7741	36208	-	-	CwfJ_C_1
+FBgn0033636	tou	36241	-	toutatis 	MBD
+FBgn0033688	Prp8	36304	-	pre-mRNA processing factor 8 	PROCN
+FBgn0033690	EndoG	36309	-	Endonuclease G 	Endonuclease_NS
+FBgn0033699	RpS11	36321	-	Ribosomal protein S11 	Ribosomal_S17
+FBgn0033741	CG8545	36365	-	-	Methyltr_RsmB-F
+FBgn0033757	muskelin	36386	-		Non-canonical_RBP
+FBgn0033816	CG4679	36466	-		Non-canonical_RBP
+FBgn0033842	cbc	36494	-	crowded by cid 	Clp1
+FBgn0033879	CG6543	36536	-		Non-canonical_RBP
+FBgn0033883	CG16935	36540	-		Non-canonical_RBP
+FBgn0033889	CG6701	36550	-	-	UvrD-helicase
+FBgn0033891	CG8067	36552	-	-	Methyltransf_31
+FBgn0033900	CysRS-m	36563	-	Cysteinyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1e
+FBgn0033902	eIF3m	36565	-	eukaryotic translation initiation factor 3 subunit m	Non-canonical_RBP
+FBgn0033906	CG8331	36569	-		Non-canonical_RBP
+FBgn0033907	mRpS16	36570	-	mitochondrial ribosomal protein S16 	Ribosomal_S16
+FBgn0033912	RpS23	36576	-	Ribosomal protein S23 	Ribosom_S12_S23
+FBgn0033921	tej	36590	-	tejas 	TUDOR
+FBgn0033926	Arc1	36595	-	Activity-regulated cytoskeleton associated protein 1	Non-canonical_RBP
+FBgn0033934	CG17385	36603	-	-	zf-C2H2
+FBgn0033936	Achl	36605	-	Achilles 	La
+FBgn0033993	CG8089	36679	-	-	zf-met
+FBgn0033994	CG7544	36680	-	-	MTS
+FBgn0034001	mRpL41	36688	-	mitochondrial ribosomal protein L41 	MRP-L27
+FBgn0034002	CG8079	36689	-	-	G-patch
+FBgn0034008	CG8152	36696	-	-	G-patch
+FBgn0034065	Rrp42	36766	-	-	RNase_PH
+FBgn0034086	CG8441	36792	-		Non-canonical_RBP
+FBgn0034087	clu	36793	-	clueless 	eIF3_p135
+FBgn0034091	mrj	36797	-		Non-canonical_RBP
+FBgn0034098	krimp	36804	-	krimper 	TUDOR
+FBgn0034138	RpS15	36851	-	Ribosomal protein S15 	Ribosomal_S19
+FBgn0034177	AsnRS-m	36909	-	Asparaginyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2
+FBgn0034179	CG6805	36911	-	-	Exo_endo_phos
+FBgn0034181	CG8963	36913	-	-	MIF4G
+FBgn0034187	CG6967	36922	-		Non-canonical_RBP
+FBgn0034205	CG10950	36942	-	-	Xpo1
+FBgn0034232	CG4866	36976	-	-	S4
+FBgn0034237	eIF3b	36981	-	eukaryotic translation initiation factor 3 subunit b 	eIF2A
+FBgn0034243	Ns2	36989	-	Nucleostemin 2 	MMR_HSR1
+FBgn0034246	Dcr-2	36993	-	Dicer-2 	Ribonuclease_3
+FBgn0034258	eIF3c	37005	-	eukaryotic translation initiation factor 3 subunit c 	eIF-3c_N
+FBgn0034274	CG10931	37024	-	-	eIF2A
+FBgn0034277	OstDelta	37029	-	Oligosaccharide transferase Delta subunit	Non-canonical_RBP
+FBgn0034307	CG10914	37075	-	-	MMR_HSR1
+FBgn0034313	CG5726	37082	-		Non-canonical_RBP
+FBgn0034345	CG5174	37117	-		Non-canonical_RBP
+FBgn0034351	rswl	37124	-	roswell 	tRNA_m1G_MT
+FBgn0034361	mRpS28	37136	-	mitochondrial ribosomal protein S28 	MRP-S35
+FBgn0034366	Atg7	37141	-	Autophagy-related 7	Non-canonical_RBP
+FBgn0034390	CG15093	37166	-		Non-canonical_RBP
+FBgn0034401	MetRS	37177	-	Methionyl-tRNA synthetase 	tRNA-synt_1g
+FBgn0034422	CG7137	37204	-	-	Methyltransf_8
+FBgn0034432	CG7461	37217	-		Non-canonical_RBP
+FBgn0034446	Arl6	37236	-	ADP ribosylation factor-like 6 	MMR_HSR1
+FBgn0034496	CG9143	37296	-	-	DEAD
+FBgn0034512	CG18067	37314	-		Non-canonical_RBP
+FBgn0034528	CG11180	37330	-	-	G-patch
+FBgn0034564	CG9344	37372	-	-	LSM
+FBgn0034572	CG9346	37381	-	-	Surp
+FBgn0034579	mRpL54	37389	-	mitochondrial ribosomal protein L54 	Ribosomal_L37
+FBgn0034598	CG4266	37411	-	-	RRM_1
+FBgn0034627	eEFSec	37444	-	eukaryotic translation elongation factor%2C selenocysteine-specific 	GTP_EFTU
+FBgn0034643	CG10321	37464	-	-	zf-C2H2
+FBgn0034646	Rae1	37467	-		Non-canonical_RBP
+FBgn0034654	eIF3k	37475	-	eukaryotic translation initiation factor 3 subunit k	Non-canonical_RBP
+FBgn0034659	CG4021	37484	-	-	KH_1
+FBgn0034691	Synj	37517	-	Synaptojanin 	DUF1866
+FBgn0034703	CG3045	37531	-	-	PseudoU_synth_1
+FBgn0034727	mRpS29	37563	-	mitochondrial ribosomal protein S29 	DAP3
+FBgn0034731	CG10384	37567	-	-	KH_1
+FBgn0034734	CG4554	37570	-	-	DRIM
+FBgn0034735	CG4610	37571	-	-	GIDA_assoc
+FBgn0034739	CG3927	37576	-	-	KH_1
+FBgn0034740	nsr	37577	-	novel spermatogenesis regulator 	KH_1
+FBgn0034742	CG4294	37579	-	-	zf-C3H1
+FBgn0034743	RpS16	37580	-	Ribosomal protein S16 	Ribosomal_S9
+FBgn0034748	CG17807	37585	-	-	hmm_2OG-FeII_Oxy_2
+FBgn0034750	CG3732	37588	-	-	zf-RanBP
+FBgn0034763	RYBP	37601	-	Ring and YY1 Binding Protein 	zf-RanBP
+FBgn0034802	CNBP	37646	-	CCHC-type zinc finger nucleic acid binding protein 	zf-CCHC
+FBgn0034822	RpL37b	37669	-	Ribosomal protein L37b 	Ribosomal_L37e
+FBgn0034834	LS2	37681	-	Large Subunit 2 	RRM_1
+FBgn0034837	RpL22-like	37684	-	Ribosomal protein L22-like 	Ribosomal_L22e
+FBgn0034858	eIF2Bdelta	37706	-	eukaryotic translation initiation factor 2B subunit delta 	IF-2B
+FBgn0034879	Rrp4	37731	-	-	ECR1_N
+FBgn0034893	mRpL43	37750	-	mitochondrial ribosomal protein L43 	L51_S25_CI-B8
+FBgn0034918	Pym	37780	-	Partner of Y14 and Mago 	Mago-bind
+FBgn0034921	DCP1	37790	-	Decapping protein 1 	DCP1
+FBgn0034923	Upf3	37792	-	-	Smg4_UPF3
+FBgn0034963	Not11	37839	-	CCR4-NOT transcription complex subunit 11 	CNOT11
+FBgn0034968	RpL12	45329	-	Ribosomal protein L12 	Ribosomal_L11_N
+FBgn0034976	CG4049	37860	-	-	ResIII
+FBgn0034986	mRpS17	37872	-	mitochondrial ribosomal protein S17 	Ribosomal_S17
+FBgn0035016	CG4612	37914	-	-	RRM_1
+FBgn0035021	CG4622	37919	-	-	zf-CCHC
+FBgn0035024	CG11414	37923	-		Non-canonical_RBP
+FBgn0035047	Pof	37947	-	Painting of fourth 	RRM_1
+FBgn0035063	CG3594	37964	-	-	RRM_1
+FBgn0035064	TyrRS-m	37965	-	Tyrosyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1b
+FBgn0035110	thoc7	38033	-	-	THOC7
+FBgn0035111	Dis3l2	38034	-	Dis3 like 3'-5' exoribonuclease 2 	RNB
+FBgn0035121	Tudor-SN	38045	-	Tudor staphylococcal nuclease 	SNase
+FBgn0035122	mRpL17	38046	-	mitochondrial ribosomal protein L17 	Ribosomal_L17
+FBgn0035134	CG1231	38060	-	-	zf-met
+FBgn0035155	RabX6	38084	-	-	MMR_HSR1
+FBgn0035162	Sf3b3	38093	-	Splicing factor 3b subunit 3 	CPSF_A
+FBgn0035203	CG9149	38147	-		Non-canonical_RBP
+FBgn0035235	CG7879	38184	-	-	RRM_1
+FBgn0035247	metl	38197	-	methyltransferase-like 	Methyltransf_31
+FBgn0035253	CG7971	38206	-	-	SRRM_C
+FBgn0035255	RabX5	38209	-	-	MMR_HSR1
+FBgn0035271	CG2021	38229	-	-	LSM
+FBgn0035272	mRpL46	38230	-	mitochondrial ribosomal protein L46 	MRP-L46
+FBgn0035323	CG13807	38290	-	-	RAM
+FBgn0035328	yellow-g2	38295	-		Non-canonical_RBP
+FBgn0035334	CG8993	38301	-		Non-canonical_RBP
+FBgn0035335	mRpL23	38302	-	mitochondrial ribosomal protein L23 	Ribosomal_L23
+FBgn0035336	CG9004	38303	-	-	MA3
+FBgn0035374	mRpS35	38345	-	mitochondrial ribosomal protein S35 	MRP-S28
+FBgn0035383	CPT2	38355	-	Carnitine palmitoyltransferase 2	Non-canonical_RBP
+FBgn0035388	CG2162	38360	-	-	R3H
+FBgn0035402	Usp5	38375	-	Ubiquitin specific protease 5	Non-canonical_RBP
+FBgn0035415	CG14966	38390	-		Non-canonical_RBP
+FBgn0035421	CG12034	38396	-	-	Exo_endo_phos
+FBgn0035422	RpL28	38397	-	Ribosomal protein L28 	Ribosomal_L28e
+FBgn0035423	eIF1	38398	-	eukaryotic translation initiation factor 1 	SUI1
+FBgn0035424	CG11505	38399	-	-	La
+FBgn0035481	CG12605	38468	-	-	zf-C2H2
+FBgn0035482	CG14985	38470	-		Non-canonical_RBP
+FBgn0035520	CG11586	38520	-	-	zf-C2H2_jaz
+FBgn0035524	CG11583	326206	-	-	Brix
+FBgn0035526	CG1316	38526	-	-	RRM_1
+FBgn0035532	CG15014	38533	-	-	THUMP
+FBgn0035534	mRpS6	38535	-	mitochondrial ribosomal protein S6 	Ribosomal_S6
+FBgn0035537	CG11342	38538	-	-	Bin3
+FBgn0035590	Prpk	38600	-	p53-related protein kinase 	RIO1
+FBgn0035591	CG4611	38601	-	-	PPR
+FBgn0035625	Blimp-1	38638	-	-	zf-C2H2
+FBgn0035626	lin-28	38639	-	-	CSD
+FBgn0035630	CG10576	38645	-		Non-canonical_RBP
+FBgn0035675	CG6610	38693	-	-	LSM
+FBgn0035692	Sf3b6	38720	-	Splicing factor 3b subunit 6 	RRM_1
+FBgn0035693	CG8219	38722	-	-	IBN_N
+FBgn0035707	CG8368	\N	-	-	RNase_T
+FBgn0035709	eIF4E4	38743	-	eukaryotic translation initiation factor 4E4 	IF4E
+FBgn0035711	CG8519	38745	-	-	MMR_HSR1
+FBgn0035714	CG8549	38749	-	-	SBDS
+FBgn0035720	CG10077	38756	-	-	DEAD
+FBgn0035753	RpL18	38794	-	Ribosomal protein L18	Non-canonical_RBP
+FBgn0035771	Sec63	38819	-	Secretory 63	Non-canonical_RBP
+FBgn0035811	CG12262	38864	-		Non-canonical_RBP
+FBgn0035823	eIF4E5	38878	-	eukaryotic translation initiation factor 4E5 	IF4E
+FBgn0035827	Srp9	38883	-	Signal recognition particle protein 9 	SRP9-21
+FBgn0035831	CG8038	38889	-	-	UPF0086
+FBgn0035838	ldbr	38900	-	lariat debranching enzyme 	DBR1
+FBgn0035866	Arl5	38931	-	ADP-ribosylation factor-like 5 	MMR_HSR1
+FBgn0035872	CG7185	38937	-	-	RRM_1
+FBgn0035901	CG6745	38969	-	-	TruD
+FBgn0035911	CG6638	38979	-		Non-canonical_RBP
+FBgn0035942	ValRS-m	39023	-	Valyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1
+FBgn0035947	Srp68	39028	-	Signal recognition particle protein 68	Non-canonical_RBP
+FBgn0035978	UGP	39065	-		Non-canonical_RBP
+FBgn0035980	mRRF1	39067	-	mitochondrial ribosome recycling factor 1 	RRF
+FBgn0035987	CG3689	39083	-	-	NUDIX_2
+FBgn0036000	CG3434	39098	-	-	TGT
+FBgn0036018	CG3335	39119	-	-	RRM_1
+FBgn0036035	CG18178	39138	-		Non-canonical_RBP
+FBgn0036057	CG14164	39167	-	-	AD
+FBgn0036104	CG6418	39218	-	-	DEAD
+FBgn0036124	CG7839	39240	-	-	CBF
+FBgn0036135	mRpL2	39253	-	mitochondrial ribosomal protein L2 	Ribosomal_L2_C
+FBgn0036136	Ufd1-like	39254	-	Ubiquitin fusion-degradation 1-like	Non-canonical_RBP
+FBgn0036147	Plod	39265	-	procollagen lysyl hydroxylase 	hmm_2OG-FeII_Oxy
+FBgn0036156	CG11726	39275	-	-	RRM_1
+FBgn0036187	RIOK1	39309	-	RIO kinase 1 	RIO1
+FBgn0036188	CG7339	39310	-	-	RNA_pol_Rbc25
+FBgn0036213	RpL10Ab	39338	-	Ribosomal protein L10Ab 	Ribosomal_L1
+FBgn0036239	Pop2	39366	-	-	CAF1
+FBgn0036258	eIF3l	39386	-	eukaryotic translation initiation factor 3 subunit l 	Paf67
+FBgn0036266	CG5626	39397	-	-	tRNA_int_end_N2
+FBgn0036273	INPP5E	39404	-	Inositol polyphosphate 5-phosphatase E 	Exo_endo_phos
+FBgn0036277	CG10418	39408	-	-	LSM
+FBgn0036290	CG10638	39424	-		Non-canonical_RBP
+FBgn0036314	Sf3a2	39456	-	Splicing factor 3a subunit 2 	zf-met
+FBgn0036317	CG10948	39459	-	-	RRM_1
+FBgn0036321	CG14120	39463	-	-	Endonuclease_NS
+FBgn0036323	CG14118	39465	-	-	Endonuclease_NS
+FBgn0036335	mRpL20	39477	-	mitochondrial ribosomal protein L20 	Ribosomal_L20
+FBgn0036340	SRm160	39483	-	-	PWI
+FBgn0036386	CG8833	39535	-	-	DUF1604
+FBgn0036405	CG6833	39559	-	-	RNase_T
+FBgn0036450	Tdrd3	39612	-	Tudor domain containing 3 	SMN
+FBgn0036451	CG9425	39613	-	-	zf-CCCH
+FBgn0036462	mRpL39	39627	-	mitochondrial ribosomal protein L39	Non-canonical_RBP
+FBgn0036486	Msh6	39654	-		Non-canonical_RBP
+FBgn0036487	Prp31	39655	-	Pre-mRNA processing factor 31 	Nop
+FBgn0036496	CG7804	39665	-	-	RRM_1
+FBgn0036500	CG7275	39669	-	-	Sof1
+FBgn0036505	CG7945	39679	-		Non-canonical_RBP
+FBgn0036514	CG12301	39689	-	-	Utp14
+FBgn0036522	CG7372	39697	-	-	zf-C2H2
+FBgn0036534	DCP2	39722	-	Decapping protein 2 	DCP2
+FBgn0036537	CG18081	39725	-		Non-canonical_RBP
+FBgn0036557	mRpS31	39749	-	mitochondrial ribosomal protein S31 	MRP-S31
+FBgn0036569	IleRS-m	39762	-	Isoleucyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1
+FBgn0036570	IntS9	39763	-	Integrator 9 	Beta-Casp
+FBgn0036621	roq	39818	-	roquin 	zf-CCCH
+FBgn0036629	GluRS-m	39828	-	Glutamyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1c
+FBgn0036640	nxf2	39843	-	nuclear RNA export factor 2 	TAP_C
+FBgn0036641	Smn	39844	-	survival motor neuron 	SMN
+FBgn0036661	CG9705	39875	-	-	CSD
+FBgn0036686	CG7728	39904	-	-	AARP2CN
+FBgn0036691	beg	39910	-	bad egg	Non-canonical_RBP
+FBgn0036696	CG14057	39915	-	-	RNase_P_Rpp14
+FBgn0036728	UQCR-Q	39950	-	Ubiquinol-cytochrome c reductase ubiquinone-binding protein	Non-canonical_RBP
+FBgn0036733	U4-U6-60K	39955	-	U4-U6 small nuclear riboprotein factor 60K 	PRP4
+FBgn0036734	CG7564	39956	-	-	LUC7
+FBgn0036735	Edc3	39957	-	Enhancer of decapping 3	Non-canonical_RBP
+FBgn0036754	CG5589	39979	-	-	DEAD
+FBgn0036763	TrpRS-m	39989	-	Tryptophanyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1b
+FBgn0036774	mRpS26	40001	-	mitochondrial ribosomal protein S26 	MRP-S26
+FBgn0036775	CG5147	40002	-	-	RNA_pol_Rpc4
+FBgn0036795	CG18233	40025	-	-	hmm_2OG-FeII_Oxy
+FBgn0036812	Nufip	40043	-	-	NUFIP1
+FBgn0036825	RpL26	40060	-	Ribosomal protein L26 	KOW
+FBgn0036826	arx	40061	-	asterix 	zf-U11-48K
+FBgn0036828	CG6841	40064	-	-	PRP1_N
+FBgn0036831	CG6839	40067	-	-	Endonuclease_NS
+FBgn0036833	CG3819	40069	-	-	Endonuclease_NS
+FBgn0036838	CG3808	40074	-	-	tRNA_U5-meth_tr
+FBgn0036847	CNPYb	40084	-	Canopy b	Non-canonical_RBP
+FBgn0036850	Gem2	40087	-	Gemin2 	SIP1
+FBgn0036853	mRpL21	40091	-	mitochondrial ribosomal protein L21 	Ribosomal_L21p
+FBgn0036856	CG9666	40096	-	-	MTS
+FBgn0036886	CG9300	40128	-	-	NUC205
+FBgn0036888	CG9330	40131	-		Non-canonical_RBP
+FBgn0036889	CG14100	40132	-	-	SpoU_methylase
+FBgn0036892	Lon	40138	-	Lon protease	Non-canonical_RBP
+FBgn0036915	Prp3	40172	-	Precursor RNA processing 3 	PRP3
+FBgn0036916	Mtr3	40173	-	-	RNase_PH
+FBgn0036918	Pfdn6	40176	-	Prefoldin 6	Non-canonical_RBP
+FBgn0036927	Gabat	40188	-	gamma-aminobutyric acid transaminase	Non-canonical_RBP
+FBgn0036964	FRG1	40228	-	FSHD region gene 1 	FRG1
+FBgn0036974	eRF1	40240	-	eukaryotic translation release factor 1 	eRF1_2
+FBgn0036990	mRpL15	40261	-	mitochondrial ribosomal protein L15 	Ribosomal_L27A
+FBgn0037008	mTerf3	40279	-	mitochondrial transcription termination factor 3 	mTERF
+FBgn0037024	tzn	40299	-	tenzing norgay 	Lactamase_B
+FBgn0037061	CG12975	40343	-	-	Trm112p
+FBgn0037073	Tsr1	40360	-	Tsr1 ribosome assembly factor 	AARP2CN
+FBgn0037081	barc	40369	-	barricade 	RRM_1
+FBgn0037120	CG11247	40414	-	-	zf-C2H2
+FBgn0037121	Rpb8	40415	-	-	RNA_pol_Rpb8
+FBgn0037135	CG7414	40431	-	-	eIF2A
+FBgn0037137	Nopp140	40433	-	-	SRP40_C
+FBgn0037138	P5CDh1	40434	-	delta-1-Pyrroline-5-carboxylate dehydrogenase 1	Non-canonical_RBP
+FBgn0037200	CG11109	40507	-	-	Methyltr_RsmB-F
+FBgn0037220	CG14641	40529	-	-	RRM_1
+FBgn0037232	Suv3	40543	-	Suv3 helicase 	SUV3_C
+FBgn0037248	srl	40562	-	spargel 	RRM_1
+FBgn0037249	eIF3a	40563	-	eukaryotic translation initiation factor 3 subunit a	Non-canonical_RBP
+FBgn0037250	CG1074	40564	-	-	UPF0020
+FBgn0037255	Fip1	40569	-	Factor interacting with poly(A) polymerase 1 	Fip1
+FBgn0037275	CG14655	40594	-	-	zf-C2H2
+FBgn0037301	Mms19	40626	-		Non-canonical_RBP
+FBgn0037328	RpL35A	40654	-	Ribosomal protein L35A 	Ribosomal_L35Ae
+FBgn0037330	mRpL44	40656	-	mitochondrial ribosomal protein L44	Non-canonical_RBP
+FBgn0037342	CG2931	40673	-	-	RRM_1
+FBgn0037351	RpL13A	40687	-	Ribosomal protein L13A 	Ribosomal_L13
+FBgn0037364	Rab23	40701	-	-	MMR_HSR1
+FBgn0037368	CG1239	40706	-	-	Bin3
+FBgn0037369	CG2100	40707	-	-	PolyA_pol
+FBgn0037371	Sym	40709	-	Symplekin 	Symplekin_C
+FBgn0037372	CG2091	40711	-	-	DcpS_C
+FBgn0037377	CG1218	40718	-		Non-canonical_RBP
+FBgn0037379	CG10979	40720	-	-	zf-C2H2
+FBgn0037382	Hpr1	40723	-	-	efThoc1
+FBgn0037391	CG2017	40733	-	-	GTP_EFTU
+FBgn0037435	CG18048	40782	-	-	TRM13
+FBgn0037468	CG1943	40844	-		Non-canonical_RBP
+FBgn0037470	Tailor	40847	-	-	PAP_assoc
+FBgn0037482	CG10055	40862	-	-	SHQ1
+FBgn0037489	CG1234	40870	-	-	CBF
+FBgn0037490	CG10053	40871	-	-	G-patch
+FBgn0037504	CG1142	40894	-	-	Fcf2
+FBgn0037526	ArgRS-m	40929	-	Arginyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_1d
+FBgn0037529	mRpS9	40932	-	mitochondrial ribosomal protein S9 	Ribosomal_S9
+FBgn0037549	CG7878	40959	-	-	DEAD
+FBgn0037550	CG9667	40960	-	-	Isy1
+FBgn0037551	Gie	40961	-	GTPase indispensable for equal segregation of chromosomes 	MMR_HSR1
+FBgn0037561	CG9630	40974	-	-	DEAD
+FBgn0037566	mRpL1	40980	-	mitochondrial ribosomal protein L1 	Ribosomal_L1
+FBgn0037569	tex	40983	-	-	eIF2A
+FBgn0037573	CG7483	40987	-	-	DEAD
+FBgn0037583	CG9684	41000	-	-	TUDOR
+FBgn0037602	SLIRP2	41021	-	SRA stem-loop interacting RNA binding protein 2 	RRM_1
+FBgn0037607	CG8036	41027	-		Non-canonical_RBP
+FBgn0037608	mRpL19	41028	-	mitochondrial ribosomal protein L19 	Ribosomal_L19
+FBgn0037618	ouib	41039	-	ouija board 	zf-C2H2
+FBgn0037619	CG8159	41040	-	-	zf-C2H2
+FBgn0037624	CG8223	41045	-		Non-canonical_RBP
+FBgn0037632	CCT7	41054	-	Chaperonin containing TCP1 subunit 7	Non-canonical_RBP
+FBgn0037643	skap	41067	-	skpA associated protein	Non-canonical_RBP
+FBgn0037647	RagA-B	41071	-	Ras-related GTP binding A/B 	MMR_HSR1
+FBgn0037652	CG11980	41078	-		Non-canonical_RBP
+FBgn0037686	RpL34b	41120	-	Ribosomal protein L34b 	Ribosomal_L34e
+FBgn0037700	CG8149	41137	-	-	SAP
+FBgn0037707	RnpS1	41147	-	RNA-binding protein S1 	RRM_1
+FBgn0037708	CG9386	41148	-	-	AdoMet_MTase
+FBgn0037713	CG16790	41155	-	-	HVSL
+FBgn0037716	CG8273	41159	-	-	dsrm
+FBgn0037722	CG8319	41165	-	-	zf-C2H2
+FBgn0037723	SpdS	41167	-	Spermidine Synthase	Non-canonical_RBP
+FBgn0037734	trbd	41179	-	trabid 	zf-RanBP
+FBgn0037770	Art4	41219	-	Arginine methyltransferase 4 	Methyltransf_31
+FBgn0037778	mtTFB2	41228	-	mitochondrial transcription factor B2 	RrnaAD
+FBgn0037794	CG6254	41244	-	-	zf-C2H2
+FBgn0037815	Rrp46	41270	-	-	RNase_PH
+FBgn0037834	Art1	41295	-	Arginine methyltransferase 1 	Methyltransf_31
+FBgn0037857	Tengl4	41321	-	Testis EndoG-Like 4 	Endonuclease_NS
+FBgn0037862	CG4706	41326	-	-	Aconitase
+FBgn0037877	CG6689	41345	-	-	zf-C2H2
+FBgn0037878	CG6693	41346	-		Non-canonical_RBP
+FBgn0037891	CG5214	41360	-		Non-canonical_RBP
+FBgn0037892	mRpL40	41364	-	mitochondrial ribosomal protein L40 	MRP-L28
+FBgn0037894	Ranbp9	41367	-	-	IBN_N
+FBgn0037899	RpL24-like	41372	-	Ribosomal protein L24-like 	Ribosomal_L24e
+FBgn0037901	CG6744	41374	-	-	DNA_pol_A_exo1
+FBgn0037912	sea	3772221	-	scheggia	Non-canonical_RBP
+FBgn0037922	CG14711	41395	-	-	zf-C2H2
+FBgn0037923	CG6813	41396	-	-	zf-C2H2
+FBgn0037939	CG14718	41413	-	-	zf-RanBP
+FBgn0037994	eIF3d2	41475	-	eukaryotic translation initiation factor 3 subunit d2 	eIF-3_zeta
+FBgn0038013	CG10038	41495	-		Non-canonical_RBP
+FBgn0038016	MBD-R2	41498	-	-	MBD
+FBgn0038035	lig3	\N	-	DNA ligase III 	RNA_ligase
+FBgn0038046	CG5641	41529	-	-	DZF
+FBgn0038057	CG12267	41542	-	-	RNA_pol_Rpc82
+FBgn0038074	Gnmt	41561	-	Glycine N-methyltransferase 	Methyltransf_31
+FBgn0038090	CG10909	41581	-	-	Fibrillarin
+FBgn0038100	Paip2	41591	-	polyA-binding protein interacting protein 2 	PAM2
+FBgn0038106	CG7488	41597	-	-	MMR_HSR1
+FBgn0038107	CG17327	41598	-	-	PTH2
+FBgn0038108	CG7518	41599	-		Non-canonical_RBP
+FBgn0038146	CG9799	41647	-	-	Utp21
+FBgn0038168	omd	41674	-	oocyte maintenance defects 	INTS5_C
+FBgn0038189	Art6	41699	-	Arginine methyltransferase 6 	MTS
+FBgn0038191	CG9925	41702	-	-	TUDOR
+FBgn0038234	mRpL11	41757	-	mitochondrial ribosomal protein L11 	Ribosomal_L11_N
+FBgn0038235	CG8461	41758	-	-	RRP36
+FBgn0038251	Hexim	41778	-	Hexamethylene bisacetamide inducible 	HEXIM
+FBgn0038269	Rrp6	41798	-	-	DNA_pol_A_exo1
+FBgn0038271	UQCR-C1	41800	-	Ubiquinol-cytochrome c reductase core protein 1	Non-canonical_RBP
+FBgn0038274	Nup93-2	41804	-	Nucleoporin 93kD-2	Non-canonical_RBP
+FBgn0038275	CG3817	41805	-	-	Rrp15p
+FBgn0038277	RpS5b	41807	-	Ribosomal protein S5b 	Ribosomal_S7
+FBgn0038281	RpL10Aa	41811	-	Ribosomal protein L10Aa 	Ribosomal_L1
+FBgn0038301	CG6654	41831	-	-	zf-C2H2
+FBgn0038306	Art3	41837	-	Arginine methyltransferase 3 	Methyltransf_31
+FBgn0038307	mRpS10	41838	-	mitochondrial ribosomal protein S10 	Ribosomal_S10
+FBgn0038319	mRpL9	41859	-	mitochondrial ribosomal protein L9 	Ribosomal_L9_N
+FBgn0038327	Trax	41871	-	Translin associated factor X 	Translin
+FBgn0038344	obe	41891	-	obelus 	DEAD
+FBgn0038345	CG5213	41892	-	-	RRM_1
+FBgn0038381	EndoU	41931	-	Endoribonuclease U-specific 	XendoU
+FBgn0038426	mRpS33	41991	-	mitochondrial ribosomal protein S33 	MRP-S33
+FBgn0038428	CG14894	41993	-		Non-canonical_RBP
+FBgn0038446	CG14903	42014	-	-	PTH2
+FBgn0038471	CG5220	42056	-	-	FtsJ
+FBgn0038473	Ns1	42060	-	Nucleostemin 1 	GN3L_Grn1
+FBgn0038474	mRpS11	42061	-	mitochondrial ribosomal protein S11 	Ribosomal_S11
+FBgn0038476	kuk	42063	-	kugelkern	Non-canonical_RBP
+FBgn0038535	alt	42127	-	aluminum tubes	Non-canonical_RBP
+FBgn0038548	CG17806	42142	-	-	zf-C2H2
+FBgn0038549	CG17802	42143	-	-	zf-C2H2
+FBgn0038585	Non3	42183	-	Novel nucleolar protein 3 	Brix
+FBgn0038590	CG12320	42189	-	-	AAR2
+FBgn0038597	CG8064	42196	-	-	Utp12
+FBgn0038601	CG18600	42201	-	-	RNA_pol_I_A49
+FBgn0038608	WRNexo	42208	-	WRN exonuclease 	DNA_pol_A_exo1
+FBgn0038659	EndoA	42265	-	Endophilin A	Non-canonical_RBP
+FBgn0038678	mRpL55	42290	-	mitochondrial ribosomal protein L55 	Mitoc_L55
+FBgn0038704	CG5316	42322	-	-	DcpS_C
+FBgn0038723	CG6195	42343	-	-	MMR_HSR1
+FBgn0038737	CG11447	42359	-	-	FtsJ
+FBgn0038738	CG4572	42360	-		Non-canonical_RBP
+FBgn0038746	Surf6	42370	-	Surfeit 6 	SURF6
+FBgn0038765	CG4424	42390	-	-	zf-C2H2
+FBgn0038769	CG10889	42394	-	-	RNase_Zc3h12a
+FBgn0038772	mdlc	42397	-	midlife crisis 	zf-CCCH
+FBgn0038796	eIF3g2	42422	-	eukaryotic translation initiation factor 3 subunit g2 	eIF3g
+FBgn0038805	TFAM	42433	-	mitochondrial transcription factor A	Non-canonical_RBP
+FBgn0038808	Srp14	42436	-	Signal recognition particle protein 14 	SRP14
+FBgn0038810	Srp72	42439	-	Signal recognition particle protein 72 	SRP72
+FBgn0038811	PUS1	42440	-	pseudouridylate synthase 1 	PseudoU_synth_1
+FBgn0038826	Syp	42460	-	Syncrip 	RRM_1
+FBgn0038834	RpS30	42470	-	Ribosomal protein S30 	Ribosomal_S30
+FBgn0038861	CG7009	42508	-	-	FtsJ
+FBgn0038887	CG7907	42539	-	-	MIF4G_like_2
+FBgn0038889	Fancm	42543	-	Fanconi anemia group M helicase 	ResIII
+FBgn0038915	CG17819	42579	-	-	MMR_HSR1
+FBgn0038916	dnd	42580	-	dead end 	MMR_HSR1
+FBgn0038922	Idh3b	42586	-	Isocitrate dehydrogenase 3b	Non-canonical_RBP
+FBgn0038923	mRpL35	42588	-	mitochondrial ribosomal protein L35 	Ribosomal_L35p
+FBgn0038934	Gld2	42602	-	GLD2 poly(A) polymerase 	PAP_assoc
+FBgn0038947	Sar1	42615	-	Secretion-associated Ras-related 1 	MMR_HSR1
+FBgn0038951	CG5380	42619	-	-	RNA_pol_Rpc34
+FBgn0038953	CG18596	42622	-	-	SpoU_methylase
+FBgn0038961	CG13850	42630	-		Non-canonical_RBP
+FBgn0038964	Nop56	42633	-	-	Nop
+FBgn0038968	CG12499	42637	-	-	Npa1
+FBgn0038981	CG5346	42653	-	-	hmm_2OG-FeII_Oxy
+FBgn0038989	CG6937	42662	-	-	RRM_1
+FBgn0039016	Dcr-1	42693	-	Dicer-1 	Ribonuclease_3
+FBgn0039020	CG17141	42697	-	-	MMR_HSR1
+FBgn0039115	CG10214	42811	-	-	RNase_T
+FBgn0039117	tst	42813	-	twister 	rRNA_proc-arch
+FBgn0039129	RpS19b	42830	-	Ribosomal protein S19b 	Ribosomal_S19e
+FBgn0039139	Ime4	42844	-	Inducer of meiosis 4 	MT-A70
+FBgn0039149	CG18428	42857	-	-	SR-25
+FBgn0039153	GatB	42861	-	Glutamyl-tRNA amidotransferase%2C subunit B 	GatB_Yqey
+FBgn0039159	mRpS24	42870	-	mitochondrial ribosomal protein S24 	MRP-S24
+FBgn0039175	beta-PheRS	42888	-	Phenylalanyl-tRNA synthetase%2C beta-subunit 	B3_4
+FBgn0039182	CG5728	42899	-	-	S1
+FBgn0039183	Dis3	42900	-	-	RNB
+FBgn0039189	CG18528	42906	-	-	MMR_HSR1
+FBgn0039210	CG13625	42931	-	-	Bud13
+FBgn0039215	CG6695	42937	-	-	DRY_EERY
+FBgn0039218	Rpb10	42942	-	-	RNA_pol_N
+FBgn0039219	CG13630	42943	-		Non-canonical_RBP
+FBgn0039229	Saf-B	42958	-	Scaffold attachment factor B 	RRM_1
+FBgn0039233	CG7006	42963	-	-	UPF0113
+FBgn0039241	CG11089	42973	-		Non-canonical_RBP
+FBgn0039251	Trf4-2	42983	-	Topoisomerase related function 4-2 	PAP_assoc
+FBgn0039260	Smg6	42994	-	-	EST1_DNA_bind
+FBgn0039261	CG6422	42995	-	-	YTH
+FBgn0039274	CG11920	43009	-	-	Brix
+FBgn0039300	RpS27	43039	-	Ribosomal protein S27 	Ribosomal_S27e
+FBgn0039302	Nup358	43041	-	Nucleoporin 358kD 	zf-RanBP
+FBgn0039306	RIOK2	43046	-	RIO kinase 2 	RIO1
+FBgn0039336	CG4553	43078	-		Non-canonical_RBP
+FBgn0039338	XNP	43080	-	-	ResIII
+FBgn0039339	CG5116	43081	-	-	MMR_HSR1
+FBgn0039348	Npl4	43091	-	Nuclear protein localization 4	Non-canonical_RBP
+FBgn0039359	RpL27	43103	-	Ribosomal protein L27 	Ribosomal_L27e
+FBgn0039379	CG5886	43125	-		Non-canonical_RBP
+FBgn0039385	CG5913	43132	-	-	DUF2465
+FBgn0039404	CG14543	43167	-	-	WGG
+FBgn0039406	RpL34a	43169	-	Ribosomal protein L34a 	Ribosomal_L34e
+FBgn0039407	CG14544	43170	-	-	GCD14
+FBgn0039488	CG6066	43267	-		Non-canonical_RBP
+FBgn0039537	CG5590	43325	-		Non-canonical_RBP
+FBgn0039555	mRpS22	43345	-	mitochondrial ribosomal protein S22 	MRP-S22
+FBgn0039557	CG12259	43347	-		Non-canonical_RBP
+FBgn0039566	CG4849	43358	-	-	GTP_EFTU
+FBgn0039588	mIF2	43382	-	mitochondrial translation initiation factor 2 	GTP_EFTU
+FBgn0039592	CG14062	43389	-	-	Endonuclease_NS
+FBgn0039593	Sid	43390	-	Stress induced DNase 	Endonuclease_NS
+FBgn0039600	CG1646	43399	-		Non-canonical_RBP
+FBgn0039622	eIF4E6	43422	-	eukaryotic translation initiation factor 4E6 	IF4E
+FBgn0039626	Slu7	43427	-	-	Slu7
+FBgn0039627	CG11837	43429	-	-	RrnaAD
+FBgn0039632	Cul5	43434	-	Cullin 5	Non-canonical_RBP
+FBgn0039635	CG11876	43437	-		Non-canonical_RBP
+FBgn0039659	CG14506	43467	-	-	RRM_1
+FBgn0039678	Obp99a	43488	-	Odorant-binding protein 99a	Non-canonical_RBP
+FBgn0039691	IntS11	43506	-	Integrator 11 	Beta-Casp
+FBgn0039697	CG7834	43515	-		Non-canonical_RBP
+FBgn0039713	RpS8	43532	-	Ribosomal protein S8 	Ribosomal_S8e
+FBgn0039726	eIF2Balpha	43549	-	eukaryotic translation initiation factor 2B subunit alpha 	IF-2B
+FBgn0039730	CG7903	43554	-	-	RRM_1
+FBgn0039732	CG15525	43556	-	-	cwf18
+FBgn0039735	Nph	43559	-	Nucleophosmin 	Nucleoplasmin
+FBgn0039737	CG7920	43562	-		Non-canonical_RBP
+FBgn0039739	RpS28a	43564	-	Ribosomal protein S28a 	Ribosomal_S28e
+FBgn0039744	CG15526	43578	-	-	RNase_P_Rpp14
+FBgn0039757	RpS7	43594	-	Ribosomal protein S7 	Ribosomal_S7e
+FBgn0039764	CG15535	43608	-	-	rRNA_processing
+FBgn0039765	mRpS18C	43609	-	mitochondrial ribosomal protein S18C 	Ribosomal_S18
+FBgn0039779	PH4alphaSG2	43623	-	prolyl-4-hydroxylase-alpha SG2 	hmm_2OG-FeII_Oxy
+FBgn0039797	eIF4H2	43645	-	eukaryotic translation initiation factor 4H2 	RRM_1
+FBgn0039808	CG12071	43660	-	-	zf-C2H2
+FBgn0039828	CG1542	43691	-	-	Ebp2
+FBgn0039829	CG15561	43692	-	-	G-patch
+FBgn0039835	mRpL32	43698	-	mitochondrial ribosomal protein L32	Non-canonical_RBP
+FBgn0039846	PNPase	43710	-	Polynucleotide phosphorylase 	RNase_PH
+FBgn0039849	CG11334	43713	-	-	IF-2B
+FBgn0039857	RpL6	43723	-	Ribosomal protein L6 	Ribosomal_L6e
+FBgn0039861	pasha	43728	-	partner of drosha 	dsrm
+FBgn0039868	CG11563	43735	-	-	Nop16
+FBgn0039920	CG11360	43810	-	-	KH_1
+FBgn0039936	Gyf	43842	-	Gigyf	Non-canonical_RBP
+FBgn0039959	CG17514	3355040	-		Non-canonical_RBP
+FBgn0039966	Rab21	3355163	-	-	GTP_EFTU
+FBgn0039972	CG17018	49895	-		Non-canonical_RBP
+FBgn0039977	CG17454	7354399	-	-	SMN
+FBgn0040007	RpL38	3355144	-	Ribosomal protein L38 	Ribosomal_L38e
+FBgn0040022	Set1	3354971	-	SET domain containing 1 	RRM_1
+FBgn0040064	yip2	34313	-	yippee interacting protein 2	Non-canonical_RBP
+FBgn0040066	wds	53428	-	will die slowly 	eIF2A
+FBgn0040075	rept	40092	-	reptin	Non-canonical_RBP
+FBgn0040207	kat80	32581	-	katanin 80 	eIF2A
+FBgn0040227	eIF3d1	42789	-	eukaryotic translation initiation factor 3 subunit d1 	eIF-3_zeta
+FBgn0040235	c12.1	53435	-	-	Cwf_Cwc_15
+FBgn0040268	Top3alpha	35236	-	Topoisomerase 3alpha	Non-canonical_RBP
+FBgn0040273	Spt5	53442	-	-	KOW
+FBgn0040290	RecQ4	53438	-	RecQ4 helicase 	DEAD
+FBgn0040337	CG3021	53546	-	-	tRNA_Me_trans
+FBgn0040346	CG3704	31043	-	-	GTP_EFTU
+FBgn0040365	CG14628	31057	-	-	RRM_1
+FBgn0040366	CG11398	31070	-	-	zf-C2H2
+FBgn0040368	eIF4E7	31059	-	eukaryotic translation initiation factor 4E7 	IF4E
+FBgn0040370	CG13375	30976	-	-	GTP_EFTU
+FBgn0040389	mRpL14	31222	-	mitochondrial ribosomal protein L14 	Ribosomal_L14
+FBgn0040513	kappaB-Ras	35667	-	-	MMR_HSR1
+FBgn0040528	CG15864	50001	-	-	hmm_2OG-FeII_Oxy
+FBgn0040534	Sf3b5	50007	-	Splicing factor 3b subunit 5 	SF3b10
+FBgn0040660	CG13551	50133	-		Non-canonical_RBP
+FBgn0040666	CG12848	50139	-		Non-canonical_RBP
+FBgn0040705	ND-B8	50178	-	NADH dehydrogenase (ubiquinone) B8 subunit 	L51_S25_CI-B8
+FBgn0041111	lilli	33496	-	lilliputian 	AF-4
+FBgn0041164	armi	38427	-	armitage	Non-canonical_RBP
+FBgn0041186	Slbp	43448	-	Stem-loop binding protein 	SLBP_RNA_bind
+FBgn0041188	Atx2	41883	-	Ataxin-2 	SM-ATX
+FBgn0041191	Rheb	117332	-	Ras homolog enriched in brain 	GTP_EFTU
+FBgn0041588	eIF2D	64874	-	eukaryotic translation initiation factor 2D 	SUI1
+FBgn0041775	tral	39430	-	trailer hitch 	FDF
+FBgn0042112	mRpL36	59151	-	mitochondrial ribosomal protein L36 	Ribosomal_L36
+FBgn0042125	CG18787	59163	-	-	zf-CCCH
+FBgn0042127	CG18789	317813	-	-	zf-CCCH
+FBgn0042134	Capr	59172	-	Caprin	Non-canonical_RBP
+FBgn0042146	CG18823	59184	-	-	RRM_1
+FBgn0042177	CG32164	59215	-	-	IBN_N
+FBgn0042178	CG32165	59216	-	-	IBN_N
+FBgn0042182	CG18749	3771984	-	-	hmm_2OG-FeII_Oxy
+FBgn0042185	MCU	59223	-	Mitochondrial calcium uniporter 	SAP
+FBgn0042712	HBS1	117365	-	-	GTP_EFTU
+FBgn0043002	Chrac-14	3772329	-	Chromatin accessibility complex 14kD protein	Non-canonical_RBP
+FBgn0043455	CG5986	192506	-		Non-canonical_RBP
+FBgn0043799	CG31381	192528	-	-	IPPT
+FBgn0043884	mask	50070	-	multiple ankyrin repeats single KH domain 	KH_1
+FBgn0044030	mRpS14	117414	-	mitochondrial ribosomal protein S14 	Ribosomal_S14
+FBgn0044510	mRpS5	3355089	-	mitochondrial ribosomal protein S5 	Ribosomal_S5_C
+FBgn0044511	mRpS21	318249	-	mitochondrial ribosomal protein S21 	Ribosomal_S21
+FBgn0045862	btz	43331	-	barentsz 	Btz
+FBgn0045866	bai	42996	-	baiser	Non-canonical_RBP
+FBgn0046214	vig2	43016	-	-	HABP4_PAI-RBP1
+FBgn0046222	Wdr33	40698	-	WD repeat domain 33	Non-canonical_RBP
+FBgn0050000	GstT1	35995	-	Glutathione S transferase T1	Non-canonical_RBP
+FBgn0050022	CG30022	36233	-	-	Lactamase_B
+FBgn0050085	Rif1	246445	-	Rap1 interacting factor 1 	Rif1_N
+FBgn0050100	CG30100	246457	-	-	RF-1
+FBgn0050105	CG30105	246459	-	-	RNase_H2_suC
+FBgn0050122	CG30122	37146	-	-	SAP
+FBgn0050342	Prp38	35934	-	pre-mRNA processing factor 38 	PRP38
+FBgn0050343	CG30343	246551	-	-	Sen15
+FBgn0050349	CG30349	35885	-	-	Utp12
+FBgn0050382	CG30382	246582	-		Non-canonical_RBP
+FBgn0050390	Sgf29	37429	-	SAGA-associated factor 29kDa 	DUF1325
+FBgn0050443	Opbp	246618	-	Optix-binding protein 	zf-C2H2
+FBgn0050481	mRpL53	3772367	-	mitochondrial ribosomal protein L53 	MRP_L53
+FBgn0050497	CG30497	246653	-	-	NTP_transf_7
+FBgn0051013	CG31013	326111	-	-	hmm_2OG-FeII_Oxy
+FBgn0051015	PH4alphaPV	43640	-	prolyl-4-hydroxylase-alpha PV 	hmm_2OG-FeII_Oxy
+FBgn0051016	CG31016	326113	-	-	hmm_2OG-FeII_Oxy
+FBgn0051075	CG31075	43244	-		Non-canonical_RBP
+FBgn0051133	Slimp	318604	-	Seryl-tRNA synthetase-like insect mitochondrial protein 	Seryl_tRNA_N
+FBgn0051155	Rpb7	261631	-	-	SHS2_Rpb7-N
+FBgn0051156	CG31156	42669	-	-	S1
+FBgn0051159	mRRF2	42670	-	mitochondrial ribosome recycling factor 2 	GTP_EFTU
+FBgn0051184	LSm3	42842	-	Like Sm 3 	LSM
+FBgn0051301	CG31301	41865	-	-	R3H
+FBgn0051357	CG31357	326135	-		Non-canonical_RBP
+FBgn0051368	CG31368	41437	-	-	ResIII
+FBgn0051388	CG31388	41355	-	-	zf-C2H2
+FBgn0051450	mRpS18A	326141	-	mitochondrial ribosomal protein S18A 	Ribosomal_S18
+FBgn0051510	CG31510	326146	-		Non-canonical_RBP
+FBgn0051550	CG31550	40661	-	-	G-patch
+FBgn0051643	CG31643	318867	-	-	RAP
+FBgn0051679	Tengl3	33404	-	Testis EndoG-Like 3 	Endonuclease_NS
+FBgn0051682	Tengl1	318883	-	Testis EndoG-Like 1 	Endonuclease_NS
+FBgn0051716	Cnot4	34416	-	CCR4-NOT transcription complex subunit 4 	RRM_1
+FBgn0051719	RluA-1	34438	-	-	PseudoU_synth_2
+FBgn0051739	AspRS-m	326155	-	Aspartyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2
+FBgn0051755	SoYb	34331	-	Sister of Yb 	TUDOR
+FBgn0051759	CG31759	326158	-	-	Exo_endo_phos
+FBgn0051812	CG31812	318956	-	-	tRNA_int_endo
+FBgn0051852	Tap42	326166	-	Two A-associated protein of 42kDa	Non-canonical_RBP
+FBgn0051922	CG31922	319028	-	-	zf-U1
+FBgn0051950	CG31950	319043	-	-	LSM
+FBgn0051957	CG31957	319046	-	-	eIF-1a
+FBgn0051992	gw	43808	-	gawky 	Ago_hook
+FBgn0052016	4E-T	43836	-	eIF4E-Transporter 	EIF4E-T
+FBgn0052062	Rbfox1	39198	-	RNA-binding Fox protein 1 	RRM_1
+FBgn0052075	CG32075	326192	-	-	Las1
+FBgn0052201	CG32201	317911	-	-	hmm_2OG-FeII_Oxy
+FBgn0052281	CG32281	317953	-	-	Met_10
+FBgn0052296	Mrtf	38338	-	Myocardin-related transcription factor 	SAP
+FBgn0052344	CG32344	326208	-	-	DEAD
+FBgn0052409	CG32409	318016	-	-	RRS1
+FBgn0052418	vito	326214	-	viriato 	Nop25
+FBgn0052423	shep	38605	-	alan shepard 	RRM_1
+FBgn0052446	Atox1	326216	-	Antioxidant 1 copper chaperone	Non-canonical_RBP
+FBgn0052463	Tengl2	318044	-	Testis EndoG-Like 2 	Endonuclease_NS
+FBgn0052479	Usp10	38103	-	Ubiquitin specific protease 10	Non-canonical_RBP
+FBgn0052533	CG32533	32933	-	-	HA2
+FBgn0052625	CG32625	318128	-	-	zf-U11-48K
+FBgn0052706	CG32706	318160	-	-	RRM_1
+FBgn0052772	CG32772	31420	-	-	zf-C2H2
+FBgn0053002	mRpL27	318825	-	mitochondrial ribosomal protein L27 	Ribosomal_L27
+FBgn0053051	CG33051	39941	-	-	RNA_pol_3_Rpc31
+FBgn0053057	CG33057	318833	-	-	PTS_2-RNA
+FBgn0053082	CG33082	318857	-	-	Rpr2
+FBgn0053093	CG33093	42654	-	-	hmm_2OG-FeII_Oxy
+FBgn0053099	CG33099	326254	-	-	hmm_2OG-FeII_Oxy
+FBgn0053100	eIF4EHP	326255	-	eukaryotic translation initiation factor 4E homologous protein 	IF4E
+FBgn0053129	CG33129	34514	-		Non-canonical_RBP
+FBgn0053138	AGBE	326264	-	1%2C4-Alpha-Glucan Branching Enzyme	Non-canonical_RBP
+FBgn0053158	CG33158	39834	-	-	GTP_EFTU
+FBgn0053180	Ranbp16	118436	-	-	IBN_N
+FBgn0053260	CG33260	2768977	-	-	tRNA_int_endo
+FBgn0053276	Urm1	2768949	-	Ubiquitin-related modifier 1 	Urm1
+FBgn0053346	CG33346	2768690	-	-	Endonuclease_NS
+FBgn0053505	U3-55K	3346176	-	U3 small nuclear riboprotein factor 55K	Non-canonical_RBP
+FBgn0053526	PNUTS	33270	-	-	zf-CCCH
+FBgn0054015	CG34015	3885570	-	-	DcpS_C
+FBgn0054039	CG34039	3885643	-		Non-canonical_RBP
+FBgn0061200	Nup153	32630	-	Nucleoporin 153kD 	zf-RanBP
+FBgn0061361	CG33786	3772640	-	-	Sua5_yciO_yrdC
+FBgn0061362	CG33785	3772344	-	-	RNA_POL_M_15KD
+FBgn0061515	endos	39554	-	endosulfine	Non-canonical_RBP
+FBgn0064115	GatC	3772218	-	Glutamyl-tRNA amidotransferase%2C subunit C 	Glu-tRNAGln
+FBgn0064117	SLIRP1	3772560	-	SRA stem-loop interacting RNA binding protein 1 	RRM_1
+FBgn0064225	RpL5	3355124	-	Ribosomal protein L5	Non-canonical_RBP
+FBgn0065035	AlkB	2768870	-	-	hmm_2OG-FeII_Oxy_2
+FBgn0066084	RpL41	251466	-	Ribosomal protein L41 	Ribosomal_L41
+FBgn0066304	Rpp20	3772007	-	-	Rpp20
+FBgn0082831	pps	41524	-	protein partner of snf 	BRK
+FBgn0083976	CG34140	4379908	-	-	PseudoU_synth_1
+FBgn0083983	mRpL34	4379878	-	mitochondrial ribosomal protein L34 	Ribosomal_L34
+FBgn0085211	RpS28-like	5740688	-	Ribosomal protein S28-like 	Ribosomal_S28e
+FBgn0085224	CG34195	37018	-	-	Methyltransf_31
+FBgn0085312	CG34283	5740817	-	-	zf-U11-48K
+FBgn0085346	CG34317	5740224	-	-	RNase_P_Rpp14
+FBgn0085383	CG34354	5740528	-	-	RRM_1
+FBgn0085391	trv	43362	-	trivet 	RRM_1
+FBgn0085436	Not1	5740252	-	-	Not1
+FBgn0085451	htk	32877	-	hat-trick 	Tudor-knot
+FBgn0085521	CG40813	5740386	-	-	RRM_1
+FBgn0085693	CG41562	5740411	-	-	RRM_1
+FBgn0086129	snama	37857	-	something that sticks like glue 	zf-CCHC_2
+FBgn0086130	Dbp21E2	33254	-	DEAD box protein 21E2 	DEAD
+FBgn0086346	ALiX	43330	-	ALG-2 interacting protein X	Non-canonical_RBP
+FBgn0086355	Tpi	43582	-	Triose phosphate isomerase	Non-canonical_RBP
+FBgn0086357	Sec61alpha	33905	-	Sec61 alpha subunit	Non-canonical_RBP
+FBgn0086443	AsnRS	35194	-	Asparaginyl-tRNA synthetase 	tRNA-synt_2
+FBgn0086444	l(2)37Cb	35192	-	lethal (2) 37Cb 	HA2
+FBgn0086447	l(2)37Cg	35196	-	lethal (2) 37Cg 	RNA_pol_L_2
+FBgn0086450	su(r)	31858	-	suppressor of rudimentary 	Dus
+FBgn0086451	l(2)k09022	33960	-	lethal (2) k09022 	U3snoRNP10
+FBgn0086472	RpS25	41343	-	Ribosomal protein S25 	Ribosomal_S25
+FBgn0086675	fne	32245	-	found in neurons 	RRM_1
+FBgn0086683	Spf45	3355114	-	-	G-patch
+FBgn0086691	UK114	34897	-	-	Ribonuc_L-PSP
+FBgn0086694	Bre1	38652	-		Non-canonical_RBP
+FBgn0086706	pix	39027	-	pixie	Non-canonical_RBP
+FBgn0086707	ncm	35099	-	nucampholin 	MA3
+FBgn0086710	RpL30	44059	-	Ribosomal protein L30 	Ribosomal_L7Ae
+FBgn0086895	pea	36561	-	peanuts 	HA2
+FBgn0086908	egg	37962	-	eggless 	MBD
+FBgn0087013	Karybeta3	40581	-	Karyopherin beta 3	Non-canonical_RBP
+FBgn0087035	AGO2	39683	-	Argonaute 2 	Piwi
+FBgn0087039	Sbp2	38934	-	SECIS-binding protein 2 	Ribosomal_L7Ae
+FBgn0087040	alphaTub67C	39130	-	alpha-Tubulin at 67C	Non-canonical_RBP
+FBgn0250753	kra	40680	-	krasavietz 	W2
+FBgn0250754	CG42232	7354465	-		Non-canonical_RBP
+FBgn0250786	Chd1	33505	-	Chromodomain-helicase-DNA-binding protein 1 	ResIII
+FBgn0250814	UQCR-C2	39846	-	Ubiquinol-cytochrome c reductase core protein 2	Non-canonical_RBP
+FBgn0250816	AGO3	3355150	-	Argonaute 3 	Piwi
+FBgn0250838	roh	246602	-	reduction of Rh1	Non-canonical_RBP
+FBgn0250848	26-29-p	39547	-	26-29kD-proteinase	Non-canonical_RBP
+FBgn0250850	rig	37335	-	rigor mortis	Non-canonical_RBP
+FBgn0259113	DNApol-alpha180	42553	-	DNA polymerase alpha 180kD	Non-canonical_RBP
+FBgn0259139	glo	41431	-	glorund 	RRM_1
+FBgn0259146	fid	43148	-	fire dancer 	Methyltransf_31
+FBgn0259152	Clbn	43018	-	Caliban	Non-canonical_RBP
+FBgn0259178	5PtaseI	326119	-	-	Exo_endo_phos
+FBgn0259682	Jabba	37164	-		Non-canonical_RBP
+FBgn0259704	Nsun5	7354421	-	Nop2/Sun-like domain containing protein 5 	Methyltr_RsmB-F
+FBgn0259728	CG42382	35938	-	-	zf-CCCH
+FBgn0259742	CG42360	37937	-	-	RNase_Zc3h12a
+FBgn0259745	wech	44653	-		Non-canonical_RBP
+FBgn0259789	zld	32994	-	zelda 	zf-C2H2_jaz
+FBgn0259923	Sep4	32646	-	Septin 4 	MMR_HSR1
+FBgn0259935	CG42458	2768945	-	-	RRM_1
+FBgn0259937	Nop60B	37873	-	Nucleolar protein at 60B 	DKCLD
+FBgn0260049	flr	39505	-	flare 	eIF2A
+FBgn0260400	elav	31000	-	embryonic lethal abnormal vision 	RRM_1
+FBgn0260407	mRpS23	318977	-	mitochondrial ribosomal protein S23 	MRP-S23
+FBgn0260439	Pp2A-29B	2768940	-	Protein phosphatase 2A at 29B	Non-canonical_RBP
+FBgn0260441	RpS12	\N	-	Ribosomal protein S12 	Ribosomal_L7Ae
+FBgn0260456	CG4806	37948	-	-	RRM_1
+FBgn0260634	eIF4G2	42819	-	eukaryotic translation initiation factor 4G2 	MIF4G
+FBgn0260771	Larp7	44900	-	La related protein 7 	La
+FBgn0260780	wisp	32152	-	wispy 	PAP_assoc
+FBgn0260794	ctrip	40596	-	circadian trip	Non-canonical_RBP
+FBgn0260932	cuff	36269	-	cutoff 	RAI1
+FBgn0260943	Rbp6	39919	-	RNA-binding protein 6 	RRM_1
+FBgn0260944	Rbp1	41294	-	RNA-binding protein 1 	RRM_1
+FBgn0260962	pic	41611	-	piccolo 	CPSF_A
+FBgn0260991	Incenp	35649	-	Inner centromere protein	Non-canonical_RBP
+FBgn0261014	TER94	36040	-		Non-canonical_RBP
+FBgn0261065	Cpsf73	42240	-	Cleavage and polyadenylation specificity factor 73 	CPSF73-100_C
+FBgn0261067	LSm1	37413	-	Like Sm 1 	LSM
+FBgn0261068	LSm7	35003	-	Like Sm 7 	LSM
+FBgn0261119	Prp19	37123	-	Pre-RNA processing factor 19 	Prp19
+FBgn0261276	Opa1	36578	-	Optic atrophy 1 	MMR_HSR1
+FBgn0261286	Mat89Ba	41973	-	Maternal transcript 89Ba 	Nrap
+FBgn0261380	mRpL37	41293	-	mitochondrial ribosomal protein L37 	PDCD9
+FBgn0261381	mtTFB1	8674019	-	Mitochondrial Transcription Factor B1 	RrnaAD
+FBgn0261383	IntS6	31496	-	Integrator 6 	INT_SG_DDX_CT_C
+FBgn0261439	SdhA	37228	-	Succinate dehydrogenase%2C subunit A (flavoprotein)	Non-canonical_RBP
+FBgn0261458	capt	45233	-	capulet	Non-canonical_RBP
+FBgn0261524	lic	32257	-	licorne	Non-canonical_RBP
+FBgn0261532	cdm	42171	-	cadmus 	IBN_N
+FBgn0261535	l(2)34Fd	34839	-	lethal (2) 34Fd 	NUC153
+FBgn0261552	ps	44258	-	pasilla 	KH_1
+FBgn0261560	Thor	33569	-	-	eIF_4EBP
+FBgn0261592	RpS6	31700	-	Ribosomal protein S6 	Ribosomal_S6e
+FBgn0261596	RpS24	37589	-	Ribosomal protein S24 	Ribosomal_S24e
+FBgn0261597	RpS26	35098	-	Ribosomal protein S26 	Ribosomal_S26e
+FBgn0261599	RpS29	41200	-	Ribosomal protein S29 	Ribosomal_S14
+FBgn0261602	RpL8	44251	-	Ribosomal protein L8 	Ribosomal_L2_C
+FBgn0261608	RpL37A	44783	-	Ribosomal protein L37A 	Ribosomal_L37ae
+FBgn0261609	eIF2alpha	32617	-	eukaryotic translation initiation factor 2 subunit alpha 	EIF_2_alpha
+FBgn0261618	larp	53567	-	La related protein 	La
+FBgn0261648	salm	34569	-	spalt major 	zf-C2H2
+FBgn0261679	CG42726	318709	-	-	zf-C2H2
+FBgn0261710	nocte	31976	-	no circadian temperature entrainment	Non-canonical_RBP
+FBgn0261789	SmD2	40781	-	Small ribonucleoprotein particle protein SmD2 	LSM
+FBgn0261790	SmE	34080	-	Small ribonucleoprotein particle protein SmE 	LSM
+FBgn0261791	SNRPG	32636	-	Small nuclear ribonucleoprotein G 	LSM
+FBgn0261792	snRNP-U1-C	42274	-	small ribonucleoprotein particle U1 subunit C 	zf-U1
+FBgn0261797	Dhc64C	38580	-	Dynein heavy chain 64C	Non-canonical_RBP
+FBgn0261808	cu	41339	-	curled 	Exo_endo_phos
+FBgn0261854	aPKC	47594	-	atypical protein kinase C	Non-canonical_RBP
+FBgn0261872	scaf6	3346235	-	SR-related CTD associated factor 6 	Surp
+FBgn0261933	SmD1	44668	-	Small ribonucleoprotein particle protein SmD1 	LSM
+FBgn0261938	mtRNApol	33285	-	mitochondrial RNA polymerase 	RNA_pol
+FBgn0261955	kdn	31579	-	knockdown	Non-canonical_RBP
+FBgn0261984	Ire1	42358	-	Inositol-requiring enzyme-1 	Ribonuc_2-5A
+FBgn0261987	Pxt	42131	-	Peroxinectin-like	Non-canonical_RBP
+FBgn0262114	RanBPM	36102	-	Ran-binding protein M	Non-canonical_RBP
+FBgn0262117	IntS3	3355010	-	Integrator 3 	Ints3
+FBgn0262125	Sec23	40694	-	Secretory 23	Non-canonical_RBP
+FBgn0262126	Sec24CD	33409	-	Secretory 24CD	Non-canonical_RBP
+FBgn0262475	bru2	250811	-	bruno 2 	RRM_1
+FBgn0262511	Vha44	36826	-	Vacuolar H	Non-canonical_RBP
+FBgn0262515	VhaAC45	35944	-	Vacuolar H	Non-canonical_RBP
+FBgn0262519	Mi-2	40170	-	-	ResIII
+FBgn0262559	Mdh2	42185	-	Malate dehydrogenase 2	Non-canonical_RBP
+FBgn0262601	SmB	34426	-	Small ribonucleoprotein particle protein SmB 	LSM
+FBgn0262636	dati	43789	-	datilografo 	zf-C2H2
+FBgn0262716	Arp3	38898	-	Actin-related protein 3	Non-canonical_RBP
+FBgn0262732	mbf1	39842	-	multiprotein bridging factor 1	Non-canonical_RBP
+FBgn0262734	eIF4H1	49809	-	eukaryotic translation initiation factor 4H1 	RRM_1
+FBgn0262737	mub	40436	-	mushroom-body expressed 	KH_1
+FBgn0262739	AGO1	36544	-	Argonaute-1 	Piwi
+FBgn0262743	Fs(2)Ket	35336	-	Female sterile (2) Ketel 	IBN_N
+FBgn0262954	Rpb12	5740790	-	-	DNA_RNApol_7kD
+FBgn0262955	RpII140	41721	-	RNA polymerase II 140kD subunit 	RNA_pol_Rpb2_6
+FBgn0263106	DnaJ-1	38643	-	DnaJ-like-1	Non-canonical_RBP
+FBgn0263121	Prosalpha1	45780	-	Proteasome alpha1 subunit	Non-canonical_RBP
+FBgn0263133	mEFG1	34004	-	mitochondrial translation elongation factor G 1 	GTP_EFTU
+FBgn0263143	vret	42695	-	vreteno 	TUDOR
+FBgn0263144	bin3	35552	-	bicoid-interacting protein 3 	Bin3
+FBgn0263231	bel	45826	-	belle 	DEAD
+FBgn0263251	vnc	39175	-	variable nurse cells	Non-canonical_RBP
+FBgn0263352	Unr	38963	-	Upstream of N-ras 	CSD
+FBgn0263396	sqd	41666	-	squid 	RRM_1
+FBgn0263594	lost	40559	-		Non-canonical_RBP
+FBgn0263599	l(3)72Ab	39737	-	lethal (3) 72Ab 	DEAD
+FBgn0263600	DNApol-delta	39746	-	DNA-polymerase-delta	Non-canonical_RBP
+FBgn0263603	Zn72D	39764	-	Zinc-finger protein at 72D 	DZF
+FBgn0263740	eIF2gamma	41843	-	eukaryotic translation initiation factor 2 subunit gamma 	eIF2_C
+FBgn0263757	Rpb4	14462484	-	RNA polymerase II subunit Rpb4 	RNA_pol_Rpb4
+FBgn0263829	CG34334	5740122	-	-	RRM_1
+FBgn0263863	mRpL45	42671	-	mitochondrial ribosomal protein L45	Non-canonical_RBP
+FBgn0263974	qin	42236	-	-	TUDOR
+FBgn0263987	spoon	31459	-	spoonbill 	TUDOR
+FBgn0263995	cpo	45840	-	couch potato 	RRM_1
+FBgn0264001	bru3	39527	-	bruno 3 	RRM_1
+FBgn0264077	Cnx14D	32620	-	Calnexin 14D 	Calreticulin
+FBgn0264270	Sxl	3772180	-	Sex lethal 	RRM_1
+FBgn0264307	orb2	39018	-	-	RRM_1
+FBgn0264491	how	42596	-	held out wings 	KH_1
+FBgn0264492	CkIIalpha	48448	-	casein kinase IIalpha	Non-canonical_RBP
+FBgn0264693	ens	38491	-	ensconsin	Non-canonical_RBP
+FBgn0264744	CG44002	33535	-	-	zf-C2H2
+FBgn0265047	FDY	8674077	-	flagrante delicto Y 	HABP4_PAI-RBP1
+FBgn0265089	eIF4E3	38923	-	eukaryotic translation initiation factor 4E3 	IF4E
+FBgn0265177	CG44242	19836175	-	-	S36_mt
+FBgn0265184	CG44249	19834761	-	-	RRM_1
+FBgn0265192	Snp	37511	-	Snipper 	RNase_T
+FBgn0265297	pAbp	37070	-	poly(A) binding protein 	RRM_1
+FBgn0265298	SC35	53444	-	SR family splicing factor SC35 	RRM_1
+FBgn0265574	Cdc5	38062	-	Cell division cycle 5 	Myb_Cef
+FBgn0265630	sno	32273	-	strawberry notch 	ResIII
+FBgn0265935	coro	35596	-		Non-canonical_RBP
+FBgn0265998	Doa	43415	-	Darkener of apricot	Non-canonical_RBP
+FBgn0266053	Patr-1	42058	-	Protein associated with topo II related - 1	Non-canonical_RBP
+FBgn0266064	GlyS	41823	-	Glycogen synthase	Non-canonical_RBP
+FBgn0266195	Tgs1	59260	-	Trimethylguanosine synthase 1 	Methyltransf_15
+FBgn0266284	Ns3	31097	-	Nucleostemin 3 	MMR_HSR1
+FBgn0266521	stai	33863	-	stathmin	Non-canonical_RBP
+FBgn0266557	kis	33185	-	kismet 	BRK
+FBgn0266570	CG2982	31374	-		Non-canonical_RBP
+FBgn0266572	ebo	47141	-	ellipsoid body open 	IBN_N
+FBgn0266581	pit	42595	-	pitchoune 	DEAD
+FBgn0266917	Sf3a1	42048	-	Splicing factor 3a subunit 1 	Surp
+FBgn0267385	PyK	42620	-	Pyruvate kinase	Non-canonical_RBP
+FBgn0267727	Pen	34338	-	Pendulin	Non-canonical_RBP
+FBgn0267790	rump	41138	-	rumpelstiltskin 	RRM_1
+FBgn0267791	HnRNP-K	43862	-	Heterogeneous nuclear ribonucleoprotein K 	KH_1
+FBgn0275436	PheRS-m	36547	-	Phenylalanyl-tRNA synthetase%2C mitochondrial 	tRNA-synt_2d
+FBgn0283442	vas	26067080	-	vasa 	DEAD
+FBgn0283477	SF2	53443	-	Splicing factor 2 	RRM_1
+FBgn0283525	l(2)10685	33293	-	lethal (2) 10685 	Methyltr_RsmB-F
+FBgn0283652	Rpp30	44392	-	RNaseP protein p30 	RNase_P_p30
+FBgn0283659	THG	34876	-	tRNA-histidine guanylyltransferase 	Thg1
+FBgn0284245	eEF1alpha1	36271	-	eukaryotic translation elongation factor 1 alpha 1 	GTP_EFTU
+FBgn0284253	LeuRS	326262	-	Leucyl-tRNA synthetase 	tRNA-synt_1
+FBgn0284254	Impbeta11	36732	-	Importin beta11 	IBN_N
+FBgn0284256	bsf	35100	-	bicoid stability factor 	PPR
+FBgn0285926	Imp	32009	-	IGF-II mRNA-binding protein 	KH_1
+FBgn0285937	Rab1	42524	-	-	MMR_HSR1
+FBgn0285947	RpS10b	32953	-	Ribosomal protein S10b 	S10_plectin
+FBgn0285948	RpL27A	33654	-	Ribosomal protein L27A 	Ribosomal_L27A
+FBgn0285949	RpL31	35988	-	Ribosomal protein L31 	Ribosomal_L31e
+FBgn0285950	RpL19	37995	-	Ribosomal protein L19 	Ribosomal_L19e
+FBgn0285952	eEF5	37846	-	eukaryotic translation elongation factor 5 	eIF-5a
+FBgn0285954	caz	32587	-	cabeza 	RRM_1
+FBgn0285971	prg	34177	-	piragua 	zf-C2H2

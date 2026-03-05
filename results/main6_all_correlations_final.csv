@@ -1,0 +1,9 @@
+protein_type,metric,vs,rho,p_value,significance,values_worm_to_human,source
+RBP,family_diversity,neurons,0.886,0.0188,*,397→419→455→446→472→469,UniProt Pfam × EuRBPDB 686 ref
+RBP,total_count,neurons,0.771,0.0724,ns,1408→1611→1989→1542→2967→2958,EuRBPDB
+TF,family_diversity,neurons,0.845,0.0341,*,58→64→72→72→72→72,AnimalTFDB tf_family
+TF,total_count,neurons,0.657,0.1562,ns,590→651→2546→1368→1611→1659,AnimalTFDB
+Kinase,family_diversity,neurons,0.429,0.3965,ns,31→30→20→13→64→66,UniProt Pfam
+Kinase,total_count,neurons,0.429,0.3965,ns,197→136→92→35→581→593,UniProt KW reviewed
+GPCR,family_diversity,neurons,-0.116,0.8268,ns,12→7→5→3→10→10,UniProt Pfam
+GPCR,total_count,neurons,0.429,0.3965,ns,63→57→53→8→517→839,UniProt KW reviewed

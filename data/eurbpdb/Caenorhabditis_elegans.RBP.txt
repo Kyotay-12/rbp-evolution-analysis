@@ -1,0 +1,1442 @@
+WBGene00000040	aco-1	\N	gei-22	Probable cytoplasmic aconitate hydratase  	Aconitase
+WBGene00000041	aco-2	\N	-	Probable aconitate hydratase%2C mitochondrial  	Aconitase
+WBGene00000064	act-2	\N	-	Actin-2	Non-canonical_RBP
+WBGene00000066	act-4	\N	-	Actin-4	Non-canonical_RBP
+WBGene00000079	adr-1	\N	-	Adenosine Deaminase acting on RNA%3B Truncated ADR-1F  	A_deamin
+WBGene00000080	adr-2	\N	-	Probable double-stranded RNA-specific adenosine deaminase  	A_deamin
+WBGene00000081	ads-1	\N	-	Alkyldihydroxyacetonephosphate synthase	Non-canonical_RBP
+WBGene00000105	alg-1	\N	-	Argonaute-like  	Piwi
+WBGene00000106	alg-2	\N	-	-	Piwi
+WBGene00000114	alh-8	\N	-	Probable methylmalonate-semialdehyde dehydrogenase	Non-canonical_RBP
+WBGene00000115	alh-9	\N	-	Putative aldehyde dehydrogenase family 7 member A1 homolog	Non-canonical_RBP
+WBGene00000123	ama-1	\N	rpb-1	DNA-directed RNA polymerase II subunit RPB1  	RNA_pol_Rpb1_1
+WBGene00000140	anc-1	\N	-	Nuclear anchorage protein 1	Non-canonical_RBP
+WBGene00000180	arc-1	\N	arl-4	E3 ubiquitin-protein ligase arc-1  	MMR_HSR1
+WBGene00000182	arf-1.2	\N	arf-1	ADP-ribosylation factor 1-like 2  	MMR_HSR1
+WBGene00000183	arf-3	\N	-	ADP-Ribosylation Factor related%3B ADP-ribosylation factor related (20.5 kD) (Arf-3)  	MMR_HSR1
+WBGene00000187	arl-1	\N	-	ADP-ribosylation factor-like protein 1  	MMR_HSR1
+WBGene00000188	arl-3	\N	-	ADP-ribosylation factor-like protein 3  	MMR_HSR1
+WBGene00000189	arl-5	\N	-	ADP-ribosylation factor-like protein 5  	MMR_HSR1
+WBGene00000192	arl-8	\N	gie	ARF-Like%3B Novel small G protein indispensable for equal chromosome segregation  	MMR_HSR1
+WBGene00000193	arl-6	\N	-	ADP-ribosylation factor-like protein 6  	MMR_HSR1
+WBGene00000196	aars-1	\N	alas|ars-1	Alanine--tRNA ligase%2C mitochondrial  	tRNA-synt_2c
+WBGene00000197	aars-2	\N	ars-2	Alanine--tRNA ligase%2C cytoplasmic  	tRNA-synt_2c
+WBGene00000200	arx-2	\N	actc	Actin-related protein 2	Non-canonical_RBP
+WBGene00000202	exos-4.2	\N	-	EXOSome (Multiexonuclease complex) component  	RNase_PH
+WBGene00000209	asg-1	\N	-	Probable ATP synthase subunit g 1%2C mitochondrial	Non-canonical_RBP
+WBGene00000210	asg-2	\N	-	Probable ATP synthase subunit g 2%2C mitochondrial	Non-canonical_RBP
+WBGene00000216	asp-3	\N	-	Aspartic protease 3	Non-canonical_RBP
+WBGene00000219	asp-6	\N	-	Aspartic protease 6	Non-canonical_RBP
+WBGene00000229	atp-2	\N	-	ATP synthase subunit beta%2C mitochondrial	Non-canonical_RBP
+WBGene00000231	atx-2	\N	-	Ataxin-2 homolog  	SM-ATX
+WBGene00000246	bcc-1	\N	-	BiCaudal C (Drosophila) homolog  	KH_1
+WBGene00000249	bir-1	\N	-	BIR (Baculovirus inhibitory repeat) family%3B Inhibitor of apoptosis homolog  	zf-C3HC
+WBGene00000276	byn-1	\N	-	Cell adhesion protein byn-1  	Bystin
+WBGene00000369	ccf-1	\N	-	CCR4-NOT transcription complex subunit 7  	CAF1
+WBGene00000376	ccr-4	\N	-	CCR (Yeast CCR4/NOT complex component) homolog%3B CCR4  	Exo_endo_phos
+WBGene00000377	cct-1	\N	tcp-1	T-complex protein 1 subunit alpha	Non-canonical_RBP
+WBGene00000378	cct-2	\N	cctb	T-complex protein 1 subunit beta	Non-canonical_RBP
+WBGene00000379	cct-4	\N	-	T-complex protein 1 subunit delta	Non-canonical_RBP
+WBGene00000380	cct-5	\N	-	T-complex protein 1 subunit epsilon	Non-canonical_RBP
+WBGene00000381	cct-6	\N	-	T-complex protein 1 subunit zeta	Non-canonical_RBP
+WBGene00000405	cdk-1	\N	ncc-1	Cyclin-dependent kinase 1	Non-canonical_RBP
+WBGene00000411	cdl-1	\N	-	Histone RNA hairpin-binding protein  	SLBP_RNA_bind
+WBGene00000466	cel-1	\N	-	mRNA-capping enzyme Polynucleotide 5'-triphosphatase mRNA guanylyltransferase 	mRNA_cap_enzyme
+WBGene00000468	ces-1	\N	-	CES-1%3B CEll death Specification  	zf-C2H2
+WBGene00000472	cey-1	\N	-	C. Elegans Y-box  	CSD
+WBGene00000473	cey-2	\N	-	C. Elegans Y-box  	CSD
+WBGene00000474	cey-3	\N	-	C. Elegans Y-box  	CSD
+WBGene00000475	cey-4	\N	-	C. Elegans Y-box  	CSD
+WBGene00000479	cgh-1	\N	-	ATP-dependent RNA helicase cgh-1  	DEAD
+WBGene00000480	cgp-1	\N	-	GTP-binding protein cgp-1  	GTP_EFTU
+WBGene00000482	chd-3	\N	-	Chromodomain-helicase-DNA-binding protein 3 homolog  	ResIII
+WBGene00000550	clu-1	\N	-	Clustered mitochondria protein homolog  	eIF3_p135
+WBGene00000567	cnx-1	\N	-	Calnexin  	Calreticulin
+WBGene00000763	coq-3	\N	-	Ubiquinone biosynthesis O-methyltransferase%2C mitochondrial  	Methyltransf_31
+WBGene00000765	coq-5	\N	-	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial  	Methyltransf_31
+WBGene00000771	cpb-2	\N	-	Cytoplasmic polyadenylation element-binding protein 2	Non-canonical_RBP
+WBGene00000774	cpf-2	\N	-	Cleavage and Polyadenylation Factor  	RRM_1
+WBGene00000784	cpr-4	\N	-	Cathepsin B-like cysteine proteinase 4	Non-canonical_RBP
+WBGene00000785	cpr-5	\N	-	Cathepsin B-like cysteine proteinase 5	Non-canonical_RBP
+WBGene00000786	cpr-6	\N	-	Cathepsin B-like cysteine proteinase 6	Non-canonical_RBP
+WBGene00000787	cps-6	\N	-	Endonuclease G%2C mitochondrial  	Endonuclease_NS
+WBGene00000796	crn-3	\N	-	Cell death-related nuclease 3%3B Cell-death-Related Nuclease  	DNA_pol_A_exo1
+WBGene00000797	crn-4	\N	-	Cell death-related nuclease 4  	RNase_T
+WBGene00000798	crn-5	\N	-	Cell death-related nuclease 5%3B Cell-death-Related Nuclease  	RNase_PH
+WBGene00000800	cars-1	\N	-	Cysteinyl Amino-acyl tRNA Synthetase  	tRNA-synt_1e
+WBGene00000802	crt-1	\N	-	Calreticulin  	Calreticulin
+WBGene00000830	ctl-1	\N	cat-2	Catalase-2	Non-canonical_RBP
+WBGene00000831	ctl-2	\N	cat|cat-1	Peroxisomal catalase 1	Non-canonical_RBP
+WBGene00000833	cts-1	\N	-	Probable citrate synthase%2C mitochondrial	Non-canonical_RBP
+WBGene00000877	cyn-1	\N	cyp-1	Peptidyl-prolyl cis-trans isomerase 1	Non-canonical_RBP
+WBGene00000879	cyn-3	\N	cyp-3	Peptidyl-prolyl cis-trans isomerase 3	Non-canonical_RBP
+WBGene00000881	cyn-5	\N	cyp-5	Peptidyl-prolyl cis-trans isomerase 5	Non-canonical_RBP
+WBGene00000883	cyn-7	\N	cyp-7	Peptidyl-prolyl cis-trans isomerase 7	Non-canonical_RBP
+WBGene00000889	cyn-13	\N	-	Peptidyl-prolyl cis-trans isomerase  	RRM_1
+WBGene00000890	sig-7	\N	-	Peptidyl-prolyl cis-trans isomerase sig-7  	RRM_1
+WBGene00000906	daf-10	\N	-	Intraflagellar transport protein 122 homolog  	eIF2A
+WBGene00000915	daf-21	\N	-	Heat shock protein 90	Non-canonical_RBP
+WBGene00000931	dao-5	\N	-	Dauer or Aging adult Overexpression  	SRP40_C
+WBGene00000933	dap-3	\N	-	Mammalian cell Death Associated Protein related%3B Putative uncharacterized protein  	DAP3
+WBGene00000935	daz-1	\N	-	DAZ protein 1  	RRM_1
+WBGene00000937	dbr-1	\N	-	Lariat debranching enzyme  	DBR1
+WBGene00000939	dcr-1	\N	-	Endoribonuclease dcr-1  	Ribonuclease_3
+WBGene00000940	dcs-1	\N	hsl-1	m7GpppX diphosphatase  	DcpS_C
+WBGene00001001	dis-3	\N	-	Probable exosome complex exonuclease RRP44  	RNB
+WBGene00001008	dlk-1	\N	-	Mitogen-activated protein kinase kinase kinase dlk-1  	RIO1
+WBGene00001020	dnj-2	\N	-	DnaJ homolog dnj-2	Non-canonical_RBP
+WBGene00001035	dnj-17	\N	-	DNaJ domain (Prokaryotic heat shock protein)  	zf-C2H2_jaz
+WBGene00001050	dom-3	\N	-	Decapping nuclease dom-3  	RAI1
+WBGene00001067	dpy-5	\N	-	Cuticle collagen dpy-5	Non-canonical_RBP
+WBGene00001077	dpy-18	\N	phy-1	Prolyl 4-hydroxylase subunit alpha-1  	hmm_2OG-FeII_Oxy
+WBGene00001090	drh-1	\N	-	Dicer Related Helicase%3B Dicer-related helicase  	ResIII
+WBGene00001093	drp-1	\N	-	Dynamin-Related Protein%3B Dynamin-related protein  	MMR_HSR1
+WBGene00001094	dars-1	\N	-	Aspartate--tRNA ligase%2C cytoplasmic  	tRNA-synt_2
+WBGene00001095	dars-2	\N	-	Aspartyl(D) Amino-acyl tRNA Synthetase  	tRNA-synt_2
+WBGene00001134	eat-3	\N	-	-	MMR_HSR1
+WBGene00001149	bcat-1	\N	eca-39|eca39	Branched-chain-amino-acid aminotransferase%2C cytosolic	Non-canonical_RBP
+WBGene00001155	ech-6	\N	-	Probable enoyl-CoA hydratase%2C mitochondrial	Non-canonical_RBP
+WBGene00001166	eftu-2	\N	-	Elongation Factor TU family  	GTP_EFTU
+WBGene00001167	eef-2	\N	-	Elongation factor 2  	GTP_EFTU
+WBGene00001168	eef-1A.1	\N	-	Elongation factor 1-alpha  	GTP_EFTU
+WBGene00001169	eef-1A.2	\N	-	Elongation factor 1-alpha  	GTP_EFTU
+WBGene00001209	egl-45	\N	eif-3.A	Eukaryotic translation initiation factor 3 subunit A	Non-canonical_RBP
+WBGene00001214	ego-1	\N	-	Enhancer of Glp-One (Glp-1)%3B RNA-directed RNA polymerase related EGO-1  	RdRP
+WBGene00001225	eif-3.B	\N	-	Eukaryotic translation initiation factor 3 subunit B  	eIF2A
+WBGene00001226	eif-3.C	\N	-	Eukaryotic translation initiation factor 3 subunit C  	eIF-3c_N
+WBGene00001227	eif-3.D	\N	-	Eukaryotic translation initiation factor 3 subunit D  	eIF-3_zeta
+WBGene00001228	eif-3.E	\N	-	Eukaryotic translation initiation factor 3 subunit E  	eIF3_N
+WBGene00001229	eif-3.F	\N	-	Eukaryotic translation initiation factor 3 subunit F	Non-canonical_RBP
+WBGene00001230	eif-3.G	\N	-	Eukaryotic translation initiation factor 3 subunit G  	eIF3g
+WBGene00001231	eif-3.H	\N	-	Eukaryotic translation initiation factor 3 subunit H	Non-canonical_RBP
+WBGene00001233	eif-3.K	\N	-	Eukaryotic translation initiation factor 3 subunit K	Non-canonical_RBP
+WBGene00001234	eif-6	\N	-	Eukaryotic translation initiation factor 6	Non-canonical_RBP
+WBGene00001259	emb-5	\N	-	Suppressor of Ty 6 homolog  	S1
+WBGene00001332	eri-1	\N	-	3'-5' exonuclease eri-1  	RNase_T
+WBGene00001336	qars-1	\N	-	Probable glutamine--tRNA ligase  	tRNA-synt_1c
+WBGene00001337	ears-1	\N	-	Glutamyl(E) Amino-acyl tRNA Synthetase  	tRNA-synt_1c
+WBGene00001338	ears-2	\N	-	Glutamyl(E) Amino-acyl tRNA Synthetase  	tRNA-synt_1c
+WBGene00001340	etr-1	\N	-	ELAV-Type RNA binding-protein family%3B ELAV-type RNA binding protein variant E  	RRM_1
+WBGene00001358	evl-20	\N	arl-2	ADP-ribosylation factor-like protein 2  	MMR_HSR1
+WBGene00001368	exc-7	\N	-	-	RRM_1
+WBGene00001372	exo-3	\N	-	DNA-(apurinic or apyrimidinic site) lyase  	Exo_endo_phos
+WBGene00001386	far-2	\N	-	Fatty-acid and retinol-binding protein 2	Non-canonical_RBP
+WBGene00001401	fbf-1	\N	-	Fem-3 mRNA-binding factor 1  	PUF
+WBGene00001402	fbf-2	\N	-	Fem-3 mRNA-binding factor 2  	PUF
+WBGene00001423	fib-1	\N	-	rRNA 2'-O-methyltransferase fibrillarin  	Fibrillarin
+WBGene00001470	baz-2	\N	flt-1	Bromodomain Adjacent to Zinc finger domain%2C 2A/2B%2C homolog  	MBD
+WBGene00001481	fog-1	\N	-	FOG-1 protein%3B Feminization Of Germline  	RRM_1
+WBGene00001484	fox-1	\N	-	Sex determination protein fox-1  	RRM_1
+WBGene00001497	fars-1	\N	-	Phenylalanyl Amino-acyl tRNA Synthetase  	tRNA-synt_2d
+WBGene00001498	fars-3	\N	-	Phenylalanine--tRNA ligase beta subunit  	B3_4
+WBGene00001502	ftt-2	\N	-	14-3-3-like protein 2	Non-canonical_RBP
+WBGene00001503	fum-1	\N	-	Probable fumarate hydratase%2C mitochondrial	Non-canonical_RBP
+WBGene00001509	fzo-1	\N	-	Transmembrane GTPase fzo-1  	MMR_HSR1
+WBGene00001520	gas-1	\N	-	Probable NADH dehydrogenase	Non-canonical_RBP
+WBGene00001527	gcs-1	\N	-	Glutamate--cysteine ligase	Non-canonical_RBP
+WBGene00001564	icl-1	\N	gei-7	Bifunctional glyoxylate cycle protein Isocitrate lyase Malate synthase	Non-canonical_RBP
+WBGene00001595	gld-1	\N	-	Female germline-specific tumor suppressor gld-1  	KH_1
+WBGene00001596	gld-2	\N	-	Poly(A) RNA polymerase gld-2  	PAP_assoc
+WBGene00001598	glh-1	\N	-	ATP-dependent RNA helicase glh-1  	DEAD
+WBGene00001599	glh-2	\N	-	ATP-dependent RNA helicase glh-2  	DEAD
+WBGene00001600	glh-3	\N	-	ATP-dependent RNA helicase glh-3  	DEAD
+WBGene00001601	glh-4	\N	-	ATP-dependent RNA helicase glh-4  	DEAD
+WBGene00001648	goa-1	\N	-	Guanine nucleotide-binding protein G(o) subunit alpha	Non-canonical_RBP
+WBGene00001661	gop-2	\N	-	GPN-loop GTPase 1  	GTP_EFTU
+WBGene00001683	gpd-1	\N	-	Glyceraldehyde-3-phosphate dehydrogenase 1	Non-canonical_RBP
+WBGene00001684	gpd-2	\N	-	Glyceraldehyde-3-phosphate dehydrogenase 2	Non-canonical_RBP
+WBGene00001686	gpd-4	\N	-	Glyceraldehyde-3-phosphate dehydrogenase 4	Non-canonical_RBP
+WBGene00001740	gro-1	\N	-	tRNA isopentenyl transferase  	IPPT
+WBGene00001744	gars-1	\N	grs-1	Glycine--tRNA ligase  	HGTP_anticodon
+WBGene00001746	gsk-3	\N	sgg-1	Glycogen synthase kinase-3	Non-canonical_RBP
+WBGene00001748	gsp-2	\N	-	Serine/threonine-protein phosphatase PP1-beta	Non-canonical_RBP
+WBGene00001749	gst-1	\N	-	Glutathione S-transferase P	Non-canonical_RBP
+WBGene00001754	gst-6	\N	-	Probable glutathione S-transferase 6	Non-canonical_RBP
+WBGene00001755	gst-7	\N	-	Probable glutathione S-transferase 7	Non-canonical_RBP
+WBGene00001784	gst-36	\N	-	Probable glutathione S-transferase gst-36	Non-canonical_RBP
+WBGene00001793	gsy-1	\N	-	Glycogen	Non-canonical_RBP
+WBGene00001808	gut-2	\N	-	-	LSM
+WBGene00001834	hda-1	\N	-	Histone deacetylase 1	Non-canonical_RBP
+WBGene00001840	hel-1	\N	-	Spliceosome RNA helicase DDX39B homolog  	DEAD
+WBGene00001843	hgo-1	\N	-	Homogentisate 1%2C2-dioxygenase	Non-canonical_RBP
+WBGene00001856	hil-5	\N	-	Histone H1.5	Non-canonical_RBP
+WBGene00001865	him-6	\N	-	Bloom syndrome protein homolog  	DEAD
+WBGene00001898	his-24	\N	-	Histone H1.1	Non-canonical_RBP
+WBGene00001918	his-44	\N	-	Histone H2B 1	Non-canonical_RBP
+WBGene00001937	his-63	\N	-	Histone H3	Non-canonical_RBP
+WBGene00001941	his-67	\N	-	Histone H4	Non-canonical_RBP
+WBGene00001942	his-68	\N	-	Histone H2A	Non-canonical_RBP
+WBGene00001993	hpd-1	\N	-	4-hydroxyphenylpyruvate dioxygenase	Non-canonical_RBP
+WBGene00001999	hrp-1	\N	rbp-1	Heterogeneous nuclear ribonucleoprotein A1  	RRM_1
+WBGene00002000	hrp-2	\N	-	HnRNP A1 homolog  	RRM_1
+WBGene00002001	hars-1	\N	-	Histidine--tRNA ligase  	tRNA-synt_His
+WBGene00002005	hsp-1	\N	hsp70a	Heat shock 70 kDa protein A	Non-canonical_RBP
+WBGene00002010	hsp-6	\N	hsp70f	Heat shock 70 kDa protein F%2C mitochondrial	Non-canonical_RBP
+WBGene00002011	hsp-12.2	\N	hsp12-2	Heat shock protein Hsp-12.2	Non-canonical_RBP
+WBGene00002017	hsp-16.11	\N	hsp16-1b	Heat shock protein Hsp-16.1/Hsp-16.11	Non-canonical_RBP
+WBGene00002045	icd-1	\N	-	Transcription factor BTF3 homolog	Non-canonical_RBP
+WBGene00002059	ife-1	\N	-	Eukaryotic translation initiation factor 4E-1  	IF4E
+WBGene00002060	ife-2	\N	-	Eukaryotic translation initiation factor 4E-2  	IF4E
+WBGene00002061	ife-3	\N	-	Eukaryotic translation initiation factor 4E-3  	IF4E
+WBGene00002062	ife-4	\N	-	Eukaryotic translation initiation factor 4E-4  	IF4E
+WBGene00002063	ife-5	\N	-	Eukaryotic translation initiation factor 4E-5  	IF4E
+WBGene00002064	iff-1	\N	-	Eukaryotic translation initiation factor 5A-1  	eIF-5a
+WBGene00002065	iff-2	\N	-	Eukaryotic translation initiation factor 5A-2  	eIF-5a
+WBGene00002066	ifg-1	\N	-	Initiation Factor 4G (eIF4G) family  	MIF4G
+WBGene00002073	ima-2	\N	-	Importin subunit alpha-2	Non-canonical_RBP
+WBGene00002074	ima-3	\N	-	Importin subunit alpha-3	Non-canonical_RBP
+WBGene00002075	imb-1	\N	-	IMportin Beta family  	IBN_N
+WBGene00002076	imb-2	\N	-	IMportin Beta family  	IBN_N
+WBGene00002078	xpo-1	\N	-	EXPOrtin (Nuclear export receptor)  	CRM1_C
+WBGene00002079	xpo-2	\N	-	EXPOrtin (Nuclear export receptor)  	IBN_N
+WBGene00002080	xpo-3	\N	-	EXPOrtin (Nuclear export receptor)  	Xpo1
+WBGene00002083	inf-1	\N	-	Eukaryotic initiation factor 4A  	DEAD
+WBGene00002147	ire-1	\N	-	Serine/threonine-protein kinase/endoribonuclease ire-1 Serine/threonine-protein kinase Endoribonuclease 	Ribonuc_2-5A
+WBGene00002152	iars-1	\N	-	Isoleucine--tRNA ligase%2C cytoplasmic  	tRNA-synt_1
+WBGene00002153	iars-2	\N	-	Isoleucyl Amino-acyl tRNA Synthetase  	tRNA-synt_1
+WBGene00002169	isw-1	\N	-	Chromatin-remodeling complex ATPase chain isw-1  	ResIII
+WBGene00002191	kin-3	\N	-	Casein kinase II subunit alpha	Non-canonical_RBP
+WBGene00002202	kin-19	\N	-	Casein kinase I isoform alpha	Non-canonical_RBP
+WBGene00002215	klc-2	\N	-	Kinesin light chain  	PPR
+WBGene00002238	kars-1	\N	-	Lysine--tRNA ligase  	tRNA-synt_2
+WBGene00002244	laf-1	\N	-	ATP-dependent RNA helicase laf-1  	DEAD
+WBGene00002249	lap-1	\N	-	Leucine aminopeptidase 1	Non-canonical_RBP
+WBGene00002250	lap-2	\N	-	Putative aminopeptidase W07G4.4	Non-canonical_RBP
+WBGene00002254	lbp-2	\N	-	Fatty acid-binding protein homolog 2	Non-canonical_RBP
+WBGene00002258	lbp-6	\N	-	Fatty acid-binding protein homolog 6	Non-canonical_RBP
+WBGene00002259	lbp-7	\N	-	Fatty acid-binding protein homolog 7	Non-canonical_RBP
+WBGene00002262	ldh-1	\N	-	L-lactate dehydrogenase	Non-canonical_RBP
+WBGene00002264	lec-1	\N	-	32 kDa beta-galactoside-binding lectin	Non-canonical_RBP
+WBGene00002271	lec-8	\N	-	Probable galaptin lec-8	Non-canonical_RBP
+WBGene00002278	lep-2	\N	-	LEPtoderan male tail  	zf-CCCH
+WBGene00002335	let-60	\N	lin-34	Ras protein let-60  	GTP_EFTU
+WBGene00002348	myo-1	\N	-	Myosin-1	Non-canonical_RBP
+WBGene00002637	let-418	\N	-	-	ResIII
+WBGene00002845	let-711	\N	ntl-1	NTL-1a  	Not1
+WBGene00002879	let-754	\N	-	Adenylate kinase	Non-canonical_RBP
+WBGene00002891	let-767	\N	dhs-10	Very-long-chain 3-oxooacyl-coA reductase let-767	Non-canonical_RBP
+WBGene00002957	let-858	\N	-	Pre-mRNA-splicing factor CWC22 homolog  	MA3
+WBGene00002978	lev-11	\N	tmy-1	Tropomyosin isoforms a/b/d/f	Non-canonical_RBP
+WBGene00003014	lin-28	\N	-	-	CSD
+WBGene00003036	lin-53	\N	rba-2	Probable histone-binding protein lin-53	Non-canonical_RBP
+WBGene00003052	lmn-1	\N	lam-1	Lamin-1	Non-canonical_RBP
+WBGene00003053	lmp-1	\N	-	LAMP family protein lmp-1	Non-canonical_RBP
+WBGene00003059	lpd-2	\N	-	LiPid Depleted  	Sas10_Utp3
+WBGene00003062	lpd-6	\N	-	LiPid Depleted  	Brix
+WBGene00003063	lpd-7	\N	-	Pescadillo homolog  	Pescadillo_N
+WBGene00003066	lpl-1	\N	-	LiPoate Ligase%3B Ny  	MRP-S32
+WBGene00003073	lars-1	\N	-	Leucine--tRNA ligase  	tRNA-synt_1
+WBGene00003074	lars-2	\N	-	Leucyl Amino-acyl tRNA Synthetase  	tRNA-synt_1
+WBGene00003076	lsm-1	\N	-	LSM Sm-like protein  	LSM
+WBGene00003077	lsm-3	\N	-	LSM Sm-like protein  	LSM
+WBGene00003078	lsm-4	\N	-	Probable U6 snRNA-associated Sm-like protein LSm4  	LSM
+WBGene00003079	lsm-5	\N	-	LSM Sm-like protein  	LSM
+WBGene00003080	lsm-6	\N	-	LSM Sm-like protein  	LSM
+WBGene00003081	lsm-7	\N	-	LSM Sm-like protein  	LSM
+WBGene00003082	lsm-8	\N	-	LSM Sm-like protein  	LSM
+WBGene00003085	ccar-1	\N	lst-3	CCAR1 homolog  	S1-like
+WBGene00003123	mag-1	\N	-	Protein mago nashi homolog  	Mago_nashi
+WBGene00003157	mcm-5	\N	-	DNA replication licensing factor mcm-5	Non-canonical_RBP
+WBGene00003162	mdh-2	\N	-	Probable malate dehydrogenase%2C mitochondrial	Non-canonical_RBP
+WBGene00003171	mec-7	\N	-	Tubulin beta-1 chain	Non-canonical_RBP
+WBGene00003172	mec-8	\N	-	Mec-8 protein  	RRM_1
+WBGene00003186	mek-2	\N	-	Dual specificity mitogen-activated protein kinase kinase mek-2	Non-canonical_RBP
+WBGene00003228	mex-1	\N	-	MEX-1%3B Muscle EXcess  	zf-CCCH
+WBGene00003229	mex-3	\N	-	Muscle EXcess  	KH_1
+WBGene00003230	mex-5	\N	-	Zinc finger protein mex-5  	zf-CCCH
+WBGene00003231	mex-6	\N	-	Zinc finger protein mex-6  	zf-CCCH
+WBGene00003235	mif-2	\N	-	MIF-like protein mif-2	Non-canonical_RBP
+WBGene00003369	mlc-1	\N	-	Myosin regulatory light chain 1	Non-canonical_RBP
+WBGene00003370	mlc-2	\N	-	Myosin regulatory light chain 2	Non-canonical_RBP
+WBGene00003371	mlc-3	\N	-	Myosin%2C essential light chain	Non-canonical_RBP
+WBGene00003372	mlc-4	\N	-	Myosin regulatory light chain	Non-canonical_RBP
+WBGene00003380	mnm-2	\N	-	Zinc finger protein mnm-2  	zf-C2H2
+WBGene00003388	moe-3	\N	-	CCCH-type zinc finger protein moe-3  	zf-CCCH
+WBGene00003389	mog-1	\N	-	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-1  	HA2
+WBGene00003390	mog-2	\N	sap-1	Probable U2 small nuclear ribonucleoprotein A'	Non-canonical_RBP
+WBGene00003391	mog-3	\N	-	Masculinisation Of Germline%3B Sex determining protein MOG-3  	CWC25
+WBGene00003392	mog-4	\N	-	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-4  	HA2
+WBGene00003393	mog-5	\N	-	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-5  	HA2
+WBGene00003400	dapk-1	\N	mor-3|tag-119	Death-associated protein kinase dapk-1  	RIO1
+WBGene00003406	mrg-1	\N	-	MRG (Mortality factor-Related Gene) related  	Tudor-knot
+WBGene00003415	mars-1	\N	-	Methionine--tRNA ligase%2C cytoplasmic  	tRNA-synt_1g
+WBGene00003423	msi-1	\N	-	MuSashI (Fly neural) family%3B Neural RNA-binding protein MSI-1  	RRM_1
+WBGene00003424	msp-3	\N	-	Major sperm protein 3	Non-canonical_RBP
+WBGene00003463	msp-76	\N	-	Major sperm protein 10/36/56/76	Non-canonical_RBP
+WBGene00003465	msp-78	\N	-	Major sperm protein 78	Non-canonical_RBP
+WBGene00003485	mua-6	\N	-	Intermediate filament protein ifa-2	Non-canonical_RBP
+WBGene00003495	mup-2	\N	-	Troponin T	Non-canonical_RBP
+WBGene00003499	mut-2	\N	-	MUTator  	PAP_assoc
+WBGene00003504	mut-7	\N	-	Exonuclease mut-7  	DNA_pol_A_exo1
+WBGene00003507	mut-14	\N	-	MUTator  	DEAD
+WBGene00003514	myo-2	\N	-	Myosin-2	Non-canonical_RBP
+WBGene00003515	myo-3	\N	mhcA	Myosin-3	Non-canonical_RBP
+WBGene00003582	dcap-2	\N	ndx-5	mRNA-decapping enzyme 2  	DCP2
+WBGene00003594	nft-1	\N	-	Nitrilase and fragile histidine triad fusion protein NitFhit Bis(5'-adenosyl)-triphosphatase Nitrilase homolog 	DcpS_C
+WBGene00003596	ngp-1	\N	-	Nucleolar GTP-binding protein 2  	MMR_HSR1
+WBGene00003783	nos-1	\N	-	NanOS related  	zf-nanos
+WBGene00003785	nos-3	\N	-	NanOS related  	zf-nanos
+WBGene00003805	npp-19	\N	-	Nucleoporin NUP53  	Nup35_RRM
+WBGene00003815	nars-1	\N	-	Asparagine--tRNA ligase%2C cytoplasmic  	tRNA-synt_2
+WBGene00003821	nst-1	\N	-	Guanine nucleotide-binding protein-like 3 homolog  	GN3L_Grn1
+WBGene00003825	ntl-2	\N	-	NOT-Like (Yeast CCR4/NOT complex component)  	NOT2_3_5
+WBGene00003826	ntl-3	\N	-	NOT-Like (Yeast CCR4/NOT complex component)  	Not3
+WBGene00003827	ntl-4	\N	-	NOT-Like (Yeast CCR4/NOT complex component)  	RRM_1
+WBGene00003834	nxf-1	\N	-	Nuclear RNA export factor 1  	TAP_C
+WBGene00003836	nxt-1	\N	nxt1	NTF2-related export protein  	NTF2
+WBGene00003847	blmp-1	\N	-	B lymphocyte-induced maturation protein 1 homolog  	zf-C2H2
+WBGene00003864	oma-1	\N	moe-1 {ECO:0000303|PubMed:12296824,GN   ECO:0000312|WormBase:C09G9.6}	CCCH-type zinc finger protein oma-1  	zf-CCCH
+WBGene00003865	oma-2	\N	moe-2 {ECO:0000303|PubMed:12296824,GN   ECO:0000312|WormBase:ZC513.6}	CCCH-type zinc finger protein oma-2  	zf-CCCH
+WBGene00003901	paa-1	\N	-	Probable serine/threonine-protein phosphatase PP2A regulatory subunit	Non-canonical_RBP
+WBGene00003902	pab-1	\N	-	Polyadenylate-binding protein  	RRM_1
+WBGene00003903	pab-2	\N	-	Polyadenylate-binding protein  	RRM_1
+WBGene00003904	pabp-2	\N	-	PolyA Binding Protein (Nuclear)  	RRM_1
+WBGene00003922	pas-1	\N	-	Proteasome subunit alpha type-6	Non-canonical_RBP
+WBGene00003925	pas-4	\N	-	Proteasome subunit alpha type-7	Non-canonical_RBP
+WBGene00003926	pas-5	\N	-	Proteasome subunit alpha type-5	Non-canonical_RBP
+WBGene00003927	pas-6	\N	-	Proteasome subunit alpha type-1	Non-canonical_RBP
+WBGene00003928	pas-7	\N	-	Proteasome subunit alpha type-3	Non-canonical_RBP
+WBGene00003933	pat-9	\N	-	Paralysed Arrest at Two-fold  	zf-C2H2
+WBGene00003949	pbs-3	\N	-	Proteasome subunit beta type-3	Non-canonical_RBP
+WBGene00003950	pbs-4	\N	-	Proteasome subunit beta type-2	Non-canonical_RBP
+WBGene00003954	pcm-1	\N	-	Protein-L-isoaspartate O-methyltransferase  	Methyltransf_31
+WBGene00003955	pcn-1	\N	-	Proliferating cell nuclear antigen	Non-canonical_RBP
+WBGene00003962	pdi-1	\N	-	Protein disulfide-isomerase 1	Non-canonical_RBP
+WBGene00003963	pdi-2	\N	-	Protein disulfide-isomerase 2	Non-canonical_RBP
+WBGene00003978	pes-4	\N	-	Patterned Expression Site  	KH_1
+WBGene00003989	pfn-1	\N	-	Profilin-1	Non-canonical_RBP
+WBGene00003990	pfn-2	\N	-	Profilin-2	Non-canonical_RBP
+WBGene00003992	pgl-1	\N	-	P granule abnormality protein 1	Non-canonical_RBP
+WBGene00004014	phb-1	\N	-	Mitochondrial prohibitin complex protein 1	Non-canonical_RBP
+WBGene00004015	phb-2	\N	-	Mitochondrial prohibitin complex protein 2	Non-canonical_RBP
+WBGene00004016	phf-5	\N	-	PHF-5%3B PHd Finger family  	PHF5
+WBGene00004025	phy-2	\N	-	Prolyl 4-hydroxylase subunit alpha-2  	hmm_2OG-FeII_Oxy
+WBGene00004027	pie-1	\N	-	Pharynx and intestine in excess protein 1  	zf-CCCH
+WBGene00004046	plp-1	\N	-	Pur alpha Like Protein  	PurA
+WBGene00004049	parp-1	\N	-	Poly(ADP-ribose) polymerase pme-1  	PARP
+WBGene00004050	parp-2	\N	-	Poly(ADP-ribose) polymerase pme-2  	PARP
+WBGene00004053	tank-1	\N	pme-5	Tankyrase-like protein  	PARP
+WBGene00004078	pos-1	\N	-	Cytoplasmic zinc-finger protein%3B POsterior Segregation  	zf-CCCH
+WBGene00004093	ppw-1	\N	-	Piwi-like protein  	Piwi
+WBGene00004094	ppw-2	\N	-	Piwi-like protein  	Piwi
+WBGene00004095	pqe-1	\N	-	Putative RNA exonuclease pqe-1  	RNase_T
+WBGene00004131	pqn-44	\N	-	Prion-like-(Q/N-rich)-domain-bearing protein  	NTP_transf_7
+WBGene00004147	larp-5	\N	-	LARP (RNA binding La related protein) homolog  	La
+WBGene00004178	prg-1	\N	-	Piwi-like protein  	Piwi
+WBGene00004179	prg-2	\N	-	Piwi-like protein  	Piwi
+WBGene00004185	pro-1	\N	-	Pre-rRNA-processing protein pro-1	Non-canonical_RBP
+WBGene00004187	prp-8	\N	-	Pre-mRNA-splicing factor 8 homolog  	PROCN
+WBGene00004188	prp-21	\N	Ceprp21	Pre-RNA processing 21%3B Yeast PRP (Splicing factor) related  	Surp
+WBGene00004189	pars-1	\N	-	Prolyl Amino-acyl tRNA Synthetase  	ProRS-C_1
+WBGene00004190	pars-2	\N	-	Prolyl Amino-acyl tRNA Synthetase  	tRNA-synt_2b
+WBGene00004204	swsn-4	\N	psa-4	SWI/SNF nucleosome remodeling complex component%3B SWI2/SNF2-like protein  	BRK
+WBGene00004207	ptb-1	\N	-	PTB (HnRNP) homolog%3B Putative RNA-binding protein PTB-1b  	RRM_5
+WBGene00004239	puf-3	\N	-	PUF (Pumilio/FBF) domain-containing  	PUF
+WBGene00004242	puf-6	\N	-	Pumilio domain-containing protein 6  	PUF
+WBGene00004243	puf-7	\N	-	Pumilio domain-containing protein 7  	PUF
+WBGene00004244	puf-8	\N	-	PUF (Pumilio/FBF) domain-containing  	PUF
+WBGene00004245	puf-9	\N	-	PUF (Pumilio/FBF) domain-containing  	PUF
+WBGene00004248	pus-1	\N	-	tRNA pseudouridine synthase  	PseudoU_synth_1
+WBGene00004266	rab-1	\N	-	RAB family  	MMR_HSR1
+WBGene00004268	rab-5	\N	-	RAB family  	MMR_HSR1
+WBGene00004269	rab-6.1	\N	-	Ras-related protein Rab-6.1  	MMR_HSR1
+WBGene00004270	rab-6.2	\N	-	Ras-related protein Rab-6.2  	MMR_HSR1
+WBGene00004271	rab-7	\N	-	RAB family  	MMR_HSR1
+WBGene00004274	rab-11.1	\N	-	Ras-related protein rab-11.1  	MMR_HSR1
+WBGene00004275	rab-11.2	\N	-	RAB family  	MMR_HSR1
+WBGene00004276	rab-14	\N	-	RAB family  	MMR_HSR1
+WBGene00004277	rab-18	\N	-	Ras-related protein Rab-18  	GTP_EFTU
+WBGene00004279	rab-21	\N	-	RAB family  	MMR_HSR1
+WBGene00004282	rab-30	\N	-	RAB family  	MMR_HSR1
+WBGene00004284	rab-35	\N	-	RAB family  	MMR_HSR1
+WBGene00004286	rab-39	\N	-	RAB family  	MMR_HSR1
+WBGene00004298	rad-54	\N	-	-	ResIII
+WBGene00004302	ran-1	\N	-	GTP-binding nuclear protein ran-1	Non-canonical_RBP
+WBGene00004305	ran-4	\N	-	Probable nuclear transport factor 2  	NTF2
+WBGene00004309	rap-3	\N	-	RAP homolog (Vertebrate Rap GTPase family)  	GTP_EFTU
+WBGene00004315	rbd-1	\N	-	RBD (RNA binding domain) protein  	RRM_1
+WBGene00004322	rcq-5	\N	-	ReCQ DNA helicase family  	DEAD
+WBGene00004323	rde-1	\N	-	RNA interference promoting factor RDE-1  	Piwi
+WBGene00004326	rde-4	\N	-	RNA interference promoting factor  	dsrm
+WBGene00004355	rha-1	\N	-	Probable ATP-dependent RNA helicase A  	dsrm
+WBGene00004373	rme-1	\N	-	Receptor Mediated Endocytosis%3B Receptor-mediated endocytosis 1 isoform I  	MMR_HSR1
+WBGene00004382	rnh-1.0	\N	-	RNase H  	RNase_H
+WBGene00004383	rnh-2	\N	rnh2	Ribonuclease H2 subunit A  	RNase_HII
+WBGene00004384	rnp-1	\N	-	RNA-binding protein rnp-1  	RRM_1
+WBGene00004385	rnp-2	\N	-	RNP (RRM RNA binding domain) containing  	RRM_1
+WBGene00004386	rnp-3	\N	-	RNP (RRM RNA binding domain) containing  	RRM_1
+WBGene00004387	rnp-4	\N	RBM8|Y14GN	RNA-binding protein 8A  	RRM_1
+WBGene00004388	rnp-5	\N	-	RNP (RRM RNA binding domain) containing  	RRM_1
+WBGene00004389	rnp-6	\N	-	RNP (RRM RNA binding domain) containing  	RRM_1
+WBGene00004390	rnp-7	\N	-	RNP (RRM RNA binding domain) containing  	U1snRNP70_N
+WBGene00004391	rnr-1	\N	-	Ribonucleoside-diphosphate reductase large subunit	Non-canonical_RBP
+WBGene00004405	rop-1	\N	-	60 kDa SS-A/Ro ribonucleoprotein homolog  	TROVE
+WBGene00004408	rla-0	\N	-	60S acidic ribosomal protein P0  	Ribosomal_L10
+WBGene00004409	rla-1	\N	rpa-1	60S acidic ribosomal protein P1  	Ribosomal_60s
+WBGene00004410	rla-2	\N	-	Ribosomal protein%2C Large subunit%2C Acidic (P1)  	Ribosomal_60s
+WBGene00004411	rpc-1	\N	-	DNA-directed RNA polymerase subunit  	RNA_pol_Rpb1_1
+WBGene00004412	rpl-1	\N	-	60S ribosomal protein L10a  	Ribosomal_L1
+WBGene00004413	rpl-2	\N	-	60S ribosomal protein L8  	Ribosomal_L2_C
+WBGene00004414	rpl-3	\N	-	60S ribosomal protein L3  	Ribosomal_L3
+WBGene00004415	rpl-4	\N	-	60S ribosomal protein L4  	Ribosomal_L4
+WBGene00004416	rpl-5	\N	-	60S ribosomal protein L5	Non-canonical_RBP
+WBGene00004417	rpl-6	\N	-	60S ribosomal protein L6  	Ribosomal_L6e
+WBGene00004418	rpl-7	\N	-	60S ribosomal protein L7  	Ribosomal_L30_N
+WBGene00004419	rpl-7A	\N	-	60S ribosomal protein L7a  	Ribosomal_L7Ae
+WBGene00004420	rpl-9	\N	-	60S ribosomal protein L9  	Ribosomal_L6
+WBGene00004421	rpl-10	\N	-	60S ribosomal protein L10  	Ribosomal_L16
+WBGene00004422	rpl-11.1	\N	-	60S ribosomal protein L11-1  	Ribosomal_L5
+WBGene00004423	rpl-11.2	\N	-	60S ribosomal protein L11-2  	Ribosomal_L5
+WBGene00004424	rpl-12	\N	-	60S ribosomal protein L12  	Ribosomal_L11_N
+WBGene00004425	rpl-13	\N	-	60S ribosomal protein L13  	Ribosomal_L13e
+WBGene00004426	rpl-14	\N	-	Ribosomal Protein%2C Large subunit  	Ribosomal_L14e
+WBGene00004427	rpl-15	\N	-	60S ribosomal protein L15  	Ribosomal_L15e
+WBGene00004428	rpl-16	\N	-	60S ribosomal protein L13a  	Ribosomal_L13
+WBGene00004429	rpl-17	\N	-	60S ribosomal protein L17  	Ribosomal_L22
+WBGene00004430	rpl-18	\N	-	60S ribosomal protein L18	Non-canonical_RBP
+WBGene00004431	rpl-19	\N	-	60S ribosomal protein L19  	Ribosomal_L19e
+WBGene00004432	rpl-20	\N	-	60S ribosomal protein L18a  	Ribosomal_L18A
+WBGene00004433	rpl-21	\N	-	60S ribosomal protein L21  	Ribosomal_L21e
+WBGene00004434	rpl-22	\N	-	60S ribosomal protein L22  	Ribosomal_L22e
+WBGene00004435	rpl-23	\N	-	60S ribosomal protein L23  	Ribosomal_L14
+WBGene00004436	rpl-24.1	\N	-	60S ribosomal protein L24  	Ribosomal_L24e
+WBGene00004437	rpl-24.2	\N	-	Probable ribosome biogenesis protein RLP24  	Ribosomal_L24e
+WBGene00004438	rpl-25.1	\N	-	60S ribosomal protein L23a 1  	Ribosomal_L23
+WBGene00004439	rpl-25.2	\N	-	60S ribosomal protein L23a 2  	Ribosomal_L23eN
+WBGene00004440	rpl-26	\N	-	60S ribosomal protein L26  	KOW
+WBGene00004441	rpl-27	\N	-	60S ribosomal protein L27  	Ribosomal_L27e
+WBGene00004442	rpl-28	\N	-	60S ribosomal protein L28  	Ribosomal_L28e
+WBGene00004443	rpl-29	\N	-	60S ribosomal protein L29  	Ribosomal_L29e
+WBGene00004444	rpl-30	\N	-	Ribosomal Protein%2C Large subunit  	Ribosomal_L7Ae
+WBGene00004445	rpl-31	\N	-	60S ribosomal protein L31  	Ribosomal_L31e
+WBGene00004446	rpl-32	\N	-	Ribosomal Protein%2C Large subunit  	Ribosomal_L32e
+WBGene00004447	rpl-33	\N	-	60S ribosomal protein L35a  	Ribosomal_L35Ae
+WBGene00004448	rpl-34	\N	-	Ribosomal Protein%2C Large subunit  	Ribosomal_L34e
+WBGene00004449	rpl-35	\N	-	60S ribosomal protein L35  	Ribosomal_L29
+WBGene00004450	rpl-36	\N	-	60S ribosomal protein L36  	Ribosomal_L36e
+WBGene00004451	rpl-37	\N	-	60S ribosomal protein L37  	Ribosomal_L37e
+WBGene00004452	rpl-38	\N	-	60S ribosomal protein L38  	Ribosomal_L38e
+WBGene00004453	rpl-39	\N	-	60S ribosomal protein L39  	Ribosomal_L39
+WBGene00004454	rpl-36.A	\N	-	Ribosomal protein rpl-41  	Ribosomal_L44
+WBGene00004456	rpl-43	\N	rpl-37a	60S ribosomal protein L37a  	Ribosomal_L37ae
+WBGene00004460	rpn-3	\N	-	26S proteasome non-ATPase regulatory subunit 3	Non-canonical_RBP
+WBGene00004463	rpn-7	\N	-	26S proteasome non-ATPase regulatory subunit 6	Non-canonical_RBP
+WBGene00004468	rpn-12	\N	-	26S proteasome non-ATPase regulatory subunit 8	Non-canonical_RBP
+WBGene00004469	rps-0	\N	-	40S ribosomal protein SA  	Ribosomal_S2
+WBGene00004470	rps-1	\N	-	40S ribosomal protein S3a  	Ribosomal_S3Ae
+WBGene00004471	rps-2	\N	-	40S ribosomal protein S2  	Ribosomal_S5
+WBGene00004472	rps-3	\N	-	40S ribosomal protein S3  	Ribosomal_S3_C
+WBGene00004473	rps-4	\N	-	40S ribosomal protein S4  	Ribosomal_S4e
+WBGene00004474	rps-5	\N	-	40S ribosomal protein S5  	Ribosomal_S7
+WBGene00004475	rps-6	\N	-	40S ribosomal protein S6  	Ribosomal_S6e
+WBGene00004476	rps-7	\N	-	40S ribosomal protein S7  	Ribosomal_S7e
+WBGene00004477	rps-8	\N	-	40S ribosomal protein S8  	Ribosomal_S8e
+WBGene00004478	rps-9	\N	-	40S ribosomal protein S9  	S4
+WBGene00004479	rps-10	\N	-	Ribosomal Protein%2C Small subunit  	S10_plectin
+WBGene00004480	rps-11	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S17
+WBGene00004481	rps-12	\N	-	40S ribosomal protein S12  	Ribosomal_L7Ae
+WBGene00004482	rps-13	\N	-	40S ribosomal protein S13  	Ribosomal_S13_N
+WBGene00004483	rps-14	\N	-	40S ribosomal protein S14  	Ribosomal_S11
+WBGene00004484	rps-15	\N	-	40S ribosomal protein S15  	Ribosomal_S19
+WBGene00004485	rps-16	\N	-	40S ribosomal protein S16  	Ribosomal_S9
+WBGene00004486	rps-17	\N	-	40S ribosomal protein S17  	Ribosomal_S17e
+WBGene00004487	rps-18	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S13
+WBGene00004488	rps-19	\N	-	40S ribosomal protein S19  	Ribosomal_S19e
+WBGene00004489	rps-20	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S10
+WBGene00004490	rps-21	\N	-	40S ribosomal protein S21  	Ribosomal_S21e
+WBGene00004491	rps-22	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S8
+WBGene00004492	rps-23	\N	-	40S ribosomal protein S23  	Ribosom_S12_S23
+WBGene00004493	rps-24	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S24e
+WBGene00004494	rps-25	\N	-	40S ribosomal protein S25  	Ribosomal_S25
+WBGene00004495	rps-26	\N	-	40S ribosomal protein S26  	Ribosomal_S26e
+WBGene00004496	rps-27	\N	-	40S ribosomal protein S27  	Ribosomal_S27e
+WBGene00004497	rps-28	\N	-	40S ribosomal protein S28  	Ribosomal_S28e
+WBGene00004498	rps-29	\N	-	Ribosomal Protein%2C Small subunit  	Ribosomal_S14
+WBGene00004499	rps-30	\N	-	40S ribosomal protein S30  	Ribosomal_S30
+WBGene00004501	rpt-1	\N	-	26S protease regulatory subunit 7	Non-canonical_RBP
+WBGene00004502	rpt-2	\N	-	Probable 26S protease regulatory subunit 4	Non-canonical_RBP
+WBGene00004503	rpt-3	\N	-	Probable 26S protease regulatory subunit 6B	Non-canonical_RBP
+WBGene00004508	rrf-1	\N	-	RNA-dependent RNA polymerase Family%3B RRF-1  	RdRP
+WBGene00004509	rrf-2	\N	-	RNA-dependent RNA polymerase Family  	RdRP
+WBGene00004510	rrf-3	\N	-	RNA-dependent RNA polymerase Family  	RdRP
+WBGene00004679	rars-1	\N	-	Probable arginine--tRNA ligase%2C cytoplasmic  	tRNA-synt_1d
+WBGene00004680	rars-2	\N	-	Arginyl(R) Amino-acyl tRNA Synthetase  	tRNA-synt_1d
+WBGene00004681	rsd-2	\N	-	-	RSD-2
+WBGene00004684	rsd-6	\N	-	-	TUDOR
+WBGene00004698	rsp-1	\N	srp-5	Probable splicing factor%2C arginine/serine-rich 1  	RRM_1
+WBGene00004699	rsp-2	\N	srp-4	Probable splicing factor%2C arginine/serine-rich 2  	RRM_1
+WBGene00004700	rsp-3	\N	-	Probable splicing factor%2C arginine/serine-rich 3  	RRM_1
+WBGene00004701	rsp-4	\N	srp-2	Probable splicing factor%2C arginine/serine-rich 4  	RRM_1
+WBGene00004702	rsp-5	\N	srp-3	Probable splicing factor%2C arginine/serine-rich 5  	RRM_1
+WBGene00004703	rsp-6	\N	srp-1	Probable splicing factor%2C arginine/serine-rich 6  	RRM_1
+WBGene00004704	rsp-7	\N	-	Probable splicing factor%2C arginine/serine-rich 7  	RRM_1
+WBGene00004705	rsp-8	\N	-	SR Protein (Splicing factor)  	RRM_1
+WBGene00004706	rsr-1	\N	-	SR protein related  	PWI
+WBGene00004723	sap-49	\N	-	Splicing factor 3B subunit 4  	RRM_1
+WBGene00004751	sea-2	\N	-	Signal Element on Autosome  	zf-met
+WBGene00004773	sem-4	\N	-	SEM-4 long form  	zf-C2H2
+WBGene00004782	set-2	\N	-	Histone-lysine N-methyltransferase set-2  	RRM_1
+WBGene00004788	sft-4	\N	surf-4	Surfeit locus protein 4 homolog	Non-canonical_RBP
+WBGene00004795	sid-1	\N	-	Systemic RNA interference defective protein 1  	SID-1_RNA_chan
+WBGene00004798	sip-1	\N	-	Stress-induced protein 1	Non-canonical_RBP
+WBGene00004806	skp-1	\N	-	mammalian SKIP (Ski interacting protein) homolog	Non-canonical_RBP
+WBGene00004862	sma-9	\N	-	SMA-9 class IIb%3B SMAll  	zf-C2H2
+WBGene00004880	smg-2	\N	-	Regulator of nonsense transcripts 1  	UPF1_Zn_bind
+WBGene00004881	smg-3	\N	-	SMG-3%3B Suppressor with Morphological effect on Genitalia  	MIF4G
+WBGene00004882	smg-4	\N	-	Suppressor with Morphological effect on Genitalia  	Smg4_UPF3
+WBGene00004884	smg-6	\N	-	Suppressor with Morphological effect on Genitalia  	EST1_DNA_bind
+WBGene00004885	smg-7	\N	-	SMG-7%3B Suppressor with Morphological effect on Genitalia  	EST1_DNA_bind
+WBGene00004886	smi-1	\N	-	SMN (Survival of motor neuron) protein Interactor  	SIP1
+WBGene00004887	smn-1	\N	SMN	SMN (Human Survival Motor Neuron gene) homolog%3B SMN protein  	SMN
+WBGene00004888	smo-1	\N	smt3|sumo	Small ubiquitin-related modifier	Non-canonical_RBP
+WBGene00004914	snr-1	\N	-	Small nuclear ribonucleoprotein Sm D3  	LSM
+WBGene00004915	snr-2	\N	-	Probable small nuclear ribonucleoprotein-associated protein B  	LSM
+WBGene00004916	snr-3	\N	-	Probable small nuclear ribonucleoprotein Sm D1  	LSM
+WBGene00004917	snr-4	\N	-	Probable small nuclear ribonucleoprotein Sm D2  	LSM
+WBGene00004918	snr-5	\N	-	Probable small nuclear ribonucleoprotein F  	LSM
+WBGene00004919	snr-6	\N	-	Probable small nuclear ribonucleoprotein E  	LSM
+WBGene00004920	snr-7	\N	-	Probable small nuclear ribonucleoprotein G  	LSM
+WBGene00004931	sod-2	\N	sdm-1	Superoxide dismutase	Non-canonical_RBP
+WBGene00004981	spl-1	\N	-	Sphingosine-1-phosphate lyase	Non-canonical_RBP
+WBGene00004984	spn-4	\N	pip-1	PIP-1  	RRM_1
+WBGene00005014	spt-4	\N	-	Transcription elongation factor SPT4  	Spt4
+WBGene00005015	spt-5	\N	-	Transcription elongation factor SPT5  	KOW
+WBGene00005022	sqv-4	\N	-	UDP-glucose 6-dehydrogenase	Non-canonical_RBP
+WBGene00005662	sars-2	\N	SerRS	Seryl Amino-acyl tRNA Synthetase%3B Seryl-tRNA synthetase  	tRNA-synt_2b
+WBGene00005663	sars-1	\N	-	Probable serine--tRNA ligase%2C cytoplasmic  	tRNA-synt_2b
+WBGene00006307	suf-1	\N	-	SUppressor-of-Forked (Drosophila) homolog  	Suf
+WBGene00006321	sup-12	\N	-	SUPpressor  	RRM_1
+WBGene00006331	sup-26	\N	-	SUPpressor  	RRM_1
+WBGene00006351	sur-5	\N	-	Acetoacetyl-CoA synthetase	Non-canonical_RBP
+WBGene00006359	swp-1	\N	swap	Splicing factor (Suppressor of White aPricot) related  	DRY_EERY
+WBGene00006367	sym-2	\N	-	RNA-binding protein sym-2  	RRM_1
+WBGene00006414	raga-1	\N	-	RAs-related GTP-binding protein A  	MMR_HSR1
+WBGene00006423	asd-2	\N	let-529,GN   star-2,GN   tag-44	RNA-binding protein asd-2  	KH_1
+WBGene00006433	sdhb-1	\N	tag-55	Succinate dehydrogenase	Non-canonical_RBP
+WBGene00006442	tag-65	\N	scaf-6	SR-related CTD associated factor 6  	G-patch
+WBGene00006447	tag-72	\N	-	mRNA cap guanine-N7 methyltransferase  	Pox_MCEL
+WBGene00006449	alg-4	\N	-	Putative protein tag-76  	Piwi
+WBGene00006473	tag-124	\N	-	Probable tRNA pseudouridine synthase tag-124  	PseudoU_synth_1
+WBGene00006474	wdr-5.1	\N	swd-3.1|tag-125	WD repeat-containing protein wdr-5.1  	eIF2A
+WBGene00006477	chup-1	\N	-	CHolesterol UPtake associated  	SID-1_RNA_chan
+WBGene00006497	tag-151	\N	-	Pre-rRNA-processing protein TSR1 homolog  	AARP2CN
+WBGene00006499	tag-153	\N	-	-	NOT2_3_5
+WBGene00006514	tdp-1	\N	-	Tar DNA-binding protein homolog 1  	RRM_1
+WBGene00006519	tag-174	\N	-	Probable cytochrome c oxidase subunit 6A%2C mitochondrial	Non-canonical_RBP
+WBGene00006529	tba-2	\N	-	Tubulin alpha-2 chain	Non-canonical_RBP
+WBGene00006534	tba-8	\N	-	Tubulin alpha-8 chain	Non-canonical_RBP
+WBGene00006537	tbb-2	\N	-	Tubulin beta-2 chain	Non-canonical_RBP
+WBGene00006538	tbb-4	\N	-	Tubulin beta-4 chain	Non-canonical_RBP
+WBGene00006566	tgt-1	\N	-	Queuine tRNA-ribosyltransferase catalytic subunit  	TGT
+WBGene00006567	tgt-2	\N	-	Queuine tRNA-ribosyltransferase accessory subunit 2  	TGT
+WBGene00006574	tin-13	\N	tim-13	Mitochondrial import inner membrane translocase subunit tim-13	Non-canonical_RBP
+WBGene00006584	tni-1	\N	-	Troponin I 1	Non-canonical_RBP
+WBGene00006586	tni-4	\N	-	Troponin I 4	Non-canonical_RBP
+WBGene00006601	tpi-1	\N	-	Triosephosphate isomerase	Non-canonical_RBP
+WBGene00006613	trm-1	\N	trm1	tRNA (guanine(26)-N(2))-dimethyltransferase  	TRM
+WBGene00006617	tars-1	\N	-	Threonine--tRNA ligase%2C cytoplasmic  	tRNA-synt_2b
+WBGene00006618	trt-1	\N	-	Telomerase Reverse Transcriptase  	RVT_1
+WBGene00006626	tsn-1	\N	-	Tudor Staphylococcal Nuclease homolog  	SNase
+WBGene00006647	tsr-1	\N	-	Transporter of SR proteins  	Xpo1
+WBGene00006697	uaf-1	\N	-	Splicing factor U2AF 65 kDa subunit  	RRM_1
+WBGene00006698	uaf-2	\N	-	U2AF splicing factor  	zf-CCCH
+WBGene00006724	ubh-4	\N	-	Probable ubiquitin carboxyl-terminal hydrolase ubh-4	Non-canonical_RBP
+WBGene00006725	ubl-1	\N	-	Ubiquitin-like protein 1-40S ribosomal protein S27a Ubiquitin-like protein 1 40S ribosomal protein S27a 	Ribosomal_S27
+WBGene00006727	ubq-1	\N	ubia	Polyubiquitin-A Ubiquitin Ubiquitin-related	Non-canonical_RBP
+WBGene00006728	ubq-2	\N	ubib	Ubiquitin-60S ribosomal protein L40 Ubiquitin 60S ribosomal protein L40 	Ribosomal_L40e
+WBGene00006754	unc-15	\N	-	Paramyosin	Non-canonical_RBP
+WBGene00006763	unc-26	\N	-	Synaptojanin  	DUF1866
+WBGene00006764	unc-27	\N	tni-2	Troponin I 2	Non-canonical_RBP
+WBGene00006789	unc-54	\N	myo-4	Myosin-4	Non-canonical_RBP
+WBGene00006793	unc-59	\N	-	-	MMR_HSR1
+WBGene00006794	unc-60	\N	-	Actin-depolymerizing factor 2%2C isoform c	Non-canonical_RBP
+WBGene00006807	unc-75	\N	-	Putative RNA-binding protein  	RRM_1
+WBGene00006833	unc-108	\N	-	Rab-2  	MMR_HSR1
+WBGene00006840	unc-116	\N	khc-1	Kinesin heavy chain	Non-canonical_RBP
+WBGene00006856	usp-14	\N	tgt-1	Ubiquitin carboxyl-terminal hydrolase 14	Non-canonical_RBP
+WBGene00006888	vbh-1	\N	-	Vasa-and Belle-like Helicase  	DEAD
+WBGene00006918	vha-9	\N	-	Probable V-type proton ATPase subunit F	Non-canonical_RBP
+WBGene00006919	vha-10	\N	-	Probable V-type proton ATPase subunit G	Non-canonical_RBP
+WBGene00006921	vha-12	\N	-	Probable V-type proton ATPase subunit B	Non-canonical_RBP
+WBGene00006924	vig-1	\N	-	VIG (Drosophila Vasa Intronic Gene) ortholog  	HABP4_PAI-RBP1
+WBGene00006925	vit-1	\N	-	Vitellogenin-1	Non-canonical_RBP
+WBGene00006926	vit-2	\N	-	Vitellogenin-2	Non-canonical_RBP
+WBGene00006927	vit-3	\N	-	Vitellogenin-3	Non-canonical_RBP
+WBGene00006928	vit-4	\N	-	Vitellogenin-4	Non-canonical_RBP
+WBGene00006929	vit-5	\N	-	Vitellogenin-5	Non-canonical_RBP
+WBGene00006935	vars-1	\N	-	Valyl Amino-acyl tRNA Synthetase  	tRNA-synt_1
+WBGene00006936	glp-4	\N	-	Valine--tRNA ligase  	tRNA-synt_1
+WBGene00006944	wrn-1	\N	-	Probable Werner syndrome ATP-dependent helicase homolog 1  	DEAD
+WBGene00006945	wars-1	\N	wrs-1	Tryptophanyl(W) Amino-acyl tRNA Synthetase%3B Tryptophanyl-tRNA synthetase (Cytosolic)  	tRNA-synt_1b
+WBGene00006946	prx-10	\N	-	Tryptophan--tRNA ligase%2C mitochondrial  	tRNA-synt_1b
+WBGene00006964	xrn-2	\N	-	5'-3' exoribonuclease 2 homolog  	XRN_N
+WBGene00006968	yars-2	\N	yars-1	Tyrosine--tRNA ligase  	tRNA-synt_1b
+WBGene00007000	tufm-1	\N	-	Elongation factor Tu homologue%3B TU elongation Factor (EF-Tu)%2C Mitochondrial  	GTP_EFTU
+WBGene00007001	tufm-2	\N	-	Mitochondrial elongation factor Tu homologue%3B TU elongation Factor (EF-Tu)%2C Mitochondrial  	GTP_EFTU
+WBGene00007027	ssl-1	\N	-	Helicase ssl-1  	ResIII
+WBGene00007029	mys-1	\N	-	Histone acetyltransferase Tip60 homolog  	Tudor-knot
+WBGene00007048	nfx-1	\N	tag-182	Transcriptional repressor NF-X1 homolog  	R3H
+WBGene00007050	utp-20	\N	tag-184	UTP small subunit (SSU) processome component homolog  	DRIM
+WBGene00007053	chd-7	\N	-	Chromodomain and Helicase Domain protein  	BRK
+WBGene00007067	4R79.2	\N	-	Rab-44  	GTP_EFTU
+WBGene00007101	B0024.11	\N	-	Putative pseudouridine synthase B0024.11  	TruD
+WBGene00007108	gspd-1	\N	-	Glucose-6-phosphate 1-dehydrogenase	Non-canonical_RBP
+WBGene00007111	sart-3	\N	-	SART-3/p110 homolog  	RRM_1
+WBGene00007114	mttu-1	\N	-	Probable mitochondrial tRNA-specific 2-thiouridylase 1  	tRNA_Me_trans
+WBGene00007122	B0250.5	\N	-	Probable 3-hydroxyisobutyrate dehydrogenase%2C mitochondrial	Non-canonical_RBP
+WBGene00007129	B0272.3	\N	-	Probable 3-hydroxyacyl-CoA dehydrogenase B0272.3	Non-canonical_RBP
+WBGene00007169	B0393.4	\N	-	-	Maelstrom
+WBGene00007195	thoc-7	\N	-	-	THOC7
+WBGene00007201	exos-4.1	\N	-	Putative exosome complex component RRP41  	RNase_PH
+WBGene00007202	B0564.2	\N	-	-	hmm_2OG-FeII_Oxy_2
+WBGene00007236	C01G10.9	\N	-	Methylthioribose-1-phosphate isomerase  	IF-2B
+WBGene00007268	C03A3.3	\N	-	-	Lactamase_B
+WBGene00007297	C04F12.1	\N	-	-	Piwi
+WBGene00007303	rnh-1.3	\N	-	RNase H  	RNase_H
+WBGene00007312	C04H5.1	\N	-	Multifunctional methyltransferase subunit TRM112-like protein  	Trm112p
+WBGene00007330	C05C10.3	\N	-	Probable succinyl-CoA:3-ketoacid coenzyme A transferase%2C mitochondrial	Non-canonical_RBP
+WBGene00007350	sucl-1	\N	-	Succinate--CoA ligase	Non-canonical_RBP
+WBGene00007352	cdc-48.1	\N	-	Transitional endoplasmic reticulum ATPase homolog 1	Non-canonical_RBP
+WBGene00007355	rpb-6	\N	-	Probable DNA-directed RNA polymerases I%2C II%2C and III subunit RPABC2  	RNA_pol_Rpb6
+WBGene00007396	tiar-3	\N	-	TIA-1/TIAL RNA binding protein homolog  	RRM_1
+WBGene00007412	stip-1	\N	stip	Septin and tuftelin-interacting protein 1 homolog  	G-patch
+WBGene00007413	pro-2	\N	-	Nucleolar complex protein 2 homolog  	Noc2
+WBGene00007429	C08B6.8	\N	-	Probable oligoribonuclease  	RNase_T
+WBGene00007444	C08F8.2	\N	-	ATP-dependent RNA helicase SUV3 homolog%2C mitochondrial  	SUV3_C
+WBGene00007463	vgln-1	\N	-	ViGiLN homolog  	KH_1
+WBGene00007464	C08H9.3	\N	-	Probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1%2C3-glucosyltransferase  	Endonuclease_5
+WBGene00007474	C08H9.15	\N	-	-	DUF2650
+WBGene00007534	C12D8.1	\N	-	-	KH_1
+WBGene00007564	mrps-22	\N	-	Mitochondrial Ribosomal Protein%2C Small  	MRP-S22
+WBGene00007581	alkb-8	\N	-	ALKylated DNA repair protein AlkB homolog  	hmm_2OG-FeII_Oxy_2
+WBGene00007603	C15C6.4	\N	-	-	UPF0086
+WBGene00007617	rrbs-1	\N	-	Ribosome biogenesis regulatory protein homolog  	RRS1
+WBGene00007620	ocrl-1	\N	-	OCRL (Lowe's oculocerebrorenal syndrome protein) homolog  	Exo_endo_phos
+WBGene00007623	C16C10.2	\N	-	Probable U3 small nucleolar RNA-associated protein 11  	Utp11
+WBGene00007624	hrde-1	\N	-	Heritable RNAi Deficient  	Piwi
+WBGene00007625	C16C10.4	\N	-	Probable histone deacetylase complex subunit SAP18  	SAP18
+WBGene00007627	ccdc-55	\N	-	Nuclear speckle splicing regulatory protein 1 homolog  	DUF2040
+WBGene00007702	C24H11.5	\N	-	-	Gemin7
+WBGene00007706	C25A1.4	\N	-	-	RRM_1
+WBGene00007708	nola-3	\N	-	Putative H/ACA ribonucleoprotein complex subunit 3  	Nop10p
+WBGene00007712	mrpl-34	\N	-	Mitochondrial Ribosomal Protein%2C Large  	L51_S25_CI-B8
+WBGene00007717	C25D7.5	\N	-	-	Lactamase_B
+WBGene00007718	otub-1	\N	-	Ubiquitin thioesterase otubain-like	Non-canonical_RBP
+WBGene00007761	rad-26	\N	-	-	ResIII
+WBGene00007762	C27B7.5	\N	-	-	zf-CCHC
+WBGene00007859	mrps-31	\N	-	28S ribosomal protein S31%2C mitochondrial  	MRP-S31
+WBGene00007880	C33A12.1	\N	-	Probable NADH dehydrogenase	Non-canonical_RBP
+WBGene00007886	ethe-1	\N	-	ETHE1 (Human ETHylmalonic Encephalopathy) homolog  	Lactamase_B
+WBGene00007927	C34C12.8	\N	-	GrpE protein homolog%2C mitochondrial	Non-canonical_RBP
+WBGene00007950	C35A5.6	\N	-	-	AKAP7_NLS
+WBGene00007961	C35D6.4	\N	-	-	zf-CCCH
+WBGene00007965	C36A4.4	\N	-	Probable UDP-N-acetylglucosamine pyrophosphorylase	Non-canonical_RBP
+WBGene00007971	rpb-3	\N	-	RNA Polymerase II (B) subunit  	RNA_pol_A_bac
+WBGene00007972	prp-4	\N	-	Yeast PRP (Splicing factor) related  	PRP4
+WBGene00007993	idhb-1	\N	-	Probable isocitrate dehydrogenase	Non-canonical_RBP
+WBGene00008008	C38D4.9	\N	-	-	MTS
+WBGene00008035	C39E9.12	\N	-	-	SAP
+WBGene00008053	cdc-48.2	\N	-	Transitional endoplasmic reticulum ATPase homolog 2	Non-canonical_RBP
+WBGene00008061	C41G7.3	\N	-	-	KH_1
+WBGene00008119	C46F11.4	\N	-	-	DEAD
+WBGene00008133	efsc-1	\N	selb-1	Eukaryotic Elongation Factor%2C SelenoCysteine-tRNA-specific  	GTP_EFTU
+WBGene00008134	C47B2.9	\N	-	-	S4
+WBGene00008151	C47E12.7	\N	-	Ribosomal RNA processing protein 1 homolog  	Nop52
+WBGene00008167	acox-1.5	\N	-	Probable peroxisomal acyl-coenzyme A oxidase 5	Non-canonical_RBP
+WBGene00008205	sams-1	\N	-	Probable S-adenosylmethionine synthase 1	Non-canonical_RBP
+WBGene00008224	C50B8.1	\N	-	-	RRM_1
+WBGene00008236	C50F4.12	\N	-	-	mTERF
+WBGene00008380	prp-38	\N	-	Yeast PRP (Splicing factor) related  	PRP38
+WBGene00008386	cdc-5L	\N	-	Cell Division Cycle related  	Myb_Cef
+WBGene00008397	D2005.1	\N	-	-	A_deamin
+WBGene00008400	drh-3	\N	-	Dicer Related Helicase  	RIG-I_C-RD
+WBGene00008405	ttll-12	\N	-	Tubulin--tyrosine ligase-like protein 12	Non-canonical_RBP
+WBGene00008428	eif-2Bepsilon	\N	-	Eukaryotic Initiation Factor  	W2
+WBGene00008452	mrps-5	\N	-	Putative 28S ribosomal protein S5%2C mitochondrial  	Ribosomal_S5_C
+WBGene00008455	E02H1.1	\N	-	Probable dimethyladenosine transferase  	RrnaAD
+WBGene00008456	E02H1.2	\N	-	Uncharacterized GTP-binding protein E02H1.2  	MMR_HSR1
+WBGene00008480	eif-2A	\N	-	Eukaryotic translation initiation factor 2A  	eIF2A
+WBGene00008502	skih-2	\N	-	SKI (Yeast SuperKIller) Helicase homolog  	DEAD
+WBGene00008505	F01G4.6	\N	-	Phosphate carrier protein%2C mitochondrial	Non-canonical_RBP
+WBGene00008514	F02A9.4	\N	-	Probable methylcrotonoyl-CoA carboxylase beta chain%2C mitochondrial	Non-canonical_RBP
+WBGene00008549	din-1	\N	-	Daf-12-interacting protein 1  	RRM_1
+WBGene00008561	F07H5.10	\N	-	-	RAI1
+WBGene00008607	F09B12.3	\N	-	Putative phospholipase B-like 2	Non-canonical_RBP
+WBGene00008639	F10B5.2	\N	-	Protein AAR2 homolog  	AAR2
+WBGene00008642	F10B5.8	\N	-	-	Beta-Casp
+WBGene00008654	F10F2.2	\N	-	Probable phosphoribosylformylglycinamidine synthase	Non-canonical_RBP
+WBGene00008664	nubp-1	\N	-	Cytosolic Fe-S cluster assembly factor NUBP1 homolog	Non-canonical_RBP
+WBGene00008670	eif-2Bdelta	\N	-	Eukaryotic Initiation Factor  	IF-2B
+WBGene00008683	repo-1	\N	-	REversed POlarity in early embryos  	zf-met
+WBGene00008688	F11A10.7	\N	-	-	RRM_1
+WBGene00008741	F13D12.6	\N	-	Uncharacterized serine carboxypeptidase F13S12.6	Non-canonical_RBP
+WBGene00008745	F13E6.1	\N	-		Non-canonical_RBP
+WBGene00008769	mrpl-13	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L13
+WBGene00008781	rpoa-2	\N	-	DNA-directed RNA polymerase subunit beta  	RNA_pol_Rpb2_6
+WBGene00008877	rtcb-1	\N	-	tRNA-splicing ligase RtcB homolog  	RtcB
+WBGene00008920	eef-1G	\N	-	Probable elongation factor 1-gamma  	EF1G
+WBGene00008934	F18C12.3	\N	-	-	BUD22
+WBGene00008976	plp-2	\N	-	Pur alpha Like Protein  	PurA
+WBGene00009002	hint-1	\N	-	Histidine triad nucleotide-binding protein 1  	DcpS_C
+WBGene00009011	F21D5.6	\N	-	-	RNase_H2-Ydr279
+WBGene00009012	F21D5.7	\N	-	Signal recognition particle 54 kDa protein  	SRP54
+WBGene00009013	mrps-33	\N	-	Mitochondrial Ribosomal Protein%2C Small  	MRP-S33
+WBGene00009052	ekl-1	\N	-	-	TUDOR
+WBGene00009078	rpb-12	\N	-	RNA Polymerase II (B) subunit  	DNA_RNApol_7kD
+WBGene00009082	dlat-1	\N	-	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex%2C mitochondrial	Non-canonical_RBP
+WBGene00009084	F23B12.7	\N	-	-	CBF
+WBGene00009122	tct-1	\N	-	Translationally-controlled tumor protein homolog	Non-canonical_RBP
+WBGene00009128	mrpl-54	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L37
+WBGene00009131	F25H8.1	\N	-	-	tRNA_m1G_MT
+WBGene00009132	F25H8.2	\N	-	-	Gar1
+WBGene00009141	ncbp-2	\N	cbp-20	Nuclear cap-binding protein subunit 2  	RRM_1
+WBGene00009163	drsh-1	\N	-	Ribonuclease 3  	Ribonuclease_3
+WBGene00009187	F27D4.1	\N	-	Probable electron transfer flavoprotein subunit alpha%2C mitochondrial	Non-canonical_RBP
+WBGene00009200	F28C1.1	\N	-	-	DRY_EERY
+WBGene00009246	gfm-1	\N	-	Elongation factor G%2C mitochondrial  	GTP_EFTU
+WBGene00009266	F30A10.9	\N	-	-	Fcf1
+WBGene00009284	F31C3.2	\N	-	-	PAP_assoc
+WBGene00009289	exos-7	\N	-	EXOSome (Multiexonuclease complex) component  	RNase_PH
+WBGene00009305	F32A7.4	\N	-	-	Rsm22
+WBGene00009314	F32B4.4	\N	-	-	SAP
+WBGene00009320	F32B6.3	\N	-	-	Prp18
+WBGene00009329	F32D8.4	\N	-	-	PIH1
+WBGene00009452	F36A2.2	\N	-	-	Dus
+WBGene00009477	rbpl-1	\N	-	Retinoblastoma Binding Protein Like  	zf-CCHC_2
+WBGene00009514	F37H8.5	\N	-	GILT-like protein F37H8.5	Non-canonical_RBP
+WBGene00009521	F38A1.8	\N	-	-	SRP54
+WBGene00009531	F38B2.4	\N	-	Adenylate kinase isoenzyme 1	Non-canonical_RBP
+WBGene00009532	ccch-1	\N	-	CCCH-type zinc finger putative transcription factor  	zf-CCCH
+WBGene00009537	ccch-2	\N	-	CCCH-type zinc finger putative transcription factor  	zf-CCCH
+WBGene00009539	F38C2.7	\N	-	-	zf-CCCH
+WBGene00009542	copb-2	\N	-	Probable coatomer subunit beta'	Non-canonical_RBP
+WBGene00009557	mtcu-1	\N	-	Nuclear encoded Mitochondrial TRNA Carboxymethyl-amino-methyl modification of Uridine residues  	MMR_HSR1
+WBGene00009586	F40F9.10	\N	-	-	Met_10
+WBGene00009658	F43G6.5	\N	-	-	PAP_RNA-bind
+WBGene00009664	idha-1	\N	-	Probable isocitrate dehydrogenase	Non-canonical_RBP
+WBGene00009668	cfim-1	\N	-	Cleavage Factor IM (CFIm) homolog  	NUDIX_2
+WBGene00009711	F44G4.1	\N	-	Brix domain-containing protein F44G4.1  	Brix
+WBGene00009732	cope-1	\N	-	Coatomer subunit epsilon	Non-canonical_RBP
+WBGene00009735	F45G2.9	\N	-	rRNA methyltransferase 2%2C mitochondrial  	FtsJ
+WBGene00009769	F46B6.4	\N	-	-	MMR_HSR1
+WBGene00009771	F46B6.6	\N	-	-	GTP_EFTU
+WBGene00009812	suca-1	\N	-	Succinate--CoA ligase	Non-canonical_RBP
+WBGene00009915	F52A8.1	\N	-	-	DUF2650
+WBGene00009922	F52B5.3	\N	-	-	HA2
+WBGene00009943	F52G2.3	\N	-	-	RSD-2
+WBGene00009944	mtcu-2	\N	-	Protein MTO1 homolog%2C mitochondrial  	GIDA_assoc
+WBGene00009966	isy-1	\N	-	-	Isy1
+WBGene00009973	F53C11.3	\N	-	Uncharacterized oxidoreductase F53C11.3	Non-canonical_RBP
+WBGene00009992	F53F4.10	\N	-	Probable NADH dehydrogenase	Non-canonical_RBP
+WBGene00009993	F53F4.11	\N	-	-	Ribosomal_L1
+WBGene00010037	F54C8.4	\N	-	Probable tyrosine-protein phosphatase F54C8.4	Non-canonical_RBP
+WBGene00010038	rheb-1	\N	-	GTP-binding protein Rheb homolog 1  	MMR_HSR1
+WBGene00010089	hpo-31	\N	-	-	PolyA_pol
+WBGene00010094	tsfm-1	\N	-	Elongation factor Ts%2C mitochondrial  	EF_TS
+WBGene00010097	srpa-68	\N	-	Probable signal recognition particle subunit SRP68	Non-canonical_RBP
+WBGene00010130	vha-14	\N	-	V-type proton ATPase subunit D	Non-canonical_RBP
+WBGene00010230	rpac-19	\N	-	Probable DNA-directed RNA polymerases I and III subunit RPAC2  	RNA_pol_L_2
+WBGene00010231	F58B3.4	\N	-	-	NUC153
+WBGene00010233	F58B3.7	\N	-	-	G-patch
+WBGene00010260	ddx-17	\N	-	DEAD boX helicase homolog  	DEAD
+WBGene00010263	wago-4	\N	-	Piwi-like protein  	Piwi
+WBGene00010280	rde-12	\N	-	DEAD-box ATP-dependent RNA helicase rde-12  	DEAD
+WBGene00010303	cri-3	\N	-	Conserved regulator of innate immunity protein 3	Non-canonical_RBP
+WBGene00010304	clpf-1	\N	-	CLeavage/Polyadenylation Factor Ia subunit  	Clp1
+WBGene00010369	chd-1	\N	-	Chromodomain and Helicase Domain protein  	ResIII
+WBGene00010405	erfa-3	\N	-	Eukaryotic Release FActor homolog  	GTP_EFTU
+WBGene00010476	rnf-113	\N	-	RING finger protein 113 homolog  	zf-CCCH
+WBGene00010478	K01G5.5	\N	-	Putative H/ACA ribonucleoprotein complex subunit 4  	DKCLD
+WBGene00010488	endu-1	\N	-	Poly(U)-specific endoribonuclease homolog  	XendoU
+WBGene00010537	mys-2	\N	-	Histone acetyltransferase  	Tudor-knot
+WBGene00010556	rack-1	\N	-	Guanine nucleotide-binding protein subunit beta-2-like 1	Non-canonical_RBP
+WBGene00010560	eif-2beta	\N	-	Eukaryotic translation initiation factor 2 subunit 2  	eIF-5_eIF-2B
+WBGene00010569	scbp-2	\N	-	SECIS (SeCis) Binding Protein homolog  	Ribosomal_L7Ae
+WBGene00010571	K04G11.3	\N	-	-	RSD-2
+WBGene00010579	K05C4.2	\N	-	Protein jagunal homolog	Non-canonical_RBP
+WBGene00010598	K06B4.3	\N	-	-	DUF2650
+WBGene00010619	K07A1.15	\N	-	-	LSM
+WBGene00010622	K07A12.4	\N	-	-	GTP_EFTU
+WBGene00010624	mrps-15	\N	-	28S ribosomal protein S15%2C mitochondrial	Non-canonical_RBP
+WBGene00010627	K07C5.4	\N	-	Uncharacterized NOP5 family protein K07C5.4  	Nop
+WBGene00010629	K07C5.6	\N	-	Pre-mRNA-splicing factor SLU7  	Slu7
+WBGene00010677	gtbp-1	\N	-	Ras-Gtpase-activating protein SH3 (Three) domain-Binding Protein  	NTF2
+WBGene00010732	K10C3.5	\N	-	-	GTP_EFTU
+WBGene00010734	parn-1	\N	-	3'-5' exoribonuclease parn-1  	CAF1
+WBGene00010766	K11B4.1	\N	-	-	MRP-S27
+WBGene00010771	K11D2.5	\N	-	-	mTERF
+WBGene00010780	K11H3.3	\N	-	Putative tricarboxylate transport protein%2C mitochondrial	Non-canonical_RBP
+WBGene00010783	mrpl-36	\N	-	Ribosomal protein  	Ribosomal_L36
+WBGene00010785	top-2	\N	-	Probable DNA topoisomerase 2	Non-canonical_RBP
+WBGene00010790	sodh-1	\N	-	Alcohol dehydrogenase 1	Non-canonical_RBP
+WBGene00010805	M01E5.2	\N	-	-	MMR_HSR1
+WBGene00010844	prp-3	\N	-	Yeast PRP (Splicing factor) related  	PRP3
+WBGene00010845	M03C11.8	\N	-	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1 homolog  	ResIII
+WBGene00010846	M04B2.2	\N	-	-	UPF0020
+WBGene00010890	ddb-1	\N	-	DNA damage-binding protein 1  	CPSF_A
+WBGene00010896	M28.5	\N	-	NHP2-like protein 1 homolog  	Ribosomal_L7Ae
+WBGene00010908	zbp-1	\N	-	Zipcode Binding Protein homolog  	KH_1
+WBGene00010912	gmps-1	\N	-	Probable GMP synthase 	tRNA_Me_trans
+WBGene00010922	M142.5	\N	-	-	AD
+WBGene00010988	metr-1	\N	-	Probable methionine synthase	Non-canonical_RBP
+WBGene00011032	R05D11.4	\N	-	-	DEAD
+WBGene00011036	edc-3	\N	-	Yeast Enhancer of DeCapping homolog  	LSM14
+WBGene00011043	rbm-28	\N	-	RNA Binding Motif protein homolog  	RRM_1
+WBGene00011059	R06C1.4	\N	-	-	RRM_1
+WBGene00011061	wago-1	\N	-	Argonaute protein wago-1  	Piwi
+WBGene00011109	R07E5.1	\N	-	G patch domain-containing protein 1 homolog  	DUF1604
+WBGene00011110	prdx-3	\N	-	Probable peroxiredoxin prdx-3	Non-canonical_RBP
+WBGene00011142	R08D7.1	\N	-	BUD13 homolog  	Bud13
+WBGene00011144	R08D7.4	\N	-	-	MTS
+WBGene00011155	R09B3.2	\N	-	-	RRM_1
+WBGene00011156	R09B3.3	\N	-	-	RRM_1
+WBGene00011220	R10E11.9	\N	-	-	DUF2650
+WBGene00011240	R11A8.7	\N	-	Ankyrin repeat and KH domain-containing protein R11A8.7  	KH_1
+WBGene00011247	mrpl-49	\N	-	Probable 39S ribosomal protein L49%2C mitochondrial  	Img2
+WBGene00011253	R11H6.5	\N	-	-	DZF
+WBGene00011268	pde-12	\N	-	PhosphoDiEsterase  	Exo_endo_phos
+WBGene00011272	dtmk-1	\N	-	Thymidylate kinase	Non-canonical_RBP
+WBGene00011273	R53.4	\N	-	Putative ATP synthase subunit f%2C mitochondrial	Non-canonical_RBP
+WBGene00011279	asd-1	\N	-	RNA-binding protein ASD-1  	RRM_1
+WBGene00011280	pelo-1	\N	-	Protein pelota homolog  	eRF1_1
+WBGene00011281	R74.7	\N	-	Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase  	FtsJ
+WBGene00011306	R186.3	\N	-	-	MMR_HSR1
+WBGene00011333	nrde-2	\N	-	Nuclear RNAi defective-2 protein  	NRDE-2
+WBGene00011334	mrps-14	\N	-	Probable 40S ribosomal protein S14%2C mitochondrial  	Ribosomal_S14
+WBGene00011376	gla-3	\N	-	-	zf-CCCH
+WBGene00011391	mrps-12	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosom_S12_S23
+WBGene00011408	T04A8.6	\N	-	-	RRM_1
+WBGene00011412	mrpl-16	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L16
+WBGene00011449	T04H1.2	\N	-	-	GTP_EFTU
+WBGene00011451	T04H1.5	\N	-	-	G-patch
+WBGene00011474	aldo-1	\N	-	Fructose-bisphosphate aldolase 1	Non-canonical_RBP
+WBGene00011481	imp-2	\N	-	Intramembrane protease 2	Non-canonical_RBP
+WBGene00011510	pdha-1	\N	-	Probable pyruvate dehydrogenase E1 component subunit alpha%2C mitochondrial	Non-canonical_RBP
+WBGene00011527	cchl-1	\N	-	Probable cytochrome c-type heme lyase	Non-canonical_RBP
+WBGene00011561	ttr-15	\N	-	Transthyretin-like protein 15	Non-canonical_RBP
+WBGene00011580	ddx-19	\N	-	DEAD boX helicase homolog  	DEAD
+WBGene00011589	T07F10.3	\N	-	-	RRM_1
+WBGene00011605	sftb-1	\N	-	Splicing Factor ThreeB (3b) Subunit homolog  	SF3b1
+WBGene00011631	T08G11.4	\N	-	-	Methyltransf_15
+WBGene00011634	T09A5.5	\N	-		Non-canonical_RBP
+WBGene00011637	sds-22	\N	-	Protein phosphatase 1 regulatory subunit SDS22 homolog	Non-canonical_RBP
+WBGene00011638	ostb-1	\N	-	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit	Non-canonical_RBP
+WBGene00011687	cwc-15	\N	-	Protein CWC15 homolog  	Cwf_Cwc_15
+WBGene00011722	rbm-22	\N	-	-	RRM_1
+WBGene00011730	drr-2	\N	-	Dietary Restriction Response (WT but not eat-2 lifespan increased)  	RRM_1
+WBGene00011740	mrpl-51	\N	-	39S ribosomal protein L51%2C mitochondrial  	MRP-L51
+WBGene00011743	T13F2.2	\N	-	Putative RNA polymerase II transcriptional coactivator  	PC4
+WBGene00011758	T13H5.4	\N	-	-	SF3a60_bindingd
+WBGene00011775	T14G10.5	\N	-	Probable coatomer subunit gamma	Non-canonical_RBP
+WBGene00011791	T15H9.6	\N	-	-	PAP_RNA-bind
+WBGene00011807	T16G12.6	\N	-	-	Xpo1
+WBGene00011867	chc-1	\N	-	Probable clathrin heavy chain 1	Non-canonical_RBP
+WBGene00011871	T20G5.9	\N	-	-	Mago-bind
+WBGene00011883	mrpl-50	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L50
+WBGene00011897	scpl-4	\N	tim-50	Mitochondrial import inner membrane translocase subunit TIM50	Non-canonical_RBP
+WBGene00011910	alg-3	\N	-	Argonaute (Plant)-Like protein  	Piwi
+WBGene00011938	alh-13	\N	-	Probable delta-1-pyrroline-5-carboxylate synthase Glutamate 5-kinase Gamma-glutamyl phosphate reductase	Non-canonical_RBP
+WBGene00011939	prmt-9	\N	prmt-3	PRotein arginine MethylTransferase  	MTS
+WBGene00011941	T23B5.4	\N	-	-	RF-1
+WBGene00011945	alg-5	\N	-	-	Piwi
+WBGene00011953	ppm-2	\N	-	Probable protein phosphatase 2C T23F11.1	Non-canonical_RBP
+WBGene00011966	T23G7.3	\N	-	-	G-patch
+WBGene00012015	T25B9.9	\N	-	6-phosphogluconate dehydrogenase%2C decarboxylating	Non-canonical_RBP
+WBGene00012030	T25G3.3	\N	-	-	NMD3
+WBGene00012031	T25G3.4	\N	-	Probable glycerol-3-phosphate dehydrogenase%2C mitochondrial	Non-canonical_RBP
+WBGene00012059	T26G10.1	\N	-	Putative ATP-dependent RNA helicase T26G10.1  	DEAD
+WBGene00012060	T26G10.3	\N	-	-	Ribosomal_S24e
+WBGene00012105	T27F6.6	\N	-	Putative neutral sphingomyelinase  	Exo_endo_phos
+WBGene00012126	T28D6.6	\N	-	-	MMR_HSR1
+WBGene00012179	W01D2.1	\N	-	Ribosomal protein L37  	Ribosomal_L37e
+WBGene00012187	rpb-11	\N	-	Probable DNA-directed RNA polymerase II subunit RPB11  	RNA_pol_L_2
+WBGene00012192	W02A11.1	\N	-	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A  	GCD14
+WBGene00012239	W04A8.4	\N	-	-	DNA_pol_A_exo1
+WBGene00012244	mrps-11	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosomal_S11
+WBGene00012245	W04D2.6	\N	-	-	PWI
+WBGene00012276	his-74	\N	-	Histone H3.3-like type 2	Non-canonical_RBP
+WBGene00012277	ccch-3	\N	-	CCCH-type zinc finger putative transcription factor  	zf-CCCH
+WBGene00012290	W05H12.2	\N	-	-	DNA_pol_A_exo1
+WBGene00012342	mtr-4	\N	-	mRNA transport homolog 4  	rRNA_proc-arch
+WBGene00012343	W08E3.2	\N	-	-	Btz
+WBGene00012344	ola-1	\N	tag-210	Obg-like ATPase 1  	MMR_HSR1
+WBGene00012351	W09C5.1	\N	-	-	Ribosomal_S8e
+WBGene00012361	mrpl-12	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L12
+WBGene00012375	mecr-1	\N	-	Enoyl-	Non-canonical_RBP
+WBGene00012376	nduf-7	\N	-	Probable NADH dehydrogenase	Non-canonical_RBP
+WBGene00012393	Y6B3B.9	\N	-	-	Las1
+WBGene00012459	Y17G7B.3	\N	-	-	Lactamase_B
+WBGene00012465	Y17G7B.12	\N	-	-	RNase_T
+WBGene00012469	Y17G7B.18	\N	-	Probable RNA methyltransferase Y17G7B.18  	Bin3
+WBGene00012478	mxt-1	\N	mxt	Eukaryotic translation initiation factor 4E-binding protein Mextli homolog  	KH_1
+WBGene00012484	car-1	\N	-	Cytokinesis%2C Apoptosis%2C RNA-associated  	LSM14
+WBGene00012528	pap-1	\N	-	Poly-A Polymerase  	PAP_RNA-bind
+WBGene00012551	cec-7	\N	-	C.Elegans Chromodomain protein  	Tudor-knot
+WBGene00012553	cco-2	\N	-	Cytochrome c oxidase subunit 5A%2C mitochondrial	Non-canonical_RBP
+WBGene00012556	mrps-10	\N	-	Probable 28S ribosomal protein S10%2C mitochondrial  	Ribosomal_S10
+WBGene00012558	Y37D8A.21	\N	-	-	RRM_1
+WBGene00012573	Y37H2C.1	\N	-	-	SID-1_RNA_chan
+WBGene00012608	hphd-1	\N	-	Hydroxyacid-oxoacid transhydrogenase%2C mitochondrial	Non-canonical_RBP
+WBGene00012645	mrpl-22	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L22
+WBGene00012652	Y39A1A.14	\N	-	Ribosomal RNA small subunit methyltransferase nep-1  	EMG1
+WBGene00012676	pro-3	\N	-	Protein SDA1 homolog	Non-canonical_RBP
+WBGene00012684	Y39B6A.25	\N	-	-	TUDOR
+WBGene00012692	Y39B6A.33	\N	-	-	Nop53
+WBGene00012697	mrps-35	\N	-	Mitochondrial Ribosomal Protein%2C Small  	MRP-S28
+WBGene00012717	Y39E4B.6	\N	-	-	HEXIM
+WBGene00012730	xrn-1	\N	-	5'-3' exoribonuclease 1  	XRN_N
+WBGene00012738	eif-3.J	\N	-	Eukaryotic Initiation Factor  	eIF3_subunit
+WBGene00012739	Y40B1B.7	\N	-	-	Cgr1
+WBGene00012759	sup-1	\N	-	-	DUF2650
+WBGene00012768	eef-1B.2	\N	-	Probable elongation factor 1-beta/1-delta 2  	EF1_GNE
+WBGene00012794	Y43E12A.2	\N	-	-	zf-CCHC_2
+WBGene00012830	mrps-28	\N	-	Mitochondrial Ribosomal Protein%2C Small  	MRP-S35
+WBGene00012864	Y45F3A.9	\N	-	-	SpoU_methylase
+WBGene00012880	Y45F10C.4	\N	-	UPF0375 protein Y45F10C.4	Non-canonical_RBP
+WBGene00012887	Y45F10D.7	\N	-	-	Utp21
+WBGene00012896	snrp-200	\N	-	Putative U5 small nuclear ribonucleoprotein 200 kDa helicase  	DEAD
+WBGene00012904	tiar-2	\N	-	TIA-1/TIAL RNA binding protein homolog  	RRM_1
+WBGene00012920	Y46G5A.35	\N	-	-	hmm_2OG-FeII_Oxy_2
+WBGene00012932	Y47D3A.21	\N	-	Density-regulated protein homolog  	SUI1
+WBGene00012950	eif-2Bbeta	\N	-	Eukaryotic Initiation Factor  	IF-2B
+WBGene00012964	Y48A6B.3	\N	-	Putative H/ACA ribonucleoprotein complex subunit 2-like protein  	Ribosomal_L7Ae
+WBGene00012966	exos-1	\N	-	EXOSome (Multiexonuclease complex) component  	ECR1_N
+WBGene00012978	Y48B6A.1	\N	-	Ribosome biogenesis protein BOP1 homolog  	BOP1NT
+WBGene00012992	mrpl-20	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L20
+WBGene00012997	Y48C3A.18	\N	-	-	Sua5_yciO_yrdC
+WBGene00012999	rpoa-1	\N	-	RNA POlymerase I (A) subunit  	RNA_pol_Rpb1_5
+WBGene00013001	Y48E1B.2	\N	-	-	MMR_HSR1
+WBGene00013025	vha-13	\N	-	V-type proton ATPase catalytic subunit A	Non-canonical_RBP
+WBGene00013026	Y49A3A.3	\N	-	-	TRM13
+WBGene00013075	Y51A2D.7	\N	-	-	INTS5_N
+WBGene00013107	Y51H4A.13	\N	-	-	RNase_Zc3h12a
+WBGene00013109	Y51H4A.15	\N	-	-	WGG
+WBGene00013128	dxbp-1	\N	dox-1	Downstream of XBP-1  	Kin17_mid
+WBGene00013129	Y52B11A.10	\N	-	-	MA3
+WBGene00013143	Y53C12B.1	\N	-	-	Utp13
+WBGene00013144	Y53C12B.2	\N	-	RNA-binding protein pno-1	Non-canonical_RBP
+WBGene00013151	nsun-5	\N	-	Nop2 (NOP2)/SUN domain family member  	Methyltr_RsmB-F
+WBGene00013160	Y53F4B.13	\N	-	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1  	FtsJ
+WBGene00013176	Y53F4B.39	\N	-	Beta-lactamase-like protein 2 homolog  	Lactamase_B
+WBGene00013189	Y54E2A.4	\N	-	-	DEAD
+WBGene00013201	dus-2	\N	-	DihydroUridine Synthase two homolog  	Dus
+WBGene00013214	Y54G11A.3	\N	-	-	DEAD
+WBGene00013224	Y55D9A.2	\N	-	-	G-patch
+WBGene00013231	tsen-2	\N	-	Trna (tRNA) Splicing ENdonuclease subunit related  	tRNA_int_endo
+WBGene00013236	Y56A3A.18	\N	-	Zinc finger protein 593 homolog  	zf-C2H2_jaz
+WBGene00013256	Y57A10A.13	\N	-	-	DNA_pol_A_exo1
+WBGene00013260	rsr-2	\N	-	SR protein related  	cwf21
+WBGene00013265	parn-2	\N	-	PARN (Poly(A)-specific RiboNuclease) homolog  	CAF1
+WBGene00013293	Y57G11A.5	\N	-	-	RRM_1
+WBGene00013301	Y57G11C.3	\N	-	Putative 6-phosphogluconolactonase	Non-canonical_RBP
+WBGene00013307	Y57G11C.9	\N	-	-	RRM_1
+WBGene00013319	ccch-5	\N	-	CCCH-type zinc finger putative transcription factor  	zf-CCCH
+WBGene00013324	mrps-7	\N	-	28S ribosomal protein S7%2C mitochondrial  	Ribosomal_S7
+WBGene00013325	Y57G11C.36	\N	-	-	KH_1
+WBGene00013343	prp-6	\N	-	Yeast PRP (Splicing factor) related  	PRP1_N
+WBGene00013347	nova-1	\N	-	NOVA kh (KH) homology domain homolog  	KH_1
+WBGene00013361	fars-2	\N	frs-2	Mitochondrial phenylalanyl-tRNA synthetase%3B Phenylalanyl Amino-acyl tRNA Synthetase  	tRNA-synt_2d
+WBGene00013370	Y60A9.3	\N	-	-	zf-CCCH
+WBGene00013373	Y62E10A.2	\N	-	-	Rpp20
+WBGene00013405	tdpt-1	\N	-	5'-tyrosyl-DNA phosphodiesterase  	Exo_endo_phos
+WBGene00013406	Y63D3A.7	\N	-	-	L51_S25_CI-B8
+WBGene00013422	Y66A7A.2	\N	-	Ribonuclease P/MRP protein subunit POP5  	RNase_P_Rpp14
+WBGene00013433	Y66D12A.7	\N	-	Glutamyl-tRNA(Gln) amidotransferase subunit C%2C mitochondrial  	Glu-tRNAGln
+WBGene00013441	xpb-1	\N	-	XPB (Xeroderma Pigmentosum complementation group B) related  	ResIII
+WBGene00013447	nars-2	\N	-	Asparaginyl(N) Amino-acyl tRNA Synthetase  	tRNA-synt_2
+WBGene00013460	cpsf-3	\N	-	Cleavage and Polyadenylation Specificity Factor  	Beta-Casp
+WBGene00013530	ntl-11	\N	-	NOT-Like (Yeast CCR4/NOT complex component)  	CNOT11
+WBGene00013544	Y75B8A.7	\N	-	U3 small nucleolar ribonucleoprotein protein MPP10  	Mpp10
+WBGene00013591	gcn-2	\N	-	Eukaryotic translation initiation factor 2-alpha kinase gcn-2  	tRNA-synt_His
+WBGene00013596	nyn-2	\N	-	NYN domain ribonuclease homolog  	RNase_Zc3h12a
+WBGene00013677	yars-1	\N	yrs-2	Tyrosine--tRNA ligase  	tRNA-synt_1b
+WBGene00013678	Y105E8A.20	\N	-	Methionyl-tRNA synthetase (Mitochondrial)  	tRNA-synt_1g
+WBGene00013680	rpom-1	\N	-	DNA-directed RNA polymerase  	RNA_pol
+WBGene00013688	riok-2	\N	-	Serine/threonine-protein kinase RIO2  	RIO1
+WBGene00013703	Y106G6D.7	\N	-	-	RRM_1
+WBGene00013762	Y113G7B.12	\N	-	-	RVT_1
+WBGene00013765	cdkr-3	\N	-	CDK5RAP3-like protein	Non-canonical_RBP
+WBGene00013766	prmt-1	\N	epg-11 {ECO:0000303|PubMed:24140420,GN   ECO:0000312|WormBase:Y113G7B.17}	Protein arginine N-methyltransferase 1  	MTS
+WBGene00013792	Y116A8C.13	\N	-	-	ResIII
+WBGene00013794	dct-13	\N	-	DAF-16/FOXO Controlled%2C germline Tumor affecting  	zf-CCCH
+WBGene00013796	Y116A8C.19	\N	-	-	zf-CCCH
+WBGene00013797	Y116A8C.20	\N	-	-	zf-CCCH
+WBGene00013808	sfa-1	\N	sf1	SF1 protein%3B Splicing FActor  	KH_1
+WBGene00013862	wdr-5.3	\N	swd-3.3	WD repeat-containing protein wdr-5.3  	eIF2A
+WBGene00013877	ZC376.6	\N	-	-	INTS2
+WBGene00013892	ZC434.4	\N	-	Ribosomal RNA-processing protein 7 homolog  	RRP7
+WBGene00013894	ZC434.8	\N	-	Probable arginine kinase ZC434.8	Non-canonical_RBP
+WBGene00013942	ZK218.8	\N	-	-	Piwi
+WBGene00013958	ZK265.6	\N	-	Nucleolar protein 16  	Nop16
+WBGene00013962	ZK287.1	\N	-	-	APOBEC_N
+WBGene00013983	ZK512.2	\N	-	Probable ATP-dependent RNA helicase DDX55 homolog  	DEAD
+WBGene00013984	ZK512.4	\N	-	Signal recognition particle 9 kDa protein  	SRP9-21
+WBGene00014011	ZK632.2	\N	-	-	dsrm
+WBGene00014012	riok-3	\N	-	Serine/threonine-protein kinase RIO3  	RIO1
+WBGene00014020	ZK632.14	\N	-	-	Alba
+WBGene00014078	ZK792.5	\N	-	-	PUF
+WBGene00014083	ZK795.3	\N	-	Brix domain-containing protein ZK795.3  	Brix
+WBGene00014111	rpc-25	\N	-	RNA Polymerase%2C Class III (C)  	RNA_pol_Rbc25
+WBGene00014112	ZK856.11	\N	-	Probable RNA-binding protein EIF1AD  	eIF-1a
+WBGene00014115	gld-4	\N	-	Poly(A) RNA polymerase gld-4  	PAP_assoc
+WBGene00014120	ZK858.7	\N	-	-	Gcd10p
+WBGene00014124	usip-1	\N	-	U Six snRNA Interacting Protein  	PAP_assoc
+WBGene00014163	rnh-1.2	\N	-	RNase H  	RNase_H
+WBGene00014165	puf-12	\N	-	Pumilio domain-containing protein 12  	CPL
+WBGene00014177	frg-1	\N	-	Protein FRG1 homolog  	FRG1
+WBGene00014202	mmcm-1	\N	-	Probable methylmalonyl-CoA mutase%2C mitochondrial	Non-canonical_RBP
+WBGene00014205	ZK1058.5	\N	-	-	Methyltransf_31
+WBGene00014220	ZK1098.3	\N	-	-	DNA_pol_A_exo1
+WBGene00014221	eif-2Balpha	\N	-	Probable translation initiation factor eIF-2B subunit alpha  	IF-2B
+WBGene00014224	mrps-23	\N	-	Probable 28S ribosomal protein S23%2C mitochondrial  	MRP-S23
+WBGene00014228	mett-10	\N	-	Methyltransferase-like protein 16 homolog  	MTS
+WBGene00014244	ZK1307.1	\N	-		Non-canonical_RBP
+WBGene00014250	ZK1307.9	\N	-	Coiled-coil domain-containing protein 130 homolog	Non-canonical_RBP
+WBGene00014256	ZK1320.7	\N	-	G patch domain and ankyrin repeat-containing protein 1 homolog  	G-patch
+WBGene00014965	Y106G6D.5	\N	-	-	ResIII
+WBGene00015022	B0205.8	\N	-	-	RAM
+WBGene00015025	mrpl-9	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L9_N
+WBGene00015092	mrpl-47	\N	-	Mitochondrial Ribosomal Protein%2C Large  	MRP-L47
+WBGene00015101	rpia-1	\N	-	Probable-ribose 5-phosphate isomerase	Non-canonical_RBP
+WBGene00015125	B0303.3	\N	-		Non-canonical_RBP
+WBGene00015133	mrpl-11	\N	-	Probable 39S ribosomal protein L11%2C mitochondrial  	Ribosomal_L11_N
+WBGene00015143	B0336.3	\N	-	-	zf-CCCH
+WBGene00015156	B0361.2	\N	-	CWF19-like protein 2 homolog  	CwfJ_C_1
+WBGene00015160	B0361.6	\N	-	Putative methyltransferase B0361.6  	Methyltrn_RNA_3
+WBGene00015168	pdi-6	\N	-	Probable protein disulfide-isomerase A6	Non-canonical_RBP
+WBGene00015185	mrpl-41	\N	-	39S ribosomal protein L41%2C mitochondrial  	MRP-L27
+WBGene00015190	B0432.9	\N	-	-	Lactamase_B
+WBGene00015207	B0495.8	\N	-	-	LUC7
+WBGene00015232	B0511.6	\N	-	RNA helicase  	DEAD
+WBGene00015266	BE0003N10.1	\N	-	-	RNase_PH
+WBGene00015282	C01B10.8	\N	-	-	Methyltransf_31
+WBGene00015329	C02B10.4	\N	-	-	RRM_1
+WBGene00015346	C02F5.3	\N	-	Uncharacterized GTP-binding protein C02F5.3  	MMR_HSR1
+WBGene00015388	C03F11.2	\N	-	-	Lactamase_B
+WBGene00015391	sdha-1	\N	-	Succinate dehydrogenase	Non-canonical_RBP
+WBGene00015407	C03H5.5	\N	-	-	Paf67
+WBGene00015413	pdhb-1	\N	-	Pyruvate dehydrogenase E1 component subunit beta%2C mitochondrial	Non-canonical_RBP
+WBGene00015462	C05C8.5	\N	-	-	RNase_T
+WBGene00015486	C05D11.9	\N	-	-	POP1
+WBGene00015487	mrps-17	\N	-	28S ribosomal protein S17%2C mitochondrial	Non-canonical_RBP
+WBGene00015512	mthf-1	\N	-	Probable methylenetetrahydrofolate reductase	Non-canonical_RBP
+WBGene00015524	C06E1.9	\N	-		Non-canonical_RBP
+WBGene00015525	rha-2	\N	-	Putative ATP-dependent RNA helicase rha-2  	HA2
+WBGene00015555	ufl-1	\N	-	E3 UFM1-protein ligase 1 homolog	Non-canonical_RBP
+WBGene00015557	C06G4.1	\N	-	KH domain-containing protein C06G4.1  	KH_1
+WBGene00015581	C07H6.4	\N	-	-	Surp
+WBGene00015583	C08A9.3	\N	-	-	SID-1_RNA_chan
+WBGene00015680	egal-1	\N	-	EGALitarian (Drosophila exonuclease-like) homolog  	DNA_pol_A_exo1
+WBGene00015703	C11D2.7	\N	-	-	PUA
+WBGene00015734	copd-1	\N	-	Probable coatomer subunit delta	Non-canonical_RBP
+WBGene00015809	C16A3.4	\N	-	-	zf-C2H2_jaz
+WBGene00015811	C16A3.6	\N	-	Protein MAK16 homolog  	Ribosomal_L28e
+WBGene00015813	thoc-2	\N	-	THO Complex (Transcription factor/nuclear export) subunit  	Tho2
+WBGene00015920	eif-3.L	\N	-	Eukaryotic translation initiation factor 3 subunit L  	Paf67
+WBGene00015939	C18A3.1	\N	-	DNA N6-methyl methyltransferase  	MT-A70
+WBGene00015941	C18A3.3	\N	-	Probable rRNA-processing protein EBP2 homolog  	Ebp2
+WBGene00015943	tiar-1	\N	-	TIA-1/TIAL RNA binding protein homolog  	RRM_1
+WBGene00015999	prmt-4	\N	-	PRotein arginine MethylTransferase  	Methyltransf_31
+WBGene00016011	C23G10.2	\N	-	RutC family protein C23G10.2  	Ribonuc_L-PSP
+WBGene00016014	C23G10.7	\N	-	Probable tRNA (uracil-O(2)-)-methyltransferase  	AdoMet_MTase
+WBGene00016019	C23H3.3	\N	-	-	AKAP7_NLS
+WBGene00016022	C23H3.9	\N	-	-	Lactamase_B
+WBGene00016023	prmt-6	\N	-	PRotein arginine MethylTransferase  	Methyltransf_31
+WBGene00016062	C24G6.8	\N	-	Probable peptidyl-tRNA hydrolase 2  	PTH2
+WBGene00016073	C24H12.4	\N	-	-	DEAD
+WBGene00016103	dpyd-1	\N	-	Dihydropyrimidine dehydrogenase	Non-canonical_RBP
+WBGene00016113	eif-2D	\N	-	Eukaryotic Initiation Factor  	SUI1
+WBGene00016140	rpb-2	\N	-	DNA-directed RNA polymerase II subunit RPB2  	RNA_pol_Rpb2_6
+WBGene00016142	mrps-18C	\N	-	Putative 39S ribosomal protein L3%2C mitochondrial  	Ribosomal_L3
+WBGene00016145	C26E6.12	\N	-	-	MMR_HSR1
+WBGene00016150	hint-3	\N	-	HIstidiNe Triad nucleotide-binding protein  	DcpS_C
+WBGene00016166	C27F2.4	\N	-	-	Methyltransf_31
+WBGene00016173	fust-1	\N	-	FUS/TLS RNA binding protein homolog  	RRM_1
+WBGene00016194	C28H8.3	\N	-	Uncharacterized helicase C28H8.3  	DEAD
+WBGene00016201	tdo-2	\N	-	Tryptophan 2%2C3-dioxygenase	Non-canonical_RBP
+WBGene00016203	tag-250	\N	-	Putative protein tag-250  	TUDOR
+WBGene00016212	C29F5.3	\N	-	-	RNase_Zc3h12a
+WBGene00016245	C30B5.4	\N	-	-	RRM_1
+WBGene00016249	mrpl-32	\N	-	Probable 39S ribosomal protein L32%2C mitochondrial  	Ribosomal_L32p
+WBGene00016250	hsp-110	\N	-	Heat shock protein 110	Non-canonical_RBP
+WBGene00016251	C30E1.2	\N	-	-	SID-1_RNA_chan
+WBGene00016252	C30E1.3	\N	-	-	SID-1_RNA_chan
+WBGene00016253	C30E1.4	\N	-	-	SID-1_RNA_chan
+WBGene00016260	rege-1	\N	-	Endoribonuclease rege-1  	RNase_Zc3h12a
+WBGene00016341	mtq-2	\N	-	MethylTransferase modifying glutamine (Q)  	MTS
+WBGene00016344	rsef-1	\N	-	Ras and EF-hand domain-containing protein homolog  	MMR_HSR1
+WBGene00016383	zgpa-1	\N	-	Zinc finger G-PAtch domain-containing protein homolog  	G-patch
+WBGene00016411	C34E10.10	\N	-	-	Fcf1
+WBGene00016412	mrps-26	\N	-	Mitochondrial Ribosomal Protein%2C Small  	MRP-S26
+WBGene00016448	C35D10.12	\N	-	-	Methyltransf_8
+WBGene00016489	C36E6.1	\N	-	-	KH_1
+WBGene00016492	C37A2.6	\N	-	Electron transfer flavoprotein beta subunit lysine methyltransferase homolog  	MTS
+WBGene00016493	C37A2.7	\N	-	60S acidic ribosomal protein P2  	Ribosomal_60s
+WBGene00016496	C37C3.2	\N	-	Eukaryotic translation initiation factor 5  	eIF-5_eIF-2B
+WBGene00016508	C37H5.5	\N	-	Nucleolar complex protein 3 homolog  	NOC3p
+WBGene00016566	eri-7	\N	-	Enhanced RNAI (RNA interference)  	DEAD
+WBGene00016601	acin-1	\N	-	ACINus (Mammalian Apoptotic Chromatin condensation Inducer in the Nucleus) homolog  	SAP
+WBGene00016607	C43E11.9	\N	-	60S ribosome subunit biogenesis protein NIP7 homolog  	UPF0113
+WBGene00016624	C44B7.2	\N	-	-	RRM_5
+WBGene00016653	C44E4.4	\N	-	-	RRM_3
+WBGene00016655	acbp-1	\N	-	Acyl-CoA-binding protein homolog 1	Non-canonical_RBP
+WBGene00016674	C45G9.2	\N	-	Uncharacterized tRNA-dihydrouridine synthase-like protein C45G9.2  	Dus
+WBGene00016712	C46E10.8	\N	-	-	zf-C2H2
+WBGene00016740	C48B6.2	\N	-	Putative 40S ribosomal protein S4-like  	S4
+WBGene00016750	let-611	\N	-	-	RNA_pol_Rpc82
+WBGene00016791	C49H3.4	\N	-	-	LSM
+WBGene00016794	C49H3.9	\N	-	-	zf-C3HC
+WBGene00016808	C50D2.5	\N	-	Splicing factor 3B subunit 6-like protein  	RRM_1
+WBGene00016811	C50D2.8	\N	-	-	LUC7
+WBGene00016844	sucg-1	\N	-	Succinate--CoA ligase	Non-canonical_RBP
+WBGene00016874	C52B11.5	\N	-	-	MMR_HSR1
+WBGene00016898	C53C9.2	\N	-		Non-canonical_RBP
+WBGene00016907	C53H9.2	\N	-	-	MMR_HSR1
+WBGene00016937	tag-294	\N	-	-	zf-RanBP
+WBGene00016948	scrt-1	\N	-	SCRaTch (Zinc finger transcriptional repressor) homolog  	zf-C2H2
+WBGene00016977	akap-1	\N	-	KH domain-containing protein akap-1  	TUDOR
+WBGene00016978	C56G2.3	\N	-		Non-canonical_RBP
+WBGene00016981	rpn-13	\N	-	Proteasomal ubiquitin receptor ADRM1 homolog	Non-canonical_RBP
+WBGene00016989	CD4.3	\N	-	-	Ribosomal_S10
+WBGene00016995	acly-1	\N	-	Probable ATP-citrate synthase	Non-canonical_RBP
+WBGene00017002	D1007.4	\N	-	-	Gemin6
+WBGene00017004	nrd-1	\N	-	NRD (Yeast Nuclear pre-mRNA Down-regulation) homolog  	RRM_1
+WBGene00017025	D1037.1	\N	-	-	G-patch
+WBGene00017033	nekl-4	\N	-	Serine/threonine-protein kinase D1044.8  	RIO1
+WBGene00017085	E01A2.2	\N	-	Serrate RNA effector molecule homolog  	ARS2
+WBGene00017098	E02D9.1	\N	-	-	KH_1
+WBGene00017121	cyc-2.1	\N	-	Cytochrome c 2.1	Non-canonical_RBP
+WBGene00017132	tofu-6	\N	-	Maternal effect lethal protein 47  	RRM_1
+WBGene00017135	EEED8.4	\N	-	Putative RNA-binding protein EEED8.4  	RRM_1
+WBGene00017138	EEED8.10	\N	-	Putative RNA-binding protein EEED8.10  	RRM_1
+WBGene00017140	EEED8.12	\N	-	Putative RNA-binding protein EEED8.12  	RRM_1
+WBGene00017162	ddx-23	\N	-	DEAD boX helicase homolog  	DEAD
+WBGene00017163	dnpp-1	\N	-	Aspartyl aminopeptidase	Non-canonical_RBP
+WBGene00017166	aldo-2	\N	-	Fructose-bisphosphate aldolase 2	Non-canonical_RBP
+WBGene00017210	F07E5.5	\N	-	-	zf-CCHC
+WBGene00017238	F08B4.7	\N	-	U1 small nuclear ribonucleoprotein C  	zf-U1
+WBGene00017245	srpa-72	\N	-	Signal recognition particle subunit SRP72  	SRP72
+WBGene00017283	F09E5.3	\N	-	Putative deoxyribose-phosphate aldolase	Non-canonical_RBP
+WBGene00017300	rpc-2	\N	-	DNA-directed RNA polymerase subunit beta  	RNA_pol_Rpb2_6
+WBGene00017313	cpsf-2	\N	-	Probable cleavage and polyadenylation specificity factor subunit 2  	Beta-Casp
+WBGene00017319	mrps-9	\N	-	Probable 40S ribosomal protein S9%2C mitochondrial  	Ribosomal_S9
+WBGene00017347	F10E7.5	\N	-	Ribosome assembly factor mrt4  	Ribosomal_L10
+WBGene00017357	F10E9.5	\N	-	-	GEMIN8
+WBGene00017360	F10E9.11	\N	-	-	rRNA_processing
+WBGene00017406	sdz-12	\N	-	SKN-1 Dependent Zygotic transcript  	zf-C2H2
+WBGene00017435	F13H8.2	\N	-	-	Utp12
+WBGene00017468	F14F9.5	\N	-	-	Exo_endo_phos
+WBGene00017534	F17A9.2	\N	-	CWF19-like protein 1 homolog  	CwfJ_C_1
+WBGene00017546	rpa-1	\N	-	Probable replication factor A 73 kDa subunit  	tRNA_anti-codon
+WBGene00017605	F19F10.9	\N	-	-	SART-1
+WBGene00017608	F19F10.12	\N	-	-	Beta-Casp
+WBGene00017641	csr-1	\N	-	Chromosome-Segregation and RNAi deficient  	Piwi
+WBGene00017686	tpp-2	\N	-	Tripeptidyl-peptidase 2	Non-canonical_RBP
+WBGene00017746	F23F1.5	\N	-	Snurportin-1  	Snurportin1
+WBGene00017749	rpoa-49	\N	-	RNA POlymerase I (A) subunit  	RNA_pol_I_A49
+WBGene00017778	nono-1	\N	-	NONO (Conserved nuclear protein%2C aka PSF) homolog  	RRM_1
+WBGene00017797	symk-1	\N	-	SYMpleKin cleavage and polyadenylation factor  	Symplekin_C
+WBGene00017799	F25G6.8	\N	-	Signal recognition particle 14 kDa protein  	SRP14
+WBGene00017816	hrpk-1	\N	-	Heterogeneous nuclear RibonucleoProtein (HnRNP) K homolog  	KH_1
+WBGene00017830	rpb-8	\N	-	Probable DNA-directed RNA polymerases I%2C II%2C and III subunit RPABC3  	RNA_pol_Rpb8
+WBGene00017855	F27C1.6	\N	-	-	Utp14
+WBGene00017864	pcca-1	\N	-	Propionyl-CoA carboxylase alpha chain%2C mitochondrial	Non-canonical_RBP
+WBGene00017916	F29A7.6	\N	-	-	MPP6
+WBGene00017919	F29B9.1	\N	-	Protein-lysine N-methyltransferase CELE_F29B9.1  	Methyltransf_31
+WBGene00017924	mrps-21	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosomal_S21
+WBGene00017928	tut-1	\N	ctu-1	Cytoplasmic tRNA 2-thiolation protein 1	Non-canonical_RBP
+WBGene00017929	grld-1	\N	-	Glutamate Receptor Level Decreased  	RRM_1
+WBGene00017951	panl-2	\N	-	PAN (PolyA-specific riboNucLease) subunit  	RNase_T
+WBGene00017988	fipp-1	\N	-	Factor Interacting with Poly(A) Polymerase  	Fip1
+WBGene00017989	nol-10	\N	-	NucleOLar protein  	NUC153
+WBGene00017992	F32E10.5	\N	-	-	TUDOR
+WBGene00017997	mrpl-1	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L1
+WBGene00018007	F33D11.10	\N	-	-	DEAD
+WBGene00018138	folt-2	\N	-	Folate-like transporter 2	Non-canonical_RBP
+WBGene00018154	exos-9	\N	-	EXOSome (Multiexonuclease complex) component  	RNase_PH
+WBGene00018156	ncbp-1	\N	cbp-80	Nuclear cap-binding protein subunit 1  	MIF4G_like_2
+WBGene00018159	F37F2.2	\N	-	Probable signal recognition particle 19 kDa protein  	SRP19
+WBGene00018271	F41C3.5	\N	-	Uncharacterized serine carboxypeptidase F41C3.5	Non-canonical_RBP
+WBGene00018305	exos-8	\N	-	EXOSome (Multiexonuclease complex) component  	RNase_PH
+WBGene00018348	F42C5.6	\N	-	-	DUF2650
+WBGene00018362	F42G9.1	\N	-	Probable protein phosphatase 2C F42G9.1	Non-canonical_RBP
+WBGene00018371	ess-2	\N	-	ES2 similar protein 2  	Es2
+WBGene00018391	rpb-4	\N	-	RNA Polymerase II (B) subunit  	RNA_pol_Rpb4
+WBGene00018421	F44E2.8	\N	-		Non-canonical_RBP
+WBGene00018475	mrpl-14	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L14
+WBGene00018508	F46F11.1	\N	-	Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase  	RimK
+WBGene00018513	F46F11.10	\N	-	-	tRNA_m1G_MT
+WBGene00018612	disl-2	\N	-	DIS3-like exonuclease 2  	RNB
+WBGene00018674	F52C9.3	\N	-		Non-canonical_RBP
+WBGene00018680	tsen-54	\N	-	Trna (tRNA) Splicing ENdonuclease subunit related  	tRNA_int_end_N2
+WBGene00018738	swip-10	\N	-	SWimming Induced Paralysis  	Lactamase_B
+WBGene00018762	F53E10.6	\N	-	RRP15-like protein  	Rrp15p
+WBGene00018776	F53H1.1	\N	-	-	DEAD
+WBGene00018793	mrpl-40	\N	-	Mitochondrial Ribosomal Protein%2C Large  	MRP-L28
+WBGene00018811	pmt-2	\N	-	Phosphoethanolamine MethylTransferase  	Methyltransf_31
+WBGene00018833	ztf-1	\N	-	Zinc finger transcription factor family protein 1  	zf-met
+WBGene00018838	F54G2.2	\N	-	-	zf-CCHC
+WBGene00018846	eef-1B.1	\N	-	Probable elongation factor 1-beta/1-delta 1  	EF1_GNE
+WBGene00018857	stau-1	\N	-	STAUfen (DsRNA binding protein) homolog  	dsrm
+WBGene00018866	nath-10	\N	-	RNA cytidine acetyltransferase  	tRNA_bind_2
+WBGene00018890	F55F8.2	\N	-	-	DEAD
+WBGene00018891	F55F8.3	\N	-	Periodic tryptophan protein 2 homolog  	Utp12
+WBGene00018921	sago-2	\N	-	Piwi-like protein  	Piwi
+WBGene00018932	mrpl-2	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L2
+WBGene00018961	mrps-16	\N	-	Probable 28S ribosomal protein S16%2C mitochondrial  	Ribosomal_S16
+WBGene00018963	ucr-1	\N	-	Cytochrome b-c1 complex subunit 1%2C mitochondrial	Non-canonical_RBP
+WBGene00018967	ddx-15	\N	-	Pre-mRNA-splicing factor ATP-dependent RNA helicase ddx-15  	HA2
+WBGene00018997	F57B9.3	\N	-	-	DEAD
+WBGene00018998	flap-1	\N	-	FLi1-Associated Protein homolog  	LRRFIP
+WBGene00019061	F58F12.1	\N	-	ATP synthase subunit delta%2C mitochondrial	Non-canonical_RBP
+WBGene00019082	pup-3	\N	-	Poly(U) Polymerase  	PAP_assoc
+WBGene00019162	eif-1.A	\N	-	Eukaryotic Initiation Factor  	eIF-1a
+WBGene00019168	H06I04.3	\N	-	Putative rRNA methyltransferase  	FtsJ
+WBGene00019198	strm-1	\N	-	Sterol 4-C-methyltransferase strm-1  	Methyltransf_31
+WBGene00019219	H20J04.4	\N	-	-	DEAD
+WBGene00019241	H24K24.4	\N	-	-	tRNA_U5-meth_tr
+WBGene00019245	sacy-1	\N	-	Suppressor of ACY-4 sterility  	DEAD
+WBGene00019246	rpb-5	\N	-	DNA-directed RNA polymerases I%2C II%2C and III subunit RPABC1  	RNA_pol_Rpb5_C
+WBGene00019249	H28G03.1	\N	-	-	RRM_1
+WBGene00019264	H35B03.2	\N	-	-	RNase_P_p30
+WBGene00019275	rpac-40	\N	-	RNA Polymerase I/III (A/C) shared subunit  	RNA_pol_A_bac
+WBGene00019295	pfkb-1.2	\N	-	6-phosphofructo-2-kinase/fructose-2%2C6-bisphosphatase 6-phosphofructo-2-kinase Fructose-2%2C6-bisphosphatase	Non-canonical_RBP
+WBGene00019299	snai-1	\N	snai-2	SNAIl family zinc finger 2 transcription factor homolog  	zf-C2H2
+WBGene00019317	K02E10.1	\N	-	-	MMR_HSR1
+WBGene00019322	ahcy-1	\N	ahh|dpy-14	Adenosylhomocysteinase	Non-canonical_RBP
+WBGene00019323	teg-4	\N	-	Tumorous Enhancer of Glp-1(Gf)  	CPSF_A
+WBGene00019334	K02F3.12	\N	-	Putative ATP-dependent DNA helicase Q1  	DEAD
+WBGene00019335	K02F6.1	\N	-	-	zf-CCHC
+WBGene00019347	mbl-1	\N	-	Muscleblind-like protein  	zf-CCCH
+WBGene00019394	K04F10.1	\N	-	-	AXH
+WBGene00019402	syf-2	\N	-	Pre-mRNA-splicing factor syf-2  	SYF2
+WBGene00019457	vms-1	\N	-		Non-canonical_RBP
+WBGene00019467	K07B1.7	\N	-	-	G-patch
+WBGene00019478	cri-2	\N	-	Putative metalloproteinase inhibitor tag-225	Non-canonical_RBP
+WBGene00019495	sdz-24	\N	-	SKN-1 Dependent Zygotic transcript  	tRNA_anti-codon
+WBGene00019498	K07E8.7	\N	-	Pseudouridine synthase  	PseudoU_synth_2
+WBGene00019509	K07H8.9	\N	-	-	KH_1
+WBGene00019510	K07H8.10	\N	-	-	RRM_1
+WBGene00019535	tsen-34	\N	-	Trna (tRNA) Splicing ENdonuclease subunit related  	tRNA_int_endo
+WBGene00019537	K08D12.3	\N	-	-	zf-CCHC
+WBGene00019543	cif-1	\N	csn-7,GN   eif-3.M	COP9/Signalosome and eIF3 complex-shared subunit 1	Non-canonical_RBP
+WBGene00019624	K10C9.3	\N	-	-	Ribonuclease_T2
+WBGene00019627	K10D2.1	\N	-	Protein HIRA homolog  	eIF2A
+WBGene00019628	pup-2	\N	-	Poly(U) Polymerase  	PAP_assoc
+WBGene00019629	cid-1	\N	-	Caffeine Induced Death (S. pombe Cid) homolog  	PAP_assoc
+WBGene00019666	sago-1	\N	-	Piwi-like protein  	Piwi
+WBGene00019675	K12D9.1	\N	-	-	Methyltransf_31
+WBGene00019678	K12H4.3	\N	-	Ribosome biogenesis protein BRX1 homolog  	Brix
+WBGene00019679	K12H4.4	\N	-	Probable signal peptidase complex subunit 3	Non-canonical_RBP
+WBGene00019692	M01A10.1	\N	-	-	KH_1
+WBGene00019698	riok-1	\N	-	Serine/threonine-protein kinase RIO1  	RIO1
+WBGene00019724	M02B7.2	\N	-	-	RNase_T
+WBGene00019762	M03F8.3	\N	-	-	HAT
+WBGene00019779	endu-2	\N	-	ENDonuclease%2C poly(U) specific  	XendoU
+WBGene00019800	mtss-1	\N	-	Single-stranded DNA-binding protein%2C mitochondrial	Non-canonical_RBP
+WBGene00019825	R02D3.8	\N	-	-	RNase_T
+WBGene00019838	R02F2.9	\N	-	-	RF-1
+WBGene00019862	nrde-3	\N	-	Nuclear RNAi defective-3 protein  	Piwi
+WBGene00019881	R05D3.8	\N	-	Putative RNA-binding protein R05D3.8  	RRM_1
+WBGene00019883	met-2	\N	-	Histone-lysine N-methyltransferase met-2  	MBD
+WBGene00019900	vdac-1	\N	-	Probable voltage-dependent anion-selective channel	Non-canonical_RBP
+WBGene00019947	htz-1	\N	-	Histone H2A.V	Non-canonical_RBP
+WBGene00019961	R08E5.1	\N	-	-	Methyltransf_31
+WBGene00019963	R08E5.3	\N	-	-	Methyltransf_31
+WBGene00019968	R08F11.4	\N	-	-	Methyltransf_31
+WBGene00019971	ergo-1	\N	-	Piwi-like protein ergo-1  	Piwi
+WBGene00020037	mrps-6	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosomal_S6
+WBGene00020068	cra-1	\N	-	N-terminal acetyltransferase B complex subunit NAA25 homolog	Non-canonical_RBP
+WBGene00020091	rnp-8	\N	-	RNP (RRM RNA binding domain) containing  	RRM_1
+WBGene00020097	larp-1	\N	-	La-related protein 1  	La
+WBGene00020112	pfd-5	\N	-	Probable prefoldin subunit 5	Non-canonical_RBP
+WBGene00020146	got-1.2	\N	-	Probable aspartate aminotransferase%2C cytoplasmic	Non-canonical_RBP
+WBGene00020172	thoc-1	\N	-	THO Complex (Transcription factor/nuclear export) subunit  	efThoc1
+WBGene00020185	pgk-1	\N	-	Probable phosphoglycerate kinase	Non-canonical_RBP
+WBGene00020189	tfbm-1	\N	-	Dimethyladenosine transferase 1%2C mitochondrial  	RrnaAD
+WBGene00020216	trap-2	\N	-	Translocon-associated protein subunit beta	Non-canonical_RBP
+WBGene00020263	let-355	\N	-	-	HA2
+WBGene00020269	erfa-1	\N	etf-1	Eukaryotic peptide chain release factor subunit 1  	eRF1_2
+WBGene00020284	mel-46	\N	-	MEL-46  	DEAD
+WBGene00020286	T06A10.3	\N	-	-	zf-U11-48K
+WBGene00020296	T07A9.8	\N	-	Ribosomal RNA-processing protein 8  	Methyltransf_8
+WBGene00020297	nog-1	\N	-	Nucleolar GTP-binding protein 1  	NOG1
+WBGene00020346	rbm-5	\N	-	RNA Binding Motif protein homolog  	G-patch
+WBGene00020348	mrpl-23	\N	-	Probable 39S ribosomal protein L23%2C mitochondrial  	Ribosomal_L23
+WBGene00020354	T08B6.5	\N	-	-	RRM_1
+WBGene00020366	acdh-10	\N	-	Probable medium-chain specific acyl-CoA dehydrogenase 10%2C mitochondrial	Non-canonical_RBP
+WBGene00020383	tin-44	\N	-	Probable mitochondrial import inner membrane translocase subunit tin-44	Non-canonical_RBP
+WBGene00020389	T10B5.3	\N	-	-	Utp12
+WBGene00020399	ztf-4	\N	-	Zinc finger putative Transcription Factor family  	RRM_1
+WBGene00020423	prp-19	\N	-	Pre-mRNA-processing factor 19  	Prp19
+WBGene00020437	stt-3	\N	-	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit stt-3	Non-canonical_RBP
+WBGene00020480	ssup-72	\N	-	SSU (Yeast Suppressor of SUa7) Protein homolog  	Ssu72
+WBGene00020498	T14B4.1	\N	-	-	SpoU_methylase
+WBGene00020499	T14B4.2	\N	-	-	Ribosomal_S18
+WBGene00020507	vha-15	\N	-	Probable V-type proton ATPase subunit H 2	Non-canonical_RBP
+WBGene00020549	nmt-1	\N	-	Probable glycylpeptide N-tetradecanoyltransferase	Non-canonical_RBP
+WBGene00020557	T19B4.3	\N	-	Adenine phosphoribosyltransferase	Non-canonical_RBP
+WBGene00020600	trd-1	\N	-	Tetratricopeptide repeat-containing protein trd-1  	PPR
+WBGene00020601	T20B12.3	\N	-	-	CBF
+WBGene00020604	T20B12.7	\N	-	Anamorsin homolog	Non-canonical_RBP
+WBGene00020625	mrrf-1	\N	-	Ribosome-recycling factor%2C mitochondrial  	RRF
+WBGene00020673	T22B7.4	\N	-	-	DUF1325
+WBGene00020705	T22H9.1	\N	-	-	RRP36
+WBGene00020707	wago-10	\N	-	Piwi-like protein  	Piwi
+WBGene00020717	mrpl-4	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L4
+WBGene00020718	mrps-2	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosomal_S2
+WBGene00020742	T23H2.3	\N	-	-	ResIII
+WBGene00020827	T26A8.4	\N	-	-	zf-CCCH
+WBGene00020831	T26C12.1	\N	-	Acetolactate synthase-like protein	Non-canonical_RBP
+WBGene00020868	eif-1	\N	-	Eukaryotic Initiation Factor  	SUI1
+WBGene00020902	jmjc-1	\N	-	Bifunctional lysine-specific demethylase and histidyl-hydroxylase NO66	Non-canonical_RBP
+WBGene00020915	nol-5	\N	-	NucleOLar protein  	Nop
+WBGene00020936	hrpf-1	\N	-	HnRNP F homolog  	RRM_1
+WBGene00020953	W02G9.3	\N	-	-	THUMP
+WBGene00020955	angl-1	\N	-	ANGeL-like deadenylase  	Exo_endo_phos
+WBGene00020964	polq-1	\N	-	DNA polymerase theta  	DEAD
+WBGene00020993	W03F8.3	\N	-	Probable peptide chain release factor 1%2C mitochondrial  	RF-1
+WBGene00021004	sftb-2	\N	-	Splicing Factor ThreeB (3b) Subunit homolog  	DUF382
+WBGene00021012	pig-1	\N	-	Maternal embryonic leucine zipper kinase  	RIO1
+WBGene00021063	sbds-1	\N	-	Ribosome maturation protein SBDS  	SBDS_C
+WBGene00021073	nol-1	\N	-	NucleOLar protein  	Methyltr_RsmB-F
+WBGene00021112	W09C3.4	\N	-	Probable DNA-directed RNA polymerase III subunit RPC6  	RNA_pol_Rpc34
+WBGene00021205	Y17G9B.8	\N	-	-	DUF1325
+WBGene00021276	Y23H5B.5	\N	-	-	UTP15_C
+WBGene00021277	Y23H5B.6	\N	-	RNA helicase  	DEAD
+WBGene00021287	Y24D9B.1	\N	-	-	RNase_Zc3h12a
+WBGene00021295	Y25C1A.8	\N	-	Zinc finger Ran-binding domain-containing protein 2  	zf-RanBP
+WBGene00021338	Y34F4.3	\N	-	-	PAP_assoc
+WBGene00021347	rpb-10	\N	-	DNA-directed RNA polymerases I%2C II%2C and III subunit RPABC5  	RNA_pol_N
+WBGene00021350	Y37E3.8	\N	-	-	Ribosomal_L27A
+WBGene00021351	eif-2alpha	\N	-	Eukaryotic Initiation Factor  	EIF_2_alpha
+WBGene00021365	smgl-2	\N	-	-	HA2
+WBGene00021374	Y37E11B.1	\N	-	-	zf-C2H2
+WBGene00021377	Y37E11B.5	\N	-	tRNA-dihydrouridine(47) synthase 	Dus
+WBGene00021391	smut-1	\N	-	Synthetic MUTator  	DEAD
+WBGene00021419	eri-5	\N	-	Enhanced RNAI (RNA interference)  	TUDOR
+WBGene00021466	eif-2gamma	\N	-	Eukaryotic Initiation Factor  	eIF2_C
+WBGene00021476	nsun-4	\N	-	Nop2 (NOP2)/SUN domain family member  	Methyltr_RsmB-F
+WBGene00021486	lbp-9	\N	-	Fatty acid-binding protein homolog 9	Non-canonical_RBP
+WBGene00021502	Y40D12A.1	\N	-	-	FtsJ
+WBGene00021595	Y46E12BL.2	\N	-	-	NUC173
+WBGene00021634	rde-10	\N	-	RNA interference defective protein 10  	Maelstrom
+WBGene00021638	Y47G6A.9	\N	-	-	RNA_pol_3_Rpc31
+WBGene00021655	Y48A5A.1	\N	-	Protein SHQ1 homolog  	SHQ1
+WBGene00021660	Y48G1A.4	\N	-	-	Nop14
+WBGene00021682	Y48G1C.9	\N	-	-	LSM
+WBGene00021686	Y48G8AL.5	\N	-	-	Methyltr_RsmB-F
+WBGene00021689	Y48G8AL.10	\N	-	-	zf-C2H2
+WBGene00021711	wago-11	\N	-	Piwi-like protein  	Piwi
+WBGene00021715	Y49F6B.2	\N	-	-	Fcf2
+WBGene00021748	Y50D4C.3	\N	-	-	SMN
+WBGene00021783	Y51H7C.5	\N	-	-	hmm_2OG-FeII_Oxy_2
+WBGene00021789	nol-6	\N	-	Nucleolar protein 6  	Nrap
+WBGene00021813	Y53G8AR.6	\N	-	-	SAP
+WBGene00021816	Y53G8AR.9	\N	-	-	zf-CCCH
+WBGene00021829	mrpl-17	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L17
+WBGene00021830	Y54E10A.10	\N	-	Ribosome production factor 2 homolog  	Brix
+WBGene00021841	Y54E10BR.2	\N	-	-	MMR_HSR1
+WBGene00021843	Y54E10BR.4	\N	-	-	NOB1_Zn_bind
+WBGene00021845	rpb-7	\N	-	RNA Polymerase II (B) subunit  	S1
+WBGene00021852	Y54F10AM.8	\N	-	Putative phospholipase B-like 3	Non-canonical_RBP
+WBGene00021857	iffb-1	\N	-	Eukaryotic translation initiation factor eIF5B%3B Initiation Factor Five B (eIF5B)  	GTP_EFTU
+WBGene00021899	Y54H5A.1	\N	-	-	eIF2A
+WBGene00021901	tag-262	\N	-	-	RRM_1
+WBGene00021905	helq-1	\N	-	HELicase Q homolog  	DEAD
+WBGene00021920	mrps-25	\N	-	Probable 28S ribosomal protein S25%2C mitochondrial  	L51_S25_CI-B8
+WBGene00021921	Y55F3AM.3	\N	-	-	RRM_1
+WBGene00021929	dcap-1	\N	-	mRNA DeCAPping enzyme  	DCP1
+WBGene00021935	mrpl-46	\N	-	Mitochondrial Ribosomal Protein%2C Large  	MRP-L46
+WBGene00021938	Y55F3BR.1	\N	-	-	DEAD
+WBGene00021998	Y59E9AR.2	\N	-	-	RNase_Zc3h12a
+WBGene00022003	Y59E9AR.8	\N	-	-	RNase_Zc3h12a
+WBGene00022019	sut-2	\N	-	Zinc finger CCCH domain-containing protein 14  	zf-CCCH_2
+WBGene00022021	Y61A9LA.10	\N	-	-	AARP2CN
+WBGene00022025	Y65B4A.1	\N	-	-	RRM_1
+WBGene00022029	Y65B4A.6	\N	-	-	DEAD
+WBGene00022045	mrpl-55	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Mitoc_L55
+WBGene00022046	Y66H1A.4	\N	-	Probable H/ACA ribonucleoprotein complex subunit 1-like protein  	Gar1
+WBGene00022054	Y67D2.4	\N	-	-	MMR_HSR1
+WBGene00022056	ddx-35	\N	-	Probable ATP-dependent RNA helicase DHX35 homolog  	HA2
+WBGene00022092	Y69A2AR.21	\N	-	-	cwf18
+WBGene00022101	Y69A2AR.32	\N	-	-	KH_1
+WBGene00022107	Y71F9AL.1	\N	-	-	UPF0020
+WBGene00022148	ddx-27	\N	-	DEAD boX helicase homolog  	DEAD
+WBGene00022177	Y71H2AM.12	\N	-	-	MMR_HSR1
+WBGene00022192	Y71H2B.2	\N	-	-	RNA_GG_bind
+WBGene00022232	exos-2	\N	-	EXOSome (Multiexonuclease complex) component  	ECR1_N
+WBGene00022235	sqd-1	\N	-	Homologous to Drosophila SQD (Squid) protein  	RRM_1
+WBGene00022250	Y73B6BL.29	\N	-	tRNA pseudouridine synthase  	PseudoU_synth_1
+WBGene00022253	hrpf-2	\N	-	HnRNP F homolog  	RRM_1
+WBGene00022257	puf-11	\N	-	PUF (Pumilio/FBF) domain-containing  	PUF
+WBGene00022301	cpsf-1	\N	-	Probable cleavage and polyadenylation specificity factor subunit 1  	CPSF_A
+WBGene00022360	Y92H12A.4	\N	-	-	Ints3
+WBGene00022373	mrpl-15	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L27A
+WBGene00022378	Y94H6A.5	\N	-	-	DEAD
+WBGene00022380	Y94H6A.8	\N	-	Probable NADH dehydrogenase	Non-canonical_RBP
+WBGene00022388	Y95B8A.8	\N	-	-	DZF
+WBGene00022400	rpb-9	\N	-	DNA-directed RNA polymerase subunit  	RNA_POL_M_15KD
+WBGene00022433	Y108F1.5	\N	-	-	HA2
+WBGene00022434	Y108G3AL.2	\N	-	-	PRP38
+WBGene00022458	prp-31	\N	-	Yeast PRP (Splicing factor) related  	Nop
+WBGene00022470	mrpl-19	\N	-	Probable 39S ribosomal protein L19%2C mitochondrial  	Ribosomal_L19
+WBGene00022489	Y119D3B.12	\N	-	-	LUC7
+WBGene00022491	Y119D3B.14	\N	-	Mitochondrial elongation factor G2  	GTP_EFTU
+WBGene00022493	mrpl-45	\N	-	Probable 39S ribosomal protein L45%2C mitochondrial	Non-canonical_RBP
+WBGene00022518	zfh-2	\N	-	Zinc Finger and Homeobox  	zf-C2H2
+WBGene00022583	mrps-18A	\N	-	Mitochondrial Ribosomal Protein%2C Small  	Ribosomal_S18
+WBGene00022587	ZC317.1	\N	-	-	DEAD
+WBGene00022599	ZC395.10	\N	-	Co-chaperone protein daf-41	Non-canonical_RBP
+WBGene00022620	rde-8	\N	-	-	RNase_Zc3h12a
+WBGene00022664	ZK121.2	\N	-	-	R3H
+WBGene00022678	sar-1	\N	-	GTP-binding protein SAR1  	MMR_HSR1
+WBGene00022698	ZK353.2	\N	-	-	DUF2650
+WBGene00022722	ZK370.8	\N	-	TPR repeat-containing protein ZK370.8	Non-canonical_RBP
+WBGene00022737	tofu-7	\N	-	Twenty One u-rna (21U-RNA) biogenesis Fouled Up  	KH_1
+WBGene00022738	ZK418.9	\N	-	-	KH_1
+WBGene00022739	toe-1	\N	-	HEAT repeat-containing protein 1 homolog  	U3snoRNP10
+WBGene00022742	ZK430.7	\N	-	-	Sof1
+WBGene00022765	ZK546.14	\N	-	-	SURF6
+WBGene00022771	ZK616.1	\N	-	-	RRM_1
+WBGene00022781	pmt-1	\N	-	Phosphoethanolamine MethylTransferase  	Methyltransf_31
+WBGene00022792	ZK686.2	\N	-	Putative ATP-dependent RNA helicase ZK686.2  	DEAD
+WBGene00022793	ZK686.3	\N	-	Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	Non-canonical_RBP
+WBGene00022794	snu-23	\N	-	Putative zinc finger matrin-type protein snu-23  	zf-C2H2_jaz
+WBGene00022795	ZK686.5	\N	-	Putative zinc finger protein ZK686.5  	zf-C2H2
+WBGene00022830	ZK973.1	\N	-	-	S1
+WBGene00022851	ZK1127.4	\N	-	Protein BCCIP homolog	Non-canonical_RBP
+WBGene00022852	ZK1127.5	\N	-	Probable RNA 3'-terminal phosphate cyclase-like protein  	RTC
+WBGene00022856	cth-2	\N	-	Putative cystathionine gamma-lyase 2	Non-canonical_RBP
+WBGene00022862	ZK1236.1	\N	-	Translation factor GUF1 homolog%2C mitochondrial  	GTP_EFTU
+WBGene00022877	wago-5	\N	-	Piwi-like protein  	Piwi
+WBGene00022883	ZK1248.15	\N	-	-	PIN_4
+WBGene00022888	rnh-1.1	\N	-	RNase H  	RNase_H
+WBGene00023067	rpl-41.1	\N	rpl-41.1 {ECO:0000313|EMBL:CEO43025.2,GN   ECO:0000313|WormBase:F54D7.6}	Ribosomal Protein%2C Large subunit  	Ribosomal_L41
+WBGene00023068	rpl-41.2	\N	rpl-41.1 {ECO:0000313|EMBL:CEO43025.2,GN   ECO:0000313|WormBase:F54D7.6}	Ribosomal Protein%2C Large subunit  	Ribosomal_L41
+WBGene00023422	mrpl-21	\N	-	Mitochondrial Ribosomal Protein%2C Large  	Ribosomal_L21p
+WBGene00023487	mrps-24	\N	-	28S ribosomal protein S24%2C mitochondrial  	MRP-S24
+WBGene00043995	F40F12.9	\N	-	-	zf-CCHC
+WBGene00044236	C17E4.11	\N	-	-	Methyltransf_31
+WBGene00044321	mrps-30	\N	-	Mitochondrial Ribosomal Protein%2C Small  	PDCD9
+WBGene00044326	tag-322	\N	-	-	DUF2465
+WBGene00044329	cpsf-4	\N	-	Cleavage and Polyadenylation Specificity Factor  	zf-CCCH
+WBGene00044477	F49F1.14	\N	-	-	DUF2650
+WBGene00044674	B0280.17	\N	-	-	KH_1
+WBGene00044720	metl-2	\N	-	MEthylTransferase Like  	Methyltransf_31
+WBGene00044756	F58F12.4	\N	-	-	DUF2650
+WBGene00044924	M106.7	\N	-	-	RNA_pol_Rpb4
+WBGene00045308	C37H5.14	\N	-	-	RAI1
+WBGene00045401	eol-1	\N	-	Enhanced Olfactory Learning  	RAI1
+WBGene00045483	oxy-5	\N	-	-	S36_mt
+WBGene00050885	Y94H6A.12	\N	-	-	PTH2
+WBGene00086546	cil-1	\N	-	Inositol polyphosphate 5-phosphatase  	Exo_endo_phos
+WBGene00138717	F52C12.6	\N	-	-	RIO1
+WBGene00185048	urm-1	\N	-	Ubiquitin-related modifier 1 homolog  	Urm1
+WBGene00185067	Y54G11A.17	\N	-	-	Ribosomal_L27
+WBGene00194707	C53A5.17	\N	-	tRNA (guanine(37)-N1)-methyltransferase  	Met_10
+WBGene00194733	Y41C4A.21	\N	-	-	DUF2650
+WBGene00194747	H05C05.4	\N	-	-	DUF2650
+WBGene00195093	Y59E9AL.36	\N	-	-	RRM_1
+WBGene00195239	ZK1127.13	\N	-	-	RNase_H2_suC
+WBGene00271694	T10E9.14	\N	-	-	KH_1

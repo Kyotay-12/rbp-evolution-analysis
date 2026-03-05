@@ -1,0 +1,7 @@
+species,n_rbps,neurons,mean_idr_pct,median_idr_pct,sd_idr_pct,mean_longest_idr_aa,mean_n_disordered_regions,mean_disordered_residues,high_idr_count,high_idr_pct
+Caenorhabditis_elegans,1403,302,15.31,10.2,15.19,45.9,2.9,71.1,195,13.9
+Drosophila_melanogaster,1607,100000,17.67,11.8,16.92,59.2,3.24,107.2,281,17.5
+Danio_rerio,1844,10000000,19.11,13.4,17.28,65.8,3.07,111.2,362,19.6
+Xenopus_tropicalis,1519,160000000,18.09,12.6,16.88,63.2,3.14,109.6,259,17.1
+Mus_musculus,2923,71000000,19.99,13.4,18.78,71.4,3.27,128.8,641,21.9
+Homo_sapiens,2926,86000000000,19.69,12.6,19.08,78.5,3.31,142.0,642,21.9
