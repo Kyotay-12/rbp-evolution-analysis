@@ -1,0 +1,9 @@
+metric,rho,p,sig
+5'UTR (proteome),0.371,0.4685,ns
+5'UTR (RBP),-0.029,0.9565,ns
+3'UTR (proteome),0.943,0.0048,**
+3'UTR (RBP),0.943,0.0048,**
+CDS (proteome),0.2,0.704,ns
+CDS (RBP),0.429,0.3965,ns
+mRNA (proteome),0.257,0.6228,ns
+mRNA (RBP),0.943,0.0048,**
