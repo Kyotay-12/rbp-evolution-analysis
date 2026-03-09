@@ -1,7 +1,0 @@
-species,common_name,RBP_count,Family_count,Neuron_count,Genome_size_Mb,Cell_type_diversity
-worm,C. elegans,1442,397,302,100,11
-fly,D. melanogaster,1633,419,200000,143,50
-zebrafish,D. rerio,2349,455,10000000,1412,80
-frog,X. tropicalis,1758,446,16000000,1450,60
-mouse,M. musculus,2995,472,71000000,2728,150
-human,H. sapiens,2961,469,86000000000,3099,400

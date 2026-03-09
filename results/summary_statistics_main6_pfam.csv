@@ -1,0 +1,7 @@
+species,common_name,sci_name,group,n_proteins,n_families,neurons,genome_mb,cell_types,data_source
+Caenorhabditis_elegans,worm,Caenorhabditis elegans,invertebrate,1442,397,302,100,60,EuRBPDB_Pfam_unified
+Drosophila_melanogaster,fly,Drosophila melanogaster,invertebrate,1633,419,200000,143,80,EuRBPDB_Pfam_unified
+Danio_rerio,zebrafish,Danio rerio,vertebrate,2349,455,10000000,1674,120,EuRBPDB_Pfam_unified
+Xenopus_tropicalis,frog,Xenopus tropicalis,vertebrate,1758,446,16000000,1510,100,EuRBPDB_Pfam_unified
+Mus_musculus,mouse,Mus musculus,vertebrate,2995,472,71000000,2700,180,EuRBPDB_Pfam_unified
+Homo_sapiens,human,Homo sapiens,vertebrate,2961,469,86000000000,3200,200,EuRBPDB_Pfam_unified
