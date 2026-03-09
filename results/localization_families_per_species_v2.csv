@@ -1,0 +1,7 @@
+species,common_name,neurons,n_localization_families
+Caenorhabditis_elegans,Worm,302,8
+Drosophila_melanogaster,Fly,200000,22
+Danio_rerio,Zebrafish,10000000,10
+Xenopus_tropicalis,Frog,16000000,6
+Mus_musculus,Mouse,71000000,37
+Homo_sapiens,Human,86000000000,40

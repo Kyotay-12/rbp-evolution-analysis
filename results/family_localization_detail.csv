@@ -1,0 +1,124 @@
+species,common_name,pfam_id,family,n_genes,go_terms
+Caenorhabditis_elegans,Worm,PF00035,dsrm,9,GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Caenorhabditis_elegans,Worm,PF00076,RRM_1,96,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Caenorhabditis_elegans,Worm,PF00270,DEAD,56,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Caenorhabditis_elegans,Worm,PF00271,Helicase_C,70,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Caenorhabditis_elegans,Worm,PF02136,NTF2,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Caenorhabditis_elegans,Worm,PF08389,Xpo1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Caenorhabditis_elegans,Worm,PF13965,SID-1_RNA_chan,4,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Caenorhabditis_elegans,Worm,PF25128,HRDE1_NRDE3_N,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF00004,AAA,3,GO:0007317:regulation of pole plasm oskar mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process
+Drosophila_melanogaster,Fly,PF00013,KH_1,14,GO:0051236:establishment of RNA localization
+Drosophila_melanogaster,Fly,PF00035,dsrm,11,GO:0045450:bicoid mRNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF00069,Pkinase,15,GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF00071,Ras,23,GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0006403:RNA localization; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization
+Drosophila_melanogaster,Fly,PF00076,RRM_1,123,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization; GO:0046595:establishment of pole plasm mRNA localization
+Drosophila_melanogaster,Fly,PF00225,Kinesin,3,GO:0051236:establishment of RNA localization
+Drosophila_melanogaster,Fly,PF00270,DEAD,50,GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization; GO:0051236:establishment of RNA localization
+Drosophila_melanogaster,Fly,PF00271,Helicase_C,67,GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization; GO:0051236:establishment of RNA localization
+Drosophila_melanogaster,Fly,PF00567,TUDOR,14,GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF00636,Ribonuclease_3,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF00641,Zn_ribbon_RanBP,8,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF01585,G-patch,15,GO:1904582:positive regulation of intracellular mRNA localization
+Drosophila_melanogaster,Fly,PF01612,DNA_pol_A_exo1,5,GO:0045450:bicoid mRNA localization
+Drosophila_melanogaster,Fly,PF01728,FtsJ,6,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF02136,NTF2,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF02170,PAZ,7,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:0007317:regulation of pole plasm oskar mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization
+Drosophila_melanogaster,Fly,PF02171,Piwi,5,GO:0006403:RNA localization; GO:0007317:regulation of pole plasm oskar mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization
+Drosophila_melanogaster,Fly,PF02854,MIF4G,8,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF08389,Xpo1,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Drosophila_melanogaster,Fly,PF12872,OST-HTH,4,GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization
+Drosophila_melanogaster,Fly,PF23278,Piwi_N,3,GO:0007317:regulation of pole plasm oskar mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0045451:pole plasm oskar mRNA localization; GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization
+Danio_rerio,Zebrafish,PF00013,KH_1,28,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF00076,RRM_1,200,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF00270,DEAD,67,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF00806,PUF,3,GO:0019094:pole plasm mRNA localization; GO:0060811:intracellular mRNA localization involved in anterior/posterior axis specification; GO:0060810:intracellular mRNA localization involved in pattern specification process; GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF02136,NTF2,6,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Danio_rerio,Zebrafish,PF05641,Agenet,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF12235,FXMRP1_C_core,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF16544,STAR_dimer,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF17904,KH_9,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Danio_rerio,Zebrafish,PF18336,Tudor_FRX1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Xenopus_tropicalis,Frog,PF00013,KH_1,23,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Xenopus_tropicalis,Frog,PF01652,IF4E,5,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Xenopus_tropicalis,Frog,PF02136,NTF2,4,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Xenopus_tropicalis,Frog,PF02854,MIF4G,10,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Xenopus_tropicalis,Frog,PF08389,Xpo1,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Xenopus_tropicalis,Frog,PF15440,THRAP3_BCLAF1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00012,HSP70,6,GO:0045047:protein targeting to ER
+Mus_musculus,Mouse,PF00013,KH_1,31,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Mus_musculus,Mouse,PF00035,dsrm,16,GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00076,RRM_1,215,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF00118,Cpn60_TCP1,6,GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00225,Kinesin,6,GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF00240,ubiquitin,12,GO:0045047:protein targeting to ER
+Mus_musculus,Mouse,PF00270,DEAD,71,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization
+Mus_musculus,Mouse,PF00271,Helicase_C,102,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:1904582:positive regulation of intracellular mRNA localization
+Mus_musculus,Mouse,PF00570,HRDC,3,GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00575,S1,8,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00638,Ran_BP1,3,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Mus_musculus,Mouse,PF00641,Zn_ribbon_RanBP,14,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00642,zf-CCCH,32,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0008298:intracellular mRNA localization; GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF00644,PARP,15,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF01472,PUA,3,GO:0006403:RNA localization
+Mus_musculus,Mouse,PF01509,TruB_N,3,GO:0006403:RNA localization
+Mus_musculus,Mouse,PF02037,SAP,18,GO:0006403:RNA localization
+Mus_musculus,Mouse,PF02136,NTF2,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF02881,SRP54_N,4,GO:0045047:protein targeting to ER
+Mus_musculus,Mouse,PF03810,IBN_N,16,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF03943,TAP_C,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF04408,WHD_HA2,16,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF05641,Agenet,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF07717,OB_NTP_bind,17,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF08389,Xpo1,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF09162,Tap-RNA_bind,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF12235,FXMRP1_C_core,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF12874,zf-met,24,GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression
+Mus_musculus,Mouse,PF13865,FoP_duplication,5,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF14709,DND1_DSRM,4,GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression; GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF17904,KH_9,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF18336,Tudor_FRX1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF21010,HA2_C,18,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Mus_musculus,Mouse,PF22602,NXF_NTF2,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF24048,LRR_NXF1-5,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Mus_musculus,Mouse,PF26026,RNA_hel_CTD,4,GO:1904580:regulation of intracellular mRNA localization; GO:1904582:positive regulation of intracellular mRNA localization; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF00013,KH_1,30,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:0008298:intracellular mRNA localization; GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression
+Homo_sapiens,Human,PF00035,dsrm,17,GO:0008298:intracellular mRNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00076,RRM_1,204,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00118,Cpn60_TCP1,9,GO:0006403:RNA localization
+Homo_sapiens,Human,PF00270,DEAD,71,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization; GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization
+Homo_sapiens,Human,PF00271,Helicase_C,103,GO:0006403:RNA localization; GO:0051236:establishment of RNA localization
+Homo_sapiens,Human,PF00454,PI3_PI4_kinase,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00575,S1,9,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00638,Ran_BP1,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00641,Zn_ribbon_RanBP,15,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00642,zf-CCCH,34,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0008298:intracellular mRNA localization; GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF00644,PARP,16,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF01472,PUA,3,GO:0006403:RNA localization
+Homo_sapiens,Human,PF02136,NTF2,5,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF02259,FAT,4,GO:0051236:establishment of RNA localization
+Homo_sapiens,Human,PF02260,FATC,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF02854,MIF4G,10,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF03810,IBN_N,16,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF03943,TAP_C,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF04408,WHD_HA2,16,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF05641,Agenet,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF07717,OB_NTP_bind,17,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF08389,Xpo1,6,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF09162,Tap-RNA_bind,5,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF10373,EST1_DNA_bind,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF10374,EST1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF11627,HnRNPA1_LC,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF12235,FXMRP1_C_core,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF12348,CLASP_N,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF12874,zf-met,30,GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression
+Homo_sapiens,Human,PF13638,PIN_4,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF13920,zf-C3HC4_3,10,GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression
+Homo_sapiens,Human,PF14709,DND1_DSRM,4,GO:0010609:mRNA localization resulting in post-transcriptional regulation of gene expression; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF17904,KH_9,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF18336,Tudor_FRX1,3,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF21010,HA2_C,18,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF22602,NXF_NTF2,5,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF22675,KH-I_KHDC4-BBP,4,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization; GO:0008298:intracellular mRNA localization
+Homo_sapiens,Human,PF24048,LRR_NXF1-5,5,GO:0051236:establishment of RNA localization; GO:0006403:RNA localization
+Homo_sapiens,Human,PF26026,RNA_hel_CTD,4,GO:1904582:positive regulation of intracellular mRNA localization; GO:1904580:regulation of intracellular mRNA localization; GO:0008298:intracellular mRNA localization
